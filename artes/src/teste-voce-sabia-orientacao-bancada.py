@@ -105,5 +105,5 @@ for l in linhas: d.text((ML+32,yy),l,font=RG(32),fill=LIMA_TX); yy+=44
 # rodapé
 d.text((ML,H-92),"Fonte: Dados Abertos da Câmara dos",font=MO(21),fill=TEXTO2)
 d.text((ML,H-64),"Deputados.",font=MO(21),fill=TEXTO2)
-d.text((MR,H-64),"app.legiscopio.com.br",font=MB(23),fill=VERDE,anchor="ra")
+d.text((MR,H-64),"legiscopio.com.br",font=MB(23),fill=VERDE,anchor="ra")
 img.save("teste-voce-sabia-orientacao-bancada.png")
