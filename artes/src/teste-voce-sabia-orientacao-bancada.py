@@ -47,8 +47,10 @@ def espacado(x,y,t,f,fill,esp,anchor_dir=False):
 
 # cabeçalho: logo + kicker
 AQUI=os.path.dirname(os.path.abspath(__file__))
-logo_p=os.path.join(AQUI,"..","assets","logo-legiscopio.png")
-if os.path.exists(logo_p):
+logo_p=next((c for c in [os.path.join(AQUI,"..","assets","logo-legiscopio.png"),
+                         os.path.join(AQUI,"..","logo-legiscopio.png")] if os.path.exists(c)),None)
+print("Logo:",logo_p)
+if logo_p:
     lg=Image.open(logo_p).convert("RGBA"); alt=105
     lg=lg.resize((round(lg.width*alt/lg.height),alt),Image.LANCZOS)
     img.paste(lg,(ML+5,68),lg)
