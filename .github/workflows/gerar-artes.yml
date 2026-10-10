@@ -1,0 +1,34 @@
+name: Gerar artes
+
+on:
+  push:
+    branches: [main]
+    paths: ['artes/src/**.py']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Instalar fontes e Pillow
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk fonts-dejavu-core
+          pip install pillow
+      - name: Renderizar artes
+        run: |
+          for f in artes/src/*.py; do
+            echo "Gerando $f"
+            python "$f"
+          done
+      - name: Commit dos PNGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add *.png
+          git diff --cached --quiet || git commit -m "Artes geradas automaticamente"
+          git push
