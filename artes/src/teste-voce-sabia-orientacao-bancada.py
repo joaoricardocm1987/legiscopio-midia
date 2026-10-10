@@ -1,11 +1,26 @@
 # Arte de teste — "Você sabia? Orientação de bancada" (1080x1350)
+import os
 from PIL import Image, ImageDraw, ImageFont
+
+def achar(*caminhos):
+    for c in caminhos:
+        if os.path.exists(c):
+            return c
+    raise FileNotFoundError("Nenhuma fonte encontrada entre: " + ", ".join(caminhos))
+
+NOTO = "/usr/share/fonts/opentype/noto/"
+F_BLACK = achar(NOTO+"NotoSansCJK-Black.ttc", NOTO+"NotoSansCJK-Bold.ttc",
+                "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf")
+F_REG = achar(NOTO+"NotoSansCJK-Regular.ttc", "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf")
+F_MONO = achar("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf")
+print("Fontes:", F_BLACK, F_REG, F_MONO)
+
 W,H=1080,1350
 VERDE="#05572F"; OLIVA="#8CA554"; OLIVA2="#5E7F22"; FUNDO="#F4F7F3"; TXT="#10291C"
 img=Image.new("RGB",(W,H),FUNDO); d=ImageDraw.Draw(img)
-B=lambda s:ImageFont.truetype("/usr/share/fonts/opentype/noto/NotoSansCJK-Black.ttc",s,index=0)
-R=lambda s:ImageFont.truetype("/usr/share/fonts/opentype/noto/NotoSansCJK-Regular.ttc",s,index=0)
-M=lambda s:ImageFont.truetype("/usr/share/fonts/truetype/dejavu/DejaVuSansMono.ttf",s)
+B=lambda s:ImageFont.truetype(F_BLACK,s,index=0)
+R=lambda s:ImageFont.truetype(F_REG,s,index=0)
+M=lambda s:ImageFont.truetype(F_MONO,s)
 def wrap(t,f,maxw):
     out=[];line=""
     for w in t.split():
