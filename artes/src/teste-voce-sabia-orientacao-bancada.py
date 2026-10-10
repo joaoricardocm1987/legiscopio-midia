@@ -1,3 +1,4 @@
+# Arte de teste — "Você sabia? Orientação de bancada" (1080x1350)
 from PIL import Image, ImageDraw, ImageFont
 W,H=1080,1350
 VERDE="#05572F"; OLIVA="#8CA554"; OLIVA2="#5E7F22"; FUNDO="#F4F7F3"; TXT="#10291C"
