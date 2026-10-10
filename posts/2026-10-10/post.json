@@ -1,0 +1,13 @@
+{
+  "rotulo": "Projetos na Câmara",
+  "titulo": "Quantos projetos de lei foram apresentados na Câmara em setembro?",
+  "destaque": "226 PLs",
+  "detalhe": "Entre 1º e 30 de setembro de 2026, 226 projetos de lei (PL) foram apresentados na Câmara. Cada um começa a tramitar pelas comissões.",
+  "fonte": "Fonte: Câmara dos Deputados · Dados Abertos, set/2026",
+  "legenda": "Em setembro de 2026, 226 projetos de lei (PL) foram apresentados na Câmara dos Deputados, segundo os Dados Abertos da Casa. O PL é o tipo de proposta usado para criar ou mudar leis ordinárias. Depois de apresentado, o projeto é distribuído às comissões temáticas, que analisam o texto antes de uma eventual votação. Se aprovado na Câmara, segue para o Senado e, depois, para sanção ou veto da Presidência da República. Muitos projetos ficam anos em tramitação ou são arquivados sem chegar ao Plenário.\n\nFonte: Câmara dos Deputados — https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2026-09-01&dataApresentacaoFim=2026-09-30\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\n#Legiscópio #CâmaraDosDeputados #ProjetoDeLei #Transparência #DadosAbertos",
+  "legenda_tiktok": "Em setembro de 2026, 226 projetos de lei (PL) foram apresentados na Câmara. Cada um passa pelas comissões antes de poder ir a votação. Fonte: Dados Abertos da Câmara. Acompanhe: legiscopio.com.br #Legiscópio #CâmaraDosDeputados #Transparência",
+  "fontes": [
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&dataApresentacaoInicio=2026-09-01&dataApresentacaoFim=2026-09-30&itens=50&ordem=ASC&ordenarPor=id",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-05&dataFim=2026-10-09"
+  ]
+}
