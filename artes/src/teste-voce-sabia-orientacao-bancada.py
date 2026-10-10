@@ -107,3 +107,5 @@ d.text((ML,H-92),"Fonte: Dados Abertos da Câmara dos",font=MO(21),fill=TEXTO2)
 d.text((ML,H-64),"Deputados.",font=MO(21),fill=TEXTO2)
 d.text((MR,H-64),"legiscopio.com.br",font=MB(23),fill=VERDE,anchor="ra")
 img.save("teste-voce-sabia-orientacao-bancada.png")
+# TikTok (contas Business) não aceita PNG: salva também em JPEG
+img.save("teste-voce-sabia-orientacao-bancada.jpg", quality=92, optimize=True)
