@@ -1,3 +1,4 @@
+# Artes de posts/2026-10-11 (paleta oficial)
 import subprocess
 import sys
 from pathlib import Path
