@@ -1,0 +1,13 @@
+{
+  "rotulo": "Entenda o Congresso",
+  "titulo": "Quantos votos uma lei complementar precisa para ser aprovada?",
+  "destaque": "257 e 41",
+  "detalhe": "Lei complementar exige maioria absoluta: 257 dos 513 deputados e 41 dos 81 senadores. Uma PEC exige 308 e 49, em dois turnos.",
+  "fonte": "Fonte: Senado Federal · Como são feitas as leis",
+  "legenda": "Nem toda lei precisa do mesmo número de votos no Congresso. A lei ordinária é aprovada pela maioria dos votos, desde que pelo menos metade dos parlamentares participe da votação. Já a lei complementar (PLP, Projeto de Lei Complementar) exige maioria absoluta: no mínimo 257 dos 513 deputados e 41 dos 81 senadores. A PEC (Proposta de Emenda à Constituição) exige três quintos dos membros, em dois turnos em cada Casa: 308 deputados e 49 senadores. Por isso, o tipo da proposta muda o placar necessário para aprovação.\n\nFonte: Senado Federal — https://www12.senado.leg.br/jovemsenador/home/paginas/como-sao-feitas-as-leis\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\n#Legiscópio #ProcessoLegislativo #CongressoNacional #Transparência",
+  "legenda_tiktok": "Lei complementar precisa de maioria absoluta: 257 dos 513 deputados e 41 dos 81 senadores. Uma PEC precisa de 308 deputados e 49 senadores, em dois turnos. Fonte: Senado Federal. legiscopio.com.br #Legiscópio #CongressoNacional #Transparência",
+  "fontes": [
+    "https://www12.senado.leg.br/jovemsenador/home/paginas/como-sao-feitas-as-leis",
+    "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-09-01&dataFim=2026-10-10"
+  ]
+}
