@@ -1,0 +1,14 @@
+{
+  "rotulo": "Entenda o Congresso",
+  "titulo": "Por quanto tempo vale uma medida provisória?",
+  "destaque": "60 + 60 dias",
+  "detalhe": "A MP vale por 60 dias, prorrogados uma vez por igual período. Se não for votada em 45 dias, entra em urgência e trava a pauta da Casa.",
+  "fonte": "Fonte: Congresso Nacional · Tramitação da MP",
+  "legenda": "A medida provisória (MP ou MPV) é uma norma com força de lei editada pelo Presidente da República em situações de relevância e urgência. Ela produz efeitos imediatos, mas precisa ser analisada pelo Congresso para virar lei. O prazo inicial de vigência é de 60 dias, prorrogado automaticamente por igual período se a votação não terminar nas duas Casas. Se não for apreciada em até 45 dias da publicação, a MP entra em regime de urgência e trava as demais votações da Casa onde está. Antes do Plenário, ela passa por uma comissão mista de 12 senadores e 12 deputados, e a Câmara vota primeiro.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/medidas-provisorias/entenda-a-tramitacao-da-medida-provisoria\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\n#Legiscópio #MedidaProvisória #CongressoNacional #ProcessoLegislativo #Transparência",
+  "legenda_tiktok": "Medida provisória (MP) vale como lei por 60 dias, prorrogáveis por mais 60. Sem votação em 45 dias, entra em urgência e trava a pauta. Fonte: Congresso Nacional. legiscopio.com.br #Legiscópio #MedidaProvisória #Transparência",
+  "fontes": [
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias/entenda-a-tramitacao-da-medida-provisoria",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-05&dataFim=2026-10-12&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-01&dataFim=2026-10-12"
+  ]
+}
