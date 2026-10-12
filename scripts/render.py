@@ -14,6 +14,8 @@ Campos do post.json:
   destaque    número ou fato curto em destaque (ex.: "346 a 46"), opcional
   detalhe     1 a 2 frases de contexto, opcional (vai num card branco)
   fonte       linha de fonte (ex.: "Fonte: Câmara dos Deputados · 03/09/2026")
+
+O rodapé sempre traz "Apoie: apoia.se/legiscopio" e "legiscopio.com.br".
 """
 import json
 import os
@@ -156,17 +158,23 @@ def layout(post, W, H, k):
         desenhar(y)
         y += h + g
 
-    # rodapé: fonte (até 2 linhas) + URL
+    # rodapé: fonte (até 2 linhas) à esquerda; apoio + URL à direita
     url = "legiscopio.com.br"
+    apoio = "apoia.se/legiscopio"
     fu = MB(23)
+    fa = MO(21)
+    larg_dir = max(d.textlength(url, font=fu), d.textlength("Apoie: " + apoio, font=fa))
     if post.get("fonte"):
         ff = MO(21)
-        maxw = MR - ML - d.textlength(url, font=fu) - 30
+        maxw = MR - ML - larg_dir - 30
         fl = wrap(d, post["fonte"], ff, maxw)[:2]
         yy = H - 64 - 28 * (len(fl) - 1)
         for linha in fl:
             d.text((ML, yy), linha, font=ff, fill=TEXTO2)
             yy += 28
+    x_ap = MR - d.textlength(apoio, font=fa)
+    d.text((x_ap, H - 94), apoio, font=fa, fill=OLIVA)
+    d.text((x_ap, H - 94), "Apoie: ", font=fa, fill=TEXTO2, anchor="ra")
     d.text((MR, H - 64), url, font=fu, fill=VERDE, anchor="ra")
     return img, cabe
 
