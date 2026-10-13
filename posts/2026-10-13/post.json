@@ -1,0 +1,14 @@
+{
+  "rotulo": "Entenda o Congresso",
+  "titulo": "O que acontece depois que o Congresso aprova um projeto de lei?",
+  "destaque": "15 dias úteis",
+  "detalhe": "O Presidente da República tem 15 dias úteis para sancionar ou vetar. Para derrubar um veto, são necessários 257 deputados e 41 senadores.",
+  "fonte": "Fonte: Congresso Nacional · Tramitação do veto",
+  "legenda": "Depois de aprovado pela Câmara e pelo Senado, o projeto de lei vai para o Presidente da República, que tem 15 dias úteis para sancionar (aprovar) ou vetar (rejeitar). Se não houver manifestação nesse prazo, o projeto é considerado sancionado — é a chamada sanção tácita. O veto pode ser total ou parcial; o parcial atinge artigos, parágrafos, incisos ou alíneas inteiros, nunca palavras soltas. O veto é analisado em sessão conjunta de deputados e senadores, com prazo de 30 dias corridos; depois disso, passa a travar as demais votações da sessão conjunta. Para derrubar um veto é preciso maioria absoluta: 257 votos de deputados e 41 de senadores, contados separadamente, em votação aberta e nominal.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/vetos/entenda-a-tramitacao-do-veto\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #CongressoNacional #ProcessoLegislativo #Veto #Transparência",
+  "legenda_tiktok": "Aprovado no Congresso, o projeto vai ao Presidente, que tem 15 dias úteis para sancionar ou vetar. Derrubar um veto exige 257 deputados e 41 senadores. Fonte: Congresso Nacional. Apoie: apoia.se/legiscopio #Legiscópio #CongressoNacional #Transparência",
+  "fontes": [
+    "https://www.congressonacional.leg.br/materias/vetos/entenda-a-tramitacao-do-veto",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-06&dataFim=2026-10-13&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-01&dataFim=2026-10-13"
+  ]
+}
