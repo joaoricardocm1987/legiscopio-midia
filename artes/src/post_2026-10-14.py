@@ -1,3 +1,4 @@
+# Artes de posts/2026-10-14 (feed, TikTok, story e reel)
 import subprocess
 import sys
 from pathlib import Path
