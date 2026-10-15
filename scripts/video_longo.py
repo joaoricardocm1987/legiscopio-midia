@@ -23,6 +23,7 @@ Tipos de visual:
   lista      {titulo, itens:[...]}             (itens aparecem ao longo da fala)
   etapas     {titulo, itens:[...], atual}      (linha do tempo; atual = índice)
   texto      {titulo, texto}
+  redes      {titulo?, itens?:[[rótulo, valor]], app?: true}  (redes sociais, site e app)
   fim        {}                                 (apoia.se, site, inscreva-se)
 
 Para testar sem internet: LEGIS_FAKE_TTS=1 gera um áudio sintético.
@@ -43,7 +44,7 @@ from PIL import Image, ImageDraw, ImageFont
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import mascote  # noqa: E402
 
-VERSAO = "1"
+VERSAO = "2"
 W, H, FPS = 1920, 1080, 24
 SR = 24000
 PAUSA = 0.45  # segundos de respiro entre cenas
@@ -201,10 +202,37 @@ def envelope(amostras, nquadros):
 
 # ------------------------------------------------------------------ legendas
 
+def _norm(w):
+    return "".join(ch for ch in w.lower() if ch.isalnum())
+
+
+def alinhar(palavras, texto):
+    """Troca as palavras do TTS (sem pontuação) pelas do texto original, mantendo os tempos."""
+    orig = texto.split()
+    out, j = [], 0
+    for t, w in palavras:
+        nw = _norm(w)
+        k = j
+        while k < len(orig) and k < j + 4 and not (_norm(orig[k]) and (_norm(orig[k]).startswith(nw) or nw.startswith(_norm(orig[k])))):
+            k += 1
+        if k < len(orig) and k < j + 4:
+            # inclui tokens pulados (ex.: "-") junto da palavra encontrada
+            out.append((t, " ".join(orig[j:k + 1])))
+            j = k + 1
+        else:
+            out.append((t, w))
+    if out and j < len(orig):
+        t, w = out[-1]
+        out[-1] = (t, w + " " + " ".join(orig[j:]))
+    return out
+
+
 def blocos_legenda(palavras, dur, texto):
     if not palavras:
         ws = texto.split()
         palavras = [(dur * k / max(1, len(ws)), w) for k, w in enumerate(ws)]
+    else:
+        palavras = alinhar(palavras, texto)
     blocos, atual, ini = [], [], None
     for t, w in palavras:
         if ini is None:
@@ -395,6 +423,26 @@ def desenhar_visual(img, v, p, t, dur):
             ff = BD(40) if k == atual else RG(38)
             for kk, l in enumerate(wrap(d, it, ff, min(passo * 0.95, 300) if n > 1 else 400)[:3]):
                 d.text((cx, cy + 80 + kk * 48), l, font=ff, fill=TEXTO if k <= atual else TEXTO2, anchor="mt")
+
+    elif tipo == "redes":
+        y = titulo_painel(d, v.get("titulo", "Siga o Legiscópio"))
+        itens = v.get("itens") or [["Instagram", "@legiscopio"], ["TikTok", "@legiscopio"], ["Site", "legiscopio.com.br"]]
+        for k, (rot, val) in enumerate(itens):
+            aa = suave(p * 2 - k * 0.35)
+            if aa <= 0:
+                continue
+            dx = int(40 * (1 - aa))
+            yy = y + k * 130
+            card(d, x0 + dx, yy, x1 - 200 + dx, yy + 106)
+            d.text((x0 + 50 + dx, yy + 53), rot, font=BD(40), fill=TEXTO2, anchor="lm")
+            d.text((x0 + 330 + dx, yy + 53), val, font=BK(56), fill=VERDE, anchor="lm")
+        if v.get("app", True):
+            yy = y + len(itens) * 130 + 20
+            aa = suave(p * 2 - len(itens) * 0.35)
+            if aa > 0:
+                d.rounded_rectangle([x0, yy, x1 - 200, yy + 150], radius=24, fill=VERDE)
+                d.text((x0 + 40, yy + 26), "App em fase de testes", font=BK(48), fill=LIMA)
+                d.text((x0 + 40, yy + 92), "Conheça pelo site · em breve no Android e iOS", font=RG(38), fill=LIMA_TX)
 
     elif tipo == "fim":
         f = BK(80)
