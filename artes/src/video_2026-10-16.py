@@ -1,3 +1,4 @@
+# Vídeo explicativo de 2026-10-16 (v2: redes sociais, site e app no final)
 import subprocess
 import sys
 from pathlib import Path
