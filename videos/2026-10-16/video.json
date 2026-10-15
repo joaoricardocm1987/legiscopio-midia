@@ -1,0 +1,313 @@
+{
+  "voz": "pt-BR-FranciscaNeural",
+  "velocidade": "-5%",
+  "thumb": {
+    "linha1": "Fim da escala 6x1",
+    "linha2": "O que muda pra você",
+    "destaque": "44h → 40h"
+  },
+  "cenas": [
+    {
+      "fala": "Olá! Eu sou a Lupa, do Legiscópio, e hoje a gente vai entender uma das mudanças mais importantes nas regras de trabalho dos últimos anos. Nesta quarta-feira, o Senado aprovou a PEC 221 de 2019, a proposta que acaba com a escala seis por um. Neste vídeo, você vai ver o que diz o texto, quando as mudanças começam a valer, quem fica de fora e quais são os próximos passos.",
+      "visual": {
+        "tipo": "capa",
+        "titulo": "O fim da escala 6x1",
+        "subtitulo": "O que diz a PEC 221/2019, aprovada pelo Senado em 14 de outubro de 2026"
+      }
+    },
+    {
+      "fala": "Primeiro, o placar. No Senado, a proposta teve setenta e cinco votos a favor e apenas um contra. E o mesmo resultado se repetiu no segundo turno, votado na mesma sessão.",
+      "visual": {
+        "tipo": "numero",
+        "titulo": "Placar no Senado",
+        "valor": "75 a 1",
+        "rotulo": "Mesmo resultado no 1º e no 2º turno, em 14/10/2026"
+      }
+    },
+    {
+      "fala": "Mas o que é, afinal, a escala seis por um? É quando a pessoa trabalha seis dias seguidos e tem só um dia de folga na semana. Esse modelo é comum no comércio, em serviços, em supermercados e em muitas outras atividades. Hoje, a Constituição permite uma jornada de até quarenta e quatro horas semanais, o que torna possível trabalhar seis dias na semana.",
+      "visual": {
+        "tipo": "texto",
+        "titulo": "O que é a escala 6x1",
+        "texto": "Seis dias seguidos de trabalho para um dia de folga. Hoje a Constituição permite até 44 horas semanais, o que viabiliza esse modelo."
+      }
+    },
+    {
+      "fala": "Um pouco de história: esse limite de quarenta e quatro horas está na Constituição desde 1988. Antes disso, o limite era de quarenta e oito horas por semana. Ou seja, esta é a primeira redução da jornada máxima prevista na Constituição em quase quarenta anos.",
+      "visual": {
+        "tipo": "etapas",
+        "titulo": "A jornada máxima ao longo do tempo",
+        "itens": [
+          "Antes de 1988: 48 horas",
+          "Constituição de 1988: 44 horas",
+          "PEC 221/2019: 40 horas"
+        ],
+        "atual": 2
+      }
+    },
+    {
+      "fala": "Agora, a mudança principal. Com a PEC, a jornada máxima cai de quarenta e quatro para quarenta horas por semana. O limite de oito horas por dia continua valendo.",
+      "visual": {
+        "tipo": "comparacao",
+        "titulo": "Jornada máxima semanal",
+        "antes": {
+          "valor": "44h",
+          "rotulo": "regra atual"
+        },
+        "depois": {
+          "valor": "40h",
+          "rotulo": "com a PEC 221/2019"
+        }
+      }
+    },
+    {
+      "fala": "Fazendo a conta: são quatro horas a menos por semana, uma redução de cerca de nove por cento na jornada máxima. Ao longo de um ano, isso dá algo perto de duzentas horas a menos de trabalho para quem cumpre a jornada máxima. Esse é um cálculo nosso, feito a partir dos números do texto.",
+      "visual": {
+        "tipo": "barras",
+        "titulo": "Horas por semana (jornada máxima)",
+        "itens": [
+          {
+            "rotulo": "Antes de 1988",
+            "valor": 48,
+            "texto": "48h"
+          },
+          {
+            "rotulo": "Hoje",
+            "valor": 44,
+            "texto": "44h"
+          },
+          {
+            "rotulo": "Com a PEC",
+            "valor": 40,
+            "texto": "40h"
+          }
+        ],
+        "nota": "4 horas a menos por semana ≈ 9% · cálculo do Legiscópio"
+      }
+    },
+    {
+      "fala": "O segundo ponto é o descanso. O texto garante dois dias de descanso remunerado por semana, sendo um deles, preferencialmente, no domingo. É isso que, na prática, acaba com a escala seis por um como regra geral e abre caminho para o modelo cinco por dois.",
+      "visual": {
+        "tipo": "comparacao",
+        "titulo": "Folgas por semana",
+        "antes": {
+          "valor": "1",
+          "rotulo": "escala 6x1"
+        },
+        "depois": {
+          "valor": "2",
+          "rotulo": "um deles, de preferência, no domingo"
+        }
+      }
+    },
+    {
+      "fala": "E o salário? A PEC proíbe a redução do salário por causa da nova jornada. Isso vale para os contratos que já estão em vigor e também para os pisos salariais das categorias.",
+      "visual": {
+        "tipo": "texto",
+        "titulo": "E o salário?",
+        "texto": "A PEC proíbe reduzir salários por causa da nova jornada, inclusive os pisos das categorias, nos contratos em vigor."
+      }
+    },
+    {
+      "fala": "Como isso fica na prática? Com o limite de oito horas por dia e quarenta horas por semana, o desenho mais comum passa a ser trabalhar de segunda a sexta, oito horas por dia, com sábado e domingo de folga. Mas o texto não obriga que as folgas sejam sempre no fim de semana. Setores que funcionam todos os dias, como comércio e serviços, podem organizar escalas diferentes, desde que cada trabalhador tenha dois dias de descanso na semana e, de preferência, um deles no domingo. E durante a transição, com quarenta e duas horas, acordos coletivos podem ajustar a duração de cada dia.",
+      "visual": {
+        "tipo": "lista",
+        "titulo": "Como pode ficar na prática",
+        "itens": [
+          "Exemplo: segunda a sexta, 8 horas por dia = 40 horas",
+          "Folgas não precisam ser sempre no fim de semana",
+          "Comércio e serviços podem montar escalas próprias",
+          "Regra: 2 dias de descanso, um de preferência no domingo"
+        ]
+      }
+    },
+    {
+      "fala": "A mudança não acontece de uma vez. Existe uma transição. Dois meses depois da promulgação, a jornada máxima cai para quarenta e duas horas e já passam a valer os dois dias de folga. Catorze meses depois da promulgação, chega ao limite final de quarenta horas. Durante a transição, acordos e convenções coletivas podem ajustar a duração diária para encaixar as quarenta e duas horas.",
+      "visual": {
+        "tipo": "etapas",
+        "titulo": "Quando começa a valer",
+        "itens": [
+          "Promulgação",
+          "Após 2 meses: 42h e 2 folgas",
+          "Após 14 meses: 40h"
+        ],
+        "atual": 0
+      }
+    },
+    {
+      "fala": "Agora, atenção às exceções, porque nem todo mundo entra na regra do mesmo jeito.",
+      "visual": {
+        "tipo": "texto",
+        "titulo": "Quem tem regras diferentes",
+        "texto": "A PEC traz exceções e regras próprias para alguns grupos. Veja quais são."
+      }
+    },
+    {
+      "fala": "Os servidores e empregados públicos ficam de fora da nova regra. Profissionais com diploma de ensino superior que ganham mais de duas vezes e meia o teto do INSS, o que hoje dá cerca de vinte e um mil reais por mês, podem ter outra jornada, por decisão do empregador ou por acordo coletivo. Trabalhadores terceirizados em contratos com a administração pública dependem de um aditivo no contrato, que tem prazo de até um ano. E escalas especiais, como a doze por trinta e seis e atividades essenciais, poderão ter regras próprias definidas em lei e em acordos coletivos.",
+      "visual": {
+        "tipo": "lista",
+        "titulo": "Exceções e regras próprias",
+        "itens": [
+          "Servidores e empregados públicos ficam fora da nova regra",
+          "Diploma superior e salário acima de 2,5 vezes o teto do INSS (cerca de R$ 21 mil): jornada pode ser diferente",
+          "Terceirizados com a administração pública: dependem de aditivo no contrato, em até 1 ano",
+          "Escalas como a 12x36 e atividades essenciais: regras próprias em lei e acordos coletivos"
+        ]
+      }
+    },
+    {
+      "fala": "E as pequenas empresas? A PEC determina que uma lei complementar defina regras de transição para microempreendedores individuais, microempresas e empresas de pequeno porte, com o objetivo de manter os níveis de emprego. Essa lei ainda vai precisar ser votada pelo Congresso.",
+      "visual": {
+        "tipo": "texto",
+        "titulo": "E as pequenas empresas?",
+        "texto": "Uma lei complementar ainda vai definir regras de transição para MEIs, microempresas e empresas de pequeno porte."
+      }
+    },
+    {
+      "fala": "Durante a tramitação, a proposta gerou debate. Quem defende a mudança argumenta que mais tempo de descanso melhora a saúde, a qualidade de vida e a convivência familiar dos trabalhadores. Já entidades e setores empresariais pediram mais tempo para avaliar os impactos, principalmente os custos para as empresas e os efeitos sobre o emprego, em especial nos negócios menores. Foi justamente para lidar com essa preocupação que o texto prevê a transição gradual e uma lei complementar específica para as pequenas empresas.",
+      "visual": {
+        "tipo": "comparacao",
+        "titulo": "Os principais argumentos",
+        "antes": {
+          "valor": "A favor",
+          "rotulo": "mais descanso, saúde e qualidade de vida"
+        },
+        "depois": {
+          "valor": "Cautela",
+          "rotulo": "custos para empresas e efeitos sobre o emprego"
+        }
+      }
+    },
+    {
+      "fala": "Vamos lembrar o caminho até aqui. Para mudar a Constituição, uma PEC precisa ser aprovada em dois turnos em cada Casa, com pelo menos três quintos dos votos. Isso significa trezentos e oito dos quinhentos e treze deputados, e quarenta e nove dos oitenta e um senadores.",
+      "visual": {
+        "tipo": "barras",
+        "titulo": "Votos mínimos para aprovar uma PEC",
+        "itens": [
+          {
+            "rotulo": "Câmara (de 513)",
+            "valor": 308,
+            "texto": "308"
+          },
+          {
+            "rotulo": "Senado (de 81)",
+            "valor": 49,
+            "texto": "49"
+          }
+        ],
+        "nota": "3/5 dos membros, em dois turnos em cada Casa"
+      }
+    },
+    {
+      "fala": "Na Câmara dos Deputados, a proposta foi aprovada em maio: quatrocentos e setenta e dois votos a vinte e dois no primeiro turno, e quatrocentos e sessenta e um a dezenove no segundo. Em setembro, a Comissão de Constituição e Justiça do Senado aprovou o texto sem mudanças. E agora, em outubro, o Plenário do Senado concluiu a votação.",
+      "visual": {
+        "tipo": "barras",
+        "titulo": "Votos a favor em cada votação",
+        "itens": [
+          {
+            "rotulo": "Câmara 1º turno",
+            "valor": 472,
+            "texto": "472 a 22"
+          },
+          {
+            "rotulo": "Câmara 2º turno",
+            "valor": 461,
+            "texto": "461 a 19"
+          },
+          {
+            "rotulo": "Senado 1º turno",
+            "valor": 75,
+            "texto": "75 a 1"
+          },
+          {
+            "rotulo": "Senado 2º turno",
+            "valor": 75,
+            "texto": "75 a 1"
+          }
+        ],
+        "nota": "Fontes: Agência Câmara e Agência Senado"
+      }
+    },
+    {
+      "fala": "Em proporção, a aprovação foi ampla nas duas Casas: cerca de noventa e cinco por cento dos votos na Câmara, no primeiro turno, e cerca de noventa e nove por cento no Senado.",
+      "visual": {
+        "tipo": "barras",
+        "titulo": "Percentual de votos a favor (1º turno)",
+        "itens": [
+          {
+            "rotulo": "Câmara",
+            "valor": 95.5,
+            "texto": "95,5%"
+          },
+          {
+            "rotulo": "Senado",
+            "valor": 98.7,
+            "texto": "98,7%"
+          }
+        ],
+        "nota": "Votos a favor sobre o total de votos sim e não · cálculo do Legiscópio"
+      }
+    },
+    {
+      "fala": "E agora, o que falta? Como o Senado aprovou o mesmo texto da Câmara, a proposta não volta para os deputados. O próximo passo é a promulgação, feita pelas Mesas da Câmara e do Senado, em sessão do Congresso. Por ser uma emenda à Constituição, não há sanção nem veto do presidente da República. A partir da data da promulgação é que começam a contar os prazos de dois e de catorze meses.",
+      "visual": {
+        "tipo": "etapas",
+        "titulo": "Onde a PEC está agora",
+        "itens": [
+          "Câmara: aprovada (maio)",
+          "CCJ do Senado (setembro)",
+          "Plenário do Senado (outubro)",
+          "Promulgação"
+        ],
+        "atual": 2
+      }
+    },
+    {
+      "fala": "Agora, respostas rápidas para as dúvidas mais comuns. A mudança já vale a partir de hoje? Não. Os prazos só começam a contar depois da promulgação. Meu salário pode diminuir por causa da nova jornada? Não, o texto proíbe essa redução. Vale para servidor público? Não, servidores e empregados públicos ficam de fora. E quem trabalha em escala doze por trinta e seis? Essas escalas especiais poderão ter regras próprias, definidas em lei e em acordos coletivos.",
+      "visual": {
+        "tipo": "lista",
+        "titulo": "Dúvidas comuns",
+        "itens": [
+          "Já vale hoje? Não: os prazos contam a partir da promulgação",
+          "O salário pode cair? Não: o texto proíbe a redução",
+          "Vale para servidor público? Não: fica fora da regra",
+          "E a escala 12x36? Pode ter regras próprias em lei e acordos"
+        ]
+      }
+    },
+    {
+      "fala": "Resumindo: jornada máxima de quarenta horas semanais, dois dias de descanso por semana, sem redução de salário, com transição de dois e de catorze meses, e regras próprias para alguns grupos e para as pequenas empresas.",
+      "visual": {
+        "tipo": "lista",
+        "titulo": "Resumo",
+        "itens": [
+          "Jornada máxima: de 44h para 40h semanais",
+          "Dois dias de descanso remunerado por semana",
+          "Sem redução de salário",
+          "42h após 2 meses e 40h após 14 meses da promulgação",
+          "Exceções e regras para pequenas empresas"
+        ]
+      }
+    },
+    {
+      "fala": "As fontes deste vídeo são a Agência Senado e a Agência Câmara, e os links estão na descrição. Se este conteúdo te ajudou, se inscreva no canal e compartilhe com quem trabalha na escala seis por um. O Legiscópio é um projeto independente e gratuito, e você pode apoiar em apoia ponto se barra legiscopio. Até amanhã!",
+      "visual": {
+        "tipo": "fim"
+      }
+    }
+  ],
+  "youtube": {
+    "titulo": "Fim da escala 6x1: o que muda com a PEC aprovada pelo Senado (44h → 40h)",
+    "descricao": "O Senado aprovou em 14/10/2026, por 75 votos a 1 nos dois turnos, a PEC 221/2019, que acaba com a escala 6x1. Neste vídeo: o que muda (jornada máxima de 40 horas e dois dias de descanso por semana), quando começa a valer, quem fica de fora e os próximos passos.\n\nFontes:\nAgência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/14/senado-aprova-fim-da-6x1-em-primeiro-turno\nAgência Senado (CCJ) — https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario\nAgência Câmara — https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais\n\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Escala6x1",
+    "tags": [
+      "Legiscópio",
+      "escala 6x1",
+      "PEC 221/2019",
+      "jornada de trabalho",
+      "Senado",
+      "Câmara dos Deputados",
+      "Congresso Nacional",
+      "política brasileira"
+    ]
+  }
+}
