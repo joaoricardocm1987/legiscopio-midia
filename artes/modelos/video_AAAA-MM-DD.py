@@ -1,0 +1,16 @@
+# Vídeos de AAAA-MM-DD: explicativo longo + Short de 1 min (resumo do vídeo longo)
+# MODELO: copie para artes/src/video_<data>.py trocando AAAA-MM-DD pela data.
+import subprocess
+import sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parents[2]
+VIDEO = ROOT / "videos" / "AAAA-MM-DD" / "video.json"
+
+sys.path.insert(0, str(ROOT / "scripts"))
+import video_longo  # noqa: E402
+import short_video  # noqa: E402
+
+video_longo.gerar(VIDEO)
+short_video.gerar(VIDEO)
+subprocess.run(["git", "add", str(VIDEO.parent)], check=True, cwd=ROOT)
