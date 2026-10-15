@@ -1,10 +1,11 @@
 """YouTube Short diário do Legiscópio (1080x1920, ~1 min): resumo do vídeo longo.
 
-Lê videos/<data>/video.json, seção "short", e gera na mesma pasta:
+Lê videos/<data>/short.json (voz e velocidade vêm do video.json da mesma pasta) e gera:
   short.mp4   vídeo vertical com narração, mascote Lupa, visuais e legendas
+Fica num arquivo separado para não forçar a regeração do vídeo longo.
 
-Formato (dentro do video.json):
-"short": {
+Formato do short.json:
+{
   "cenas": [ {"fala": "...", "visual": {...}}, ... ],   (5 a 7 cenas, ~140 palavras no total)
   "youtube": {"titulo": "...", "descricao": "...", "tags": [...]}
 }
@@ -141,9 +142,10 @@ def gerar(caminho_json):
     p = Path(caminho_json)
     pasta = p.parent
     cfg = json.loads(p.read_text(encoding="utf-8"))
-    sh = cfg.get("short")
+    arq = pasta / "short.json"
+    sh = json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else cfg.get("short")
     if not sh or not sh.get("cenas"):
-        print("sem seção 'short' em", p)
+        print("sem short.json em", pasta)
         return
     bruto = json.dumps({"voz": cfg.get("voz"), "velocidade": cfg.get("velocidade"), "short": sh},
                        sort_keys=True, ensure_ascii=False).encode()
