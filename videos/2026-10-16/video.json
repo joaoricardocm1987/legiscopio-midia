@@ -290,6 +290,28 @@
       }
     },
     {
+      "fala": "Antes de ir, siga o Legiscópio nas redes sociais. No Instagram e no TikTok, a gente é arroba legiscopio. E o nosso site é legiscopio ponto com ponto br. E tem novidade: o aplicativo do Legiscópio está em fase de testes. Enquanto ele não chega às lojas do Android e do iOS, você já pode conhecê-lo pelo nosso site.",
+      "visual": {
+        "tipo": "redes",
+        "titulo": "Siga o Legiscópio",
+        "itens": [
+          [
+            "Instagram",
+            "@legiscopio"
+          ],
+          [
+            "TikTok",
+            "@legiscopio"
+          ],
+          [
+            "Site",
+            "legiscopio.com.br"
+          ]
+        ],
+        "app": true
+      }
+    },
+    {
       "fala": "As fontes deste vídeo são a Agência Senado e a Agência Câmara, e os links estão na descrição. Se este conteúdo te ajudou, se inscreva no canal e compartilhe com quem trabalha na escala seis por um. O Legiscópio é um projeto independente e gratuito, e você pode apoiar em apoia ponto se barra legiscopio. Até amanhã!",
       "visual": {
         "tipo": "fim"
@@ -298,7 +320,7 @@
   ],
   "youtube": {
     "titulo": "Fim da escala 6x1: o que muda com a PEC aprovada pelo Senado (44h → 40h)",
-    "descricao": "O Senado aprovou em 14/10/2026, por 75 votos a 1 nos dois turnos, a PEC 221/2019, que acaba com a escala 6x1. Neste vídeo: o que muda (jornada máxima de 40 horas e dois dias de descanso por semana), quando começa a valer, quem fica de fora e os próximos passos.\n\nFontes:\nAgência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/14/senado-aprova-fim-da-6x1-em-primeiro-turno\nAgência Senado (CCJ) — https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario\nAgência Câmara — https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais\n\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Escala6x1",
+    "descricao": "O Senado aprovou em 14/10/2026, por 75 votos a 1 nos dois turnos, a PEC 221/2019, que acaba com a escala 6x1. Neste vídeo: o que muda (jornada máxima de 40 horas e dois dias de descanso por semana), quando começa a valer, quem fica de fora e os próximos passos.\n\nFontes:\nAgência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/14/senado-aprova-fim-da-6x1-em-primeiro-turno\nAgência Senado (CCJ) — https://www12.senado.leg.br/noticias/materias/2026/09/02/aguardar-fim-da-escala-6x1-passa-na-ccj-e-vai-a-plenario\nAgência Câmara — https://www.camara.leg.br/noticias/1277141-camara-aprova-em-dois-turnos-fim-da-escala-6x1-com-jornada-maxima-de-40-horas-semanais\n\nAcompanhe no Legiscópio: legiscopio.com.br\nInstagram: @legiscopio · TikTok: @legiscopio\nApp do Legiscópio em fase de testes: conheça pelo site (em breve no Android e iOS)\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Escala6x1",
     "tags": [
       "Legiscópio",
       "escala 6x1",
