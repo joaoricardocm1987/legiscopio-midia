@@ -1,7 +1,7 @@
 """YouTube Short diário do Legiscópio (1080x1920, ~1 min): resumo do vídeo longo.
 
 Lê videos/<data>/short.json (voz e velocidade vêm do video.json da mesma pasta) e gera:
-  short.mp4   vídeo vertical com narração, mascote Lupa, visuais e legendas
+  short.mp4   vídeo vertical com narração, Lupa 2.0, visuais e legendas
 Fica num arquivo separado para não forçar a regeração do vídeo longo.
 
 Formato do short.json:
@@ -14,7 +14,6 @@ e mais "cta" {titulo?, subtitulo?} — chamada para o vídeo completo no canal (
 """
 import hashlib
 import json
-import math
 import os
 import shutil
 import subprocess
@@ -26,16 +25,16 @@ from pathlib import Path
 from PIL import Image, ImageChops, ImageDraw
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import mascote  # noqa: E402
+import personagem  # noqa: E402  (Lupa 2.0)
 import video_longo as vl  # noqa: E402
 
-VERSAO = "1"
+VERSAO = "2"
 W, H, FPS = 1080, 1920, vl.FPS
 SR = vl.SR
 PAUSA = 0.3
 PAINEL = (70, 300, 1010, 1020)
-MASC = 340
-MASC_POS = (W // 2 - MASC // 2, 1290)
+MASC = 680  # altura da Lupa 2.0 (corpo inteiro)
+MASC_Y = 1270
 LEG_Y = 1060  # topo da faixa de legenda (acima da área coberta pelos botões do Shorts)
 
 
@@ -58,7 +57,8 @@ def fundo_base():
         img.paste(lg, (70, 110), lg)
     d.rounded_rectangle([70, 215, 470, 265], radius=14, fill=vl.VERDE)
     d.text((270, 240), "RESUMO EM 1 MINUTO", font=vl.MO(24), fill=vl.LIMA, anchor="mm")
-    d.text((W // 2, H - 70), "legiscopio.com.br · apoia.se/legiscopio", font=vl.MO(26), fill=vl.TEXTO2, anchor="ms")
+    d.text((W - 70, 160), "legiscopio.com.br", font=vl.MO(26), fill=vl.TEXTO2, anchor="rs")
+    d.text((W - 70, 200), "apoia.se/legiscopio", font=vl.MO(26), fill=vl.TEXTO2, anchor="rs")
     return img
 
 
@@ -116,7 +116,7 @@ def legenda_img(texto):
     f = vl.BD(54)
     tmp = Image.new("RGBA", (W, 320), (0, 0, 0, 0))
     d = ImageDraw.Draw(tmp)
-    linhas = vl.wrap(d, texto, f, W - 200)[:3]
+    linhas = vl.wrap(d, texto, f, W - 200)[:2]
     hh = len(linhas) * 70 + 40
     larg = max(d.textlength(l, font=f) for l in linhas) + 80
     x0 = (W - larg) / 2
@@ -128,7 +128,7 @@ def legenda_img(texto):
 
 def blocos(palavras, dur, texto):
     bl = vl.blocos_legenda(palavras, dur, texto)
-    # junta blocos curtos para legendas de até ~3 linhas no vertical
+    # junta blocos curtos para legendas de até 2 linhas no vertical
     out = []
     for ini, txt, fim in bl:
         if out and len(out[-1][1]) + len(txt) < 60 and not out[-1][1].endswith((".", "?", "!")):
@@ -155,6 +155,9 @@ def gerar(caminho_json):
     destino = pasta / "short.mp4"
     if marca.exists() and marca.read_text().strip() == assinatura and destino.exists():
         print("short sem mudanças", pasta)
+        return
+    if destino.exists() and vl.ja_passou(pasta.name):
+        print("short de data passada já existe; não regera", pasta)
         return
     voz = cfg.get("voz", "pt-BR-FranciscaNeural")
     taxa = cfg.get("velocidade", "+0%")
@@ -204,14 +207,17 @@ def gerar(caminho_json):
             quadro = cache_vis.copy()
 
             nivel = env[q] if q < len(env) else 0
-            boca = "fechada" if nivel < 0.18 else ("meia" if nivel < 0.5 else "aberta")
-            if i == len(cenas) - 1 and nivel < 0.18:
-                boca = "sorriso"
+            if tipo == "cta":
+                nome, boca, olhos = vl.pose_da_cena({"tipo": "redes"}, t, i, len(cenas), nivel)
+            else:
+                nome, boca, olhos = vl.pose_da_cena(v, t, i, len(cenas), nivel)
+            if nome == "apontando":
+                nome = "explicando"  # no vertical o conteúdo fica acima; mãos abertas funcionam melhor
             ciclo = (qg + i * 17) % (FPS * 4)
-            olhos = "fechados" if ciclo < 3 else ("surpresos" if tipo == "numero" and t < 1.5 else "abertos")
-            sp = mascote.sprite(boca, olhos, MASC)
-            bob = int(6 * math.sin(qg / FPS * 2.2))
-            quadro.paste(sp, (MASC_POS[0], MASC_POS[1] + bob), sp)
+            if ciclo < 3 and olhos == "abertos":
+                olhos = "fechados"
+            sp = personagem.pose(nome, boca, olhos, MASC, qg / FPS, 0)
+            quadro.paste(sp, ((W - sp.width) // 2, MASC_Y), sp)
 
             atual = next((txt for ini, txt, fim in legs if ini <= t < fim), "")
             if atual != chave_leg:
