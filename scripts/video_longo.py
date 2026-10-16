@@ -26,6 +26,10 @@ Tipos de visual:
   redes      {titulo?, itens?:[[rótulo, valor]], app?: true}  (redes sociais, site e app)
   fim        {}                                 (apoia.se, site, inscreva-se)
 
+Chamada do meio: por padrão, no meio do vídeo a Lupa pede like, inscrição e sininho
+sem trocar a tela (o visual anterior fica parado e aparece a barra animada).
+Opcional no video.json: "cta_meio": false (desliga) ou "cta_meio_fala": "texto próprio".
+
 A pose da Lupa é escolhida automaticamente pelo tipo de cena (pose_da_cena).
 Vídeos de datas passadas que já existem não são regerados quando o código muda.
 Para testar sem internet: LEGIS_FAKE_TTS=1 gera um áudio sintético.
@@ -44,9 +48,10 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
+import cta_meio  # noqa: E402  (like, inscrever-se e sininho no meio do vídeo)
 import personagem  # noqa: E402  (Lupa 2.0, corpo inteiro)
 
-VERSAO = "3"
+VERSAO = "4"
 W, H, FPS = 1920, 1080, 24
 SR = 24000
 PAUSA = 0.45  # segundos de respiro entre cenas
@@ -609,6 +614,27 @@ def gerar(caminho_json):
         cenas.append(dict(c, amostras=amostras, palavras=palavras, dur=dur + PAUSA))
         print(f"cena {i + 1}/{len(cfg['cenas'])}: {dur:.1f}s")
 
+    # chamada do meio (like, inscrever-se, sininho): entra na divisa de cenas mais perto da metade
+    if cfg.get("cta_meio", True) and len(cenas) >= 4:
+        total = sum(c["dur"] for c in cenas)
+        acum, melhor, dist = 0.0, None, None
+        for k, c in enumerate(cenas[:-1]):
+            acum += c["dur"]
+            prox = cenas[k + 1].get("visual", {}).get("tipo")
+            if k == 0 or c.get("visual", {}).get("tipo") in ("redes", "fim") or prox in ("redes", "fim"):
+                continue
+            if dist is None or abs(acum - total / 2) < dist:
+                melhor, dist = k + 1, abs(acum - total / 2)
+        if melhor:
+            fala = cfg.get("cta_meio_fala") or cta_meio.FALA_PADRAO
+            amostras, palavras = tts(fala, voz, taxa, tmp, 99)
+            dur = len(amostras) / 2 / SR
+            ant = cenas[melhor - 1]
+            cenas.insert(melhor, dict(fala=fala, visual=ant.get("visual", {}), _cta=True, _ant_dur=ant["dur"],
+                                      amostras=amostras, palavras=palavras, dur=dur + PAUSA,
+                                      _mk=cta_meio.marcos(palavras, dur)))
+            print(f"chamada do meio (like/inscrição/sino) antes da cena {melhor + 1}: {dur:.1f}s")
+
     silencio = bytes(int(PAUSA * SR) * 2)
     audio_total = b"".join(c["amostras"] + silencio for c in cenas)
     wav_total = tmp / "narracao.wav"
@@ -638,13 +664,18 @@ def gerar(caminho_json):
             srt.append(f"{n_srt}\n{srt_tempo(t_glob + ini)} --> {srt_tempo(t_glob + fim)}\n{txt}\n")
             n_srt += 1
         cache_vis, chave_vis = None, None
-        dy = deslocamento(c.get("visual", {}), dur)
+        cta = c.get("_cta", False)
+        dy = deslocamento(c.get("visual", {}), c["_ant_dur"] if cta else dur)
         cache_leg, chave_leg = None, None
         for q in range(nq):
             t = q / FPS
             pent = min(1.0, t / 0.7)
             v = c.get("visual", {})
-            if v.get("tipo") == "lista":
+            if cta:  # tela parada no estado final da cena anterior
+                if cache_vis is None:
+                    cache_vis = visual_em(base, v, 1.0, c["_ant_dur"], c["_ant_dur"], dy)
+                chave = chave_vis = "cta"
+            elif v.get("tipo") == "lista":
                 chave = (round(pent, 2), int(t * 8))
             elif v.get("tipo") == "comparacao":
                 chave = round(min(1.0, t / 1.4), 2)
@@ -662,9 +693,23 @@ def gerar(caminho_json):
                 chave_vis = chave
             quadro = cache_vis.copy()
 
+            # barra da chamada do meio (entra de baixo e sai no final)
+            if cta:
+                bar = cta_meio.barra(t, c["_mk"], fonte_bd=BD(88), fonte_bk=BK(84))
+                ent = suave(t / 0.4) * suave((dur - PAUSA - t + 0.2) / 0.4)
+                by = int(660 + 80 * (1 - ent))
+                if ent > 0.02:
+                    if ent < 0.98:
+                        bar = bar.copy()
+                        bar.putalpha(bar.getchannel("A").point(lambda x: int(x * ent)))
+                    quadro.paste(bar, (130, by), bar)
+
             # Lupa 2.0 (virada para o conteúdo, à esquerda)
             nivel = env[q] if q < len(env) else 0
-            nome, boca, olhos = pose_da_cena(v, t, i, len(cenas), nivel)
+            if cta:
+                nome, boca, olhos = pose_da_cena({"tipo": "redes"}, t, i, len(cenas), nivel)
+            else:
+                nome, boca, olhos = pose_da_cena(v, t, i, len(cenas), nivel)
             ciclo = (quadro_glob + i * 17) % (FPS * 4)
             if ciclo < 3 and olhos == "abertos":
                 olhos = "fechados"
