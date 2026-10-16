@@ -1,0 +1,31 @@
+{
+  "rotulo": "Aprovado no Congresso",
+  "titulo": "Teto do MEI sobe para R$ 140 mil e dívidas serão perdoadas",
+  "destaque": "R$ 140 mil",
+  "detalhe": "PLP 186/2026: teto de R$ 110 mil em 2027 e R$ 140 mil em 2028 (hoje R$ 81 mil). Aprovado por 461 a 4 na Câmara e 78 a 0 no Senado.",
+  "fonte": "Fonte: Agência Senado e Câmara · votações de 14 e 15/10",
+  "legenda": "O Congresso aprovou o projeto que aumenta o teto de faturamento do MEI (microempreendedor individual) e perdoa dívidas do MEI com a União. A Câmara aprovou o PLP 186/2026 na quarta (14), por 461 a 4. O Senado aprovou na quinta (15), por 78 a 0. O texto vai à sanção presidencial.\n\nO que muda:\n• Teto de faturamento anual: de R$ 81 mil para R$ 110 mil em 2027 e R$ 140 mil em 2028.\n• O MEI poderá contratar até 2 empregados (hoje é 1), pagando o salário mínimo ou o piso da categoria.\n• Perdão das dívidas do MEI com a União constituídas até 13/10/2026, desde que o MEI pague em dia as contribuições dos 6 meses seguintes à lei e desista de ações na Justiça sobre esses débitos.\n\nSegundo o governo, cerca de 3,6 milhões de MEIs têm R$ 12,57 bilhões em dívidas inscritas na Dívida Ativa. Quem defende diz que o teto está sem correção há anos e que boa parte dessas dívidas dificilmente seria cobrada. Críticos apontam o custo fiscal e o risco de estimular a inadimplência.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas | Câmara dos Deputados — https://www.camara.leg.br/noticias/1311288-camara-aprova-novo-limite-de-enquadramento-para-microempreendedor-individual-e-inclui-perdao-de-dividas\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #Economia #MEI",
+  "legenda_tiktok": "Teto do MEI sobe de R$ 81 mil para R$ 110 mil (2027) e R$ 140 mil (2028), com até 2 empregados e perdão de dívidas com a União. PLP 186/2026 aprovado por 461 a 4 na Câmara e 78 a 0 no Senado. Vai à sanção. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #MEI",
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/materias/2026/10/15/senado-aprova-aumento-do-teto-para-mei-e-perdao-de-dividas",
+    "https://www.camara.leg.br/noticias/1311288-camara-aprova-novo-limite-de-enquadramento-para-microempreendedor-individual-e-inclui-perdao-de-dividas",
+    "https://www.camara.leg.br/noticias/1311274-relator-defende-perdao-a-dividas-de-microempreendedores-individuais",
+    "https://www.camara.leg.br/noticias/1286510-projeto-do-governo-aumenta-teto-da-receita-de-mei-para-ate-r-140-mil-em-2028/",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-14&dataFim=2026-10-15&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://www12.senado.leg.br/tv/programas/noticias-1/2026/10/senado-aprova-projeto-que-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+    "https://www.metropoles.com/brasil/camara-aprova-projeto-que-amplia-teto-do-mei-e-perdoa-dividas-de-devedores",
+    "https://opovo.com.br/noticias/economia/2026/10/15/senado-aprova-novo-enquadramento-dos-meis-e-perdao-de-dividas-do-setor-projeto-vai-a-sancao.html",
+    "https://www.otempo.com.br/politica/congresso/2026/10/15/senado-aprova-projeto-que-aumenta-limite-e-perdoa-dividas-do-mei-texto-segue-para-sancao-de-lula"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Teto do MEI de R$ 140 mil e perdão de dívidas", "veiculos": ["Metrópoles", "O Tempo", "O Povo", "Agência Senado/TV Senado", "Agência Câmara", "Diário 360", "News Rondônia", "Jornal da Mídia"], "proposicao": "PLP 186/2026 — aprovado na Câmara (14/10) e no Senado (15/10); vai à sanção", "nota": 8},
+      {"assunto": "Câmara aprova SUS aceitar exames da rede privada", "veiculos": ["Paladino da Verdade", "Panorama Inconfidentes", "Hoje Amazônia", "Medicina S/A"], "proposicao": "PL 1123/2025 (número citado por reportagem, não confirmado na fonte oficial) — votado na Câmara em 15/10", "nota": 6},
+      {"assunto": "Promulgação do fim da escala 6x1 nesta sexta (16)", "veiculos": ["Metrópoles", "O Tempo", "CNN Brasil", "Rádio Senado"], "proposicao": "PEC 221/2019 — promulgação em sessão do Congresso em 16/10", "nota": 5},
+      {"assunto": "MP torna Enamed obrigatório para exercer Medicina", "veiculos": ["Jornal Opção"], "proposicao": "Medida provisória — aprovada na Câmara, segue ao Senado", "nota": 5},
+      {"assunto": "Emenda à PEC da Segurança propõe maioridade penal aos 16 anos", "veiculos": ["TV Senado"], "proposicao": "PEC da Segurança Pública — em análise no Senado", "nota": 3}
+    ],
+    "escolhido": "PLP 186/2026 — novo teto do MEI e perdão de dívidas",
+    "motivo": "Maior repercussão nas últimas 24-48h, votado nas duas Casas em 14 e 15/10 (proximidade máxima), interesse direto no bolso de cerca de 17 milhões de MEIs e não tratado nos últimos 14 dias. A promulgação da PEC 6x1 é fato novo, mas o tema já teve post e vídeos em 15/10 (−3)."
+  }
+}
