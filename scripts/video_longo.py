@@ -1,7 +1,7 @@
 """Vídeo explicativo diário do Legiscópio (YouTube, 1920x1080, ~8-10 min).
 
-Lê posts/<data>/video.json e gera, na mesma pasta:
-  video.mp4      vídeo com narração (voz neural), mascote Lupa e gráficos
+Lê videos/<data>/video.json e gera, na mesma pasta:
+  video.mp4      vídeo com narração (voz neural), Lupa 2.0 (personagem) e gráficos
   thumb.jpg      miniatura 1280x720
   legendas.srt   legendas sincronizadas com a fala
 
@@ -22,10 +22,12 @@ Tipos de visual:
   barras     {titulo, itens:[{rotulo, valor, texto?}], nota?}
   lista      {titulo, itens:[...]}             (itens aparecem ao longo da fala)
   etapas     {titulo, itens:[...], atual}      (linha do tempo; atual = índice)
-  texto      {titulo, texto}
+  texto      {titulo, texto}                   (título com "?" deixa a Lupa pensativa)
   redes      {titulo?, itens?:[[rótulo, valor]], app?: true}  (redes sociais, site e app)
   fim        {}                                 (apoia.se, site, inscreva-se)
 
+A pose da Lupa é escolhida automaticamente pelo tipo de cena (pose_da_cena).
+Vídeos de datas passadas que já existem não são regerados quando o código muda.
 Para testar sem internet: LEGIS_FAKE_TTS=1 gera um áudio sintético.
 """
 import asyncio
@@ -42,9 +44,9 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import mascote  # noqa: E402
+import personagem  # noqa: E402  (Lupa 2.0, corpo inteiro)
 
-VERSAO = "2"
+VERSAO = "3"
 W, H, FPS = 1920, 1080, 24
 SR = 24000
 PAUSA = 0.45  # segundos de respiro entre cenas
@@ -114,6 +116,46 @@ def wrap(d, t, f, maxw):
 def suave(x):
     x = max(0.0, min(1.0, x))
     return 1 - (1 - x) ** 3
+
+
+def ja_passou(nome_pasta):
+    """True se a pasta (AAAA-MM-DD) é de um dia anterior a hoje (horário de Brasília)."""
+    import datetime
+    hoje = (datetime.datetime.utcnow() - datetime.timedelta(hours=3)).strftime("%Y-%m-%d")
+    return len(nome_pasta) == 10 and nome_pasta < hoje
+
+
+# ------------------------------------------------------------------ Lupa 2.0
+
+def pose_da_cena(v, t, i, n_cenas, nivel):
+    """Escolhe a pose da Lupa conforme o tipo de visual da cena.
+    Regra editorial: nada de comemorar resultado de votação (neutralidade)."""
+    tipo = v.get("tipo", "texto")
+    titulo = (v.get("titulo") or "") + " " + (v.get("texto") or "")
+    if tipo == "capa":
+        nome = "acenando" if t < 2.6 else "explicando"
+    elif tipo == "numero":
+        nome = "surpresa" if t < 1.6 else "apontando"
+    elif tipo in ("comparacao", "barras", "etapas"):
+        nome = "apontando"
+    elif tipo == "lista":
+        nome = "explicando" if int(t / 6) % 2 == 0 else "apontando"
+    elif tipo == "redes":
+        nome = "joinha"
+    elif tipo == "fim":
+        nome = "acenando" if t > 2 else "explicando"
+    elif "?" in titulo:
+        nome = "pensando"
+    else:
+        nome = "explicando"
+    if nome == "surpresa" and nivel < 0.18:
+        boca = "o"
+    else:
+        boca = "fechada" if nivel < 0.18 else ("meia" if nivel < 0.5 else "aberta")
+        if i == n_cenas - 1 and nivel < 0.18:
+            boca = "sorriso"
+    olhos = "surpresos" if nome == "surpresa" else ("desconfiados" if nome == "pensando" else "abertos")
+    return nome, boca, olhos
 
 
 # ------------------------------------------------------------------ áudio
@@ -277,7 +319,7 @@ def fundo_base():
     txt = "LEGISCÓPIO EXPLICA"
     f = MO(26)
     d.text((W - 70, 64), txt, font=f, fill=OLIVA, anchor="ra")
-    d.text((W - 70, H - 26), "legiscopio.com.br  ·  apoia.se/legiscopio", font=MO(20), fill=TEXTO2, anchor="rs")
+    d.text((70, H - 26), "legiscopio.com.br  ·  apoia.se/legiscopio", font=MO(20), fill=TEXTO2, anchor="ls")
     return img
 
 
@@ -508,8 +550,8 @@ def miniatura(cfg, destino):
     d = ImageDraw.Draw(img)
     for k in range(0, tw + th, 48):  # listras sutis
         d.line([(k, 0), (k - th, th)], fill=(8, 96, 53), width=18)
-    sp = mascote.sprite("aberta", "surpresos", 520)
-    img.paste(sp, (tw - 520 + 20, th - 520 + 40), sp)
+    sp = personagem.pose("surpresa", "o", "surpresos", 780, 0.0, -1, espelho=True)
+    img.paste(sp, (tw - sp.width + 140, 10), sp)
     th_cfg = cfg.get("thumb", {})
     y = 60
     for chave, tam, cor in [("linha1", 96, BRANCO), ("linha2", 96, BRANCO)]:
@@ -517,14 +559,14 @@ def miniatura(cfg, destino):
         if not t:
             continue
         f = BK(tam)
-        while d.textlength(t.upper(), font=f) > 820 and f.size > 50:
+        while d.textlength(t.upper(), font=f) > 800 and f.size > 50:
             f = BK(f.size - 6)
         d.text((56, y), t.upper(), font=f, fill=cor, stroke_width=4, stroke_fill=VERDE_ESC)
         y += f.size + 14
     if th_cfg.get("destaque"):
         t = th_cfg["destaque"]
         f = BK(150)
-        while d.textlength(t, font=f) > 760 and f.size > 60:
+        while d.textlength(t, font=f) > 700 and f.size > 60:
             f = BK(f.size - 8)
         bw = d.textlength(t, font=f) + 60
         d.rounded_rectangle([40, y + 20, 40 + bw, y + 20 + f.size + 50], radius=24, fill=LIMA)
@@ -547,6 +589,9 @@ def gerar(caminho_json):
     marca = pasta / ".video_render"
     if marca.exists() and marca.read_text().strip() == assinatura and (pasta / "video.mp4").exists():
         print("vídeo sem mudanças", pasta)
+        return
+    if (pasta / "video.mp4").exists() and ja_passou(pasta.name):
+        print("vídeo de data passada já existe; não regera", pasta)
         return
     cfg = json.loads(bruto.decode("utf-8"))
     voz = cfg.get("voz", "pt-BR-AntonioNeural")
@@ -617,16 +662,14 @@ def gerar(caminho_json):
                 chave_vis = chave
             quadro = cache_vis.copy()
 
-            # mascote
+            # Lupa 2.0 (virada para o conteúdo, à esquerda)
             nivel = env[q] if q < len(env) else 0
-            boca = "fechada" if nivel < 0.18 else ("meia" if nivel < 0.5 else "aberta")
-            if i == len(cenas) - 1 and nivel < 0.18:
-                boca = "sorriso"
+            nome, boca, olhos = pose_da_cena(v, t, i, len(cenas), nivel)
             ciclo = (quadro_glob + i * 17) % (FPS * 4)
-            olhos = "fechados" if ciclo < 3 else ("surpresos" if c.get("visual", {}).get("tipo") == "numero" and t < 1.5 else "abertos")
-            sp = mascote.sprite(boca, olhos, 430)
-            bob = int(6 * math.sin(quadro_glob / FPS * 2.2))
-            quadro.paste(sp, (W - 470, 400 + bob), sp)
+            if ciclo < 3 and olhos == "abertos":
+                olhos = "fechados"
+            sp = personagem.pose(nome, boca, olhos, 660, quadro_glob / FPS, -1, espelho=True)
+            quadro.paste(sp, (W - sp.width - 10, H - sp.height - 40), sp)
 
             # legenda
             atual = next((txt for ini, txt, fim in legs if ini <= t < fim), "")
