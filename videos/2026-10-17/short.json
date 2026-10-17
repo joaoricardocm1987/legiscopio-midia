@@ -1,0 +1,23 @@
+{
+  "cenas": [
+    {"fala": "A “OAB da Medicina” em um minuto! O Congresso aprovou a MP que torna o Enamed obrigatório para o registro de médico.",
+     "visual": {"tipo": "numero", "titulo": "MP 1.370/2026", "valor": "Enamed", "rotulo": "obrigatório para o registro no CRM · 15/10"}},
+    {"fala": "São três provas durante o curso: no fim do segundo, do quarto e do sexto ano, com peso maior para a última.",
+     "visual": {"tipo": "etapas", "titulo": "As três provas", "itens": ["2º ano", "4º ano", "6º ano"], "atual": 0}},
+    {"fala": "Vale só para quem entrou em Medicina a partir de dezenove de junho de 2026. Quem já é médico não é afetado.",
+     "visual": {"tipo": "comparacao", "titulo": "Quem precisa", "antes": {"valor": "Não", "rotulo": "matriculados antes e médicos formados"}, "depois": {"valor": "Sim", "rotulo": "quem entrou a partir de 19/06/2026"}}},
+    {"fala": "Quem não atingir a nota mínima pode refazer a terceira prova, mas não pode atender pacientes enquanto isso.",
+     "visual": {"tipo": "texto", "titulo": "E quem não passar?", "texto": "Pode refazer a 3ª prova. Até lá, não pode atender pacientes."}},
+    {"fala": "No Enamed de 2025, cento e sete dos trezentos e cinquenta e um cursos avaliados tiveram conceito insatisfatório, segundo o Ministério da Educação.",
+     "visual": {"tipo": "numero", "titulo": "Enamed 2025", "valor": "107 de 351", "rotulo": "cursos com conceito 1 ou 2 · cerca de 30%"}},
+    {"fala": "Agora, o texto vai à sanção presidencial, com prazo de quinze dias úteis.",
+     "visual": {"tipo": "etapas", "titulo": "Próximo passo", "itens": ["Câmara", "Senado", "Sanção"], "atual": 2}},
+    {"fala": "Quer saber o que muda para as faculdades e os argumentos dos dois lados? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+     "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Faculdades, SUS e os dois lados"}}
+  ],
+  "youtube": {
+    "titulo": "“OAB da Medicina” em 1 minuto: Enamed vira obrigatório #Shorts",
+    "descricao": "O Congresso aprovou a MP 1.370/2026, que torna o Enamed obrigatório para o registro de médico, com três provas durante o curso, para quem entrou a partir de 19/06/2026. O texto vai à sanção. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/15/enamed-sera-obrigatorio-para-exercicio-da-medicina-aprova-senado\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Medicina",
+    "tags": ["Legiscópio", "OAB da Medicina", "Enamed", "MP 1370/2026", "medicina", "shorts"]
+  }
+}
