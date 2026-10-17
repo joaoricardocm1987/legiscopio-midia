@@ -1,0 +1,867 @@
+1
+00:00:00,102 --> 00:00:00,842
+Olá!
+
+2
+00:00:00,842 --> 00:00:03,921
+Eu sou a Lupa, do Legiscópio, e hoje a gente vai
+
+3
+00:00:03,921 --> 00:00:06,526
+entender a chamada “OAB da Medicina”.
+
+4
+00:00:06,526 --> 00:00:09,263
+Nesta quinta-feira, o Congresso aprovou a medida
+
+5
+00:00:09,263 --> 00:00:12,355
+provisória que torna obrigatório o Enamed, o exame
+
+6
+00:00:12,355 --> 00:00:15,315
+nacional que avalia a formação dos médicos.
+
+7
+00:00:15,315 --> 00:00:18,000
+Neste vídeo, você vai ver como vão funcionar as
+
+8
+00:00:18,000 --> 00:00:20,947
+provas, quem é afetado, o que acontece com quem
+
+9
+00:00:20,947 --> 00:00:23,855
+não passar, o que muda para as faculdades e quais
+
+10
+00:00:23,855 --> 00:00:26,207
+são os próximos passos.
+
+11
+00:00:26,760 --> 00:00:28,210
+Primeiro, o fato.
+
+12
+00:00:28,210 --> 00:00:31,013
+A medida provisória mil trezentos e setenta, de
+
+13
+00:00:31,013 --> 00:00:34,342
+2026, foi aprovada em um único dia:
+
+14
+00:00:34,342 --> 00:00:37,184
+de manhã, na comissão mista, à tarde, no Plenário
+
+15
+00:00:37,184 --> 00:00:40,223
+da Câmara, e no começo da noite, no Senado.
+
+16
+00:00:40,223 --> 00:00:43,473
+Na Câmara, a votação foi simbólica, ou seja, sem
+
+17
+00:00:43,473 --> 00:00:45,473
+registro nominal dos votos.
+
+18
+00:00:45,473 --> 00:00:46,592
+E houve pressa:
+
+19
+00:00:46,592 --> 00:00:50,329
+a medida perderia a validade no dia seguinte, sexta-feira,
+
+20
+00:00:50,329 --> 00:00:52,506
+dezesseis de outubro.
+
+21
+00:00:53,058 --> 00:00:55,442
+Por que todo mundo está falando disso?
+
+22
+00:00:55,442 --> 00:00:58,548
+O apelido “OAB da Medicina” vem da comparação com
+
+23
+00:00:58,548 --> 00:01:01,561
+o exame da Ordem dos Advogados, que o formado em
+
+24
+00:01:01,561 --> 00:01:04,061
+Direito precisa passar para advogar.
+
+25
+00:01:04,061 --> 00:01:05,719
+A ideia aqui é parecida:
+
+26
+00:01:05,719 --> 00:01:08,877
+sem atingir a nota mínima, o formado não consegue
+
+27
+00:01:08,877 --> 00:01:11,192
+o registro para atuar como médico.
+
+28
+00:01:11,192 --> 00:01:13,995
+O tema ganhou força em janeiro, com a divulgação
+
+29
+00:01:13,995 --> 00:01:16,835
+dos primeiros resultados do Enamed.
+
+30
+00:01:17,388 --> 00:01:20,164
+Mas o relator na Câmara fez questão de apontar uma
+
+31
+00:01:20,164 --> 00:01:21,167
+diferença.
+
+32
+00:01:21,167 --> 00:01:25,101
+No exame da OAB, a prova é feita depois da formatura.
+
+33
+00:01:25,101 --> 00:01:28,325
+No Enamed, a avaliação acontece ao longo do curso,
+
+34
+00:01:28,325 --> 00:01:29,746
+em três momentos.
+
+35
+00:01:29,746 --> 00:01:33,062
+Segundo ele, isso permite avaliar tanto os estudantes
+
+36
+00:01:33,062 --> 00:01:35,213
+quanto as faculdades.
+
+37
+00:01:35,766 --> 00:01:38,411
+Antes de seguir, vale lembrar o que é uma medida
+
+38
+00:01:38,411 --> 00:01:39,400
+provisória.
+
+39
+00:01:39,400 --> 00:01:42,229
+Ela é editada pelo presidente da República e já
+
+40
+00:01:42,229 --> 00:01:45,427
+começa a valer como lei no dia em que é publicada.
+
+41
+00:01:45,427 --> 00:01:46,571
+Mas tem prazo:
+
+42
+00:01:46,571 --> 00:01:49,585
+sessenta dias, prorrogáveis por mais sessenta.
+
+43
+00:01:49,585 --> 00:01:52,624
+Nesse período, a Câmara e o Senado precisam aprovar
+
+44
+00:01:52,624 --> 00:01:55,282
+o texto, senão ele perde a validade.
+
+45
+00:01:55,282 --> 00:01:59,135
+Esta MP foi publicada em dezenove de junho.
+
+46
+00:01:59,688 --> 00:02:02,793
+Os parlamentares não aprovaram a MP do jeito que
+
+47
+00:02:02,793 --> 00:02:03,757
+ela chegou.
+
+48
+00:02:03,757 --> 00:02:07,125
+Ela foi transformada em um projeto de lei de conversão,
+
+49
+00:02:07,125 --> 00:02:10,283
+que é o nome dado ao texto alterado pelo Congresso.
+
+50
+00:02:10,283 --> 00:02:13,546
+O relator acolheu, total ou parcialmente, quarenta
+
+51
+00:02:13,546 --> 00:02:16,230
+e nove das quatrocentas e setenta e nove emendas
+
+52
+00:02:16,230 --> 00:02:17,519
+apresentadas.
+
+53
+00:02:17,519 --> 00:02:19,045
+A principal mudança:
+
+54
+00:02:19,045 --> 00:02:22,151
+o texto original previa duas provas, e o aprovado
+
+55
+00:02:22,151 --> 00:02:23,945
+prevê três.
+
+56
+00:02:24,498 --> 00:02:27,198
+Então, como vão ser essas três provas?
+
+57
+00:02:27,198 --> 00:02:30,395
+A primeira, no fim do segundo ano, ou seja, no fim
+
+58
+00:02:30,395 --> 00:02:31,869
+do quarto semestre.
+
+59
+00:02:31,869 --> 00:02:35,224
+A segunda, no fim do quarto ano, no oitavo semestre,
+
+60
+00:02:35,224 --> 00:02:38,540
+antes do internato, que é a fase prática do curso.
+
+61
+00:02:38,540 --> 00:02:41,751
+E a terceira, no fim do sexto ano, no décimo segundo
+
+62
+00:02:41,751 --> 00:02:42,698
+semestre.
+
+63
+00:02:42,698 --> 00:02:45,909
+As provas são obrigatórias e aplicadas pelo Ministério
+
+64
+00:02:45,909 --> 00:02:47,651
+da Educação.
+
+65
+00:02:48,204 --> 00:02:51,309
+A nota final é uma média das três provas, com peso
+
+66
+00:02:51,309 --> 00:02:52,825
+maior para a última.
+
+67
+00:02:52,825 --> 00:02:55,773
+Quem define a nota mínima, os pesos e os critérios
+
+68
+00:02:55,773 --> 00:02:58,851
+de cálculo é uma nova Comissão Nacional de Avaliação
+
+69
+00:02:58,851 --> 00:03:01,970
+da Formação Médica, e essas regras precisam ser
+
+70
+00:03:01,970 --> 00:03:03,970
+publicadas com antecedência.
+
+71
+00:03:03,970 --> 00:03:06,983
+Segundo o portal Congresso em Foco, a comissão terá
+
+72
+00:03:06,983 --> 00:03:10,404
+quatro representantes do Conselho Federal de Medicina,
+
+73
+00:03:10,404 --> 00:03:13,378
+dois do Ministério da Educação e dois do Ministério
+
+74
+00:03:13,378 --> 00:03:15,005
+da Saúde.
+
+75
+00:03:15,558 --> 00:03:18,179
+Na prática, o que muda para o formado?
+
+76
+00:03:18,179 --> 00:03:21,127
+Hoje, com o diploma reconhecido, a pessoa pede o
+
+77
+00:03:21,127 --> 00:03:25,100
+registro no Conselho Regional de Medicina, o CRM.
+
+78
+00:03:25,100 --> 00:03:28,298
+Com a nova regra, ela também vai precisar comprovar
+
+79
+00:03:28,298 --> 00:03:31,219
+que atingiu o nível mínimo no Enamed, por meio de
+
+80
+00:03:31,219 --> 00:03:33,671
+um certificado eletrônico.
+
+81
+00:03:34,224 --> 00:03:36,056
+E quem não atingir a nota?
+
+82
+00:03:36,056 --> 00:03:39,279
+Essa pessoa pode refazer a terceira prova nas edições
+
+83
+00:03:39,279 --> 00:03:42,964
+seguintes do exame, e aí uma nova média é calculada.
+
+84
+00:03:42,964 --> 00:03:45,608
+A primeira média fica registrada no histórico do
+
+85
+00:03:45,608 --> 00:03:49,043
+estudante, e as faculdades podem usar essa informação
+
+86
+00:03:49,043 --> 00:03:51,761
+nas suas próprias avaliações.
+
+87
+00:03:52,314 --> 00:03:55,354
+Enquanto isso, o texto cria a Inscrição de Egresso
+
+88
+00:03:55,354 --> 00:03:56,422
+de Medicina.
+
+89
+00:03:56,422 --> 00:03:59,488
+Com ela, o formado pode fazer atividades técnicas
+
+90
+00:03:59,488 --> 00:04:03,001
+e científicas, como pesquisa, sempre com supervisão
+
+91
+00:04:03,001 --> 00:04:05,040
+e sem contato com pacientes.
+
+92
+00:04:05,040 --> 00:04:08,435
+Ele não pode atender pacientes, receitar medicamentos,
+
+93
+00:04:08,435 --> 00:04:12,146
+dar atestados ou laudos, nem ocupar cargos de médico.
+
+94
+00:04:12,146 --> 00:04:15,369
+As regras dessa inscrição serão definidas pelo Conselho
+
+95
+00:04:15,369 --> 00:04:17,675
+Federal de Medicina.
+
+96
+00:04:18,228 --> 00:04:20,294
+Agora, uma pergunta importante:
+
+97
+00:04:20,294 --> 00:04:21,560
+quem é afetado?
+
+98
+00:04:21,560 --> 00:04:24,218
+A nova exigência vale só para quem entrou em um
+
+99
+00:04:24,218 --> 00:04:27,165
+curso de Medicina a partir de dezenove de junho
+
+100
+00:04:27,165 --> 00:04:31,086
+de 2026, a data em que a MP foi publicada.
+
+101
+00:04:31,086 --> 00:04:33,902
+Quem já estava matriculado antes disso segue as
+
+102
+00:04:33,902 --> 00:04:35,257
+regras antigas.
+
+103
+00:04:35,257 --> 00:04:38,244
+E os médicos que já têm diploma reconhecido no Brasil
+
+104
+00:04:38,244 --> 00:04:40,781
+não precisam fazer o exame.
+
+105
+00:04:41,334 --> 00:04:42,334
+Rapidinho:
+
+106
+00:04:42,334 --> 00:04:45,387
+se este vídeo está te ajudando, deixa o seu like,
+
+107
+00:04:45,387 --> 00:04:48,545
+se inscreve no canal e ativa o sininho pra não perder
+
+108
+00:04:48,545 --> 00:04:49,692
+os próximos.
+
+109
+00:04:49,692 --> 00:04:52,103
+Agora, vamos continuar!
+
+110
+00:04:52,656 --> 00:04:55,514
+O exame também vai avaliar as faculdades.
+
+111
+00:04:55,514 --> 00:04:58,751
+Cada curso vai receber um conceito por ano, de acordo
+
+112
+00:04:58,751 --> 00:05:01,409
+com a proporção de alunos que atingem o mínimo na
+
+113
+00:05:01,409 --> 00:05:02,646
+terceira prova.
+
+114
+00:05:02,646 --> 00:05:05,659
+Os resultados de cada instituição ficam em um portal
+
+115
+00:05:05,659 --> 00:05:08,751
+público por pelo menos dez anos, e as faculdades
+
+116
+00:05:08,751 --> 00:05:12,409
+terão de divulgar as três últimas edições aos candidatos.
+
+117
+00:05:12,409 --> 00:05:15,896
+Cursos com desempenho ruim podem passar por supervisão
+
+118
+00:05:15,896 --> 00:05:18,698
+e outras medidas do Ministério da Educação.
+
+119
+00:05:18,698 --> 00:05:21,817
+E esses cursos deixam de fazer o Enade, outro exame
+
+120
+00:05:21,817 --> 00:05:23,561
+do ministério.
+
+121
+00:05:24,114 --> 00:05:26,959
+E como foram esses resultados até agora?
+
+122
+00:05:26,959 --> 00:05:30,972
+Na edição de 2025, trezentos e cinquenta e um cursos
+
+123
+00:05:30,972 --> 00:05:33,169
+de Medicina foram avaliados.
+
+124
+00:05:33,169 --> 00:05:36,288
+Desses, cento e sete, cerca de trinta por cento,
+
+125
+00:05:36,288 --> 00:05:40,472
+ficaram com conceito um ou dois, considerados insatisfatórios.
+
+126
+00:05:40,472 --> 00:05:43,525
+Os dados foram divulgados pelo Ministério da Educação
+
+127
+00:05:43,525 --> 00:05:47,867
+em janeiro e publicados por veículos como a CartaCapital.
+
+128
+00:05:48,420 --> 00:05:51,367
+Olhando por dentro desses cento e sete cursos:
+
+129
+00:05:51,367 --> 00:05:54,446
+vinte e quatro tiveram conceito um, o mais baixo
+
+130
+00:05:54,446 --> 00:05:57,407
+da escala, e oitenta e três ficaram com conceito
+
+131
+00:05:57,407 --> 00:05:58,146
+dois.
+
+132
+00:05:58,146 --> 00:06:01,186
+Para esses cursos, o Ministério da Educação anunciou
+
+133
+00:06:01,186 --> 00:06:04,239
+suspensão ou redução de vagas, ou a proibição de
+
+134
+00:06:04,239 --> 00:06:05,278
+ampliá-las.
+
+135
+00:06:05,278 --> 00:06:08,739
+Segundo o ministro da Educação, as faculdades estaduais
+
+136
+00:06:08,739 --> 00:06:11,962
+e municipais não estão sob sua gestão e, por isso,
+
+137
+00:06:11,962 --> 00:06:14,909
+não podem receber essas punições.
+
+138
+00:06:15,462 --> 00:06:18,528
+O texto também mexe na formação prática dentro do
+
+139
+00:06:18,528 --> 00:06:21,202
+SUS, o Sistema Único de Saúde.
+
+140
+00:06:21,202 --> 00:06:24,202
+Ele cria parâmetros nacionais para o uso de hospitais
+
+141
+00:06:24,202 --> 00:06:26,873
+e unidades públicas pelos estudantes.
+
+142
+00:06:26,873 --> 00:06:29,886
+A regulamentação vai definir limites de alunos por
+
+143
+00:06:29,886 --> 00:06:32,386
+leito, por equipe e por preceptor.
+
+144
+00:06:32,386 --> 00:06:35,820
+E as faculdades que usam o SUS terão de dar contrapartidas,
+
+145
+00:06:35,820 --> 00:06:38,952
+como dinheiro, obras ou serviços, com um teto de
+
+146
+00:06:38,952 --> 00:06:42,287
+dois por cento da receita líquida do curso.
+
+147
+00:06:42,840 --> 00:06:44,527
+E tem mais dois pontos.
+
+148
+00:06:44,527 --> 00:06:47,711
+A nota final do Enamed poderá ser usada na seleção
+
+149
+00:06:47,711 --> 00:06:51,053
+para residências médicas de acesso direto, e o texto
+
+150
+00:06:51,053 --> 00:06:54,593
+cria um sistema para avaliar a qualidade das residências.
+
+151
+00:06:54,593 --> 00:06:57,843
+Já para quem se formou no exterior, continua o Revalida,
+
+152
+00:06:57,843 --> 00:06:59,606
+com suas duas etapas.
+
+153
+00:06:59,606 --> 00:07:02,382
+A prova teórica do Revalida passa a contar como
+
+154
+00:07:02,382 --> 00:07:05,777
+a terceira etapa do Enamed, e a prova prática segue
+
+155
+00:07:05,777 --> 00:07:07,553
+obrigatória.
+
+156
+00:07:08,105 --> 00:07:10,003
+Agora, os argumentos.
+
+157
+00:07:10,003 --> 00:07:12,740
+Quem defende a medida, como o presidente da comissão
+
+158
+00:07:12,740 --> 00:07:15,832
+mista e senadores que são médicos, diz que o exame
+
+159
+00:07:15,832 --> 00:07:19,003
+protege a população e ajuda a identificar cursos
+
+160
+00:07:19,003 --> 00:07:20,188
+sem qualidade.
+
+161
+00:07:20,188 --> 00:07:23,109
+O presidente da comissão afirmou que cerca de vinte
+
+162
+00:07:23,109 --> 00:07:26,688
+e um mil vagas foram abertas por decisões judiciais.
+
+163
+00:07:26,688 --> 00:07:29,832
+E, segundo o relator, o número de cursos de Medicina
+
+164
+00:07:29,832 --> 00:07:33,203
+cresceu cinquenta por cento em cinco anos.
+
+165
+00:07:33,756 --> 00:07:36,061
+Do outro lado, houve críticas.
+
+166
+00:07:36,061 --> 00:07:38,785
+O senador que votou contra questionou o uso de uma
+
+167
+00:07:38,785 --> 00:07:42,075
+medida provisória para o tema e defendeu que a avaliação
+
+168
+00:07:42,075 --> 00:07:44,825
+depois da formatura fique com o Conselho Federal
+
+169
+00:07:44,825 --> 00:07:47,969
+de Medicina, e não com o Ministério da Educação.
+
+170
+00:07:47,969 --> 00:07:50,746
+O próprio conselho, em junho, considerou a medida
+
+171
+00:07:50,746 --> 00:07:53,469
+insuficiente e cobrou uma prova prática.
+
+172
+00:07:53,469 --> 00:07:56,535
+Já associações de faculdades particulares disseram,
+
+173
+00:07:56,535 --> 00:08:00,533
+na época, que a medida dá mais coerência ao exame.
+
+174
+00:08:01,086 --> 00:08:02,812
+E agora, o que falta?
+
+175
+00:08:02,812 --> 00:08:05,299
+O texto vai para o presidente da República, que
+
+176
+00:08:05,299 --> 00:08:08,970
+tem quinze dias úteis para sancionar ou vetar, total
+
+177
+00:08:08,970 --> 00:08:10,286
+ou parcialmente.
+
+178
+00:08:10,286 --> 00:08:13,168
+Se ele não se manifestar nesse prazo, o projeto
+
+179
+00:08:13,168 --> 00:08:14,957
+é considerado sancionado.
+
+180
+00:08:14,957 --> 00:08:15,970
+E um detalhe:
+
+181
+00:08:15,970 --> 00:08:18,997
+enquanto isso, a medida provisória continua valendo
+
+182
+00:08:18,997 --> 00:08:20,905
+do jeito que foi publicada.
+
+183
+00:08:20,905 --> 00:08:23,865
+Se houver veto, o Congresso pode derrubá-lo com
+
+184
+00:08:23,865 --> 00:08:26,523
+duzentos e cinquenta e sete deputados e quarenta
+
+185
+00:08:26,523 --> 00:08:28,367
+e um senadores.
+
+186
+00:08:28,920 --> 00:08:32,054
+Respostas rápidas para as dúvidas mais comuns.
+
+187
+00:08:32,054 --> 00:08:34,633
+Já sou médico, preciso fazer a prova?
+
+188
+00:08:34,633 --> 00:08:35,330
+Não.
+
+189
+00:08:35,330 --> 00:08:38,435
+Entrei na faculdade antes de dezenove de junho de
+
+190
+00:08:38,435 --> 00:08:39,989
+2026?
+
+191
+00:08:39,989 --> 00:08:42,186
+Você segue as regras antigas.
+
+192
+00:08:42,186 --> 00:08:44,410
+A nota mínima já está definida?
+
+193
+00:08:44,410 --> 00:08:47,844
+Ainda não, ela será fixada pela comissão nacional.
+
+194
+00:08:47,844 --> 00:08:50,423
+E quem não passar pode tentar de novo?
+
+195
+00:08:50,423 --> 00:08:53,585
+Sim, refazendo a terceira prova.
+
+196
+00:08:54,138 --> 00:08:55,151
+Resumindo:
+
+197
+00:08:55,151 --> 00:08:57,875
+o Enamed passa a ser obrigatório para o registro
+
+198
+00:08:57,875 --> 00:09:00,930
+de médico, com três provas durante o curso, para
+
+199
+00:09:00,930 --> 00:09:04,957
+quem entrou a partir de dezenove de junho de 2026.
+
+200
+00:09:04,957 --> 00:09:07,799
+As faculdades vão ter os resultados divulgados e
+
+201
+00:09:07,799 --> 00:09:09,601
+podem sofrer sanções.
+
+202
+00:09:09,601 --> 00:09:13,259
+E o texto agora aguarda a sanção presidencial.
+
+203
+00:09:13,812 --> 00:09:17,433
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+204
+00:09:17,433 --> 00:09:21,209
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+205
+00:09:21,209 --> 00:09:24,723
+E o nosso site é legiscopio ponto com ponto br.
+
+206
+00:09:24,723 --> 00:09:25,973
+E tem novidade:
+
+207
+00:09:25,973 --> 00:09:29,367
+o aplicativo do Legiscópio está em fase de testes.
+
+208
+00:09:29,367 --> 00:09:31,933
+Enquanto ele não chega às lojas do Android e do
+
+209
+00:09:31,933 --> 00:09:36,101
+iOS, você já pode conhecê-lo pelo nosso site.
+
+210
+00:09:36,654 --> 00:09:39,904
+As fontes deste vídeo são a Agência Senado, a Agência
+
+211
+00:09:39,904 --> 00:09:43,115
+Câmara, os Dados Abertos da Câmara e reportagens
+
+212
+00:09:43,115 --> 00:09:46,104
+da imprensa, e os links estão na descrição.
+
+213
+00:09:46,104 --> 00:09:48,999
+Se este conteúdo te ajudou, se inscreva no canal
+
+214
+00:09:48,999 --> 00:09:52,380
+e compartilhe com quem estuda ou quer estudar Medicina.
+
+215
+00:09:52,380 --> 00:09:55,709
+O Legiscópio é um projeto independente e gratuito,
+
+216
+00:09:55,709 --> 00:09:59,328
+e você pode apoiar em apoia ponto se barra legiscopio.
+
+217
+00:09:59,328 --> 00:10:01,079
+Até amanhã!
