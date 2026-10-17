@@ -1,0 +1,33 @@
+{
+  "rotulo": "Aprovado no Congresso",
+  "titulo": "“OAB da Medicina”: Congresso aprova exame obrigatório para novos médicos",
+  "destaque": "3 provas",
+  "detalhe": "MP 1.370/2026: Enamed vira exigência para o registro no CRM, com provas no 2º, 4º e 6º ano. Vale para quem entrou a partir de 19/06/2026. Vai à sanção.",
+  "fonte": "Fonte: Agência Senado e Câmara · votações de 15/10/2026",
+  "legenda": "O Congresso aprovou a medida provisória que ficou conhecida como “OAB da Medicina”. A MP 1.370/2026 torna o Enamed (Exame Nacional de Avaliação da Formação Médica) obrigatório para obter o registro profissional de médico. A Câmara, em votação simbólica, e o Senado aprovaram o texto na quinta (15), um dia antes de a MP perder a validade. Agora ele vai à sanção presidencial.\n\nO que muda:\n• Três provas ao longo do curso: no fim do 2º, do 4º e do 6º ano. A nota final é a média, com peso maior para a última.\n• Só obtém o registro quem atingir o nível mínimo, que será definido por uma Comissão Nacional de Avaliação da Formação Médica. Quem não atingir pode refazer a 3ª prova.\n• Vale para quem entrou em Medicina a partir de 19/06/2026. Quem já estava matriculado e os médicos formados não são afetados.\n• Cada faculdade terá um conceito anual, com resultados públicos, e as de baixo desempenho podem sofrer sanções do MEC.\n\nNo Enamed 2025, 107 dos 351 cursos avaliados (cerca de 30%) tiveram conceito 1 ou 2, considerados insatisfatórios, segundo os resultados divulgados pelo MEC em janeiro. Quem defende a MP argumenta que o exame protege os pacientes e ajuda a identificar cursos de baixa qualidade. Críticos, como o Conselho Federal de Medicina, defendem que a avaliação de quem se forma fique com o próprio conselho e inclua prova prática, e questionaram o uso de medida provisória para o tema.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/15/enamed-sera-obrigatorio-para-exercicio-da-medicina-aprova-senado | Câmara dos Deputados — https://www.camara.leg.br/noticias/1311586-camara-aprova-mp-que-torna-obrigatoria-a-aprovacao-em-exame-para-exercer-a-medicina\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #Saúde #Educação",
+  "legenda_tiktok": "“OAB da Medicina”: Congresso aprova a MP 1.370/2026. O Enamed vira exigência para o registro de médico, com 3 provas no curso. Vale para quem entrou a partir de 19/06/2026. Vai à sanção. Vídeo completo no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Medicina",
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/materias/2026/10/15/enamed-sera-obrigatorio-para-exercicio-da-medicina-aprova-senado",
+    "https://www.camara.leg.br/noticias/1311586-camara-aprova-mp-que-torna-obrigatoria-a-aprovacao-em-exame-para-exercer-a-medicina",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-15&dataFim=2026-10-16&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes/2634542-24",
+    "https://www.congressoemfoco.com.br/noticia/123308/senado-aprova-mp-da-obrigatoriedade-do-enamed-texto-vai-a-sancao",
+    "https://www.otempo.com.br/politica/congresso/2026/10/15/oab-da-medicina-que-preve-prova-para-medicos-e-aprovada-no-senado-e-segue-para-sancao",
+    "https://www.cartacapital.com.br/educacao/mais-de-100-cursos-de-medicina-sao-mal-avaliados-no-enamed-e-sofrerao-sancoes/",
+    "https://med.estrategia.com/portal/noticias/mais-de-30-dos-cursos-de-medicina-recebem-nota-insatisfatoria-no-enamed-confira-os-dados/",
+    "https://legismap.com.br/conteudos/artigos-e-noticias/uol-entidades-criticam-mp-de-lula-que-exige-nota-minima-para-aluno-de-medicina",
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias/entenda-a-tramitacao-da-medida-provisoria",
+    "https://www.congressonacional.leg.br/materias/vetos/entenda-a-tramitacao-do-veto"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "“OAB da Medicina”: Enamed obrigatório para exercer a Medicina", "veiculos": ["Agência Senado/TV Senado", "Agência Câmara", "Congresso em Foco", "O Tempo", "Band", "O Liberal", "Terra", "Viva", "SP Diário", "Jornal Opção"], "proposicao": "MP 1.370/2026 (PLV) — aprovada na comissão mista, na Câmara e no Senado em 15/10/2026; vai à sanção", "nota": 8},
+      {"assunto": "Promulgada aposentadoria especial de agentes de saúde e de combate às endemias", "veiculos": ["Agência Senado/Rádio Senado", "Metrópoles", "Mix Vale", "Diário Campineiro", "AJ Notícias"], "proposicao": "PEC 14/2021 — promulgada como Emenda Constitucional 140 em 16/10/2026", "nota": 6},
+      {"assunto": "Câmara aprova SUS aceitar exames feitos na rede particular", "veiculos": ["Correio da Manhã", "Medicina S/A", "portais regionais"], "proposicao": "PL 1.123/2025 — subemenda substitutiva aprovada no Plenário da Câmara em 15/10/2026; segue ao Senado", "nota": 6},
+      {"assunto": "Promulgação do fim da escala 6x1", "veiculos": ["Agência Senado", "Poder360", "TV Senado", "Click CZ", "CNN Brasil"], "proposicao": "PEC 221/2019 — promulgada como Emenda Constitucional 141 em 16/10/2026", "nota": 5},
+      {"assunto": "Teto do MEI e perdão de dívidas (aguarda sanção)", "veiculos": ["Folha de Alphaville", "Folha Vitória", "Cada Minuto", "Portal do Comércio"], "proposicao": "PLP 186/2026 — aprovado nas duas Casas; aguarda sanção", "nota": 5}
+    ],
+    "escolhido": "MP 1.370/2026 — Enamed obrigatório para o registro de médicos (“OAB da Medicina”)",
+    "motivo": "Maior nota: ampla repercussão com o termo “OAB da Medicina” em veículos diversos (3), aprovada nas duas Casas em 15/10 e indo à sanção (3) e interesse direto do cidadão em saúde e educação (2), sem repetição nos últimos 14 dias. 6x1 e MEI já foram tratados em 14, 15 e 16/10 (−3). Google Trends não consultado nesta execução."
+  }
+}
