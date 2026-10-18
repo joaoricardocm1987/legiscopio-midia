@@ -4,6 +4,7 @@ Rodado pelo workflow "Gerar artes" (gerar-artes.yml), que executa todo
 artes/src/*.py. Os arquivos são adicionados ao git aqui para entrarem
 no commit automático do workflow.
 """
+# Revisão: destaque trocado de "49 de 81" para "Sem data".
 import subprocess
 import sys
 from pathlib import Path
