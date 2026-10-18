@@ -1,6 +1,6 @@
 """YouTube Short diário do Legiscópio (1080x1920, ~1 min): resumo do vídeo longo.
 
-Lê videos/<data>/short.json (voz e velocidade vêm do video.json da mesma pasta) e gera:
+Lê videos/<data>/short.json (voz e velocidade vêm do video.json da mesma pasta, se existir) e gera:
   short.mp4   vídeo vertical com narração, Lupa 2.0, visuais e legendas
 Fica num arquivo separado para não forçar a regeração do vídeo longo.
 
@@ -10,7 +10,9 @@ Formato do short.json:
   "youtube": {"titulo": "...", "descricao": "...", "tags": [...]}
 }
 Visuais: os mesmos do vídeo longo (capa, numero, comparacao, barras, lista, etapas, texto)
-e mais "cta" {titulo?, subtitulo?} — chamada para o vídeo completo no canal (use na última cena).
+e mais "cta" {titulo?, subtitulo?, botao?: ["linha 1", "linha 2"]} — chamada final (use na última cena).
+Por padrão o botão diz "Vídeo completo / no canal"; nos dias sem vídeo longo use, por exemplo,
+"botao": ["Mais vídeos", "no canal"].
 """
 import hashlib
 import json
@@ -74,8 +76,9 @@ def desenhar_cta(img, v, p):
     y += 30
     d.rounded_rectangle([x0, y, x1, y + 330], radius=30, fill=vl.VERDE)
     d.text((x0 + 50, y + 40), "▶", font=vl.BK(90), fill=vl.LIMA)
-    d.text((x0 + 170, y + 50), "Vídeo completo", font=vl.BK(70), fill=vl.BRANCO)
-    d.text((x0 + 170, y + 140), "no canal", font=vl.BK(70), fill=vl.BRANCO)
+    l1, l2 = (list(v.get("botao") or []) + ["Vídeo completo", "no canal"])[:2] if v.get("botao") else ("Vídeo completo", "no canal")
+    d.text((x0 + 170, y + 50), l1, font=vl.BK(70), fill=vl.BRANCO)
+    d.text((x0 + 170, y + 140), l2, font=vl.BK(70), fill=vl.BRANCO)
     sub = v.get("subtitulo", "Legiscópio Explica · todos os detalhes")
     d.text((x0 + 50, y + 255), sub, font=vl.RG(38), fill=vl.LIMA_TX)
     y += 380
@@ -141,7 +144,10 @@ def blocos(palavras, dur, texto):
 def gerar(caminho_json):
     p = Path(caminho_json)
     pasta = p.parent
-    cfg = json.loads(p.read_text(encoding="utf-8"))
+    vj = pasta / "video.json"
+    # aceita video.json ou short.json; nos dias sem vídeo longo só existe o short.json
+    cfg = json.loads(vj.read_text(encoding="utf-8")) if vj.exists() else {"voz": "pt-BR-FranciscaNeural",
+                                                                           "velocidade": "-5%"}
     arq = pasta / "short.json"
     sh = json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else cfg.get("short")
     if not sh or not sh.get("cenas"):
