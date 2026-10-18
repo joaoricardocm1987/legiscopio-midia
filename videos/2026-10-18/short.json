@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "PEC da Segurança em um minuto! A proposta estava pronta para votar no Senado, mas saiu da pauta em quinze de outubro, sem nova data.",
+      "visual": {"tipo": "numero", "titulo": "PEC da Segurança", "valor": "Sem data", "rotulo": "PEC 18/2025 · retirada da pauta do Senado em 15/10"}
+    },
+    {
+      "fala": "O texto coloca o Sistema Único de Segurança Pública na Constituição e endurece regras contra facções e milícias.",
+      "visual": {"tipo": "texto", "titulo": "O que diz a PEC", "texto": "SUSP na Constituição e regras mais duras para facções e milícias."}
+    },
+    {
+      "fala": "Na Câmara, foi aprovada por quatrocentos e oitenta e sete a quinze. No Senado, precisa de quarenta e nove dos oitenta e um votos.",
+      "visual": {"tipo": "barras", "titulo": "Votos necessários", "itens": [{"rotulo": "Câmara (1º turno)", "valor": 487, "texto": "487 a 15"}, {"rotulo": "Senado (mínimo)", "valor": 49, "texto": "49 de 81"}], "nota": "PEC: 3/5 dos votos, em dois turnos"}
+    },
+    {
+      "fala": "O que travou? Emendas que reduzem a maioridade penal, hoje de dezoito anos.",
+      "visual": {"tipo": "numero", "titulo": "Maioridade hoje", "valor": "18 anos", "rotulo": "Art. 228 da Constituição"}
+    },
+    {
+      "fala": "Uma emenda propõe dezesseis anos, e catorze em crimes como tráfico e terrorismo. Outra mantém dezoito, com dezesseis só para crimes hediondos.",
+      "visual": {"tipo": "barras", "titulo": "Menor idade proposta", "itens": [{"rotulo": "Hoje", "valor": 18, "texto": "18"}, {"rotulo": "Alternativa", "valor": 16, "texto": "16 (hediondos)"}, {"rotulo": "Oposição", "valor": 14, "texto": "14 (casos)"}], "nota": "Emendas à PEC 18/2025 no Senado"}
+    },
+    {
+      "fala": "Se o Senado mudar o texto, a PEC volta à Câmara. Sem mudança, vai à promulgação.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Plenário do Senado", "Mudou? Volta à Câmara", "Promulgação"], "atual": 0}
+    },
+    {
+      "fala": "Quer saber o que muda nas polícias, de onde vem o dinheiro e os argumentos dos dois lados? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Polícias, dinheiro e argumentos"}
+    }
+  ],
+  "youtube": {
+    "titulo": "PEC da Segurança e maioridade penal em 1 minuto #Shorts",
+    "descricao": "A PEC da Segurança Pública (PEC 18/2025) saiu da pauta do Senado em 15/10, em meio ao debate sobre emendas que reduzem a maioridade penal. Se o texto mudar, volta à Câmara. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/14/ccj-conclui-votacao-da-pec-da-seguranca-texto-vai-ao-plenario\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #SegurançaPública",
+    "tags": ["Legiscópio", "PEC da Segurança", "maioridade penal", "Senado", "segurança pública", "shorts"]
+  }
+}
