@@ -1,0 +1,879 @@
+1
+00:00:00,102 --> 00:00:00,842
+Olá!
+
+2
+00:00:00,842 --> 00:00:04,000
+Eu sou a Lupa, do Legiscópio, e hoje a gente vai
+
+3
+00:00:04,000 --> 00:00:07,000
+entender a PEC da Segurança Pública, a proposta
+
+4
+00:00:07,000 --> 00:00:09,736
+que estava pronta para votação no Senado e saiu
+
+5
+00:00:09,736 --> 00:00:12,855
+da pauta na última quinta-feira, em meio ao debate
+
+6
+00:00:12,855 --> 00:00:15,250
+sobre a redução da maioridade penal.
+
+7
+00:00:15,250 --> 00:00:18,276
+Neste vídeo, você vai ver o que diz o texto, o que
+
+8
+00:00:18,276 --> 00:00:21,144
+mudou no Senado, o que propõem as emendas sobre
+
+9
+00:00:21,144 --> 00:00:24,197
+a maioridade, os argumentos dos dois lados e os
+
+10
+00:00:24,197 --> 00:00:26,256
+próximos passos.
+
+11
+00:00:26,808 --> 00:00:28,824
+Primeiro, o que aconteceu.
+
+12
+00:00:28,824 --> 00:00:31,732
+Na quarta-feira, catorze de outubro, a Comissão
+
+13
+00:00:31,732 --> 00:00:35,916
+de Constituição e Justiça do Senado, a CCJ, concluiu
+
+14
+00:00:35,916 --> 00:00:39,166
+a votação da PEC dezoito de 2025.
+
+15
+00:00:39,166 --> 00:00:41,995
+No dia seguinte, o Plenário aprovou um calendário
+
+16
+00:00:41,995 --> 00:00:44,284
+especial para acelerar a análise.
+
+17
+00:00:44,284 --> 00:00:47,337
+Mas, na mesma quinta-feira, a presidência do Senado
+
+18
+00:00:47,337 --> 00:00:49,363
+retirou a proposta da pauta.
+
+19
+00:00:49,363 --> 00:00:52,530
+E até agora não há nova data marcada.
+
+20
+00:00:53,082 --> 00:00:55,466
+Por que todo mundo está falando disso?
+
+21
+00:00:55,466 --> 00:00:58,848
+Porque, às vésperas da votação, senadores apresentaram
+
+22
+00:00:58,848 --> 00:01:01,940
+emendas para incluir na PEC a redução da maioridade
+
+23
+00:01:01,940 --> 00:01:05,203
+penal, um tema que divide opiniões há décadas.
+
+24
+00:01:05,203 --> 00:01:08,006
+A presidência do Senado disse que retirou o texto
+
+25
+00:01:08,006 --> 00:01:10,743
+para evitar uma discussão apressada e dar tempo
+
+26
+00:01:10,743 --> 00:01:13,072
+para um entendimento sobre as emendas.
+
+27
+00:01:13,072 --> 00:01:16,137
+E lembrou que mudanças no texto obrigariam a proposta
+
+28
+00:01:16,137 --> 00:01:18,252
+a voltar para a Câmara.
+
+29
+00:01:18,804 --> 00:01:20,830
+Antes de seguir, vale lembrar:
+
+30
+00:01:20,830 --> 00:01:24,238
+PEC é a sigla de Proposta de Emenda à Constituição,
+
+31
+00:01:24,238 --> 00:01:27,291
+o tipo de proposta usado para mudar a Constituição
+
+32
+00:01:27,291 --> 00:01:28,109
+Federal.
+
+33
+00:01:28,109 --> 00:01:32,886
+A PEC dezoito de 2025 foi enviada pelo Poder Executivo.
+
+34
+00:01:32,886 --> 00:01:35,859
+Na Câmara dos Deputados, ela foi aprovada em março
+
+35
+00:01:35,859 --> 00:01:36,767
+deste ano:
+
+36
+00:01:36,767 --> 00:01:39,925
+quatrocentos e oitenta e sete votos a favor, quinze
+
+37
+00:01:39,925 --> 00:01:43,386
+contra e uma abstenção no primeiro turno, e quatrocentos
+
+38
+00:01:43,386 --> 00:01:46,469
+e sessenta e um a catorze no segundo.
+
+39
+00:01:47,021 --> 00:01:48,985
+Agora, o que diz o texto.
+
+40
+00:01:48,985 --> 00:01:52,117
+O ponto central é colocar na Constituição o Sistema
+
+41
+00:01:52,117 --> 00:01:55,498
+Único de Segurança Pública, o SUSP, às vezes chamado
+
+42
+00:01:55,498 --> 00:01:56,998
+de SUS da Segurança.
+
+43
+00:01:56,998 --> 00:02:00,235
+A ideia é integrar o trabalho da União, dos estados,
+
+44
+00:02:00,235 --> 00:02:03,551
+do Distrito Federal e dos municípios, com forças-tarefa
+
+45
+00:02:03,551 --> 00:02:06,577
+conjuntas, compartilhamento de informações e de
+
+46
+00:02:06,577 --> 00:02:09,551
+provas e sistemas interligados.
+
+47
+00:02:10,104 --> 00:02:13,183
+Para líderes e integrantes de facções criminosas,
+
+48
+00:02:13,183 --> 00:02:16,920
+milícias e grupos paramilitares, o texto prevê regras
+
+49
+00:02:16,920 --> 00:02:17,907
+mais duras:
+
+50
+00:02:17,907 --> 00:02:21,094
+cumprimento de pena em presídio de segurança máxima,
+
+51
+00:02:21,094 --> 00:02:25,041
+limites à progressão de regime e a benefícios processuais,
+
+52
+00:02:25,041 --> 00:02:28,212
+perda de bens ligados ao crime sem indenização,
+
+53
+00:02:28,212 --> 00:02:31,475
+responsabilização das empresas envolvidas e proteção
+
+54
+00:02:31,475 --> 00:02:34,457
+para quem denunciar e para a sua família.
+
+55
+00:02:35,010 --> 00:02:38,115
+O texto também coloca na Constituição direitos das
+
+56
+00:02:38,115 --> 00:02:39,431
+vítimas de crimes:
+
+57
+00:02:39,431 --> 00:02:43,247
+proteção, informação, assistência, acesso à Justiça
+
+58
+00:02:43,247 --> 00:02:46,644
+e participação no processo penal, com atenção especial
+
+59
+00:02:46,644 --> 00:02:47,697
+às mulheres.
+
+60
+00:02:47,697 --> 00:02:50,658
+E determina que as penas sejam aplicadas com o rigor
+
+61
+00:02:50,658 --> 00:02:53,789
+necessário para reparar o dano às vítimas e proteger
+
+62
+00:02:53,789 --> 00:02:55,548
+a sociedade.
+
+63
+00:02:56,100 --> 00:02:58,511
+Nas polícias, há várias mudanças.
+
+64
+00:02:58,511 --> 00:03:01,616
+Os municípios poderão criar polícias municipais,
+
+65
+00:03:01,616 --> 00:03:04,984
+para policiamento ostensivo e comunitário, com controle
+
+66
+00:03:04,984 --> 00:03:08,787
+externo do Ministério Público e exigências de credenciamento,
+
+67
+00:03:08,787 --> 00:03:11,998
+capacidade financeira e formação padronizada.
+
+68
+00:03:11,998 --> 00:03:15,090
+Uma cidade não poderá ter guarda e polícia municipal
+
+69
+00:03:15,090 --> 00:03:16,787
+com as mesmas funções.
+
+70
+00:03:16,787 --> 00:03:19,800
+A Polícia Rodoviária Federal passa a atuar também
+
+71
+00:03:19,800 --> 00:03:22,300
+em ferrovias e hidrovias federais.
+
+72
+00:03:22,300 --> 00:03:25,208
+E as polícias penais ganham força na custódia e
+
+73
+00:03:25,208 --> 00:03:27,678
+na disciplina dos presos.
+
+74
+00:03:28,230 --> 00:03:29,349
+Outro ponto:
+
+75
+00:03:29,349 --> 00:03:32,309
+o Congresso passa a poder suspender atos do Conselho
+
+76
+00:03:32,309 --> 00:03:35,559
+Nacional de Justiça e do Conselho Nacional do Ministério
+
+77
+00:03:35,559 --> 00:03:38,601
+Público que ultrapassem o poder de regulamentar.
+
+78
+00:03:38,601 --> 00:03:41,667
+Mas só em temas de segurança pública, direito penal,
+
+79
+00:03:41,667 --> 00:03:45,024
+processo penal e sistema penitenciário.
+
+80
+00:03:45,576 --> 00:03:46,645
+E o dinheiro?
+
+81
+00:03:46,645 --> 00:03:49,342
+Aqui está uma das principais mudanças feitas no
+
+82
+00:03:49,342 --> 00:03:50,158
+Senado.
+
+83
+00:03:50,158 --> 00:03:53,210
+O texto da Câmara destinava aos fundos de segurança
+
+84
+00:03:53,210 --> 00:03:56,395
+uma parte da arrecadação das apostas esportivas,
+
+85
+00:03:56,395 --> 00:03:59,210
+as bets, chegando a trinta por cento a partir de
+
+86
+00:03:59,210 --> 00:04:00,618
+2028.
+
+87
+00:04:00,618 --> 00:04:03,487
+O relator no Senado retirou esse trecho e deixou
+
+88
+00:04:03,487 --> 00:04:05,184
+essas regras para uma lei.
+
+89
+00:04:05,184 --> 00:04:08,487
+Ficou mantida a destinação de dez por cento do superávit
+
+90
+00:04:08,487 --> 00:04:11,329
+financeiro anual do Fundo Social do pré-sal, de
+
+91
+00:04:11,329 --> 00:04:16,458
+forma gradual, entre 2027 e 2029.
+
+92
+00:04:17,010 --> 00:04:19,879
+Os fundos da área, como o Fundo Nacional de Segurança
+
+93
+00:04:19,879 --> 00:04:22,931
+Pública e o Fundo Penitenciário Nacional, ficam
+
+94
+00:04:22,931 --> 00:04:25,868
+protegidos de bloqueios e remanejamentos, a não
+
+95
+00:04:25,868 --> 00:04:28,289
+ser em caso de queda da arrecadação.
+
+96
+00:04:28,289 --> 00:04:31,118
+E metade dos recursos desses dois fundos passa a
+
+97
+00:04:31,118 --> 00:04:34,171
+ser transferida obrigatoriamente pela União, sem
+
+98
+00:04:34,171 --> 00:04:36,324
+depender de convênio.
+
+99
+00:04:36,875 --> 00:04:39,757
+Agora, o assunto que está no centro do debate:
+
+100
+00:04:39,757 --> 00:04:41,274
+a maioridade penal.
+
+101
+00:04:41,274 --> 00:04:44,471
+Hoje, o artigo duzentos e vinte e oito da Constituição
+
+102
+00:04:44,471 --> 00:04:47,931
+diz que menores de dezoito anos não respondem criminalmente
+
+103
+00:04:47,931 --> 00:04:49,050
+como adultos.
+
+104
+00:04:49,050 --> 00:04:52,116
+Adolescentes de doze a dezessete anos que cometem
+
+105
+00:04:52,116 --> 00:04:55,629
+atos infracionais recebem medidas socioeducativas,
+
+106
+00:04:55,629 --> 00:04:58,800
+previstas no Estatuto da Criança e do Adolescente,
+
+107
+00:04:58,800 --> 00:04:59,524
+o ECA.
+
+108
+00:04:59,524 --> 00:05:02,458
+A mais dura é a internação, que pode durar até três
+
+109
+00:05:02,458 --> 00:05:03,966
+anos.
+
+110
+00:05:04,518 --> 00:05:05,518
+Rapidinho:
+
+111
+00:05:05,518 --> 00:05:08,571
+se este vídeo está te ajudando, deixa o seu like,
+
+112
+00:05:08,571 --> 00:05:11,729
+se inscreve no canal e ativa o sininho pra não perder
+
+113
+00:05:11,729 --> 00:05:12,876
+os próximos.
+
+114
+00:05:12,876 --> 00:05:15,288
+Agora, vamos continuar!
+
+115
+00:05:15,840 --> 00:05:18,616
+Duas emendas sobre o tema foram apresentadas no
+
+116
+00:05:18,616 --> 00:05:19,461
+Senado.
+
+117
+00:05:19,461 --> 00:05:22,790
+A primeira, da oposição, com trinta e sete assinaturas,
+
+118
+00:05:22,790 --> 00:05:25,856
+reduz a maioridade penal para dezesseis anos como
+
+119
+00:05:25,856 --> 00:05:26,882
+regra geral.
+
+120
+00:05:26,882 --> 00:05:29,659
+E permite responsabilizar adolescentes a partir
+
+121
+00:05:29,659 --> 00:05:32,566
+de catorze anos em casos como crimes hediondos,
+
+122
+00:05:32,566 --> 00:05:36,409
+tortura, tráfico de drogas, terrorismo e organização
+
+123
+00:05:36,409 --> 00:05:38,033
+criminosa.
+
+124
+00:05:38,586 --> 00:05:41,678
+A segunda emenda, apresentada por senadores da base
+
+125
+00:05:41,678 --> 00:05:45,086
+do governo e assinada por vinte e oito parlamentares,
+
+126
+00:05:45,086 --> 00:05:48,326
+mantém os dezoito anos como regra geral, mas reduz
+
+127
+00:05:48,326 --> 00:05:51,681
+para dezesseis anos nos casos de crimes hediondos.
+
+128
+00:05:51,681 --> 00:05:55,859
+Ela foi apresentada como uma alternativa mais restrita.
+
+129
+00:05:56,412 --> 00:05:59,952
+Comparando as três situações pela menor idade prevista:
+
+130
+00:05:59,952 --> 00:06:03,678
+a regra atual é de dezoito anos para todos os casos.
+
+131
+00:06:03,678 --> 00:06:06,796
+A emenda da oposição chega a catorze anos em crimes
+
+132
+00:06:06,796 --> 00:06:08,112
+específicos.
+
+133
+00:06:08,112 --> 00:06:11,099
+E a emenda alternativa chega a dezesseis, só em
+
+134
+00:06:11,099 --> 00:06:13,182
+crimes hediondos.
+
+135
+00:06:13,734 --> 00:06:15,208
+Um detalhe importante:
+
+136
+00:06:15,208 --> 00:06:17,447
+a Câmara já tinha discutido isso.
+
+137
+00:06:17,447 --> 00:06:20,421
+Em março, a redução da maioridade para dezesseis
+
+138
+00:06:20,421 --> 00:06:23,474
+anos em crimes com violência ou grave ameaça foi
+
+139
+00:06:23,474 --> 00:06:26,079
+retirada do texto antes da votação.
+
+140
+00:06:26,079 --> 00:06:28,960
+Por isso, se o Senado incluir qualquer mudança desse
+
+141
+00:06:28,960 --> 00:06:32,368
+tipo, a PEC precisa voltar para a Câmara e ser votada
+
+142
+00:06:32,368 --> 00:06:34,944
+de novo, em dois turnos.
+
+143
+00:06:35,496 --> 00:06:37,722
+E o tema não é novo no Congresso.
+
+144
+00:06:37,722 --> 00:06:41,328
+Em 2015, a Câmara aprovou uma proposta que reduzia
+
+145
+00:06:41,328 --> 00:06:44,801
+a maioridade para dezesseis anos em crimes hediondos,
+
+146
+00:06:44,801 --> 00:06:48,407
+homicídio doloso e lesão corporal seguida de morte.
+
+147
+00:06:48,407 --> 00:06:53,370
+O texto foi para o Senado e acabou arquivado em 2022.
+
+148
+00:06:53,922 --> 00:06:55,635
+Quais são os argumentos?
+
+149
+00:06:55,635 --> 00:06:58,991
+Quem defende a redução diz que as medidas socioeducativas
+
+150
+00:06:58,991 --> 00:07:02,083
+são brandas demais para crimes graves e que facções
+
+151
+00:07:02,083 --> 00:07:05,083
+recrutam adolescentes justamente porque a resposta
+
+152
+00:07:05,083 --> 00:07:06,596
+é leve e temporária.
+
+153
+00:07:06,596 --> 00:07:10,004
+Já os críticos questionam se a redução previne crimes,
+
+154
+00:07:10,004 --> 00:07:13,083
+alertam para o risco de expor adolescentes às facções
+
+155
+00:07:13,083 --> 00:07:16,280
+dentro dos presídios e afirmam que a idade de dezoito
+
+156
+00:07:16,280 --> 00:07:19,359
+anos é uma garantia protegida pela Constituição,
+
+157
+00:07:19,359 --> 00:07:21,727
+que não poderia ser mudada por emenda.
+
+158
+00:07:21,727 --> 00:07:25,109
+Esse ponto divide juristas e, se a mudança for aprovada,
+
+159
+00:07:25,109 --> 00:07:28,668
+pode ser levado ao Supremo Tribunal Federal.
+
+160
+00:07:29,220 --> 00:07:31,841
+Sobre a PEC em si, também há debate.
+
+161
+00:07:31,841 --> 00:07:34,657
+O relator no Senado defende que ela é um avanço
+
+162
+00:07:34,657 --> 00:07:37,710
+contra o crime organizado, porque integra as forças
+
+163
+00:07:37,710 --> 00:07:41,262
+de segurança e corta o poder financeiro das facções.
+
+164
+00:07:41,262 --> 00:07:43,933
+Especialistas ouvidos pela imprensa dizem que o
+
+165
+00:07:43,933 --> 00:07:47,144
+texto traz ferramentas importantes, mas não resolve
+
+166
+00:07:47,144 --> 00:07:49,828
+o problema sozinho, e apontam riscos:
+
+167
+00:07:49,828 --> 00:07:53,302
+conflitos entre órgãos com funções parecidas e restrições
+
+168
+00:07:53,302 --> 00:07:56,117
+automáticas à progressão de pena que poderiam ser
+
+169
+00:07:56,117 --> 00:07:58,039
+contestadas na Justiça.
+
+170
+00:07:58,039 --> 00:08:01,012
+O Ministério Público Federal também apontou riscos
+
+171
+00:08:01,012 --> 00:08:03,485
+a direitos e garantias.
+
+172
+00:08:04,038 --> 00:08:07,091
+Para ser aprovada no Senado, a PEC precisa de pelo
+
+173
+00:08:07,091 --> 00:08:09,933
+menos quarenta e nove dos oitenta e um senadores,
+
+174
+00:08:09,933 --> 00:08:11,804
+em dois turnos de votação.
+
+175
+00:08:11,804 --> 00:08:15,199
+Pelas regras normais, são cinco sessões de discussão
+
+176
+00:08:15,199 --> 00:08:18,251
+antes do primeiro turno, três antes do segundo e
+
+177
+00:08:18,251 --> 00:08:21,330
+um intervalo de cinco dias úteis entre eles.
+
+178
+00:08:21,330 --> 00:08:24,199
+Um calendário especial, aprovado pelos senadores,
+
+179
+00:08:24,199 --> 00:08:26,807
+pode encurtar esses prazos.
+
+180
+00:08:27,360 --> 00:08:28,271
+E agora?
+
+181
+00:08:28,271 --> 00:08:31,284
+Na agenda oficial do Plenário do Senado para esta
+
+182
+00:08:31,284 --> 00:08:34,981
+semana, só há sessões especiais, sem votações.
+
+183
+00:08:34,981 --> 00:08:37,915
+O segundo turno das eleições é no domingo, vinte
+
+184
+00:08:37,915 --> 00:08:39,258
+e cinco de outubro.
+
+185
+00:08:39,258 --> 00:08:42,731
+Se o Senado aprovar o texto sem mudanças de conteúdo,
+
+186
+00:08:42,731 --> 00:08:45,731
+a PEC vai à promulgação pelo Congresso, sem sanção
+
+187
+00:08:45,731 --> 00:08:46,863
+presidencial.
+
+188
+00:08:46,863 --> 00:08:50,105
+Se houver mudança, volta para a Câmara.
+
+189
+00:08:50,658 --> 00:08:53,792
+Respostas rápidas para as dúvidas mais comuns.
+
+190
+00:08:53,792 --> 00:08:55,924
+A maioridade penal já mudou?
+
+191
+00:08:55,924 --> 00:08:58,253
+Não, continua em dezoito anos.
+
+192
+00:08:58,253 --> 00:09:00,279
+A PEC da Segurança já vale?
+
+193
+00:09:00,279 --> 00:09:03,161
+Não, ainda depende do Plenário do Senado.
+
+194
+00:09:03,161 --> 00:09:05,371
+As emendas já foram aprovadas?
+
+195
+00:09:05,371 --> 00:09:07,911
+Não, ainda precisam ser votadas.
+
+196
+00:09:07,911 --> 00:09:11,727
+E uma eventual mudança na maioridade pode ser questionada?
+
+197
+00:09:11,727 --> 00:09:15,029
+Sim, especialistas apontam que o tema pode chegar
+
+198
+00:09:15,029 --> 00:09:16,715
+ao Supremo.
+
+199
+00:09:17,268 --> 00:09:18,268
+Resumindo:
+
+200
+00:09:18,268 --> 00:09:22,663
+a PEC dezoito de 2025 coloca o SUSP na Constituição,
+
+201
+00:09:22,663 --> 00:09:26,047
+endurece regras contra facções e milícias, permite
+
+202
+00:09:26,047 --> 00:09:29,692
+polícias municipais e muda o financiamento da segurança.
+
+203
+00:09:29,692 --> 00:09:32,665
+Ela saiu da pauta do Senado em meio ao debate sobre
+
+204
+00:09:32,665 --> 00:09:35,665
+a maioridade penal e ainda não tem nova data de
+
+205
+00:09:35,665 --> 00:09:37,205
+votação.
+
+206
+00:09:37,758 --> 00:09:41,379
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+207
+00:09:41,379 --> 00:09:45,155
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+208
+00:09:45,155 --> 00:09:48,669
+E o nosso site é legiscopio ponto com ponto br.
+
+209
+00:09:48,669 --> 00:09:49,919
+E tem novidade:
+
+210
+00:09:49,919 --> 00:09:53,313
+o aplicativo do Legiscópio está em fase de testes.
+
+211
+00:09:53,313 --> 00:09:55,879
+Enquanto ele não chega às lojas do Android e do
+
+212
+00:09:55,879 --> 00:10:00,048
+iOS, você já pode conhecê-lo pelo nosso site.
+
+213
+00:10:00,600 --> 00:10:04,021
+As fontes deste vídeo são a Agência Senado, a Agência
+
+214
+00:10:04,021 --> 00:10:07,153
+Câmara e reportagens da imprensa, e os links estão
+
+215
+00:10:07,153 --> 00:10:08,247
+na descrição.
+
+216
+00:10:08,247 --> 00:10:11,155
+Se este conteúdo te ajudou, se inscreva no canal
+
+217
+00:10:11,155 --> 00:10:14,011
+e compartilhe com quem quer entender esse debate.
+
+218
+00:10:14,011 --> 00:10:17,340
+O Legiscópio é um projeto independente e gratuito,
+
+219
+00:10:17,340 --> 00:10:20,958
+e você pode apoiar em apoia ponto se barra legiscopio.
+
+220
+00:10:20,958 --> 00:10:22,697
+Até amanhã!
