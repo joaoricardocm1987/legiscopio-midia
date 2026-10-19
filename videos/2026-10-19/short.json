@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Ligações abusivas em um minuto! Uma medida provisória já em vigor limita a mil as chamadas por linha num mesmo dia.",
+      "visual": {"tipo": "comparacao", "titulo": "Limite por dia", "antes": {"valor": "100 mil", "rotulo": "Regra da Anatel"}, "depois": {"valor": "1.000", "rotulo": "MP, por linha"}}
+    },
+    {
+      "fala": "O limite vale para mais de mil ligações por linha, ou dez mil somando as linhas, com oitenta e cinco por cento de chamadas curtas.",
+      "visual": {"tipo": "numero", "titulo": "Chamadas curtas", "valor": "85%", "rotulo": "Não atendidas, caixa postal ou até 6 segundos"}
+    },
+    {
+      "fala": "Quem passar do limite fica quinze dias sem poder fazer ligações. A linha não é cancelada.",
+      "visual": {"tipo": "numero", "titulo": "Bloqueio", "valor": "15 dias", "rotulo": "Sem fazer chamadas · MP 1.396/2026"}
+    },
+    {
+      "fala": "As operadoras vão autenticar as chamadas, e a empresa que liga deve aparecer na tela com nome e logotipo.",
+      "visual": {"tipo": "texto", "titulo": "Na tela do celular", "texto": "Chamada autenticada mostra nome e logotipo da empresa. Sem autenticação, pode ser bloqueada."}
+    },
+    {
+      "fala": "Quem defende diz que a regra vira lei e antecipa a autenticação. Críticos temem o bloqueio de ligações legítimas.",
+      "visual": {"tipo": "lista", "titulo": "Dois lados", "itens": ["A favor: regra vira lei", "Críticos: risco a chamadas legítimas"]}
+    },
+    {
+      "fala": "A MP já vale, mas precisa ser aprovada pela Câmara e pelo Senado. O prazo inicial vai até onze de dezembro, e pode ser prorrogado.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Comissão mista", "Câmara e Senado", "Prazo: 11/12 (+60)"], "atual": 0}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como funciona uma MP", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Ligações abusivas: o que muda com a nova MP em 1 minuto #Shorts",
+    "descricao": "A MP 1.396/2026 limita a 1.000 as chamadas por linha num mesmo dia, com 85% de ligações curtas, e prevê bloqueio de 15 dias. Precisa ser aprovada pela Câmara e pelo Senado; o prazo inicial vai até 11/12, prorrogável por 60 dias. Mais explicações no canal Legiscópio.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/175932\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #DireitoDoConsumidor",
+    "tags": ["Legiscópio", "ligações abusivas", "MP 1396", "telemarketing", "golpes por telefone", "shorts"]
+  }
+}
