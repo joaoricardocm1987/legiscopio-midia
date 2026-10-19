@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {"tela": "feed_tudo.png", "tipo": "capa", "titulo": "O Congresso no seu celular",
+     "fala": "Quer saber como votou um deputado do seu estado? Eu te mostro em um minuto.",
+     "destaques": []},
+    {"tela": "feed_tudo.png", "titulo": "Feed",
+     "fala": "No Legiscópio, o Feed mostra tudo o que mudou no Congresso, com filtro pra Câmara e pro Senado.",
+     "destaques": [
+       {"caixa": [10, 120, 250, 156], "em": "filtro", "rotulo": "Filtro por Casa"},
+       {"caixa": [12, 180, 368, 310], "em": "Senado", "rotulo": "Cada novidade num cartão"}]},
+    {"tela": "votos.png", "transicao": "lado", "titulo": "Votos",
+     "fala": "No perfil de cada parlamentar, você vê os votos, um por um, e se ele seguiu a orientação da bancada.",
+     "destaques": [
+       {"caixa": [318, 222, 372, 560], "em": "votos", "rotulo": "Sim ou Não"},
+       {"caixa": [12, 250, 300, 270], "em": "seguiu", "rotulo": "Seguiu a orientação?"}]},
+    {"tela": "cota.png", "transicao": "lado", "titulo": "Cota parlamentar",
+     "fala": "Tem também a cota parlamentar, com o gasto mês a mês e o limite do estado.",
+     "destaques": [
+       {"caixa": [12, 136, 300, 196], "em": "cota", "rotulo": "Gasto no ano"},
+       {"caixa": [12, 310, 370, 556], "em": "mês", "rotulo": "Mês a mês"}]},
+    {"tela": "agenda_camara.png", "transicao": "lado", "titulo": "Agenda",
+     "fala": "Na Agenda, as reuniões e sessões do dia. E com a estrelinha, você acompanha quem quiser.",
+     "destaques": [
+       {"caixa": [10, 126, 372, 178], "em": "reuniões", "rotulo": "Escolha o dia"},
+       {"caixa": [8, 186, 186, 212], "em": "estrelinha", "rotulo": "Só o que eu acompanho"}]},
+    {"tela": "sobre.png", "transicao": "lado", "titulo": "Gratuito e independente",
+     "fala": "É gratuito, sem anúncios e com dados oficiais. O tutorial completo está no canal, e o app, em legiscopio ponto com ponto br.",
+     "destaques": [
+       {"caixa": [20, 84, 360, 230], "em": "gratuito", "rotulo": "Independente"},
+       {"caixa": [12, 244, 372, 392], "em": "oficiais", "rotulo": "Dados oficiais"}]}
+  ],
+  "youtube": {
+    "titulo": "Como ver o voto do seu deputado no celular #shorts",
+    "descricao": "Em 1 minuto: Feed, votos, cota parlamentar e agenda do Congresso no app Legiscópio. Tutorial completo no canal. Conheça o app (em fase de testes): legiscopio.com.br\n\n#Legiscópio #Congresso #Transparência",
+    "tags": ["Legiscópio", "tutorial", "Congresso", "deputado", "cota parlamentar"]
+  }
+}
