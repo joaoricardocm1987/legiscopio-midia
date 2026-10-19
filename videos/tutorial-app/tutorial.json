@@ -148,11 +148,11 @@
        {"caixa": [12, 74, 370, 108], "em": "acompanhados", "rotulo": "Meus acompanhados"},
        {"caixa": [12, 110, 370, 560], "em": "lista", "rotulo": "A sua lista pessoal"}]},
     {"tela": "conta.png", "transicao": "lado", "secao": "ABA CONTA", "titulo": "Sua conta", "capitulo": "Conta e configurações",
-     "fala": "Por fim, a aba Conta. Aqui você edita seus dados, cuida da segurança e do login e vê como seus dados são tratados. Na versão web, as novidades aparecem no Feed. Os avisos no celular vão chegar pelo aplicativo, que está em fase de testes.",
+     "fala": "Por fim, a aba Conta. Aqui você edita seus dados, cuida da segurança e do login e vê como seus dados são tratados. Na versão web, as novidades aparecem no Feed. Os avisos no celular vão chegar pelo aplicativo, que será liberado para Android no dia 23 de outubro e para iOS logo depois.",
      "destaques": [
        {"caixa": [316, 560, 380, 608], "em": "Conta", "rotulo": "Aba Conta", "toque": true},
        {"caixa": [20, 222, 360, 396], "em": "edita", "rotulo": "Dados, segurança e privacidade"},
-       {"caixa": [20, 432, 360, 560], "em": "web", "rotulo": "Avisos no app do celular"}]},
+       {"caixa": [20, 432, 360, 560], "em": "web", "rotulo": "Avisos no app: Android em 23/10"}]},
     {"tela": "conta2.png", "transicao": "rolar", "secao": "ABA CONTA", "titulo": "Preferências e ajuda",
      "fala": "Rolando, tem as preferências de notificação, o tema do aplicativo e a parte de ajuda, com termos de uso e política de privacidade.",
      "destaques": [
@@ -178,7 +178,7 @@
   "thumb": {"linha1": "O Congresso", "linha2": "no seu celular"},
   "youtube": {
     "titulo": "Como usar o Legiscópio: o app que mostra votos, gastos e projetos do Congresso (tutorial completo)",
-    "descricao": "Tutorial completo do Legiscópio, o app gratuito e apartidário que acompanha a Câmara dos Deputados e o Senado Federal. Tela por tela: Feed, Agenda, Políticos (votos, aderência à bancada e cota parlamentar), Proposições, Favoritos e Conta.\n\n{{CAPITULOS}}\n\nConheça o app (em fase de testes): legiscopio.com.br\nInstagram: @legiscopio · TikTok: @legiscopio\nApoie o Legiscópio: https://apoia.se/legiscopio\n\nOs dados vêm das APIs oficiais da Câmara dos Deputados e do Senado Federal. O Legiscópio é independente e não tem vínculo com governo, partidos ou candidaturas.\n\n#Legiscópio #CongressoNacional #Transparência #PolíticaBrasileira",
+    "descricao": "Tutorial completo do Legiscópio, o app gratuito e apartidário que acompanha a Câmara dos Deputados e o Senado Federal. Tela por tela: Feed, Agenda, Políticos (votos, aderência à bancada e cota parlamentar), Proposições, Favoritos e Conta.\n\n{{CAPITULOS}}\n\nConheça o app: www.legiscopio.com.br (Android a partir de 23/10/2026; iOS logo depois)\nInstagram: @legiscopio · TikTok: @legiscopio\nApoie o Legiscópio: https://apoia.se/legiscopio\n\nOs dados vêm das APIs oficiais da Câmara dos Deputados e do Senado Federal. O Legiscópio é independente e não tem vínculo com governo, partidos ou candidaturas.\n\n#Legiscópio #CongressoNacional #Transparência #PolíticaBrasileira",
     "tags": ["Legiscópio", "app Legiscópio", "tutorial", "Congresso Nacional", "Câmara dos Deputados", "Senado Federal", "como votou meu deputado", "cota parlamentar", "transparência", "política brasileira"]
   }
 }
