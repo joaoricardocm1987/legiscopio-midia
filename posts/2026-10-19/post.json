@@ -1,0 +1,35 @@
+{
+  "rotulo": "Medida provisória",
+  "titulo": "Ligações abusivas: MP limita a 1.000 chamadas por linha e bloqueia por 15 dias",
+  "destaque": "1.000/dia",
+  "detalhe": "MP 1.396/2026: linha com mais de 1.000 chamadas no dia, 85% delas curtas, fica 15 dias sem ligar. Pela regra da Anatel, o limite era 100 mil.",
+  "fonte": "Fonte: Congresso Nacional e Agência Senado · out/2026",
+  "legenda": "Uma medida provisória (MP) em vigor desde 13 de outubro cria regras contra ligações abusivas e golpes por telefone. A MP 1.396/2026 já vale como lei, mas precisa ser aprovada pela Câmara e pelo Senado para não perder a validade: o prazo inicial vai até 11 de dezembro e pode ser prorrogado por mais 60 dias. O prazo para os parlamentares apresentarem emendas termina nesta segunda (19).\n\nO que muda:\n• Uso abusivo: mais de 1.000 chamadas no mesmo dia por linha (ou mais de 10 mil somando as linhas do mesmo usuário), com pelo menos 85% de chamadas curtas: não atendidas, que vão para a caixa postal ou de até 6 segundos.\n• Punição: a linha fica 15 dias sem poder fazer ligações (não é cancelada). Pela regra cautelar da Anatel (Agência Nacional de Telecomunicações), o limite era de 100 mil chamadas por dia.\n• As operadoras terão de autenticar as ligações e bloquear as não autenticadas, com exceções definidas pela Anatel. A empresa que liga deve aparecer com nome e logotipo.\n• Órgãos públicos e serviços de saúde, segurança pública e defesa civil ficam fora do critério de abuso.\n\nOs limites passam a valer 30 dias após a publicação, e a Anatel tem 60 dias para regulamentar. Quem defende a MP argumenta que ela transforma em lei critérios da Anatel que eram questionados na Justiça e antecipa a autenticação de chamadas, antes prevista para 2028. Setores críticos apontam o risco de bloqueio de ligações legítimas, e entidades de telesserviços (telemarketing) pedem revisão das regras de bloqueio.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/175932 | Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/13/mp-determina-bloqueio-de-chamadas-e-mensagens-abusivas\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #DireitoDoConsumidor #MedidaProvisória",
+  "legenda_tiktok": "MP contra ligações abusivas: linha com mais de 1.000 chamadas no dia, 85% delas curtas, fica 15 dias sem ligar. Antes, a regra da Anatel era 100 mil. A MP 1.396/2026 ainda precisa ser aprovada pelo Congresso. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #DireitoDoConsumidor",
+  "fontes": [
+    "https://www.congressonacional.leg.br/pt_BR/materias/medidas-provisorias/-/mpv/175932",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/13/mp-determina-bloqueio-de-chamadas-e-mensagens-abusivas",
+    "https://www.congressoemfoco.com.br/noticia/123184/lula-edita-mp-para-bloquear-ligacoes-abusivas-e-combater-golpes",
+    "https://canaltech.com.br/telecom/nova-mp-aperta-cerco-contra-golpes-por-telefone-e-chamadas-abusivas/",
+    "https://www.correio24horas.com.br/economia/bloqueio-de-ligacoes-abusivas-tenta-devolver-o-sossego-ao-celular-do-consumidor-1026",
+    "https://tecnoblog.net/noticias/governo-publica-medida-provisoria-para-combater-golpes-em-ligacoes/",
+    "https://convergenciadigital.com.br/?p=56234",
+    "https://antihype.com.br/c/seguranca/ligacoes-abusivas-mp-1396-limite-mil-chamadas-linha/",
+    "https://teletime.com.br/26/04/2024/anatel-endurece-regras-contra-ligacoes-abusivas-de-telemarketing/",
+    "https://www.oliberal.com/variedades/medida-provisoria-cria-regras-para-coibir-golpes-telefonicos-saiba-como-vai-funcionar-1.1182233",
+    "https://soubrasilia.com/sus-aceitar-exames-rede-privada-pl-1123-2025-camara-aprova/",
+    "https://www.correiodamanha.com.br/colunistas/paulo-cappelli/2026/10/327584-camara-aprova-projeto-de-nikolas-para-que-sus-aceite-analise-de-exames-feitos-em-unidades-particulares.html",
+    "https://www.polemicaparaiba.com.br/politica/fim-da-escala-6x1-imposto-seletivo-mei-e-maioridade-penal-confira-propostas-que-avancaram-no-congresso-nacional-e-o-que-sera-discutido-apos-as-eleicoes/"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "MP contra ligações abusivas e golpes por telefone (limite de 1.000 chamadas por linha)", "veiculos": ["Agência Senado", "Congresso em Foco", "O Liberal", "Correio (BA)", "Canaltech", "Tecnoblog", "Convergência Digital", "Jornal do Brasil", "Diário do Pará", "Gazeta Mercantil"], "proposicao": "MPV 1.396/2026 — em vigor desde 13/10; comissão mista designada em 15/10; prazo de emendas até 19/10; vigência inicial até 11/12", "nota": 6},
+      {"assunto": "Câmara aprova SUS aceitar exames feitos na rede privada", "veiculos": ["Correio da Manhã", "Pleno News", "Medicina S/A", "Sou Brasília", "Atlas Público"], "proposicao": "PL 1.123/2025 — aprovado na Câmara em 15/10; segue ao Senado", "nota": 6},
+      {"assunto": "PEC da Segurança e redução da maioridade penal", "veiculos": ["Agência Senado", "Band", "CNN Brasil", "Correio da Manhã", "Polêmica Paraíba"], "proposicao": "PEC 18/2025 — retirada da pauta do Senado em 15/10, sem nova data", "nota": 4},
+      {"assunto": "Salário mínimo de R$ 1.741 no Orçamento de 2027", "veiculos": ["Mix Vale"], "proposicao": "PLOA 2027 — Comissão Mista de Orçamento", "nota": 4},
+      {"assunto": "Teto do MEI de R$ 140 mil aguarda sanção", "veiculos": ["Mix Vale", "Metrópoles", "Atlas Público"], "proposicao": "PLP 186/2026 — remetido à sanção", "nota": 3}
+    ],
+    "escolhido": "MPV 1.396/2026 — bloqueio de ligações abusivas e combate a golpes por telefone",
+    "motivo": "Empate na nota com o PL 1.123/2025 (SUS e exames da rede privada): repercussão ampla em veículos gerais e especializados (3), comissão mista designada e prazo de emendas terminando hoje (1), interesse direto do cidadão (2). Desempate: a MP tem texto e calendário oficiais completos (Congresso Nacional) e números precisos; saúde foi tema do post de 17/10. PEC da Segurança (18/10), MEI (16/10) e 6x1 (14 e 15/10) já tratados (−3). Semana sem votações no Plenário por causa do 2º turno das eleições (25/10). Google Trends não consultado."
+  }
+}
