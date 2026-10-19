@@ -227,6 +227,57 @@ def preparar_audio(pasta):
     print(f"narração pronta: {len(falas)} falas em {AUDIO}")
 
 
+# fala -> legenda: o que é dito por extenso aparece escrito como endereço
+TROCAS = {
+    "legiscopio ponto com ponto br": "www.legiscopio.com.br",
+    "apoia ponto se barra legiscopio": "apoia.se/legiscopio",
+}
+
+
+def legendas(palavras, dur, fala):
+    """vl.blocos_legenda, trocando endereços falados por extenso pela forma escrita."""
+    if not palavras:
+        return vl.blocos_legenda(palavras, dur, fala)
+    al = [(t, w) for t, w in vl.alinhar(palavras, fala)]
+    for falado, escrito in TROCAS.items():
+        alvo = falado.split()
+        out, k = [], 0
+        while k < len(al):
+            achou = False
+            for n in range(1, len(alvo) + 1):
+                if k + n > len(al):
+                    break
+                trecho = " ".join(w for _, w in al[k:k + n])
+                limpo = trecho.rstrip(".,;:!?")
+                if vl._norm(limpo) == vl._norm(falado) and limpo.lower().split() == alvo:
+                    resto = trecho[len(limpo):]
+                    out.append((al[k][0], escrito + ("" if resto == "." else resto)))
+                    k += n
+                    achou = True
+                    break
+            if not achou:
+                out.append(al[k])
+                k += 1
+        al = out
+    # blocos de até ~46 caracteres, quebrando ANTES da palavra que estouraria o limite
+    blocos, atual, ini = [], [], None
+    for t, w in al:
+        if atual and len(" ".join(atual + [w])) > 46:
+            blocos.append([ini, " ".join(atual)])
+            atual, ini = [], None
+        if ini is None:
+            ini = t
+        atual.append(w)
+        if w.endswith((".", "?", "!", ":")):
+            blocos.append([ini, " ".join(atual)])
+            atual, ini = [], None
+    if atual:
+        blocos.append([ini, " ".join(atual)])
+    for k in range(len(blocos)):
+        blocos[k].append(blocos[k + 1][0] if k + 1 < len(blocos) else dur)
+    return blocos
+
+
 def narrar(cenas, cfg, tmp):
     voz = cfg.get("voz", "pt-BR-FranciscaNeural")
     taxa = cfg.get("velocidade", "-5%")
@@ -363,10 +414,10 @@ def coluna_texto(c, k_ativo, t_ativo, n_cena, t):
             y += 62
         return cam, y
     if c.get("tipo") == "fim":
-        d.rounded_rectangle([x0, y, x1 + 100, y + 200], radius=26, fill=vl.VERDE + (a,))
+        d.rounded_rectangle([x0, y, x1 + 130, y + 200], radius=26, fill=vl.VERDE + (a,))
         d.text((x0 + 40, y + 34), "Acesse", font=vl.BD(36), fill=vl.LIMA_TX + (a,))
-        d.text((x0 + 40, y + 84), "legiscopio.com.br", font=vl.BK(54), fill=vl.BRANCO + (a,))
-        d.text((x0 + 40, y + 154), "app em fase de testes", font=vl.RG(28), fill=vl.LIMA_TX + (a,))
+        d.text((x0 + 40, y + 84), "www.legiscopio.com.br", font=vl.BK(50), fill=vl.BRANCO + (a,))
+        d.text((x0 + 40, y + 154), "Android: 23/10/2026 · iOS: logo depois", font=vl.RG(28), fill=vl.LIMA_TX + (a,))
         return cam, y + 220
     ds = c.get("destaques", [])
     if k_ativo >= 0:
@@ -399,7 +450,7 @@ def lupa_aumento(tela_orig, caixa, y_topo, t_ativo, cel):
     esc = min(larg_max / w, alt_max / h, 3.2)
     if esc < 2.0 or alt_max < 120:
         return None
-    pad = 6
+    pad = 2
     rec = tela_orig.crop((max(0, x0 - pad), max(0, y0 - pad), min(SW, x1 + pad), min(SH, y1 + pad)))
     rec = rec.resize((round(rec.width * esc), round(rec.height * esc)), Image.LANCZOS)
     e = vl.suave((t_ativo - 0.15) / 0.35)
@@ -464,7 +515,7 @@ def gerar_longo(pasta, cfg, telas, tmp):
         dur = c["dur"]
         nq = int(round(dur * FPS))
         env = vl.envelope(c["amostras"], nq)
-        legs = vl.blocos_legenda(c["palavras"], c["voz_dur"], c["fala"])
+        legs = legendas(c["palavras"], c["voz_dur"], c["fala"])
         for ini, txt, fim in legs:
             srt.append(f"{n_srt}\n{vl.srt_tempo(t_glob + ini)} --> {vl.srt_tempo(t_glob + fim)}\n{txt}\n")
             n_srt += 1
@@ -612,7 +663,7 @@ def gerar_short(pasta, cfg, sh, telas, tmp):
         dur = c["dur"]
         nq = int(round(dur * FPS))
         env = vl.envelope(c["amostras"], nq)
-        legs = vl.blocos_legenda(c["palavras"], c["voz_dur"], c["fala"])
+        legs = legendas(c["palavras"], c["voz_dur"], c["fala"])
         ds = c.get("destaques", [])
         ts = tempos_destaques(c, c["palavras"], c["voz_dur"])
         ant = cenas[i - 1] if i > 0 else None
