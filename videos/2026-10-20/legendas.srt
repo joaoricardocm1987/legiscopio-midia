@@ -1,0 +1,831 @@
+1
+00:00:00,102 --> 00:00:02,681
+Quando o Congresso aprova um projeto, ele ainda
+
+2
+00:00:02,681 --> 00:00:03,578
+não é lei.
+
+3
+00:00:03,578 --> 00:00:06,421
+Falta uma decisão do presidente da República, que
+
+4
+00:00:06,421 --> 00:00:09,052
+pode assinar tudo ou cortar trechos.
+
+5
+00:00:09,052 --> 00:00:11,894
+É exatamente nessa fase que está o novo teto do
+
+6
+00:00:11,894 --> 00:00:15,092
+MEI, enviado à sanção em dezesseis de outubro.
+
+7
+00:00:15,092 --> 00:00:18,171
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+8
+00:00:18,171 --> 00:00:19,197
+vai entender:
+
+9
+00:00:19,197 --> 00:00:21,802
+quanto tempo o presidente tem para decidir?
+
+10
+00:00:21,802 --> 00:00:24,328
+O que acontece se ele ficar em silêncio?
+
+11
+00:00:24,328 --> 00:00:27,600
+E como o Congresso pode derrubar um veto?
+
+12
+00:00:28,152 --> 00:00:30,721
+Vamos direto ao número mais importante.
+
+13
+00:00:30,721 --> 00:00:33,905
+Depois de receber o projeto aprovado, o presidente
+
+14
+00:00:33,905 --> 00:00:37,194
+da República tem quinze dias úteis para decidir.
+
+15
+00:00:37,194 --> 00:00:40,523
+Ele pode sancionar, ou seja, concordar com o texto,
+
+16
+00:00:40,523 --> 00:00:43,431
+ou vetar, que é recusar o projeto inteiro ou só
+
+17
+00:00:43,431 --> 00:00:44,418
+uma parte.
+
+18
+00:00:44,418 --> 00:00:48,713
+Esse prazo está no artigo sessenta e seis da Constituição.
+
+19
+00:00:49,266 --> 00:00:52,082
+Para entender onde a sanção entra, pense no caminho
+
+20
+00:00:52,082 --> 00:00:53,466
+de um projeto de lei.
+
+21
+00:00:53,466 --> 00:00:56,558
+Ele é discutido e votado na Câmara e no Senado.
+
+22
+00:00:56,558 --> 00:00:59,598
+Quando as duas Casas concordam com o mesmo texto,
+
+23
+00:00:59,598 --> 00:01:02,716
+a Casa que votou por último envia o projeto ao presidente
+
+24
+00:01:02,716 --> 00:01:03,782
+da República.
+
+25
+00:01:03,782 --> 00:01:05,742
+Aí vem a sanção ou o veto.
+
+26
+00:01:05,742 --> 00:01:08,532
+E, no fim, a promulgação e a publicação no Diário
+
+27
+00:01:08,532 --> 00:01:10,572
+Oficial da União.
+
+28
+00:01:11,124 --> 00:01:14,322
+Sancionar é dar o acordo do Poder Executivo ao que
+
+29
+00:01:14,322 --> 00:01:16,022
+o Legislativo aprovou.
+
+30
+00:01:16,022 --> 00:01:19,022
+Na sequência vem a promulgação, o ato que declara
+
+31
+00:01:19,022 --> 00:01:21,811
+que a lei existe, e a publicação, que torna a lei
+
+32
+00:01:21,811 --> 00:01:22,627
+pública.
+
+33
+00:01:22,627 --> 00:01:25,232
+É nesse momento que ela recebe um número e passa
+
+34
+00:01:25,232 --> 00:01:28,590
+a valer na data definida no próprio texto.
+
+35
+00:01:29,142 --> 00:01:32,040
+E se o presidente simplesmente não responder?
+
+36
+00:01:32,040 --> 00:01:34,145
+A Constituição resolve isso.
+
+37
+00:01:34,145 --> 00:01:37,487
+Se os quinze dias úteis passarem sem manifestação,
+
+38
+00:01:37,487 --> 00:01:39,842
+acontece a chamada sanção tácita:
+
+39
+00:01:39,842 --> 00:01:43,079
+o silêncio vale como concordância, e o projeto vira
+
+40
+00:01:43,079 --> 00:01:44,632
+lei do mesmo jeito.
+
+41
+00:01:44,632 --> 00:01:47,303
+Já o veto nunca pode ser silencioso.
+
+42
+00:01:47,303 --> 00:01:50,280
+Ele tem de ser expresso e publicado.
+
+43
+00:01:50,832 --> 00:01:53,687
+O veto pode ser total, quando o presidente recusa
+
+44
+00:01:53,687 --> 00:01:56,687
+o projeto inteiro, ou parcial, quando ele corta
+
+45
+00:01:56,687 --> 00:01:58,190
+só alguns trechos.
+
+46
+00:01:58,190 --> 00:02:01,085
+Mas há uma regra importante para o veto parcial:
+
+47
+00:02:01,085 --> 00:02:04,058
+ele precisa atingir o texto completo de um artigo,
+
+48
+00:02:04,058 --> 00:02:07,243
+de um parágrafo, de um inciso ou de uma alínea.
+
+49
+00:02:07,243 --> 00:02:10,269
+Não dá para vetar uma palavra solta ou uma frase
+
+50
+00:02:10,269 --> 00:02:12,545
+no meio de um parágrafo.
+
+51
+00:02:13,098 --> 00:02:15,732
+Todo veto precisa de justificativa.
+
+52
+00:02:15,732 --> 00:02:18,193
+Existem dois motivos possíveis.
+
+53
+00:02:18,193 --> 00:02:21,219
+O primeiro é a inconstitucionalidade, quando o governo
+
+54
+00:02:21,219 --> 00:02:24,035
+entende que o texto contraria a Constituição.
+
+55
+00:02:24,035 --> 00:02:25,982
+É o chamado veto jurídico.
+
+56
+00:02:25,982 --> 00:02:28,732
+O segundo é a contrariedade ao interesse público,
+
+57
+00:02:28,732 --> 00:02:30,035
+o veto político.
+
+58
+00:02:30,035 --> 00:02:32,364
+Os dois podem aparecer juntos.
+
+59
+00:02:32,364 --> 00:02:33,903
+Um exemplo deste ano:
+
+60
+00:02:33,903 --> 00:02:37,193
+o veto total ao piso salarial dos zootecnistas usou
+
+61
+00:02:37,193 --> 00:02:40,443
+os dois motivos, segundo o governo, porque o projeto
+
+62
+00:02:40,443 --> 00:02:44,292
+não trazia a estimativa do impacto no orçamento.
+
+63
+00:02:44,844 --> 00:02:47,107
+Um detalhe que muita gente não sabe:
+
+64
+00:02:47,107 --> 00:02:50,094
+quando o veto é parcial, a parte sancionada já vira
+
+65
+00:02:50,094 --> 00:02:50,663
+lei.
+
+66
+00:02:50,663 --> 00:02:53,557
+Só os trechos vetados ficam esperando a decisão
+
+67
+00:02:53,557 --> 00:02:54,597
+do Congresso.
+
+68
+00:02:54,597 --> 00:02:57,373
+Foi o caso da lei que trata do porte de spray de
+
+69
+00:02:57,373 --> 00:03:00,136
+pimenta para defesa pessoal de mulheres.
+
+70
+00:03:00,136 --> 00:03:03,202
+Ela já está em vigor como Lei quinze mil quatrocentos
+
+71
+00:03:03,202 --> 00:03:06,636
+e setenta e quatro, mas dezesseis dispositivos vetados
+
+72
+00:03:06,636 --> 00:03:09,126
+ainda aguardam análise.
+
+73
+00:03:09,678 --> 00:03:12,652
+Depois de vetar, o presidente tem quarenta e oito
+
+74
+00:03:12,652 --> 00:03:15,889
+horas para enviar ao presidente do Senado uma mensagem
+
+75
+00:03:15,889 --> 00:03:17,470
+com as razões do veto.
+
+76
+00:03:17,470 --> 00:03:20,128
+Quando essa mensagem é registrada no Congresso,
+
+77
+00:03:20,128 --> 00:03:21,957
+começa a contar outro prazo:
+
+78
+00:03:21,957 --> 00:03:24,773
+trinta dias corridos para deputados e senadores
+
+79
+00:03:24,773 --> 00:03:28,248
+decidirem se mantêm ou derrubam o veto.
+
+80
+00:03:28,800 --> 00:03:30,645
+E quem dá a palavra final?
+
+81
+00:03:30,645 --> 00:03:33,369
+O Congresso Nacional, numa sessão conjunta, com
+
+82
+00:03:33,369 --> 00:03:35,684
+deputados e senadores reunidos.
+
+83
+00:03:35,684 --> 00:03:38,395
+Quem convoca é o presidente do Senado, que também
+
+84
+00:03:38,395 --> 00:03:39,855
+preside o Congresso.
+
+85
+00:03:39,855 --> 00:03:43,040
+Pelo regimento comum, essas sessões deveriam acontecer
+
+86
+00:03:43,040 --> 00:03:46,170
+na terceira terça-feira de cada mês.
+
+87
+00:03:46,722 --> 00:03:49,788
+Para derrubar um veto, é preciso maioria absoluta
+
+88
+00:03:49,788 --> 00:03:52,738
+nas duas Casas, contada separadamente.
+
+89
+00:03:52,738 --> 00:03:55,514
+São duzentos e cinquenta e sete dos quinhentos e
+
+90
+00:03:55,514 --> 00:03:58,185
+treze deputados e quarenta e um dos oitenta e um
+
+91
+00:03:58,185 --> 00:03:59,238
+senadores.
+
+92
+00:03:59,238 --> 00:04:01,909
+Não importa quantos estejam presentes.
+
+93
+00:04:01,909 --> 00:04:04,764
+E se uma das Casas não chegar a esse número, o veto
+
+94
+00:04:04,764 --> 00:04:05,659
+é mantido.
+
+95
+00:04:05,659 --> 00:04:09,080
+A contagem começa pela Câmara, a não ser que o projeto
+
+96
+00:04:09,080 --> 00:04:11,340
+tenha nascido no Senado.
+
+97
+00:04:11,892 --> 00:04:14,800
+Fizemos uma comparação para mostrar o tamanho dessa
+
+98
+00:04:14,800 --> 00:04:15,803
+exigência.
+
+99
+00:04:15,803 --> 00:04:19,342
+Uma lei ordinária é aprovada pela maioria dos presentes,
+
+100
+00:04:19,342 --> 00:04:21,934
+desde que pelo menos duzentos e cinquenta e sete
+
+101
+00:04:21,934 --> 00:04:24,053
+deputados estejam na sessão.
+
+102
+00:04:24,053 --> 00:04:27,250
+Então, no limite, cento e vinte e nove votos bastam
+
+103
+00:04:27,250 --> 00:04:28,158
+na Câmara.
+
+104
+00:04:28,158 --> 00:04:30,750
+Para derrubar um veto, são duzentos e cinquenta
+
+105
+00:04:30,750 --> 00:04:32,197
+e sete, o dobro.
+
+106
+00:04:32,197 --> 00:04:34,513
+E para uma PEC, trezentos e oito.
+
+107
+00:04:34,513 --> 00:04:37,776
+Esse é um cálculo do Legiscópio, a partir das regras
+
+108
+00:04:37,776 --> 00:04:39,725
+da Constituição.
+
+109
+00:04:40,278 --> 00:04:41,278
+Rapidinho:
+
+110
+00:04:41,278 --> 00:04:44,331
+se este vídeo está te ajudando, deixa o seu like,
+
+111
+00:04:44,331 --> 00:04:47,489
+se inscreve no canal e ativa o sininho pra não perder
+
+112
+00:04:47,489 --> 00:04:48,636
+os próximos.
+
+113
+00:04:48,636 --> 00:04:51,048
+Agora, vamos continuar!
+
+114
+00:04:51,600 --> 00:04:53,063
+Como é a votação?
+
+115
+00:04:53,063 --> 00:04:54,708
+Ela é aberta e nominal:
+
+116
+00:04:54,708 --> 00:04:57,445
+dá para saber como cada parlamentar votou.
+
+117
+00:04:57,445 --> 00:05:00,642
+Normalmente, deputados e senadores marcam os votos
+
+118
+00:05:00,642 --> 00:05:03,458
+numa cédula eletrônica, com vários vetos de uma
+
+119
+00:05:03,458 --> 00:05:04,142
+vez.
+
+120
+00:05:04,142 --> 00:05:07,563
+Os líderes podem pedir destaque de um trecho específico,
+
+121
+00:05:07,563 --> 00:05:11,850
+que então é votado separadamente, no painel eletrônico.
+
+122
+00:05:12,402 --> 00:05:15,218
+Agora, o que acontece se o Congresso não votar o
+
+123
+00:05:15,218 --> 00:05:16,786
+veto em trinta dias?
+
+124
+00:05:16,786 --> 00:05:18,628
+Ele passa a trancar a pauta.
+
+125
+00:05:18,628 --> 00:05:21,457
+Isso quer dizer que, enquanto não for analisado,
+
+126
+00:05:21,457 --> 00:05:24,471
+o veto fica à frente das outras votações das sessões
+
+127
+00:05:24,471 --> 00:05:28,188
+conjuntas, como as de projetos do orçamento.
+
+128
+00:05:28,740 --> 00:05:31,585
+Na prática, a fila de vetos tem crescido.
+
+129
+00:05:31,585 --> 00:05:34,532
+No fim de julho, segundo a Agência Senado, eram
+
+130
+00:05:34,532 --> 00:05:37,651
+noventa e sete vetos em tramitação, e pelo menos
+
+131
+00:05:37,651 --> 00:05:40,230
+oitenta e sete já trancavam a pauta.
+
+132
+00:05:40,230 --> 00:05:42,453
+Em agosto, eram noventa e nove.
+
+133
+00:05:42,453 --> 00:05:45,045
+Em setembro, pelo menos cento e sete.
+
+134
+00:05:45,045 --> 00:05:48,726
+A última sessão conjunta de vetos foi em maio.
+
+135
+00:05:49,278 --> 00:05:52,307
+Alguns vetos estão parados há bastante tempo.
+
+136
+00:05:52,307 --> 00:05:56,215
+O da Lei Geral do Esporte, de 2023, tem trezentos
+
+137
+00:05:56,215 --> 00:05:59,083
+e quarenta dispositivos ainda pendentes.
+
+138
+00:05:59,083 --> 00:06:01,689
+O Estatuto do Pantanal tem quarenta e um.
+
+139
+00:06:01,689 --> 00:06:04,531
+A política para estudantes com altas habilidades
+
+140
+00:06:04,531 --> 00:06:05,847
+tem trinta e dois.
+
+141
+00:06:05,847 --> 00:06:08,860
+E na lei que regulamenta a reforma tributária, dez
+
+142
+00:06:08,860 --> 00:06:12,864
+trechos vetados ainda esperavam análise em julho.
+
+143
+00:06:13,416 --> 00:06:15,274
+E quando o veto é derrubado?
+
+144
+00:06:15,274 --> 00:06:17,708
+O trecho volta a fazer parte da lei.
+
+145
+00:06:17,708 --> 00:06:20,485
+O presidente da República tem quarenta e oito horas
+
+146
+00:06:20,485 --> 00:06:22,261
+para promulgar essa parte.
+
+147
+00:06:22,261 --> 00:06:25,458
+Se não fizer, a tarefa passa ao presidente do Senado
+
+148
+00:06:25,458 --> 00:06:28,129
+e, depois, ao vice-presidente do Senado.
+
+149
+00:06:28,129 --> 00:06:28,985
+Um exemplo:
+
+150
+00:06:28,985 --> 00:06:31,958
+na sessão de maio, o Congresso derrubou quatro dos
+
+151
+00:06:31,958 --> 00:06:35,037
+quarenta e quatro trechos vetados da Lei de Diretrizes
+
+152
+00:06:35,037 --> 00:06:38,346
+Orçamentárias de 2026.
+
+153
+00:06:38,898 --> 00:06:41,756
+Será que tudo passa pela mesa do presidente?
+
+154
+00:06:41,756 --> 00:06:42,453
+Não.
+
+155
+00:06:42,453 --> 00:06:45,809
+Uma PEC, que muda a Constituição, é promulgada pelas
+
+156
+00:06:45,809 --> 00:06:48,624
+Mesas da Câmara e do Senado, sem sanção.
+
+157
+00:06:48,624 --> 00:06:51,769
+Decretos legislativos e resoluções também não vão
+
+158
+00:06:51,769 --> 00:06:52,677
+à sanção.
+
+159
+00:06:52,677 --> 00:06:55,493
+E uma medida provisória aprovada sem mudanças é
+
+160
+00:06:55,493 --> 00:06:57,690
+promulgada pelo próprio Congresso.
+
+161
+00:06:57,690 --> 00:07:00,809
+Se o texto da MP for alterado, aí sim ele vai à
+
+162
+00:07:00,809 --> 00:07:02,316
+sanção.
+
+163
+00:07:02,868 --> 00:07:04,989
+Hora de testar o que você aprendeu.
+
+164
+00:07:04,989 --> 00:07:07,160
+O veto é sempre a palavra final?
+
+165
+00:07:07,160 --> 00:07:07,884
+Mito:
+
+166
+00:07:07,884 --> 00:07:09,673
+o Congresso pode derrubar.
+
+167
+00:07:09,673 --> 00:07:12,871
+Se o presidente ficar calado, o projeto morre?
+
+168
+00:07:12,871 --> 00:07:13,621
+Mito:
+
+169
+00:07:13,621 --> 00:07:15,634
+vira lei por sanção tácita.
+
+170
+00:07:15,634 --> 00:07:17,766
+Dá para vetar uma palavra só?
+
+171
+00:07:17,766 --> 00:07:18,568
+Mito:
+
+172
+00:07:18,568 --> 00:07:22,634
+apenas artigos, parágrafos, incisos ou alíneas inteiros.
+
+173
+00:07:22,634 --> 00:07:24,989
+O veto precisa ser justificado?
+
+174
+00:07:24,989 --> 00:07:26,670
+Verdade.
+
+175
+00:07:27,222 --> 00:07:30,054
+A demora na análise também gera debate.
+
+176
+00:07:30,054 --> 00:07:33,212
+Quem critica a fila argumenta que, com vetos parados,
+
+177
+00:07:33,212 --> 00:07:35,948
+trechos de leis ficam anos sem definição.
+
+178
+00:07:35,948 --> 00:07:38,817
+Do outro lado, lideranças lembram que as sessões
+
+179
+00:07:38,817 --> 00:07:42,514
+de vetos dependem de acordos entre governo e oposição,
+
+180
+00:07:42,514 --> 00:07:45,185
+e a falta de acordo já levou ao cancelamento de
+
+181
+00:07:45,185 --> 00:07:47,185
+uma sessão marcada para junho.
+
+182
+00:07:47,185 --> 00:07:50,198
+A expectativa, segundo a imprensa, é retomar as
+
+183
+00:07:50,198 --> 00:07:53,928
+sessões depois do segundo turno das eleições.
+
+184
+00:07:54,480 --> 00:07:55,325
+E o MEI?
+
+185
+00:07:55,325 --> 00:07:57,970
+O projeto de lei complementar cento e oitenta e
+
+186
+00:07:57,970 --> 00:08:01,641
+seis de 2026 passou pela Câmara por quatrocentos
+
+187
+00:08:01,641 --> 00:08:04,509
+e sessenta e um votos a quatro e pelo Senado por
+
+188
+00:08:04,509 --> 00:08:05,970
+setenta e oito a zero.
+
+189
+00:08:05,970 --> 00:08:08,930
+Foi enviado à sanção em dezesseis de outubro.
+
+190
+00:08:08,930 --> 00:08:11,693
+Até a produção deste vídeo, aguardava a decisão
+
+191
+00:08:11,693 --> 00:08:12,772
+do presidente:
+
+192
+00:08:12,772 --> 00:08:17,226
+sancionar tudo, vetar trechos ou vetar o texto inteiro.
+
+193
+00:08:17,778 --> 00:08:21,399
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+194
+00:08:21,399 --> 00:08:25,176
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+195
+00:08:25,176 --> 00:08:28,689
+E o nosso site é legiscopio ponto com ponto br.
+
+196
+00:08:28,689 --> 00:08:29,939
+E tem novidade:
+
+197
+00:08:29,939 --> 00:08:33,333
+o aplicativo do Legiscópio está em fase de testes.
+
+198
+00:08:33,333 --> 00:08:35,899
+Enquanto ele não chega às lojas do Android e do
+
+199
+00:08:35,899 --> 00:08:40,068
+iOS, você já pode conhecê-lo pelo nosso site.
+
+200
+00:08:40,620 --> 00:08:43,962
+Este vídeo usou a Constituição, as regras do Congresso
+
+201
+00:08:43,962 --> 00:08:47,331
+Nacional, a Agência Senado e a Agência Câmara, e
+
+202
+00:08:47,331 --> 00:08:49,307
+os links estão na descrição.
+
+203
+00:08:49,307 --> 00:08:52,268
+Se agora ficou mais fácil acompanhar o que acontece
+
+204
+00:08:52,268 --> 00:08:55,373
+depois de uma votação, se inscreva no canal e mande
+
+205
+00:08:55,373 --> 00:08:57,820
+este vídeo para quem também quer entender.
+
+206
+00:08:57,820 --> 00:09:01,136
+O Legiscópio é independente e gratuito, e você pode
+
+207
+00:09:01,136 --> 00:09:04,149
+apoiar em apoia ponto se barra legiscopio.
+
+208
+00:09:04,149 --> 00:09:06,006
+Até a próxima!
