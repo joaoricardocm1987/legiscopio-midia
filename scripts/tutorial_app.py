@@ -251,7 +251,7 @@ def legendas(palavras, dur, fala):
                 limpo = trecho.rstrip(".,;:!?")
                 if vl._norm(limpo) == vl._norm(falado) and limpo.lower().split() == alvo:
                     resto = trecho[len(limpo):]
-                    out.append((al[k][0], escrito + ("" if resto == "." else resto)))
+                    out.append((al[k][0], escrito + ("⁠" if resto == "." else resto)))
                     k += n
                     achou = True
                     break
@@ -263,16 +263,16 @@ def legendas(palavras, dur, fala):
     blocos, atual, ini = [], [], None
     for t, w in al:
         if atual and len(" ".join(atual + [w])) > 46:
-            blocos.append([ini, " ".join(atual)])
+            blocos.append([ini, " ".join(atual).replace("⁠", "")])
             atual, ini = [], None
         if ini is None:
             ini = t
         atual.append(w)
-        if w.endswith((".", "?", "!", ":")):
-            blocos.append([ini, " ".join(atual)])
+        if w.endswith((".", "?", "!", ":", "⁠")):
+            blocos.append([ini, " ".join(atual).replace("⁠", "")])
             atual, ini = [], None
     if atual:
-        blocos.append([ini, " ".join(atual)])
+        blocos.append([ini, " ".join(atual).replace("⁠", "")])
     for k in range(len(blocos)):
         blocos[k].append(blocos[k + 1][0] if k + 1 < len(blocos) else dur)
     return blocos
@@ -417,7 +417,7 @@ def coluna_texto(c, k_ativo, t_ativo, n_cena, t):
         d.rounded_rectangle([x0, y, x1 + 130, y + 200], radius=26, fill=vl.VERDE + (a,))
         d.text((x0 + 40, y + 34), "Acesse", font=vl.BD(36), fill=vl.LIMA_TX + (a,))
         d.text((x0 + 40, y + 84), "www.legiscopio.com.br", font=vl.BK(50), fill=vl.BRANCO + (a,))
-        d.text((x0 + 40, y + 154), "Android: 23/10/2026 · iOS: logo depois", font=vl.RG(28), fill=vl.LIMA_TX + (a,))
+        d.text((x0 + 40, y + 154), "Android: 23/10/2026 · iOS: em breve", font=vl.RG(28), fill=vl.LIMA_TX + (a,))
         return cam, y + 220
     ds = c.get("destaques", [])
     if k_ativo >= 0:
