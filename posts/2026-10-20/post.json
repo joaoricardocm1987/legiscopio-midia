@@ -1,0 +1,37 @@
+{
+  "rotulo": "Sanção e veto",
+  "titulo": "Teto do MEI aguarda sanção: o que acontece até virar lei, e se houver veto",
+  "destaque": "15 dias úteis",
+  "detalhe": "O PLP 186/2026 foi enviado à sanção em 16/10. O presidente tem 15 dias úteis para sancionar ou vetar; para derrubar um veto, são 257 deputados e 41 senadores.",
+  "fonte": "Fonte: Congresso Nacional e Agência Senado · out/2026",
+  "legenda": "O projeto que aumenta o teto do MEI (PLP 186/2026) foi aprovado pela Câmara e pelo Senado e enviado à sanção presidencial em 16 de outubro. Mas o que acontece agora?\n\nComo funciona:\n• O presidente da República tem 15 dias úteis, a partir do recebimento, para sancionar (concordar) ou vetar (recusar) o texto, no todo ou em parte.\n• Se não se manifestar no prazo, há sanção tácita: o projeto vira lei mesmo assim.\n• O veto parcial só pode atingir um artigo, parágrafo, inciso ou alínea inteiros, nunca palavras soltas. E precisa de justificativa: inconstitucionalidade ou contrariedade ao interesse público.\n• A palavra final é do Congresso: em sessão conjunta, o veto pode ser derrubado por maioria absoluta em cada Casa, 257 dos 513 deputados e 41 dos 81 senadores.\n• Se não for votado em 30 dias, o veto passa a trancar a pauta das sessões conjuntas.\n\nEm setembro, pelo menos 107 vetos aguardavam análise do Congresso, segundo a Rádio Senado. A última sessão conjunta de vetos foi em maio, quando 4 dos 44 trechos vetados da LDO 2026 foram derrubados. A expectativa é retomar as sessões após o 2º turno das eleições (25/10).\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/vetos/entenda-a-tramitacao-do-veto | Rádio Senado — https://www12.senado.leg.br/radio/1/noticia/2026/09/22/congresso-vai-analisar-ao-menos-107-vetos-presidenciais\n\n▶ Vídeo completo no YouTube: Legiscópio\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #ProcessoLegislativo #MEI",
+  "legenda_tiktok": "Teto do MEI aguarda sanção. O presidente tem 15 dias úteis para sancionar ou vetar; sem resposta, vira lei. Para derrubar um veto: 257 deputados e 41 senadores. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #ProcessoLegislativo",
+  "fontes": [
+    "https://www.congressonacional.leg.br/materias/vetos/entenda-a-tramitacao-do-veto",
+    "https://www12.senado.leg.br/radio/1/noticia/2026/09/22/congresso-vai-analisar-ao-menos-107-vetos-presidenciais",
+    "https://www12.senado.leg.br/radio/1/noticia/2026/08/03/congresso-deve-analisar-99-vetos-presidenciais",
+    "https://www12.senado.leg.br/noticias/materias/2026/07/30/congresso-deve-votar-ao-menos-87-vetos-que-trancam-pauta-na-volta-do-recesso",
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias/entenda-a-tramitacao-da-medida-provisoria",
+    "https://atlaspublico.com.br/camara/noticias/senado-comunica-remessa-a-sancao-do-plp-186-2026-que-eleva-92856",
+    "https://www.gov.br/memp/pt-br/assuntos/noticias/congresso-aprova-pacote-do-mei-com-teto-de-ate-r-140-mil-dois-empregados-e-perdao-de-dividas-federais",
+    "https://www.poder360.com.br/poder-eleicoes-2026/motta-pede-a-lula-sancao-de-projeto-sobre-mei-na-proxima-semana/",
+    "https://www.congressoemfoco.com.br/noticia/122562/ao-menos-107-vetos-devem-ser-analisados-no-congresso-apos-as-eleicoes",
+    "https://soubrasilia.com/congresso-recesso-87-vetos-pauta-agosto/",
+    "https://obrasilianista.com.br/2026/10/19/politica/camara-opera-de-forma-parcial-e-senado-adia-analise-da-pec-da-seguranca-publica-para-o-pos-eleicao",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-10-20&dataFim=2026-10-23&itens=100",
+    "https://www.congressoemfoco.com.br/noticia/123233/camara-pode-votar-nesta-quarta-novo-regime-para-bancos-em-crise",
+    "https://www.congressoemfoco.com.br/noticia/123316/lula-propoe-usar-emendas-para-financiar-tarifa-zero-aos-fins-de-semana"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Teto do MEI aguarda sanção (pedido para sancionar nesta semana)", "veiculos": ["Poder360", "Diário do Poder", "Agência Brasil", "gov.br/MEMP", "Exame", "InfoMoney", "Metrópoles", "Mix Vale"], "proposicao": "PLP 186/2026 — enviado à sanção em 16/10/2026 (Ofício SF 1406/2026)", "nota": 7},
+      {"assunto": "PEC da tarifa zero no transporte aos fins de semana (anúncio)", "veiculos": ["Poder360", "Congresso em Foco", "O Liberal", "Diário do Nordeste", "Diário do Transporte", "Seu Dinheiro"], "proposicao": "Nenhuma — proposta anunciada, ainda não apresentada ao Congresso; tema ligado a campanha eleitoral (descartado)", "nota": 0},
+      {"assunto": "Fila de vetos presidenciais para depois das eleições", "veiculos": ["Rádio Senado", "Congresso em Foco", "Sou Brasília"], "proposicao": "Ao menos 107 vetos pendentes; sessões conjuntas previstas após 25/10", "nota": 4},
+      {"assunto": "PLP da resolução bancária (bancos em crise) adiado", "veiculos": ["Congresso em Foco", "Poder360", "InfoMoney", "Gazeta do Povo"], "proposicao": "PLP 281/2019 — pauta do Plenário da Câmara, sem data", "nota": 4},
+      {"assunto": "PEC da Segurança adiada para depois do 2º turno", "veiculos": ["O Brasilianista", "Band", "CNN Brasil", "Agência Senado"], "proposicao": "PEC 18/2025 — sem data no Plenário do Senado", "nota": 3},
+      {"assunto": "MP contra ligações abusivas: prazo de emendas encerrado", "veiculos": ["Agência Senado", "Canaltech", "Tecnoblog"], "proposicao": "MPV 1.396/2026 — comissão mista", "nota": 2}
+    ],
+    "escolhido": "Sanção e veto, a partir do PLP 186/2026 (teto do MEI) enviado à sanção e da fila de vetos no Congresso",
+    "motivo": "Terça é dia de vídeo explicativo atemporal ligado à pauta. O MEI teve a maior nota: repercussão em vários veículos (3), decisão de sanção esperada nesta semana (2) e interesse direto de milhões de microempreendedores (2). O post de 16/10 tratou da aprovação; agora a fase é outra (sanção), e o foco é explicar o processo de sanção e veto, com os 107 vetos pendentes como dado. PEC da Segurança (18/10) e MP das ligações (19/10) já foram tratadas (−3). A PEC da tarifa zero não tem proposição em tramitação e está ligada a campanha eleitoral. Agenda oficial da Câmara de 20 a 23/10 sem sessões deliberativas (2º turno em 25/10). Google Trends não consultado."
+  }
+}
