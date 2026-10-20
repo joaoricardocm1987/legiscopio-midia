@@ -23,7 +23,7 @@ Tipos de visual:
   lista      {titulo, itens:[...]}             (itens aparecem ao longo da fala)
   etapas     {titulo, itens:[...], atual}      (linha do tempo; atual = índice)
   texto      {titulo, texto}                   (título com "?" deixa a Lupa pensativa)
-  redes      {titulo?, itens?:[[rótulo, valor]], app?: true}  (redes sociais, site e app)
+  redes      {titulo?, itens?:[[rótulo, valor]], app?: true, app_titulo?, app_texto?}  (redes, site e app)
   fim        {}                                 (apoia.se, site, inscreva-se)
 
 Chamada do meio: por padrão, no meio do vídeo a Lupa pede like, inscrição e sininho
@@ -488,8 +488,9 @@ def desenhar_visual(img, v, p, t, dur):
             aa = suave(p * 2 - len(itens) * 0.35)
             if aa > 0:
                 d.rounded_rectangle([x0, yy, x1 - 200, yy + 150], radius=24, fill=VERDE)
-                d.text((x0 + 40, yy + 26), "App em fase de testes", font=BK(48), fill=LIMA)
-                d.text((x0 + 40, yy + 92), "Conheça pelo site · em breve no Android e iOS", font=RG(38), fill=LIMA_TX)
+                d.text((x0 + 40, yy + 26), v.get("app_titulo", "App do Legiscópio"), font=BK(48), fill=LIMA)
+                d.text((x0 + 40, yy + 92), v.get("app_texto", "Android a partir de 23/10 · iOS em breve"), font=RG(38),
+                       fill=LIMA_TX)
 
     elif tipo == "fim":
         f = BK(80)
