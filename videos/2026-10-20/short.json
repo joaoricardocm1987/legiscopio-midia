@@ -1,0 +1,23 @@
+{
+  "cenas": [
+    {"fala": "Veto presidencial em um minuto! Depois que o Congresso aprova um projeto, o presidente tem quinze dias úteis para decidir.",
+     "visual": {"tipo": "numero", "titulo": "Prazo do presidente", "valor": "15 dias úteis", "rotulo": "Para sancionar ou vetar · art. 66"}},
+    {"fala": "Se ele ficar em silêncio, o projeto vira lei do mesmo jeito. É a sanção tácita.",
+     "visual": {"tipo": "texto", "titulo": "E o silêncio?", "texto": "Sem resposta em 15 dias úteis, o projeto vira lei: é a sanção tácita."}},
+    {"fala": "O veto pode ser total ou parcial. O parcial só corta artigos, parágrafos, incisos ou alíneas inteiros, nunca uma palavra solta.",
+     "visual": {"tipo": "comparacao", "titulo": "Total ou parcial", "antes": {"valor": "Total", "rotulo": "projeto inteiro"}, "depois": {"valor": "Parcial", "rotulo": "trechos inteiros"}}},
+    {"fala": "A palavra final é do Congresso. Para derrubar um veto, são necessários duzentos e cinquenta e sete deputados e quarenta e um senadores.",
+     "visual": {"tipo": "barras", "titulo": "Para derrubar", "itens": [{"rotulo": "Deputados", "valor": 257, "texto": "257 de 513"}, {"rotulo": "Senadores", "valor": 41, "texto": "41 de 81"}], "nota": "Maioria absoluta em cada Casa"}},
+    {"fala": "E a fila é longa: em setembro, pelo menos cento e sete vetos esperavam análise, segundo a Rádio Senado.",
+     "visual": {"tipo": "numero", "titulo": "Vetos na fila", "valor": "107+", "rotulo": "Em setembro de 2026 · Rádio Senado"}},
+    {"fala": "O novo teto do MEI está nessa fase: foi enviado à sanção em dezesseis de outubro.",
+     "visual": {"tipo": "etapas", "titulo": "Teto do MEI", "itens": ["Câmara e Senado", "Sanção (16/10)", "Lei ou veto"], "atual": 1}},
+    {"fala": "Quer saber como é a votação, o que acontece quando o veto é derrubado e o que não passa por sanção? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+     "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Votação, prazos e vetos na fila"}}
+  ],
+  "youtube": {
+    "titulo": "Veto presidencial em 1 minuto: prazo e como derrubar #Shorts",
+    "descricao": "O presidente tem 15 dias úteis para sancionar ou vetar um projeto; sem resposta, vira lei. Para derrubar um veto: 257 deputados e 41 senadores. Vídeo completo no canal Legiscópio.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/vetos/entenda-a-tramitacao-do-veto\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #ProcessoLegislativo",
+    "tags": ["Legiscópio", "veto presidencial", "sanção presidencial", "derrubada de veto", "Congresso Nacional", "shorts"]
+  }
+}
