@@ -1,0 +1,44 @@
+{
+  "rotulo": "Pauta da comissão",
+  "titulo": "Anistia de multas de radar dos últimos 10 anos está na pauta da Câmara",
+  "destaque": "10 anos",
+  "detalhe": "PL 3516/2019 perdoa multas de velocidade de qualquer radar, com juros. Comissão de Viação e Transportes pode votar nesta quarta (21). Radares não seriam proibidos.",
+  "fonte": "Fonte: Câmara dos Deputados · pauta da CVT de 21/10/2026",
+  "legenda": "Um projeto que perdoa multas de radar dos últimos 10 anos está na pauta da Comissão de Viação e Transportes da Câmara nesta quarta-feira (21), às 10h.\n\nO que diz o substitutivo do relator ao PL 3516/2019:\n• Perdoa multas por excesso de velocidade registradas por radares de qualquer tipo nos 10 anos anteriores à lei, com juros e encargos.\n• O texto original proibia radares estáticos, móveis e portáteis; o relator retirou essa proibição.\n• Os órgãos de trânsito teriam 6 meses para dar baixa nas multas.\n• O governo poderia fazer uma revisão geral dos radares, com relatórios públicos.\n\nEm 2024, foram 40,7 milhões de multas por excesso de velocidade, quase metade do total, segundo a Secretaria Nacional de Trânsito (Senatran). Quem defende o projeto aponta possíveis falhas de calibração dos equipamentos e fala em segurança jurídica. Entidades de segurança viária afirmam que a fiscalização eletrônica reduz a velocidade e a gravidade dos acidentes. O projeto tramita em caráter conclusivo: depois desta comissão, passa pela CCJ (Comissão de Constituição e Justiça) e, se aprovado, vai ao Senado. Até lá, as regras atuais continuam valendo.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2207985\n\n▶ Vídeo completo no YouTube: Legiscópio\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #Trânsito",
+  "legenda_tiktok": "Projeto perdoa multas de radar dos últimos 10 anos e está na pauta de comissão da Câmara nesta quarta (21). O relator retirou a proibição dos radares. Ainda passa pela CCJ e pelo Senado. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Trânsito",
+  "fontes": [
+    "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2207985",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos/83062/pauta",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207985/tramitacoes",
+    "https://www.congressoemfoco.com.br/noticia/121611/projeto-anistia-multas-registradas-por-radares-nos-ultimos-10-anos",
+    "https://sampi.net.br/piracicaba/noticias/3000864/cidade/2026/08/projeto-preve-perdoar-multas-de-radares-dos-ultimos-10-anos-veja",
+    "https://www.vgnoticias.com.br/politica/projeto-preve-anistia-de-multas-de-radares-aplicadas-nos-ultimos-10-anos/151030",
+    "https://www.onsv.org.br/comunicacao/artigos/o-radar-nao-gera-multa-o-desrespeito-sim",
+    "https://www.vrum.com.br/aceleradas/2026/04/7401857-excesso-de-velocidade-concentra-quase-metade-das-multas-no-brasil.html",
+    "https://autopapo.com.br/noticia/infracoes-de-transito-2026-excesso-de-velocidade/",
+    "https://www.portaldotransito.com.br/noticias/fiscalizacao-e-legislacao/estatisticas/brasil-registra-37-150-mortes-no-transito-em-2024-e-perde-avancos-conquistados-na-ultima-decada/",
+    "https://www.planalto.gov.br/ccivil_03/leis/l9503compilado.htm",
+    "https://www.legjur.com/legislacao/art/lei_00095031997-320",
+    "https://www.congressonacional.leg.br/legislacao-e-publicacoes/glossario-legislativo/-/legislativo/termo/apreciacao_conclusiva",
+    "https://www.congressoemfoco.com.br/noticia/115886/regime-conclusivo-entenda-quando-um-projeto-pode-dispensar-o-plenario",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes?keywords=radar&dataApresentacaoInicio=2019-01-01&itens=100",
+    "https://www.poder360.com.br/poder-congresso/projeto-anula-multa-aplicada-por-radar-escondido/",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-16&dataFim=2026-10-21&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-10-19&dataFim=2026-10-23&itens=100",
+    "https://sbtnews.sbt.com.br/noticia/politica/lula-sanciona-hoje-novo-teto-dos-me-is-saiba-o-que-muda",
+    "https://www.zedudu.com.br/congresso-esvazia-pauta-na-semana-do-segundo-turno-presidencial/",
+    "https://www.camara.leg.br/noticias/1311526-comissao-aprova-piso-salarial-de-r-65-mil-para-farmaceuticos"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Anistia de multas de radar dos últimos 10 anos (na pauta da CVT nesta quarta)", "veiculos": ["Congresso em Foco", "JP1/Sampi", "VG Notícias", "Poder360 (projeto correlato do radar escondido)"], "proposicao": "PL 3516/2019 — substitutivo do relator; item 4 da pauta da Comissão de Viação e Transportes em 21/10/2026; apreciação conclusiva (CVT e CCJC)", "nota": 6},
+      {"assunto": "Sanção do teto do MEI e perdão de dívidas (Prospera MEI) prevista para hoje", "veiculos": ["SBT News", "Brasil 247", "Revista Fórum", "Bahia.ba", "Diário do Centro do Mundo", "SpaceMoney", "Mix Vale"], "proposicao": "PLP 186/2026 — sanção anunciada para 21/10/2026", "nota": 5},
+      {"assunto": "Piso de R$ 6,5 mil para farmacêuticos", "veiculos": ["Agência Câmara"], "proposicao": "PL 1559/2021 — aprovado na CFT em 15/10; segue à CCJC", "nota": 3},
+      {"assunto": "PEC da Segurança fica para depois do 2º turno", "veiculos": ["Tribuna do Planalto", "Zé Dudu"], "proposicao": "PEC 18/2025 — sem data no Plenário do Senado", "nota": 2},
+      {"assunto": "Congresso esvazia pauta na semana do 2º turno", "veiculos": ["Zé Dudu", "Congresso em Foco"], "proposicao": "Sem votações no Plenário da Câmara entre 16 e 21/10 (dados abertos)", "nota": 1},
+      {"assunto": "Propostas de tarifa zero no transporte e 'PEC da Transição'", "veiculos": ["Gazeta do Povo", "Plantão Brasil"], "proposicao": "Nenhuma proposição em tramitação; temas ligados às candidaturas (descartados)", "nota": 0}
+    ],
+    "escolhido": "PL 3516/2019 — anistia de multas de radar dos últimos 10 anos, na pauta da Comissão de Viação e Transportes em 21/10/2026",
+    "motivo": "Maior nota: votação marcada para hoje na comissão (3), interesse direto de motoristas, com 40,7 milhões de multas por velocidade em 2024 (2) e repercussão moderada na imprensa desde o parecer (1), sem repetição nos últimos 14 dias. O MEI teve a maior repercussão, mas a fase de sanção já foi tratada em 20/10 e o tema em 16/10 (−3), e a sanção foi anunciada em evento de campanha a quatro dias do 2º turno. Semana sem votações no Plenário (2º turno em 25/10). Google Trends não consultado."
+  }
+}
