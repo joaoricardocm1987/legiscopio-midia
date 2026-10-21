@@ -1,0 +1,25 @@
+{
+  "cenas": [
+    {"fala": "Anistia de multas de radar em um minuto! Um projeto na Câmara perdoa multas de velocidade dos últimos dez anos.",
+     "visual": {"tipo": "numero", "titulo": "Perdão de multas", "valor": "10 anos", "rotulo": "PL 3516/2019 · multas de radar"}},
+    {"fala": "Ele está na pauta da Comissão de Viação e Transportes nesta quarta-feira, vinte e um de outubro.",
+     "visual": {"tipo": "texto", "titulo": "Na pauta hoje", "texto": "Comissão de Viação e Transportes da Câmara, 21/10, às 10h."}},
+    {"fala": "O texto original proibia alguns radares. O relator retirou a proibição e ampliou o perdão para qualquer radar.",
+     "visual": {"tipo": "comparacao", "titulo": "O que mudou", "antes": {"valor": "Original", "rotulo": "proibia radares"}, "depois": {"valor": "Relator", "rotulo": "mantém radares e perdoa multas"}}},
+    {"fala": "O perdão inclui juros e encargos. Os órgãos de trânsito teriam seis meses para dar baixa nas multas.",
+     "visual": {"tipo": "numero", "titulo": "Prazo para a baixa", "valor": "6 meses", "rotulo": "após a lei entrar em vigor"}},
+    {"fala": "Em 2024, segundo a Senatran, foram quarenta vírgula sete milhões de multas por excesso de velocidade.",
+     "visual": {"tipo": "comparacao", "titulo": "Multas em 2024", "antes": {"valor": "86,4 mi", "rotulo": "total"}, "depois": {"valor": "40,7 mi", "rotulo": "por velocidade"}}},
+    {"fala": "Quem defende fala em falhas de calibração. Críticos dizem que o radar reduz a gravidade dos acidentes.",
+     "visual": {"tipo": "comparacao", "titulo": "Os dois lados", "antes": {"valor": "A favor", "rotulo": "falhas de calibração"}, "depois": {"valor": "Críticos", "rotulo": "radar reduz acidentes"}}},
+    {"fala": "Depois, o projeto passa pela Comissão de Constituição e Justiça e pelo Senado.",
+     "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Viação e Transportes", "CCJ", "Senado"], "atual": 0}},
+    {"fala": "Quer saber para onde vai o dinheiro das multas e como o projeto pode ir ao Plenário? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+     "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Argumentos, dados e próximos passos"}}
+  ],
+  "youtube": {
+    "titulo": "Anistia de multas de radar em 1 minuto: o que o projeto perdoa #Shorts",
+    "descricao": "O PL 3516/2019 perdoa multas de excesso de velocidade registradas por radares nos últimos 10 anos e está na pauta da Comissão de Viação e Transportes da Câmara em 21/10/2026. Vídeo completo no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2207985\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Trânsito",
+    "tags": ["Legiscópio", "anistia de multas de radar", "PL 3516/2019", "multa de radar", "Câmara dos Deputados", "shorts"]
+  }
+}
