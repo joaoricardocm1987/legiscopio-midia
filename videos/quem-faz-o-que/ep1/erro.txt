@@ -1,0 +1,27 @@
+Traceback (most recent call last):
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/qfq-ep1.py", line 16, in <module>
+    qfq_render.gerar(PASTA, "qfq_ep1")
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/qfq_render.py", line 340, in gerar
+    longo(pasta, cfg, mod, voz, taxa, tom, audio, tmp)
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/qfq_render.py", line 366, in longo
+    amostras, pal = tts(c["narracao"], voz, taxa, tom, audio, tmp, i)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/qfq_render.py", line 261, in tts
+    pal = asyncio.run(_go())
+          ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/asyncio/base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/qfq_render.py", line 253, in _go
+    async for ch in com.stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 588, in stream
+    async for message in self.__stream():
+  File "/home/runner/.local/lib/python3.12/site-packages/edge_tts/communicate.py", line 562, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
