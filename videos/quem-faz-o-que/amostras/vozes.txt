@@ -1,0 +1,3 @@
+pt-BR-ThalitaMultilingualNeural	Female
+pt-BR-AntonioNeural	Male
+pt-BR-FranciscaNeural	Female
