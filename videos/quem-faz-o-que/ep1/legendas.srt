@@ -1,0 +1,1019 @@
+1
+00:00:00,047 --> 00:00:02,158
+O poste da sua rua apagou.
+
+2
+00:00:02,158 --> 00:00:03,833
+Já faz uma semana.
+
+3
+00:00:03,833 --> 00:00:05,130
+Você reclama com quem:
+
+4
+00:00:05,130 --> 00:00:08,112
+prefeito, vereador ou companhia de energia?
+
+5
+00:00:08,659 --> 00:00:09,850
+Quem Faz o Quê?
+
+6
+00:00:09,850 --> 00:00:11,678
+Uma série do Legiscópio.
+
+7
+00:00:11,678 --> 00:00:12,787
+Episódio 1:
+
+8
+00:00:12,787 --> 00:00:13,820
+Município.
+
+9
+00:00:14,367 --> 00:00:16,443
+O Brasil é uma federação.
+
+10
+00:00:16,443 --> 00:00:18,849
+A Constituição diz que a organização do país
+
+11
+00:00:18,849 --> 00:00:21,360
+compreende a União, os estados, o Distrito
+
+12
+00:00:21,360 --> 00:00:24,415
+Federal e os municípios, todos autônomos.
+
+13
+00:00:24,415 --> 00:00:26,255
+Autônomo quer dizer que o município tem
+
+14
+00:00:26,255 --> 00:00:28,802
+governo próprio, eleito pela população, faz
+
+15
+00:00:28,802 --> 00:00:31,290
+leis sobre assuntos de interesse local e cobra
+
+16
+00:00:31,290 --> 00:00:32,881
+os seus próprios tributos.
+
+17
+00:00:32,881 --> 00:00:35,228
+Cada município tem a sua lei orgânica, uma
+
+18
+00:00:35,228 --> 00:00:38,046
+espécie de constituição da cidade, aprovada
+
+19
+00:00:38,046 --> 00:00:39,579
+pela Câmara Municipal.
+
+20
+00:00:39,579 --> 00:00:42,268
+Por isso, alguns detalhes mudam de uma cidade
+
+21
+00:00:42,268 --> 00:00:43,120
+para outra.
+
+22
+00:00:43,667 --> 00:00:45,895
+Pense no município como o poder público mais
+
+23
+00:00:45,895 --> 00:00:46,982
+perto de você.
+
+24
+00:00:46,982 --> 00:00:49,128
+Em regra, é ele que cuida do que acontece na
+
+25
+00:00:49,128 --> 00:00:51,428
+sua rua e no seu bairro, e também na zona
+
+26
+00:00:51,428 --> 00:00:53,220
+rural e nos distritos.
+
+27
+00:00:53,767 --> 00:00:56,538
+A cada quatro anos, os eleitores escolhem, em
+
+28
+00:00:56,538 --> 00:00:59,628
+eleição direta, o prefeito, o vice-prefeito e
+
+29
+00:00:59,628 --> 00:01:00,772
+os vereadores.
+
+30
+00:01:00,772 --> 00:01:02,977
+O prefeito chefia o Poder Executivo:
+
+31
+00:01:02,977 --> 00:01:05,678
+executa o orçamento e presta os serviços.
+
+32
+00:01:05,678 --> 00:01:07,919
+O vice substitui o prefeito nas ausências e
+
+33
+00:01:07,919 --> 00:01:10,502
+assume se o cargo ficar vago; outras tarefas
+
+34
+00:01:10,502 --> 00:01:12,706
+podem estar previstas na lei orgânica.
+
+35
+00:01:12,706 --> 00:01:15,171
+Os vereadores formam a Câmara Municipal, o
+
+36
+00:01:15,171 --> 00:01:16,833
+Poder Legislativo.
+
+37
+00:01:16,833 --> 00:01:18,932
+O número máximo de vereadores acompanha a
+
+38
+00:01:18,932 --> 00:01:19,852
+população:
+
+39
+00:01:19,852 --> 00:01:22,529
+vai de nove, nas cidades menores, a cinquenta
+
+40
+00:01:22,529 --> 00:01:24,344
+e cinco, nas maiores.
+
+41
+00:01:24,891 --> 00:01:27,250
+São dois poderes independentes.
+
+42
+00:01:27,250 --> 00:01:28,111
+Em resumo:
+
+43
+00:01:28,111 --> 00:01:30,894
+a prefeitura faz; a Câmara define regras,
+
+44
+00:01:30,894 --> 00:01:33,040
+aprova o orçamento e confere se o que foi
+
+45
+00:01:33,040 --> 00:01:34,325
+feito está certo.
+
+46
+00:01:34,325 --> 00:01:36,684
+E o município não tem Judiciário próprio:
+
+47
+00:01:36,684 --> 00:01:39,207
+os juízes que atuam na sua cidade pertencem à
+
+48
+00:01:39,207 --> 00:01:41,236
+Justiça estadual ou federal.
+
+49
+00:01:41,783 --> 00:01:44,012
+Aqui mora uma confusão comum.
+
+50
+00:01:44,012 --> 00:01:46,937
+Vereador não tapa buraco, não asfalta rua e
+
+51
+00:01:46,937 --> 00:01:48,221
+não contrata obra.
+
+52
+00:01:48,221 --> 00:01:50,404
+Quem executa é a prefeitura.
+
+53
+00:01:50,404 --> 00:01:52,550
+O papel do vereador é propor e votar leis
+
+54
+00:01:52,550 --> 00:01:55,333
+municipais, votar o orçamento, fiscalizar o
+
+55
+00:01:55,333 --> 00:01:57,409
+prefeito e cobrar respostas.
+
+56
+00:01:57,409 --> 00:01:59,756
+Ele também pode apresentar indicações, que são
+
+57
+00:01:59,756 --> 00:02:02,232
+sugestões ao Executivo, como consertar a
+
+58
+00:02:02,232 --> 00:02:04,331
+iluminação de uma rua, e requerimentos de
+
+59
+00:02:04,331 --> 00:02:05,332
+informação.
+
+60
+00:02:05,332 --> 00:02:07,903
+As regras estão no regimento interno de cada
+
+61
+00:02:07,903 --> 00:02:08,634
+Câmara.
+
+62
+00:02:08,634 --> 00:02:09,684
+Mas atenção:
+
+63
+00:02:09,684 --> 00:02:12,456
+indicação é um pedido, não uma ordem.
+
+64
+00:02:13,003 --> 00:02:15,197
+Então, o que é da prefeitura?
+
+65
+00:02:15,197 --> 00:02:17,036
+A Constituição entrega ao município os
+
+66
+00:02:17,036 --> 00:02:19,265
+serviços públicos de interesse local,
+
+67
+00:02:19,265 --> 00:02:21,635
+incluindo o transporte coletivo, considerado
+
+68
+00:02:21,635 --> 00:02:22,639
+essencial.
+
+69
+00:02:22,639 --> 00:02:24,761
+Na prática, isso costuma incluir limpeza
+
+70
+00:02:24,761 --> 00:02:27,745
+urbana e coleta de lixo, iluminação pública,
+
+71
+00:02:27,745 --> 00:02:30,080
+manutenção das vias municipais e o ônibus
+
+72
+00:02:30,080 --> 00:02:30,904
+urbano.
+
+73
+00:02:30,904 --> 00:02:33,085
+O município também cuida do ordenamento do
+
+74
+00:02:33,085 --> 00:02:33,781
+território:
+
+75
+00:02:33,781 --> 00:02:36,035
+o que pode ser construído, e onde.
+
+76
+00:02:36,035 --> 00:02:38,429
+Nas cidades com mais de vinte mil habitantes,
+
+77
+00:02:38,429 --> 00:02:40,221
+isso passa obrigatoriamente pelo plano
+
+78
+00:02:40,221 --> 00:02:43,098
+diretor, aprovado por lei municipal e revisto
+
+79
+00:02:43,098 --> 00:02:45,055
+pelo menos a cada dez anos.
+
+80
+00:02:45,055 --> 00:02:46,977
+Mesmo quando uma empresa contratada faz o
+
+81
+00:02:46,977 --> 00:02:49,820
+serviço, quem responde por ele é o município.
+
+82
+00:02:50,367 --> 00:02:52,856
+Saúde e educação são tarefas compartilhadas
+
+83
+00:02:52,856 --> 00:02:55,509
+entre União, estados e municípios.
+
+84
+00:02:55,509 --> 00:02:58,091
+Na saúde, a Constituição manda o município
+
+85
+00:02:58,091 --> 00:02:59,907
+prestar atendimento à população, com
+
+86
+00:02:59,907 --> 00:03:02,537
+cooperação técnica e financeira da União e do
+
+87
+00:03:02,537 --> 00:03:03,338
+estado.
+
+88
+00:03:03,338 --> 00:03:05,508
+A lei do SUS dá à gestão municipal a tarefa de
+
+89
+00:03:05,508 --> 00:03:08,244
+planejar, gerir e executar os serviços de
+
+90
+00:03:08,244 --> 00:03:09,176
+saúde.
+
+91
+00:03:09,176 --> 00:03:11,582
+Em regra, a porta de entrada é a Unidade
+
+92
+00:03:11,582 --> 00:03:14,023
+Básica de Saúde, a UBS.
+
+93
+00:03:14,023 --> 00:03:16,688
+Na educação, o município atua prioritariamente
+
+94
+00:03:16,688 --> 00:03:18,799
+na educação infantil, que é creche e
+
+95
+00:03:18,799 --> 00:03:21,240
+pré-escola até os cinco anos, e no ensino
+
+96
+00:03:21,240 --> 00:03:22,301
+fundamental.
+
+97
+00:03:22,301 --> 00:03:24,129
+Faltou vaga na creche?
+
+98
+00:03:24,129 --> 00:03:26,511
+A cobrança começa na secretaria municipal de
+
+99
+00:03:26,511 --> 00:03:27,424
+educação.
+
+100
+00:03:27,971 --> 00:03:29,740
+Mas nem todo problema da cidade é da
+
+101
+00:03:29,740 --> 00:03:30,695
+prefeitura.
+
+102
+00:03:30,695 --> 00:03:33,007
+Falta de energia na sua casa, ou na rua
+
+103
+00:03:33,007 --> 00:03:33,820
+inteira?
+
+104
+00:03:33,820 --> 00:03:36,438
+É com a distribuidora, que atua por concessão
+
+105
+00:03:36,438 --> 00:03:37,311
+da União.
+
+106
+00:03:37,311 --> 00:03:39,776
+Já o poste com a lâmpada apagada, numa rua que
+
+107
+00:03:39,776 --> 00:03:42,193
+tem energia, é iluminação pública:
+
+108
+00:03:42,193 --> 00:03:44,575
+em regra, da prefeitura, mesmo quando ela
+
+109
+00:03:44,575 --> 00:03:46,745
+contrata uma empresa para a manutenção.
+
+110
+00:03:46,745 --> 00:03:48,101
+Escola estadual?
+
+111
+00:03:48,101 --> 00:03:49,658
+Governo do estado.
+
+112
+00:03:49,658 --> 00:03:52,299
+Buraco numa rodovia estadual ou federal que
+
+113
+00:03:52,299 --> 00:03:53,397
+corta a cidade?
+
+114
+00:03:53,397 --> 00:03:56,345
+É do órgão estadual ou federal responsável, ou
+
+115
+00:03:56,345 --> 00:03:58,631
+da concessionária que administra a estrada.
+
+116
+00:03:58,631 --> 00:03:59,952
+E o policiamento?
+
+117
+00:03:59,952 --> 00:04:02,844
+É dos estados, assunto do próximo episódio.
+
+118
+00:04:03,391 --> 00:04:05,855
+Se este vídeo já esclareceu alguma dúvida,
+
+119
+00:04:05,855 --> 00:04:08,250
+deixe o seu like e se inscreva no canal.
+
+120
+00:04:08,250 --> 00:04:10,952
+Isso ajuda a explicação a chegar a mais gente.
+
+121
+00:04:11,500 --> 00:04:14,177
+Além de fazer leis, a Câmara vota o orçamento
+
+122
+00:04:14,177 --> 00:04:16,276
+da cidade, que é organizado em três leis
+
+123
+00:04:16,276 --> 00:04:17,985
+enviadas pelo prefeito.
+
+124
+00:04:17,985 --> 00:04:21,004
+O Plano Plurianual, o PPA, traça os planos
+
+125
+00:04:21,004 --> 00:04:22,396
+para quatro anos.
+
+126
+00:04:22,396 --> 00:04:25,332
+A Lei de Diretrizes Orçamentárias, a LDO,
+
+127
+00:04:25,332 --> 00:04:27,431
+define as prioridades e as regras do ano
+
+128
+00:04:27,431 --> 00:04:28,327
+seguinte.
+
+129
+00:04:28,327 --> 00:04:31,039
+E a Lei Orçamentária Anual, a LOA, diz quanto
+
+130
+00:04:31,039 --> 00:04:32,856
+será gasto, e em quê.
+
+131
+00:04:32,856 --> 00:04:34,813
+A Lei de Responsabilidade Fiscal exige
+
+132
+00:04:34,813 --> 00:04:37,337
+incentivo à participação popular e audiências
+
+133
+00:04:37,337 --> 00:04:39,282
+públicas na discussão desses planos e
+
+134
+00:04:39,282 --> 00:04:40,355
+orçamentos.
+
+135
+00:04:40,355 --> 00:04:41,239
+Ou seja:
+
+136
+00:04:41,239 --> 00:04:42,973
+dá para opinar antes de o dinheiro ser
+
+137
+00:04:42,973 --> 00:04:43,904
+decidido.
+
+138
+00:04:43,904 --> 00:04:46,540
+Os prazos variam conforme a lei local.
+
+139
+00:04:47,087 --> 00:04:49,174
+A Câmara também fiscaliza.
+
+140
+00:04:49,174 --> 00:04:51,792
+Pela Constituição, a fiscalização do município
+
+141
+00:04:51,792 --> 00:04:53,891
+é feita pela Câmara, por meio do controle
+
+142
+00:04:53,891 --> 00:04:56,249
+externo, e pelo controle interno da própria
+
+143
+00:04:56,249 --> 00:04:57,229
+prefeitura.
+
+144
+00:04:57,229 --> 00:04:59,576
+Nesse trabalho, os vereadores contam com o
+
+145
+00:04:59,576 --> 00:05:01,887
+auxílio do Tribunal de Contas, em geral o do
+
+146
+00:05:01,887 --> 00:05:02,677
+estado.
+
+147
+00:05:02,677 --> 00:05:05,236
+Sobre as contas anuais do prefeito, o Tribunal
+
+148
+00:05:05,236 --> 00:05:08,031
+emite um parecer prévio, e a Câmara julga.
+
+149
+00:05:08,031 --> 00:05:10,389
+Para derrubar esse parecer, são necessários os
+
+150
+00:05:10,389 --> 00:05:12,913
+votos de dois terços dos vereadores.
+
+151
+00:05:12,913 --> 00:05:13,703
+E mais:
+
+152
+00:05:13,703 --> 00:05:15,814
+todo ano, as contas do município ficam
+
+153
+00:05:15,814 --> 00:05:18,078
+sessenta dias à disposição de qualquer
+
+154
+00:05:18,078 --> 00:05:20,071
+contribuinte, que pode questioná-las nos
+
+155
+00:05:20,071 --> 00:05:21,096
+termos da lei.
+
+156
+00:05:21,643 --> 00:05:23,955
+De onde vem o dinheiro para tudo isso?
+
+157
+00:05:23,955 --> 00:05:26,808
+Uma parte é arrecadada pela própria cidade.
+
+158
+00:05:26,808 --> 00:05:29,544
+O IPTU, sobre imóveis urbanos.
+
+159
+00:05:29,544 --> 00:05:32,433
+O ITBI, cobrado quando um imóvel é vendido.
+
+160
+00:05:32,433 --> 00:05:34,780
+O ISS, sobre serviços.
+
+161
+00:05:34,780 --> 00:05:37,764
+As taxas, ligadas a um serviço específico ou a
+
+162
+00:05:37,764 --> 00:05:39,804
+uma fiscalização, como a licença de
+
+163
+00:05:39,804 --> 00:05:40,877
+funcionamento.
+
+164
+00:05:40,877 --> 00:05:43,094
+E a contribuição de iluminação pública, que
+
+165
+00:05:43,094 --> 00:05:45,818
+serve para custear, expandir e melhorar a
+
+166
+00:05:45,818 --> 00:05:46,855
+iluminação.
+
+167
+00:05:46,855 --> 00:05:49,166
+Com a reforma tributária, ela pode financiar
+
+168
+00:05:49,166 --> 00:05:51,053
+também sistemas de monitoramento para
+
+169
+00:05:51,053 --> 00:05:54,084
+segurança e preservação de ruas e praças.
+
+170
+00:05:54,084 --> 00:05:56,444
+Tudo isso depende de lei municipal.
+
+171
+00:05:56,992 --> 00:05:59,586
+Em muitas cidades, outra fatia importante vem
+
+172
+00:05:59,586 --> 00:06:02,218
+de transferências previstas na Constituição.
+
+173
+00:06:02,218 --> 00:06:04,847
+Do estado, o município recebe parte do ICMS
+
+174
+00:06:04,847 --> 00:06:07,536
+arrecadado, segundo critérios constitucionais
+
+175
+00:06:07,536 --> 00:06:10,012
+e de lei estadual, e metade do IPVA dos
+
+176
+00:06:10,012 --> 00:06:12,333
+veículos licenciados na cidade.
+
+177
+00:06:12,333 --> 00:06:14,550
+Da União, vem o Fundo de Participação dos
+
+178
+00:06:14,550 --> 00:06:17,357
+Municípios, o FPM, formado por parte do
+
+179
+00:06:17,357 --> 00:06:19,432
+Imposto de Renda e do IPI.
+
+180
+00:06:19,432 --> 00:06:21,272
+E há dinheiro com destino certo:
+
+181
+00:06:21,272 --> 00:06:23,654
+o SUS repassa recursos para a saúde, e o
+
+182
+00:06:23,654 --> 00:06:25,942
+FUNDEB redistribui recursos da educação
+
+183
+00:06:25,942 --> 00:06:28,336
+básica, com complementação da União.
+
+184
+00:06:28,906 --> 00:06:30,817
+Essa estrutura está mudando.
+
+185
+00:06:30,817 --> 00:06:34,544
+A Emenda Constitucional 132, de 2023, a
+
+186
+00:06:34,544 --> 00:06:37,480
+reforma tributária, criou o IBS, um imposto
+
+187
+00:06:37,480 --> 00:06:39,626
+sobre bens e serviços compartilhado entre
+
+188
+00:06:39,626 --> 00:06:42,586
+estados, Distrito Federal e municípios.
+
+189
+00:06:42,586 --> 00:06:45,122
+O ISS será substituído aos poucos:
+
+190
+00:06:45,122 --> 00:06:48,671
+de 2029 a 2032, suas alíquotas caem
+
+191
+00:06:48,671 --> 00:06:52,433
+gradualmente; e, a partir de 2033, ele deixa
+
+192
+00:06:52,433 --> 00:06:54,862
+de existir, junto com o ICMS.
+
+193
+00:06:54,862 --> 00:06:56,902
+A transição na divisão da receita entre os
+
+194
+00:06:56,902 --> 00:07:00,156
+entes é longa e vai até 2077.
+
+195
+00:07:00,703 --> 00:07:04,043
+Buraco na rua, poste apagado, lixo sem coleta?
+
+196
+00:07:04,043 --> 00:07:05,788
+Registre o pedido no canal oficial da
+
+197
+00:07:05,788 --> 00:07:06,637
+prefeitura:
+
+198
+00:07:06,637 --> 00:07:09,208
+o site oficial, o aplicativo, a central
+
+199
+00:07:09,208 --> 00:07:12,746
+telefônica, como o 156, onde existir, ou o
+
+200
+00:07:12,746 --> 00:07:14,194
+atendimento presencial.
+
+201
+00:07:14,194 --> 00:07:16,363
+Anote o número do protocolo.
+
+202
+00:07:16,363 --> 00:07:19,335
+Se não houver solução, procure a ouvidoria.
+
+203
+00:07:19,335 --> 00:07:21,292
+Pela lei de defesa do usuário do serviço
+
+204
+00:07:21,292 --> 00:07:23,863
+público, você pode reclamar, denunciar,
+
+205
+00:07:23,863 --> 00:07:26,882
+sugerir ou elogiar, pela internet, por carta
+
+206
+00:07:26,882 --> 00:07:28,993
+ou pessoalmente, sem precisar explicar o
+
+207
+00:07:28,993 --> 00:07:29,843
+motivo.
+
+208
+00:07:29,843 --> 00:07:32,720
+A ouvidoria tem trinta dias, prorrogáveis uma
+
+209
+00:07:32,720 --> 00:07:35,196
+vez por igual período, para enviar a decisão
+
+210
+00:07:35,196 --> 00:07:35,915
+final.
+
+211
+00:07:35,915 --> 00:07:38,545
+Se nada andar, leve o caso a um vereador, que
+
+212
+00:07:38,545 --> 00:07:40,880
+pode cobrar a prefeitura formalmente.
+
+213
+00:07:41,427 --> 00:07:43,291
+E para acompanhar os gastos?
+
+214
+00:07:43,291 --> 00:07:45,413
+A Lei de Responsabilidade Fiscal obriga a
+
+215
+00:07:45,413 --> 00:07:47,630
+divulgar na internet, em tempo real,
+
+216
+00:07:47,630 --> 00:07:49,800
+informações detalhadas sobre receitas e
+
+217
+00:07:49,800 --> 00:07:50,673
+despesas:
+
+218
+00:07:50,673 --> 00:07:53,562
+o que foi pago, a quem, em qual processo e por
+
+219
+00:07:53,562 --> 00:07:55,496
+qual licitação, quando houver.
+
+220
+00:07:55,496 --> 00:07:57,677
+Procure o portal da transparência no site
+
+221
+00:07:57,677 --> 00:07:59,210
+oficial da prefeitura.
+
+222
+00:07:59,210 --> 00:08:01,959
+Muitos também mostram contratos e obras.
+
+223
+00:08:01,959 --> 00:08:04,530
+No site da Câmara, procure os projetos, as
+
+224
+00:08:04,530 --> 00:08:07,265
+votações e as indicações de cada vereador.
+
+225
+00:08:07,265 --> 00:08:09,965
+Se encontrar irregularidade, qualquer cidadão
+
+226
+00:08:09,965 --> 00:08:12,005
+pode denunciar ao Tribunal de Contas e ao
+
+227
+00:08:12,005 --> 00:08:13,252
+Ministério Público.
+
+228
+00:08:13,799 --> 00:08:15,405
+Hora do teste rápido.
+
+229
+00:08:15,405 --> 00:08:17,044
+Responda nos comentários:
+
+230
+00:08:17,044 --> 00:08:18,893
+de quem é a responsabilidade?
+
+231
+00:08:18,893 --> 00:08:20,060
+Situação um:
+
+232
+00:08:20,060 --> 00:08:22,891
+a luz acabou em todas as casas da sua rua.
+
+233
+00:08:22,891 --> 00:08:24,248
+Situação dois:
+
+234
+00:08:24,248 --> 00:08:26,795
+uma criança de três anos não conseguiu vaga na
+
+235
+00:08:26,795 --> 00:08:27,855
+creche pública.
+
+236
+00:08:27,855 --> 00:08:29,235
+Situação três:
+
+237
+00:08:29,235 --> 00:08:31,759
+abriu um buraco enorme numa rodovia estadual
+
+238
+00:08:31,759 --> 00:08:33,174
+que atravessa a cidade.
+
+239
+00:08:33,174 --> 00:08:36,630
+Prefeitura, estado, União ou concessionária?
+
+240
+00:08:36,630 --> 00:08:39,240
+As respostas estão no episódio 2.
+
+241
+00:08:39,787 --> 00:08:40,684
+Resumindo:
+
+242
+00:08:40,684 --> 00:08:43,337
+o município é o governo mais perto de você.
+
+243
+00:08:43,337 --> 00:08:46,485
+A prefeitura executa; a Câmara legisla, aprova
+
+244
+00:08:46,485 --> 00:08:48,408
+o orçamento e fiscaliza; e você pode
+
+245
+00:08:48,408 --> 00:08:49,823
+acompanhar as duas.
+
+246
+00:08:49,823 --> 00:08:52,382
+No próximo episódio, subimos um degrau:
+
+247
+00:08:52,382 --> 00:08:53,277
+o estado.
+
+248
+00:08:53,277 --> 00:08:55,813
+Quem cuida da polícia, do ensino médio e dos
+
+249
+00:08:55,813 --> 00:08:57,299
+hospitais estaduais?
+
+250
+00:08:57,299 --> 00:09:00,011
+Até lá, conte nos comentários um problema real
+
+251
+00:09:00,011 --> 00:09:02,995
+da sua cidade, sem citar nomes de pessoas.
+
+252
+00:09:02,995 --> 00:09:04,339
+Acompanhe o Legiscópio em
+
+253
+00:09:04,339 --> 00:09:06,768
+www.legiscopio.com.br
+
+254
+00:09:06,768 --> 00:09:08,749
+E, se puder, apoie o projeto em
+
+255
+00:09:08,749 --> 00:09:10,868
+apoia.se/legiscopio
