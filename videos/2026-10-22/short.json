@@ -1,0 +1,25 @@
+{
+  "cenas": [
+    {"fala": "Nova lei do MEI em um minuto! O teto vai de oitenta e um mil para cento e quarenta mil reais.",
+     "visual": {"tipo": "comparacao", "titulo": "Teto do MEI", "antes": {"valor": "R$ 81 mil", "rotulo": "hoje"}, "depois": {"valor": "R$ 140 mil", "rotulo": "a partir de 2028"}}},
+    {"fala": "A lei foi publicada nesta quarta-feira, vinte e um. Mas quase tudo só vale a partir de 2027.",
+     "visual": {"tipo": "texto", "titulo": "Lei publicada", "texto": "LC 238/2026, no Diário Oficial de 21/10/2026."}},
+    {"fala": "Em 2027, o teto vai a cento e dez mil, com até dois empregados. Os cento e quarenta mil, só em 2028.",
+     "visual": {"tipo": "etapas", "titulo": "O calendário", "itens": ["2026: nada muda", "2027: R$ 110 mil e 2 empregados", "2028: R$ 140 mil"], "atual": 0}},
+    {"fala": "Dívidas do MEI com a União até treze de outubro serão perdoadas, com juros e multas.",
+     "visual": {"tipo": "numero", "titulo": "Perdão de dívidas", "valor": "13/10/2026", "rotulo": "data de corte das dívidas perdoadas"}},
+    {"fala": "A condição: pagar o DAS em dia por seis meses. Se atrasar, o perdão cai.",
+     "visual": {"tipo": "numero", "titulo": "A condição", "valor": "6 meses", "rotulo": "de DAS em dia, senão o perdão cai"}},
+    {"fala": "Segundo o governo, são dezoito vírgula sete bilhões de reais, de três vírgula seis milhões de MEIs.",
+     "visual": {"tipo": "numero", "titulo": "Quanto será perdoado", "valor": "R$ 18,7 bi", "rotulo": "estimativa do governo (Secom)"}},
+    {"fala": "Quem defende fala em dívidas difíceis de cobrar. Críticos citam quem pagou em dia.",
+     "visual": {"tipo": "comparacao", "titulo": "Os dois lados", "antes": {"valor": "A favor", "rotulo": "dívida difícil de cobrar"}, "depois": {"valor": "Críticos", "rotulo": "quem pagou em dia"}}},
+    {"fala": "Quer saber como fica a aposentadoria e quem pode voltar a ser MEI? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+     "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Aposentadoria, licitações e mais"}}
+  ],
+  "youtube": {
+    "titulo": "Nova lei do MEI em 1 minuto: quando valem o teto e o perdão #Shorts",
+    "descricao": "A Lei Complementar 238/2026 eleva o teto do MEI para R$ 110 mil em 2027 e R$ 140 mil em 2028, permite 2 empregados e perdoa dívidas com a União constituídas até 13/10/2026. Vídeo completo no canal Legiscópio.\n\nFonte: Planalto — https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp238.htm\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #MEI",
+    "tags": ["Legiscópio", "nova lei do MEI", "teto do MEI", "perdão de dívidas do MEI", "Lei Complementar 238/2026", "shorts"]
+  }
+}
