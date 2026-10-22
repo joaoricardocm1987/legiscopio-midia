@@ -1,0 +1,40 @@
+{
+  "rotulo": "Lei sancionada",
+  "titulo": "Nova lei do MEI: teto de R$ 140 mil e perdão de dívidas já têm data para valer",
+  "destaque": "R$ 140 mil",
+  "detalhe": "LC 238/2026, publicada em 21/10: teto de R$ 110 mil, 2 empregados e perdão de dívidas valem em 2027; teto de R$ 140 mil, em 2028.",
+  "fonte": "Fonte: Planalto (LC 238/2026) e Agência Senado · 21/10/2026",
+  "legenda": "A nova lei do MEI foi publicada no Diário Oficial nesta quarta-feira (21). A Lei Complementar 238/2026 veio do PLP 186/2026, aprovado por 461 a 4 na Câmara e 78 a 0 no Senado. Mas quase tudo só começa a valer em 2027.\n\nQuando vale cada regra:\n• Até 31/12/2026: nada muda. Teto de R$ 81 mil por ano e até 1 empregado.\n• 1º/01/2027: teto de R$ 110 mil, até 2 empregados (salário mínimo ou piso da categoria) e perdão das dívidas.\n• 1º/01/2028: teto de R$ 140 mil por ano.\n\nO perdão vale para dívidas do MEI com a União constituídas até 13/10/2026, com juros e multas. Condição: pagar o DAS em dia nos 6 meses seguintes à entrada em vigor da lei; se atrasar, o perdão é cancelado. Quem tem ação na Justiça precisa desistir dela, e quem já pagou não recebe de volta. A Procuradoria-Geral da Fazenda Nacional (PGFN) vai detalhar os procedimentos.\n\nSegundo o governo (Secom), são R$ 18,7 bilhões de mais de 3,6 milhões de MEIs. Quem defende diz que o teto não era atualizado desde 2018 e que boa parte dessas dívidas é de difícil cobrança. Críticos apontam a falta de compensação para quem pagou em dia, o risco de estimular a inadimplência e o custo fiscal.\n\nFonte: Planalto — https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp238.htm | Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/21/nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas\n\n▶ Vídeo completo no YouTube: Legiscópio\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #Economia #MEI",
+  "legenda_tiktok": "Nova lei do MEI publicada! Teto de R$ 110 mil e 2 empregados em 2027; R$ 140 mil em 2028. Dívidas com a União até 13/10 serão perdoadas se o DAS ficar em dia por 6 meses. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #MEI",
+  "fontes": [
+    "https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp238.htm",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/21/nova-lei-amplia-limite-de-faturamento-do-mei-e-preve-perdao-de-dividas",
+    "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/sancionada-lei-que-perdoa-divida-e-aumenta-limite-de-mei",
+    "https://agenciabrasil.ebc.com.br/economia/noticia/2026-10/perdao-de-dividas-de-meis-tera-impacto-de-r-3-bilhoes",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-14&dataFim=2026-10-15&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes/2635476-36/orientacoes",
+    "https://atlaspublico.com.br/noticias/presidencia-sanciona-lei-que-eleva-teto-do-mei-a-rs-140-mil-93898",
+    "https://fenacon.org.br/noticias/sancionada-lei-que-amplia-limite-de-faturamento-do-mei/",
+    "https://www.seudinheiro.com/2026/seu-negocio/saiu-do-papel-lula-sanciona-aumento-do-teto-do-mei-para-ate-r-140-mil-dobro-de-funcionarios-e-perdao-de-dividas/",
+    "https://www.otempo.com.br/politica/governo/2026/10/21/lula-sanciona-lei-que-perdoa-dividas-de-meis-e-amplia-o-teto-do-faturamento",
+    "https://www.gazetadopovo.com.br/economia/mei-perdao-de-dividas-lula-revolta-meis-impostos-em-dia/",
+    "https://www.sistemampa.com.br/noticias/perdao-dividas-mei/",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-19&dataFim=2026-10-22&ordem=DESC&ordenarPor=dataHoraRegistro&itens=100",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-10-22&dataFim=2026-10-23&itens=100",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2207985/tramitacoes",
+    "https://www12.senado.leg.br/noticias",
+    "https://www.poder360.com.br/poder-congresso/pec-da-seguranca-sera-votada-depois-do-2o-turno/"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Sanção da nova lei do MEI: teto de R$ 140 mil, 2 empregados e perdão de dívidas", "veiculos": ["Agência Senado", "Agência Brasil", "O Tempo", "Seu Dinheiro", "Fenacon", "Atlas Público", "Mix Vale", "Economic News Brasil", "Diário do Comércio", "Gazeta do Povo", "Click Petróleo e Gás"], "proposicao": "PLP 186/2026 → Lei Complementar 238/2026, sancionada e publicada no DOU (edição extra) em 21/10/2026", "nota": 8},
+      {"assunto": "MPs dos combustíveis e da proteção ao tarifaço dos EUA são prorrogadas", "veiculos": ["Agência Senado/Rádio Senado"], "proposicao": "Medidas provisórias prorrogadas por mais 60 dias (comissões mistas)", "nota": 3},
+      {"assunto": "PEC da Segurança será votada depois do 2º turno", "veiculos": ["Poder360"], "proposicao": "PEC 18/2025 — sem data no Plenário do Senado (tratada em 18/10)", "nota": 1},
+      {"assunto": "Jornada máxima de 42 h a partir de 15/12 (fim da 6x1)", "veiculos": ["Agência Senado/Rádio Senado", "Agência Câmara"], "proposicao": "EC 141 (PEC 221/2019) — promulgada em 16/10 (tema tratado em 14 e 15/10)", "nota": 1},
+      {"assunto": "Anistia de multas de radar", "veiculos": ["sem repercussão nova em 24 h"], "proposicao": "PL 3516/2019 — sem registro de votação na CVT em 21/10 nos dados abertos (tratado em 21/10)", "nota": 1},
+      {"assunto": "Proposta de PEC do transporte gratuito", "veiculos": ["Poder360"], "proposicao": "Nenhuma proposição apresentada; tema ligado à campanha eleitoral (descartado)", "nota": 0}
+    ],
+    "escolhido": "Lei Complementar 238/2026 (ex-PLP 186/2026) — nova lei do MEI: o que muda e quando",
+    "motivo": "Maior repercussão das últimas 24 h, em veículos de linhas editoriais diversas (3); lei sancionada e publicada ontem (3); interesse direto de 17,56 milhões de MEIs (2). Fase nova: os posts de 16/10 (aprovação) e 20/10 (processo de sanção) trataram de outras etapas, por isso sem desconto; o foco agora é o calendário de vigência e as condições do perdão, com o texto oficial da lei. Semana sem votações no Plenário da Câmara (2º turno em 25/10). Google Trends não consultado."
+  }
+}
