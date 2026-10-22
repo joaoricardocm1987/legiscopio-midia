@@ -1,0 +1,771 @@
+1
+00:00:00,102 --> 00:00:02,460
+A nova lei do MEI já foi publicada.
+
+2
+00:00:02,460 --> 00:00:05,342
+O teto de faturamento vai subir, o MEI vai poder
+
+3
+00:00:05,342 --> 00:00:08,144
+ter dois empregados e dívidas com a União serão
+
+4
+00:00:08,144 --> 00:00:09,236
+perdoadas.
+
+5
+00:00:09,236 --> 00:00:11,526
+Mas quase nada disso vale agora.
+
+6
+00:00:11,526 --> 00:00:14,447
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+7
+00:00:14,447 --> 00:00:15,447
+vai entender:
+
+8
+00:00:15,447 --> 00:00:16,907
+o que muda e quando?
+
+9
+00:00:16,907 --> 00:00:18,631
+Quem tem direito ao perdão?
+
+10
+00:00:18,631 --> 00:00:21,936
+E o que fazer para não perder o benefício?
+
+11
+00:00:22,488 --> 00:00:25,609
+Primeiro, o número que todo mundo está procurando.
+
+12
+00:00:25,609 --> 00:00:28,517
+Hoje, o MEI pode faturar até oitenta e um mil reais
+
+13
+00:00:28,517 --> 00:00:29,280
+por ano.
+
+14
+00:00:29,280 --> 00:00:33,807
+Em 2027, o limite sobe para cento e dez mil reais.
+
+15
+00:00:33,807 --> 00:00:37,399
+E, a partir de 2028, chega a cento e quarenta mil
+
+16
+00:00:37,399 --> 00:00:38,609
+reais por ano.
+
+17
+00:00:38,609 --> 00:00:41,635
+Pelas contas do Legiscópio, é um aumento de setenta
+
+18
+00:00:41,635 --> 00:00:44,320
+e dois vírgula oito por cento em relação ao teto
+
+19
+00:00:44,320 --> 00:00:45,713
+atual.
+
+20
+00:00:46,265 --> 00:00:49,371
+A lei é a Lei Complementar duzentos e trinta e oito,
+
+21
+00:00:49,371 --> 00:00:51,058
+de 2026.
+
+22
+00:00:51,058 --> 00:00:54,045
+Ela foi sancionada e publicada numa edição extra
+
+23
+00:00:54,045 --> 00:00:57,414
+do Diário Oficial da União nesta quarta-feira, vinte
+
+24
+00:00:57,414 --> 00:01:00,677
+e um de outubro, e muda a lei do Simples Nacional.
+
+25
+00:01:00,677 --> 00:01:03,400
+Lei complementar é um tipo de lei reservado pela
+
+26
+00:01:03,400 --> 00:01:06,335
+Constituição para alguns temas, como os impostos
+
+27
+00:01:06,335 --> 00:01:09,242
+das pequenas empresas, e que precisa da maioria
+
+28
+00:01:09,242 --> 00:01:12,252
+absoluta da Câmara e do Senado.
+
+29
+00:01:12,804 --> 00:01:15,501
+Agora, o calendário, que é o ponto que mais gera
+
+30
+00:01:15,501 --> 00:01:16,293
+dúvida.
+
+31
+00:01:16,293 --> 00:01:19,464
+A lei está em vigor desde a publicação, mas a maior
+
+32
+00:01:19,464 --> 00:01:22,319
+parte das regras só produz efeitos em primeiro de
+
+33
+00:01:22,319 --> 00:01:24,530
+janeiro de 2027.
+
+34
+00:01:24,530 --> 00:01:27,912
+É o caso do teto de cento e dez mil, dos dois empregados
+
+35
+00:01:27,912 --> 00:01:29,701
+e do perdão das dívidas.
+
+36
+00:01:29,701 --> 00:01:32,596
+Já o teto de cento e quarenta mil só vale a partir
+
+37
+00:01:32,596 --> 00:01:35,981
+de primeiro de janeiro de 2028.
+
+38
+00:01:36,534 --> 00:01:38,142
+E até o fim deste ano?
+
+39
+00:01:38,142 --> 00:01:40,892
+Continua valendo o teto de oitenta e um mil reais
+
+40
+00:01:40,892 --> 00:01:42,668
+e o limite de um empregado.
+
+41
+00:01:42,668 --> 00:01:46,366
+Quem passar do teto atual ainda em 2026 segue as
+
+42
+00:01:46,366 --> 00:01:48,240
+regras de hoje.
+
+43
+00:01:48,792 --> 00:01:51,176
+E para quem abrir um MEI no meio do ano?
+
+44
+00:01:51,176 --> 00:01:52,913
+A conta é proporcional.
+
+45
+00:01:52,913 --> 00:01:57,176
+Em 2027, o limite é de nove mil, cento e sessenta
+
+46
+00:01:57,176 --> 00:02:00,071
+e seis reais e sessenta e sete centavos por mês
+
+47
+00:02:00,071 --> 00:02:01,189
+de atividade.
+
+48
+00:02:01,189 --> 00:02:05,295
+A partir de 2028, onze mil, seiscentos e sessenta
+
+49
+00:02:05,295 --> 00:02:08,597
+e seis reais e sessenta e sete centavos por mês.
+
+50
+00:02:08,597 --> 00:02:11,801
+Fração de mês conta como mês inteiro.
+
+51
+00:02:12,354 --> 00:02:14,436
+A segunda mudança é na equipe.
+
+52
+00:02:14,436 --> 00:02:16,620
+Hoje, o MEI pode ter um empregado.
+
+53
+00:02:16,620 --> 00:02:19,725
+Com a nova lei, poderá ter até dois, desde que cada
+
+54
+00:02:19,725 --> 00:02:22,699
+um receba exclusivamente um salário mínimo ou o
+
+55
+00:02:22,699 --> 00:02:24,159
+piso da categoria.
+
+56
+00:02:24,159 --> 00:02:26,988
+E, se um empregado se afastar por um motivo previsto
+
+57
+00:02:26,988 --> 00:02:30,146
+em lei, o MEI poderá contratar um substituto, nas
+
+58
+00:02:30,146 --> 00:02:32,857
+condições definidas pelo Ministério do Trabalho
+
+59
+00:02:32,857 --> 00:02:34,403
+e Emprego.
+
+60
+00:02:34,956 --> 00:02:37,680
+Agora, o perdão das dívidas, que a lei chama de
+
+61
+00:02:37,680 --> 00:02:38,564
+remissão.
+
+62
+00:02:38,564 --> 00:02:41,393
+Remissão é quando o governo abre mão de cobrar uma
+
+63
+00:02:41,393 --> 00:02:42,209
+dívida.
+
+64
+00:02:42,209 --> 00:02:45,354
+Ela vale para dívidas do MEI com a União constituídas
+
+65
+00:02:45,354 --> 00:02:49,459
+até treze de outubro de 2026, inscritas ou não na
+
+66
+00:02:49,459 --> 00:02:50,630
+Dívida Ativa.
+
+67
+00:02:50,630 --> 00:02:53,617
+Entram a contribuição mensal em atraso, paga pela
+
+68
+00:02:53,617 --> 00:02:57,617
+guia chamada DAS, e também juros, multas e encargos,
+
+69
+00:02:57,617 --> 00:03:00,654
+inclusive de dívidas parceladas.
+
+70
+00:03:01,206 --> 00:03:03,261
+Mas o perdão tem condições.
+
+71
+00:03:03,261 --> 00:03:04,301
+A principal:
+
+72
+00:03:04,301 --> 00:03:07,301
+pagar em dia as contribuições que vencerem nos seis
+
+73
+00:03:07,301 --> 00:03:09,998
+meses seguintes à entrada em vigor da lei.
+
+74
+00:03:09,998 --> 00:03:12,604
+Se atrasar, o perdão é cancelado.
+
+75
+00:03:12,604 --> 00:03:15,301
+Quem tem processo na Justiça contra essas dívidas
+
+76
+00:03:15,301 --> 00:03:18,248
+precisa desistir da ação e comprovar isso.
+
+77
+00:03:18,248 --> 00:03:21,117
+E quem já pagou não recebe o dinheiro de volta.
+
+78
+00:03:21,117 --> 00:03:24,511
+Os procedimentos serão definidos pela Procuradoria-Geral
+
+79
+00:03:24,511 --> 00:03:27,867
+da Fazenda Nacional, e especialistas orientam manter
+
+80
+00:03:27,867 --> 00:03:30,192
+o DAS em dia desde já.
+
+81
+00:03:30,744 --> 00:03:32,589
+Quanto dinheiro está em jogo?
+
+82
+00:03:32,589 --> 00:03:35,655
+Quando o projeto foi enviado, em treze de outubro,
+
+83
+00:03:35,655 --> 00:03:38,681
+o Ministério da Fazenda calculou doze vírgula oitenta
+
+84
+00:03:38,681 --> 00:03:41,957
+e seis bilhões de reais na Dívida Ativa, de cerca
+
+85
+00:03:41,957 --> 00:03:44,813
+de três vírgula seis milhões de MEIs.
+
+86
+00:03:44,813 --> 00:03:47,523
+O Congresso incluiu dívidas ainda não inscritas
+
+87
+00:03:47,523 --> 00:03:50,642
+e, após a sanção, a Secretaria de Comunicação do
+
+88
+00:03:50,642 --> 00:03:54,247
+governo passou a falar em dezoito vírgula sete bilhões,
+
+89
+00:03:54,247 --> 00:03:58,242
+com dívida média de três mil e quatrocentos reais.
+
+90
+00:03:58,794 --> 00:04:02,060
+E por que o impacto nas contas públicas é bem menor?
+
+91
+00:04:02,060 --> 00:04:05,270
+Segundo a Fazenda, onze vírgula zero cinco bilhões
+
+92
+00:04:05,270 --> 00:04:09,376
+dessas dívidas eram de difícil recuperação ou irrecuperáveis.
+
+93
+00:04:09,376 --> 00:04:12,349
+A perda de arrecadação estimada é de três vírgula
+
+94
+00:04:12,349 --> 00:04:16,810
+zero quatro bilhões de reais, divididos entre 2027
+
+95
+00:04:16,810 --> 00:04:18,349
+e 2029.
+
+96
+00:04:18,349 --> 00:04:21,810
+Essa conta é do projeto original, antes das mudanças
+
+97
+00:04:21,810 --> 00:04:24,084
+feitas pelo Congresso.
+
+98
+00:04:24,636 --> 00:04:25,636
+Rapidinho:
+
+99
+00:04:25,636 --> 00:04:28,689
+se este vídeo está te ajudando, deixa o seu like,
+
+100
+00:04:28,689 --> 00:04:31,847
+se inscreve no canal e ativa o sininho pra não perder
+
+101
+00:04:31,847 --> 00:04:32,994
+os próximos.
+
+102
+00:04:32,994 --> 00:04:35,406
+Agora, vamos continuar!
+
+103
+00:04:35,958 --> 00:04:38,129
+Um ponto que pouca gente percebe:
+
+104
+00:04:38,129 --> 00:04:40,879
+segundo especialistas em Previdência ouvidos pelo
+
+105
+00:04:40,879 --> 00:04:45,119
+Portal MPA, o perdão não conta como tempo de contribuição.
+
+106
+00:04:45,119 --> 00:04:48,263
+Os meses sem pagamento que forem perdoados não entram
+
+107
+00:04:48,263 --> 00:04:51,079
+no cálculo da aposentadoria, porque esse dinheiro
+
+108
+00:04:51,079 --> 00:04:53,976
+nunca chegou ao INSS.
+
+109
+00:04:54,528 --> 00:04:57,489
+O pacote do governo, chamado Prospera MEI, traz
+
+110
+00:04:57,489 --> 00:04:58,952
+outras mudanças.
+
+111
+00:04:58,952 --> 00:05:01,899
+O limite das licitações exclusivas para micro e
+
+112
+00:05:01,899 --> 00:05:04,754
+pequenas empresas sobe de oitenta mil para cerca
+
+113
+00:05:04,754 --> 00:05:06,847
+de cento e trinta e um mil reais.
+
+114
+00:05:06,847 --> 00:05:10,597
+No programa Contrata mais Brasil, o teto das contratações
+
+115
+00:05:10,597 --> 00:05:13,597
+de MEIs passa de treze mil para vinte e cinco mil
+
+116
+00:05:13,597 --> 00:05:14,452
+reais.
+
+117
+00:05:14,452 --> 00:05:17,281
+E um decreto, que é diferente de lei, dispensa o
+
+118
+00:05:17,281 --> 00:05:20,097
+MEI de emitir nota fiscal em vendas para pessoas
+
+119
+00:05:20,097 --> 00:05:21,714
+físicas.
+
+120
+00:05:22,266 --> 00:05:23,529
+Mais uma novidade:
+
+121
+00:05:23,529 --> 00:05:26,792
+segundo a Agência Brasil, empresas do Simples Nacional
+
+122
+00:05:26,792 --> 00:05:29,661
+com faturamento dentro dos novos limites poderão
+
+123
+00:05:29,661 --> 00:05:31,637
+voltar a se enquadrar como MEI.
+
+124
+00:05:31,637 --> 00:05:34,506
+E, pelo texto da lei, quem deixar de ser MEI depois
+
+125
+00:05:34,506 --> 00:05:37,150
+da publicação não perde o direito ao perdão das
+
+126
+00:05:37,150 --> 00:05:39,156
+dívidas antigas.
+
+127
+00:05:39,708 --> 00:05:41,684
+O caminho até aqui foi rápido.
+
+128
+00:05:41,684 --> 00:05:44,790
+O governo enviou o projeto em treze de outubro.
+
+129
+00:05:44,790 --> 00:05:48,027
+A Câmara aprovou no dia catorze, o Senado no dia
+
+130
+00:05:48,027 --> 00:05:51,000
+quinze, e a sanção veio no dia vinte e um.
+
+131
+00:05:51,000 --> 00:05:54,990
+Foram oito dias entre o envio e a lei publicada.
+
+132
+00:05:55,542 --> 00:05:59,111
+Fizemos um levantamento nos dados abertos da Câmara.
+
+133
+00:05:59,111 --> 00:06:02,111
+Na votação do texto principal, foram quatrocentos
+
+134
+00:06:02,111 --> 00:06:05,058
+e sessenta e um votos a favor e quatro contra, ou
+
+135
+00:06:05,058 --> 00:06:07,887
+noventa e nove vírgula um por cento de apoio.
+
+136
+00:06:07,887 --> 00:06:10,229
+No Senado, setenta e oito a zero.
+
+137
+00:06:10,229 --> 00:06:13,505
+Das quinze orientações de partidos e blocos registradas
+
+138
+00:06:13,505 --> 00:06:16,992
+na Câmara, dez foram pelo sim, uma pelo não, e quatro
+
+139
+00:06:16,992 --> 00:06:18,334
+ficaram em branco.
+
+140
+00:06:18,334 --> 00:06:21,216
+Esse é um cálculo do Legiscópio.
+
+141
+00:06:21,767 --> 00:06:23,666
+Agora, os argumentos.
+
+142
+00:06:23,666 --> 00:06:26,376
+Quem defende a lei, como o governo, lembra que o
+
+143
+00:06:26,376 --> 00:06:30,087
+teto não era atualizado desde 2018 e afirma que
+
+144
+00:06:30,087 --> 00:06:33,166
+o novo limite permite ao MEI crescer sem sair tão
+
+145
+00:06:33,166 --> 00:06:35,244
+cedo do regime simplificado.
+
+146
+00:06:35,244 --> 00:06:38,060
+O governo também argumenta que manter a cobrança
+
+147
+00:06:38,060 --> 00:06:41,297
+de dívidas de difícil recuperação gera custo alto,
+
+148
+00:06:41,297 --> 00:06:43,698
+sem garantia de receber.
+
+149
+00:06:44,250 --> 00:06:46,319
+Do outro lado, há críticas.
+
+150
+00:06:46,319 --> 00:06:49,937
+MEIs que pagam em dia, ouvidos pela Gazeta do Povo,
+
+151
+00:06:49,937 --> 00:06:52,832
+questionam a falta de compensação para quem cumpriu
+
+152
+00:06:52,832 --> 00:06:55,700
+as obrigações e dizem que o perdão pode estimular
+
+153
+00:06:55,700 --> 00:06:59,424
+a inadimplência, com a expectativa de novos perdões.
+
+154
+00:06:59,424 --> 00:07:01,792
+Há também questionamentos sobre o custo para as
+
+155
+00:07:01,792 --> 00:07:03,134
+contas públicas:
+
+156
+00:07:03,134 --> 00:07:06,213
+a lei dispensa exigências da Lei de Responsabilidade
+
+157
+00:07:06,213 --> 00:07:09,156
+Fiscal para conceder o benefício.
+
+158
+00:07:09,708 --> 00:07:11,369
+Respostas rápidas.
+
+159
+00:07:11,369 --> 00:07:13,869
+Já posso faturar cento e quarenta mil?
+
+160
+00:07:13,869 --> 00:07:14,395
+Não:
+
+161
+00:07:14,395 --> 00:07:19,184
+só em 2028. Em 2027, são cento e dez mil.
+
+162
+00:07:19,184 --> 00:07:21,750
+Já posso contratar o segundo empregado?
+
+163
+00:07:21,750 --> 00:07:24,342
+Só a partir de 2027.
+
+164
+00:07:24,342 --> 00:07:26,132
+Preciso pedir o perdão?
+
+165
+00:07:26,132 --> 00:07:29,145
+O governo afirma que ele será automático, mas quem
+
+166
+00:07:29,145 --> 00:07:32,961
+tem ação na Justiça precisa desistir dela, e a Procuradoria
+
+167
+00:07:32,961 --> 00:07:34,869
+ainda vai detalhar as regras.
+
+168
+00:07:34,869 --> 00:07:37,605
+Quem pagou em dia recebe algo de volta?
+
+169
+00:07:37,605 --> 00:07:38,957
+Não.
+
+170
+00:07:39,510 --> 00:07:40,523
+Resumindo:
+
+171
+00:07:40,523 --> 00:07:44,036
+a lei do MEI já foi publicada, mas as mudanças começam
+
+172
+00:07:44,036 --> 00:07:49,013
+em 2027. O teto vai a cento e dez mil em 2027 e
+
+173
+00:07:49,013 --> 00:07:52,736
+a cento e quarenta mil em 2028. O MEI poderá ter
+
+174
+00:07:52,736 --> 00:07:54,197
+dois empregados.
+
+175
+00:07:54,197 --> 00:07:57,565
+E as dívidas até treze de outubro serão perdoadas,
+
+176
+00:07:57,565 --> 00:08:01,560
+desde que o DAS fique em dia nos seis meses seguintes.
+
+177
+00:08:02,112 --> 00:08:05,733
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+178
+00:08:05,733 --> 00:08:09,509
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+179
+00:08:09,509 --> 00:08:13,023
+E o nosso site é legiscopio ponto com ponto br.
+
+180
+00:08:13,023 --> 00:08:14,220
+E tem novidade:
+
+181
+00:08:14,220 --> 00:08:17,352
+o aplicativo do Legiscópio chega ao Android no dia
+
+182
+00:08:17,352 --> 00:08:20,457
+23 de outubro, e ao iOS em breve.
+
+183
+00:08:20,457 --> 00:08:23,849
+Você já pode conhecê-lo pelo nosso site.
+
+184
+00:08:24,402 --> 00:08:27,797
+Este vídeo usou o texto da lei publicado pelo Planalto,
+
+185
+00:08:27,797 --> 00:08:30,784
+dados abertos da Câmara, informações da Agência
+
+186
+00:08:30,784 --> 00:08:34,313
+Senado, da Agência Brasil e do Ministério da Fazenda,
+
+187
+00:08:34,313 --> 00:08:36,260
+e reportagens sobre o tema.
+
+188
+00:08:36,260 --> 00:08:38,352
+Os links estão na descrição.
+
+189
+00:08:38,352 --> 00:08:41,642
+Se o vídeo foi útil, se inscreva no canal e compartilhe
+
+190
+00:08:41,642 --> 00:08:42,721
+com quem é MEI.
+
+191
+00:08:42,721 --> 00:08:46,036
+O Legiscópio é independente e gratuito, e você pode
+
+192
+00:08:46,036 --> 00:08:49,049
+apoiar em apoia ponto se barra legiscopio.
+
+193
+00:08:49,049 --> 00:08:50,916
+Até a próxima!
