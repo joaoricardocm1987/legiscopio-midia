@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Anúncios no streaming em um minuto! Um projeto na Câmara quer proibir propaganda em todos os planos pagos de streaming.",
+      "visual": {"tipo": "numero", "titulo": "Streaming pago", "valor": "Sem anúncios", "rotulo": "Proposta do PL 1474/2026"}
+    },
+    {
+      "fala": "A proibição vale antes, durante e depois de filmes e séries, e também para banners e pop-ups na área de quem assina.",
+      "visual": {"tipo": "lista", "titulo": "O que fica proibido", "itens": ["Anúncio antes e durante", "Banners e pop-ups", "Planos e compras pagas"]}
+    },
+    {
+      "fala": "Planos gratuitos com anúncios continuam permitidos. Quem descumprir responde pelo Código de Defesa do Consumidor, com prazo de cento e vinte dias para adequação.",
+      "visual": {"tipo": "numero", "titulo": "Prazo para adequar", "valor": "120 dias", "rotulo": "Multa e suspensão pelo CDC"}
+    },
+    {
+      "fala": "Outro projeto, o PL dois mil seiscentos e quarenta e nove, é mais restrito: proíbe anúncios só nos planos vendidos como sem publicidade.",
+      "visual": {"tipo": "comparacao", "titulo": "Dois projetos", "antes": {"valor": "PL 1474", "rotulo": "Todo plano pago"}, "depois": {"valor": "PL 2649", "rotulo": "Plano vendido sem anúncio"}}
+    },
+    {
+      "fala": "O autor fala em cobrança dupla. Do outro lado, as plataformas oferecem o plano com anúncios como a opção mais barata.",
+      "visual": {"tipo": "lista", "titulo": "Dois lados", "itens": ["Autor: cobrança dupla", "Plataformas: plano mais barato"]}
+    },
+    {
+      "fala": "O projeto ainda aguarda relator. Passa por três comissões da Câmara e depois pelo Senado. Por enquanto, nada muda.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Comunicação", "Consumidor e CCJ", "Senado"], "atual": 0}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Seus direitos de consumidor", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Anúncios no streaming pago: o que propõe o projeto em 1 minuto #Shorts",
+    "descricao": "O PL 1474/2026 quer proibir anúncios em todos os planos pagos de streaming; planos gratuitos com publicidade seguiriam permitidos. O projeto aguarda relator na Câmara e ainda precisa passar pelo Senado. Mais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/noticias/1311955-projeto-proibe-exibicao-de-anuncios-em-planos-pagos-de-streaming\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #DireitoDoConsumidor",
+    "tags": ["Legiscópio", "anúncios no streaming", "PL 1474/2026", "streaming", "direito do consumidor", "shorts"]
+  }
+}
