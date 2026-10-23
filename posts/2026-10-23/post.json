@@ -1,0 +1,36 @@
+{
+  "rotulo": "Projeto na Câmara",
+  "titulo": "Anúncios no streaming pago: projeto na Câmara quer proibir propaganda",
+  "destaque": "PL 1474/2026",
+  "detalhe": "Proíbe anúncios antes, durante e depois do conteúdo em planos pagos. Planos grátis com anúncios seguem permitidos. Aguarda relator na Câmara.",
+  "fonte": "Fonte: Câmara dos Deputados · PL 1474/2026 · out/2026",
+  "legenda": "Pagar pela assinatura de streaming e ainda assistir a propagandas? Um projeto de lei na Câmara quer proibir anúncios em todos os planos pagos.\n\nO que diz o PL 1474/2026:\n• Proíbe anúncios antes, durante e depois do conteúdo em assinaturas e compras avulsas pagas.\n• Veta banners, pop-ups e mensagens promocionais na área do assinante.\n• Planos gratuitos com anúncios continuam permitidos.\n• Quem descumprir fica sujeito às sanções do Código de Defesa do Consumidor, como multa e suspensão da oferta. As empresas teriam 120 dias para se adequar.\n\nOutro projeto, o PL 2649/2026, vai por um caminho mais restrito: proíbe incluir anúncios em planos vendidos como \"sem publicidade\" e obriga a informar, antes da compra, se o plano tem anúncios.\n\nO autor do PL 1474 argumenta que cobrar a assinatura e impor publicidade é \"cobrança dupla sobre o mesmo serviço\". Do outro lado, as plataformas oferecem os planos com anúncios como a opção mais barata; um levantamento da empresa MiQ, citado pela Band, aponta que 59% dos latino-americanos preferem serviços com publicidade quando custam menos.\n\nO PL 1474 aguarda relator na Comissão de Comunicação. Depois passa pelas comissões de Defesa do Consumidor e de Constituição e Justiça (CCJ) e, se aprovado, vai ao Senado. Por enquanto, nada muda.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/noticias/1311955-projeto-proibe-exibicao-de-anuncios-em-planos-pagos-de-streaming\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #DireitoDoConsumidor",
+  "legenda_tiktok": "Projeto na Câmara quer proibir anúncios em planos pagos de streaming. Planos grátis com anúncios seguiriam permitidos. O PL 1474/2026 ainda aguarda relator e precisa passar pelo Senado. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #DireitoDoConsumidor",
+  "fontes": [
+    "https://www.camara.leg.br/noticias/1311955-projeto-proibe-exibicao-de-anuncios-em-planos-pagos-de-streaming",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&numero=1474&ano=2026",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2612686/tramitacoes",
+    "https://www.camara.leg.br/noticias/1305837-projeto-proibe-anuncios-em-planos-pagos-de-streaming-contratados-sem-publicidade",
+    "https://midiamax.com.br/politica/2026/brasil-pode-proibir-exibicao-anuncios-planos-pagos-streaming/",
+    "https://www.jd1noticias.com/brasil/2026/10/22/projeto-quer-proibir-anuncios-em-planos-pagos-de-streamings-como-netflix-e-prime-video.html",
+    "https://www.band.com.br/band-vale/noticias/anuncios-no-streaming-por-que-o-plano-com-publicidade-virou-padrao-202608041400",
+    "https://canaltech.com.br/cinema/prime-video-passa-a-cobrar-r-10-a-mais-em-plano-sem-anuncios-no-brasil/",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/22/pec-em-analise-no-senado-amplia-exploracao-economica-de-terras-indigenas",
+    "https://www12.senado.leg.br/radio/1/boletim.leg/2026/10/22/boletim-leg-edicao-das-22h",
+    "https://www.piranot.com.br/2026/10/22/noticias/economia/combustiveis-fraudes-senado-projetos-anp/",
+    "https://www.camara.leg.br/noticias/1313062-projeto-amplia-protecao-a-pessoas-com-autismo-na-adolescencia-e-na-vida-adulta",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-20&dataFim=2026-10-23&ordem=DESC&ordenarPor=dataHoraRegistro&itens=100"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Projeto proíbe anúncios em planos pagos de streaming", "veiculos": ["Agência Câmara", "Midiamax", "JD1 Notícias", "Alô Alô Bahia", "Clic Camaquã", "Manchete Popular", "Brasil em Folhas", "Repórter Maceió", "Portal do Comércio (PL 2649)"], "proposicao": "PL 1474/2026 — aguardando designação de relator na Comissão de Comunicação (conclusivo: CCOM, CDC e CCJC); correlato PL 2649/2026", "nota": 5},
+      {"assunto": "Projeto amplia proteção a pessoas com autismo na adolescência e vida adulta", "veiculos": ["Agência Câmara"], "proposicao": "Projeto de lei recém-apresentado na Câmara", "nota": 4},
+      {"assunto": "Fraudes em combustíveis: projetos aguardam o Senado", "veiculos": ["Piranot"], "proposicao": "PLP 109/2025 (aguarda inclusão na Ordem do Dia do Senado) e PL 399/2025 (aguarda despacho)", "nota": 3},
+      {"assunto": "PEC amplia exploração econômica de terras indígenas", "veiculos": ["Agência Senado"], "proposicao": "PEC 10/2024 — parecer favorável do relator, aguarda votação na CCJ do Senado, sem data", "nota": 2},
+      {"assunto": "PECs sobre regras de escolha de ministros do STF", "veiculos": ["Rádio Senado"], "proposicao": "PECs no Senado, sem número citado na fonte e sem data", "nota": 1},
+      {"assunto": "Nova lei do MEI em vigor", "veiculos": ["Rádio Senado", "Agência Câmara"], "proposicao": "LC 238/2026 — já tratada em 16, 20 e 22/10 (−3)", "nota": 2}
+    ],
+    "escolhido": "PL 1474/2026 — proibição de anúncios em planos pagos de streaming",
+    "motivo": "Maior nota: repercussão em vários veículos a partir de 22/10 (2), proposta em comissão aguardando relator (1) e interesse direto do consumidor/bolso (2), sem repetição nos últimos 14 dias. Semana do 2º turno (25/10) sem votações no Plenário da Câmara (dados abertos de 20 a 23/10 vazios). MEI já tratado (−3). Google Trends não consultado."
+  }
+}
