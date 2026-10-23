@@ -1,7 +1,7 @@
 # Tutorial do app Legiscópio (vídeo avulso, fora da rotina diária).
 # 1) gera/confere o cache da narração em videos/tutorial-app/audio
 # 2) se as capturas estiverem em videos/tutorial-app/telas, renderiza tutorial.mp4 + short.mp4 + thumb.jpg
-# Revisão 4: Android em 23/10/2026 e iOS em breve; endereços escritos na legenda.
+# Revisão 5: Android nos próximos dias e iOS em breve; endereços escritos na legenda.
 import subprocess
 import sys
 from pathlib import Path

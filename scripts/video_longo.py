@@ -489,7 +489,7 @@ def desenhar_visual(img, v, p, t, dur):
             if aa > 0:
                 d.rounded_rectangle([x0, yy, x1 - 200, yy + 150], radius=24, fill=VERDE)
                 d.text((x0 + 40, yy + 26), v.get("app_titulo", "App do Legiscópio"), font=BK(48), fill=LIMA)
-                d.text((x0 + 40, yy + 92), v.get("app_texto", "Android a partir de 23/10 · iOS em breve"), font=RG(38),
+                d.text((x0 + 40, yy + 92), v.get("app_texto", "Android nos próximos dias · iOS em breve"), font=RG(38),
                        fill=LIMA_TX)
 
     elif tipo == "fim":
