@@ -1,0 +1,23 @@
+{
+  "cenas": [
+    {"fala": "A semana no Congresso em um minuto! Na Câmara, zero votações de dezenove a vinte e quatro de outubro. Na semana anterior, foram setenta e oito.",
+     "visual": {"tipo": "comparacao", "titulo": "Votações na Câmara", "antes": {"valor": "78", "rotulo": "12 a 16/10"}, "depois": {"valor": "0", "rotulo": "19 a 24/10"}}},
+    {"fala": "No Senado, só duas sessões especiais, de homenagem, sem votação. Foi a semana do segundo turno.",
+     "visual": {"tipo": "texto", "titulo": "E no Senado?", "texto": "Só duas sessões especiais, sem votação."}},
+    {"fala": "Mesmo assim, saiu a nova lei do MEI: teto de cento e dez mil reais em 2027 e cento e quarenta mil em 2028.",
+     "visual": {"tipo": "etapas", "titulo": "Teto do MEI", "itens": ["Hoje: R$ 81 mil", "2027: R$ 110 mil", "2028: R$ 140 mil"], "atual": 0}},
+    {"fala": "Três medidas provisórias ganharam mais sessenta dias, entre elas a de sete bilhões de reais para exportadores.",
+     "visual": {"tipo": "numero", "titulo": "MPs prorrogadas", "valor": "+60 dias", "rotulo": "3 medidas provisórias"}},
+    {"fala": "E chegaram duas novas: seis bilhões e meio para exportação e trezentos milhões para a defesa civil.",
+     "visual": {"tipo": "barras", "titulo": "Novas MPs", "itens": [{"rotulo": "Exportação", "valor": 6.5, "texto": "R$ 6,5 bi"}, {"rotulo": "Defesa civil", "valor": 0.3, "texto": "R$ 300 mi"}], "nota": "Fonte: Agência Senado"}},
+    {"fala": "E atenção: o presidente eleito toma posse em cinco de janeiro, e não mais em primeiro de janeiro.",
+     "visual": {"tipo": "comparacao", "titulo": "Posse do presidente", "antes": {"valor": "1º/01", "rotulo": "antes"}, "depois": {"valor": "5/01", "rotulo": "a partir de 2027"}}},
+    {"fala": "Quer saber as regras do perdão do MEI e o que ficou para depois da eleição? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+     "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Perdão do MEI e próximos passos"}}
+  ],
+  "youtube": {
+    "titulo": "Semana no Congresso em 1 minuto: zero votações e lei do MEI #Shorts",
+    "descricao": "Na semana do 2º turno, a Câmara não registrou votações, mas a nova lei do MEI foi publicada, 3 MPs foram prorrogadas e 2 novas chegaram. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/19/prorrogadas-mps-de-protecao-ao-tarifaco-dos-eua-e-do-preco-de-combustiveis\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #CongressoNacional",
+    "tags": ["Legiscópio", "semana no Congresso", "lei do MEI", "medida provisória", "posse 5 de janeiro", "shorts"]
+  }
+}
