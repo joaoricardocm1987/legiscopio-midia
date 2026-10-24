@@ -1,0 +1,767 @@
+1
+00:00:00,101 --> 00:00:00,881
+Zero.
+
+2
+00:00:00,881 --> 00:00:03,986
+Foi esse o número de votações registradas na Câmara
+
+3
+00:00:03,986 --> 00:00:07,078
+de dezenove a vinte e quatro de outubro, a semana
+
+4
+00:00:07,078 --> 00:00:08,394
+do segundo turno.
+
+5
+00:00:08,394 --> 00:00:11,394
+Mesmo assim, uma lei nova foi publicada, medidas
+
+6
+00:00:11,394 --> 00:00:14,223
+provisórias ganharam mais prazo e outras chegaram
+
+7
+00:00:14,223 --> 00:00:15,263
+ao Congresso.
+
+8
+00:00:15,263 --> 00:00:18,394
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+9
+00:00:18,394 --> 00:00:21,368
+vai entender o que andou no Congresso nesta semana.
+
+10
+00:00:21,368 --> 00:00:22,828
+O que muda para o MEI?
+
+11
+00:00:22,828 --> 00:00:25,394
+Que medidas provisórias estão valendo?
+
+12
+00:00:25,394 --> 00:00:28,344
+E o que fica para depois da eleição?
+
+13
+00:00:28,896 --> 00:00:30,925
+Primeiro, o tamanho da pausa.
+
+14
+00:00:30,925 --> 00:00:34,320
+Nós contamos as votações registradas nos Dados Abertos
+
+15
+00:00:34,320 --> 00:00:37,109
+da Câmara, no Plenário e nas comissões.
+
+16
+00:00:37,109 --> 00:00:40,425
+Na semana anterior, de doze a dezesseis de outubro,
+
+17
+00:00:40,425 --> 00:00:43,833
+foram setenta e oito, sendo vinte e três no Plenário.
+
+18
+00:00:43,833 --> 00:00:45,649
+Nesta semana, nenhuma.
+
+19
+00:00:45,649 --> 00:00:48,689
+A conta é um cálculo do Legiscópio.
+
+20
+00:00:49,242 --> 00:00:51,600
+No Senado, o quadro foi parecido.
+
+21
+00:00:51,600 --> 00:00:54,653
+A agenda oficial do Plenário mostra só duas sessões
+
+22
+00:00:54,653 --> 00:00:58,324
+especiais, que são sessões de homenagem, sem votação.
+
+23
+00:00:58,324 --> 00:01:01,495
+Na terça-feira, vinte, os sessenta anos da Unicamp,
+
+24
+00:01:01,495 --> 00:01:04,126
+a Universidade Estadual de Campinas.
+
+25
+00:01:04,126 --> 00:01:07,008
+Na quarta-feira, vinte e um, os cento e vinte anos
+
+26
+00:01:07,008 --> 00:01:10,061
+do primeiro voo do Catorze Bis, junto com o Dia
+
+27
+00:01:10,061 --> 00:01:13,811
+do Aviador e o Dia da Força Aérea Brasileira.
+
+28
+00:01:14,364 --> 00:01:15,590
+Por que a pausa?
+
+29
+00:01:15,590 --> 00:01:18,683
+Segundo o portal Congresso em Foco, muitos deputados
+
+30
+00:01:18,683 --> 00:01:21,735
+e senadores estão envolvidos nas campanhas do segundo
+
+31
+00:01:21,735 --> 00:01:25,051
+turno, o que dificulta reunir quórum, que é o número
+
+32
+00:01:25,051 --> 00:01:28,012
+mínimo de parlamentares presentes para votar.
+
+33
+00:01:28,012 --> 00:01:30,709
+E a presidência da Câmara orientou os líderes a
+
+34
+00:01:30,709 --> 00:01:34,397
+evitar temas polêmicos entre os dois turnos.
+
+35
+00:01:34,950 --> 00:01:38,913
+Mesmo sem votação, a semana teve uma decisão importante.
+
+36
+00:01:38,913 --> 00:01:42,229
+Na quarta-feira, vinte e um, foi sancionada e publicada
+
+37
+00:01:42,229 --> 00:01:45,111
+no Diário Oficial a Lei Complementar duzentos e
+
+38
+00:01:45,111 --> 00:01:47,637
+trinta e oito, de 2026.
+
+39
+00:01:47,637 --> 00:01:50,966
+É a nova lei do MEI, o microempreendedor individual.
+
+40
+00:01:50,966 --> 00:01:53,847
+Ela veio de um projeto aprovado pela Câmara e pelo
+
+41
+00:01:53,847 --> 00:01:56,376
+Senado na semana anterior.
+
+42
+00:01:56,928 --> 00:01:59,875
+Mas atenção ao calendário, porque quase nada muda
+
+43
+00:01:59,875 --> 00:02:00,615
+agora.
+
+44
+00:02:00,615 --> 00:02:03,641
+Até trinta e um de dezembro, o teto continua em
+
+45
+00:02:03,641 --> 00:02:05,641
+oitenta e um mil reais por ano.
+
+46
+00:02:05,641 --> 00:02:09,615
+Em primeiro de janeiro de 2027, o limite sobe para
+
+47
+00:02:09,615 --> 00:02:12,589
+cento e dez mil reais, e o MEI pode ter até dois
+
+48
+00:02:12,589 --> 00:02:13,773
+empregados.
+
+49
+00:02:13,773 --> 00:02:17,457
+E em primeiro de janeiro de 2028, o teto chega a
+
+50
+00:02:17,457 --> 00:02:20,442
+cento e quarenta mil reais por ano.
+
+51
+00:02:20,994 --> 00:02:24,481
+A lei também perdoa dívidas do MEI com a União constituídas
+
+52
+00:02:24,481 --> 00:02:27,549
+até treze de outubro de 2026.
+
+53
+00:02:27,549 --> 00:02:29,063
+Mas há condições.
+
+54
+00:02:29,063 --> 00:02:32,220
+É preciso pagar em dia as contribuições que vencerem
+
+55
+00:02:32,220 --> 00:02:35,326
+nos seis meses seguintes à entrada em vigor, senão
+
+56
+00:02:35,326 --> 00:02:36,931
+o perdão é cancelado.
+
+57
+00:02:36,931 --> 00:02:40,115
+Quem tem ação na Justiça precisa desistir dela.
+
+58
+00:02:40,115 --> 00:02:43,273
+E os dois empregados devem receber um salário mínimo
+
+59
+00:02:43,273 --> 00:02:45,563
+ou o piso da categoria.
+
+60
+00:02:46,116 --> 00:02:47,658
+E quem pagou em dia?
+
+61
+00:02:47,658 --> 00:02:50,315
+A lei diz que o perdão não dá direito a devolver
+
+62
+00:02:50,315 --> 00:02:52,474
+ou compensar valores já pagos.
+
+63
+00:02:52,474 --> 00:02:55,948
+Quem defende a medida argumenta que ela ajuda microempreendedores
+
+64
+00:02:55,948 --> 00:02:59,224
+a sair da inadimplência e voltar à regularidade.
+
+65
+00:02:59,224 --> 00:03:02,158
+Setores críticos apontam que quem manteve as contas
+
+66
+00:03:02,158 --> 00:03:04,869
+em dia não recebe nenhuma compensação.
+
+67
+00:03:04,869 --> 00:03:07,790
+No Senado, já há uma proposta para beneficiar quem
+
+68
+00:03:07,790 --> 00:03:09,534
+pagou em dia.
+
+69
+00:03:10,086 --> 00:03:11,455
+Segundo destaque:
+
+70
+00:03:11,455 --> 00:03:13,339
+as medidas provisórias.
+
+71
+00:03:13,339 --> 00:03:15,905
+Uma medida provisória vale como lei assim que é
+
+72
+00:03:15,905 --> 00:03:19,181
+publicada, mas precisa ser aprovada pelo Congresso
+
+73
+00:03:19,181 --> 00:03:21,049
+em até cento e vinte dias.
+
+74
+00:03:21,049 --> 00:03:24,181
+Na segunda-feira, dezenove, o presidente do Congresso
+
+75
+00:03:24,181 --> 00:03:27,194
+prorrogou por mais sessenta dias três delas.
+
+76
+00:03:27,194 --> 00:03:30,115
+Duas ligadas às tarifas dos Estados Unidos e uma
+
+77
+00:03:30,115 --> 00:03:32,064
+aos combustíveis.
+
+78
+00:03:32,616 --> 00:03:35,748
+A MP mil trezentos e oitenta e sete abre um crédito
+
+79
+00:03:35,748 --> 00:03:38,866
+de sete bilhões de reais para financiar exportadores
+
+80
+00:03:38,866 --> 00:03:41,421
+afetados pelo tarifaço americano.
+
+81
+00:03:41,421 --> 00:03:45,040
+A mil trezentos e oitenta e oito autoriza uma subvenção,
+
+82
+00:03:45,040 --> 00:03:47,908
+que é um auxílio financeiro, de três bilhões e cem
+
+83
+00:03:47,908 --> 00:03:50,566
+milhões de reais a importadores e produtores de
+
+84
+00:03:50,566 --> 00:03:51,750
+combustíveis.
+
+85
+00:03:51,750 --> 00:03:54,421
+E a mil trezentos e oitenta e seis estende por um
+
+86
+00:03:54,421 --> 00:03:57,316
+ano a suspensão de tributos para exportadoras que
+
+87
+00:03:57,316 --> 00:04:00,018
+cumprem certas condições.
+
+88
+00:04:00,570 --> 00:04:02,112
+Por que combustíveis?
+
+89
+00:04:02,112 --> 00:04:07,718
+Segundo a Agência Senado, essa medida faz provisórias
+
+90
+00:04:07,718 --> 00:04:10,481
+que somam trinta e quatro vírgula nove bilhões parte de
+
+91
+00:04:10,481 --> 00:04:13,862
+reais para reduzir os efeitos do conflito no Oriente
+
+92
+00:04:13,862 --> 00:04:17,296
+Médio sobre os preços da gasolina do diesel do gás
+
+93
+00:04:17,296 --> 00:04:18,836
+um conjunto de cozinha e do oito medidas provisórias que
+
+94
+00:04:18,836 --> 00:04:20,484
+de aviação somam trinta e quatro vírgula nove bilhões de reais, para reduzir os efeitos do conflito no Oriente Médio sobre os preços da gasolina, do diesel, do gás de cozinha e do querosene de aviação.
+
+95
+00:04:21,036 --> 00:04:22,036
+Rapidinho:
+
+96
+00:04:22,036 --> 00:04:25,089
+se este vídeo está te ajudando, deixa o seu like,
+
+97
+00:04:25,089 --> 00:04:28,247
+se inscreve no canal e ativa o sininho pra não perder
+
+98
+00:04:28,247 --> 00:04:29,394
+os próximos.
+
+99
+00:04:29,394 --> 00:04:31,806
+Agora, vamos continuar!
+
+100
+00:04:32,358 --> 00:04:35,266
+E uma medida provisória perdeu a validade sem ser
+
+101
+00:04:35,266 --> 00:04:36,123
+votada.
+
+102
+00:04:36,123 --> 00:04:39,650
+A MP mil trezentos e sessenta e sete destinava trezentos
+
+103
+00:04:39,650 --> 00:04:42,360
+e trinta e sete vírgula quatro milhões de reais
+
+104
+00:04:42,360 --> 00:04:46,690
+ao Ibama e ao ICMBio, os órgãos federais de fiscalização
+
+105
+00:04:46,690 --> 00:04:50,032
+ambiental, para combater incêndios e desmatamento.
+
+106
+00:04:50,032 --> 00:04:53,453
+Segundo a Agência Senado, o governo já tinha comprometido
+
+107
+00:04:53,453 --> 00:04:56,400
+todo o valor antes do fim do prazo.
+
+108
+00:04:56,952 --> 00:04:58,281
+Terceiro destaque:
+
+109
+00:04:58,281 --> 00:05:02,215
+duas medidas provisórias novas, publicadas na quarta-feira,
+
+110
+00:05:02,215 --> 00:05:03,034
+vinte e um.
+
+111
+00:05:03,034 --> 00:05:05,823
+A mil trezentos e noventa e sete abre crédito de
+
+112
+00:05:05,823 --> 00:05:08,613
+seis bilhões e quinhentos milhões de reais para
+
+113
+00:05:08,613 --> 00:05:12,034
+o Fundo de Garantia à Exportação, voltado a exportadores
+
+114
+00:05:12,034 --> 00:05:15,192
+prejudicados pelas tarifas dos Estados Unidos.
+
+115
+00:05:15,192 --> 00:05:18,297
+E a mil trezentos e noventa e oito destina trezentos
+
+116
+00:05:18,297 --> 00:05:21,234
+milhões de reais à defesa civil.
+
+117
+00:05:21,786 --> 00:05:24,457
+O dinheiro da defesa civil vai para o Ministério
+
+118
+00:05:24,457 --> 00:05:27,499
+da Integração e do Desenvolvimento Regional.
+
+119
+00:05:27,499 --> 00:05:30,618
+Pode pagar socorro às vítimas, abrigo e alimentos,
+
+120
+00:05:30,618 --> 00:05:34,091
+a volta de serviços essenciais, limpeza de áreas,
+
+121
+00:05:34,091 --> 00:05:36,539
+remoção de escombros e reconstrução.
+
+122
+00:05:36,539 --> 00:05:40,618
+Na justificativa, o governo cita secas em mais municípios,
+
+123
+00:05:40,618 --> 00:05:44,210
+risco de inundações e incêndios florestais, e queimadas
+
+124
+00:05:44,210 --> 00:05:47,364
+no Amazonas perto de áreas urbanas.
+
+125
+00:05:47,916 --> 00:05:50,350
+Um detalhe sobre essas duas medidas:
+
+126
+00:05:50,350 --> 00:05:52,682
+elas são créditos extraordinários.
+
+127
+00:05:52,682 --> 00:05:55,629
+Pela Constituição, esse tipo de crédito só pode
+
+128
+00:05:55,629 --> 00:05:58,892
+ser aberto para despesas imprevisíveis e urgentes,
+
+129
+00:05:58,892 --> 00:06:01,564
+como as causadas por calamidade pública.
+
+130
+00:06:01,564 --> 00:06:04,800
+E, como toda medida provisória, elas já valem, mas
+
+131
+00:06:04,800 --> 00:06:08,189
+precisam passar pela Câmara e pelo Senado.
+
+132
+00:06:08,742 --> 00:06:09,847
+Quarto destaque:
+
+133
+00:06:09,847 --> 00:06:11,468
+a reforma tributária.
+
+134
+00:06:11,468 --> 00:06:14,876
+Segundo a Agência Câmara, a CBS, a Contribuição
+
+135
+00:06:14,876 --> 00:06:17,850
+sobre Bens e Serviços, passa a valer em primeiro
+
+136
+00:06:17,850 --> 00:06:21,916
+de janeiro de 2027, no lugar do PIS, da Cofins e
+
+137
+00:06:21,916 --> 00:06:22,863
+do IPI.
+
+138
+00:06:22,863 --> 00:06:25,995
+Antes disso, o Tribunal de Contas da União tem até
+
+139
+00:06:25,995 --> 00:06:28,995
+o fim de outubro para homologar o cálculo da alíquota,
+
+140
+00:06:28,995 --> 00:06:31,982
+e o Senado tem até quinze de dezembro para publicar
+
+141
+00:06:31,982 --> 00:06:35,160
+uma resolução com a alíquota oficial.
+
+142
+00:06:35,712 --> 00:06:39,396
+A soma da CBS com o IBS, o imposto de estados e
+
+143
+00:06:39,396 --> 00:06:42,594
+municípios, tem uma alíquota máxima de vinte e seis
+
+144
+00:06:42,594 --> 00:06:35,970
+vírgula cinco por cento. Famílias do Cadastro Único terão direito a cashback, que é a devolução de parte do imposto pago em produtos essenciais. E o governo deve enviar ao Congresso um projeto com as alíquotas do Imposto Seletivo, que vai incidir sobre produtos prejudiciais à saúde ou ao meio ambiente.
+
+145
+00:06:36,522 --> 00:06:39,130
+E o que ficou para depois do segundo turno?
+
+146
+00:06:39,130 --> 00:06:42,130
+O principal item é a PEC da Segurança Pública, a
+
+147
+00:06:42,130 --> 00:06:44,867
+PEC dezoito, de 2025.
+
+148
+00:06:44,867 --> 00:06:48,038
+Ela foi retirada da pauta do Senado no dia quinze,
+
+149
+00:06:48,038 --> 00:06:50,972
+em meio ao debate sobre emendas que propõem reduzir
+
+150
+00:06:50,972 --> 00:06:54,156
+a maioridade penal, e deve ser votada só depois
+
+151
+00:06:54,156 --> 00:06:55,077
+da eleição.
+
+152
+00:06:55,077 --> 00:06:57,893
+Temas de maior repercussão devem voltar à pauta
+
+153
+00:06:57,893 --> 00:07:00,444
+a partir da próxima semana.
+
+154
+00:07:00,996 --> 00:07:04,170
+Para fechar, uma mudança que começa a valer agora.
+
+155
+00:07:04,170 --> 00:07:06,867
+Quem for eleito presidente toma posse em cinco de
+
+156
+00:07:06,867 --> 00:07:10,986
+janeiro de 2027, e não mais em primeiro de janeiro.
+
+157
+00:07:10,986 --> 00:07:13,459
+Os governadores, em seis de janeiro.
+
+158
+00:07:13,459 --> 00:07:16,446
+A regra é da Emenda Constitucional cento e onze,
+
+159
+00:07:16,446 --> 00:07:20,766
+de 2021, e será aplicada pela primeira vez.
+
+160
+00:07:21,318 --> 00:07:25,608
+Na transição, o presidente e o vice eleitos em 2022 ficam
+
+161
+00:07:25,608 --> 00:07:28,752
+quatro dias a mais no cargo, e os governadores,
+
+162
+00:07:28,752 --> 00:07:29,952
+cinco dias.
+
+163
+00:07:29,952 --> 00:07:32,952
+Deputados e senadores continuam tomando posse em
+
+164
+00:07:32,952 --> 00:07:34,387
+primeiro de fevereiro.
+
+165
+00:07:34,387 --> 00:07:37,255
+Segundo o Senado, a mudança tira as cerimônias do
+
+166
+00:07:37,255 --> 00:07:40,150
+feriado de Ano-Novo e permite que os governadores
+
+167
+00:07:40,150 --> 00:07:44,184
+eleitos acompanhem a posse do presidente em Brasília.
+
+168
+00:07:44,736 --> 00:07:46,197
+Resumindo a semana:
+
+169
+00:07:46,197 --> 00:07:49,276
+nenhuma votação na Câmara e só sessões especiais
+
+170
+00:07:49,276 --> 00:07:50,225
+no Senado.
+
+171
+00:07:50,225 --> 00:07:52,949
+A nova lei do MEI foi publicada, com mudanças a
+
+172
+00:07:52,949 --> 00:07:55,055
+partir de 2027.
+
+173
+00:07:55,055 --> 00:07:57,791
+Três medidas provisórias ganharam mais sessenta
+
+174
+00:07:57,791 --> 00:08:01,357
+dias, uma perdeu a validade e duas novas chegaram.
+
+175
+00:08:01,357 --> 00:08:03,857
+E a posse do presidente passa a ser em cinco de
+
+176
+00:08:03,857 --> 00:08:05,346
+janeiro.
+
+177
+00:08:05,898 --> 00:08:09,519
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+178
+00:08:09,519 --> 00:08:13,295
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+179
+00:08:13,295 --> 00:08:16,809
+E o nosso site é legiscopio ponto com ponto br.
+
+180
+00:08:16,809 --> 00:08:17,980
+E fique ligado:
+
+181
+00:08:17,980 --> 00:08:21,243
+nos próximos dias, o aplicativo do Legiscópio estará
+
+182
+00:08:21,243 --> 00:08:25,019
+disponível para Android, e o iOS chega em breve.
+
+183
+00:08:25,019 --> 00:08:28,403
+Você já pode conhecê-lo pelo nosso site.
+
+184
+00:08:28,956 --> 00:08:32,140
+As fontes deste vídeo são os Dados Abertos da Câmara
+
+185
+00:08:32,140 --> 00:08:35,732
+e do Senado, a Agência Senado, a Agência Câmara,
+
+186
+00:08:35,732 --> 00:08:38,903
+o Planalto e o portal Congresso em Foco, e os links
+
+187
+00:08:38,903 --> 00:08:40,432
+estão na descrição.
+
+188
+00:08:40,432 --> 00:08:43,288
+Se este resumo te ajudou, se inscreva no canal e
+
+189
+00:08:43,288 --> 00:08:46,090
+compartilhe com quem quer acompanhar o Congresso.
+
+190
+00:08:46,090 --> 00:08:49,419
+O Legiscópio é um projeto independente e gratuito,
+
+191
+00:08:49,419 --> 00:08:53,038
+e você pode apoiar em apoia ponto se barra legiscopio.
+
+192
+00:08:53,038 --> 00:08:54,894
+Até a próxima!
