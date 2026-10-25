@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Fim das bets em um minuto! Hoje, vinte e cinco de outubro, acabam as autorizações das empresas de apostas.",
+      "visual": {"tipo": "numero", "titulo": "Fim das bets", "valor": "25/10", "rotulo": "Autorizações extintas · MP 1.394/2026"}
+    },
+    {
+      "fala": "A medida provisória mil trezentos e noventa e quatro saiu em vinte e cinco de setembro, com trinta dias para o fim das licenças.",
+      "visual": {"tipo": "etapas", "titulo": "Linha do tempo", "itens": ["25/9: MP publicada", "Saldos devolvidos", "25/10: licenças extintas"], "atual": 2}
+    },
+    {
+      "fala": "Ficam proibidas as apostas de quota fixa, esportivas e jogos online. A Mega-Sena e as outras loterias autorizadas por lei continuam.",
+      "visual": {"tipo": "texto", "titulo": "O que é proibido", "texto": "Apostas de quota fixa, esportivas e jogos online. Loterias autorizadas por lei seguem."}
+    },
+    {
+      "fala": "Bancos e Pix não podem processar apostas, e as empresas não recebem de volta o valor da outorga.",
+      "visual": {"tipo": "lista", "titulo": "Outras regras", "itens": ["Pix e bancos bloqueados", "Sem devolver a outorga"]}
+    },
+    {
+      "fala": "Mas a MP ainda depende do Congresso. O prazo vai até vinte e três de novembro, prorrogável. Se não for votada, perde a validade.",
+      "visual": {"tipo": "numero", "titulo": "Prazo no Congresso", "valor": "23/11", "rotulo": "Prorrogável por mais 60 dias"}
+    },
+    {
+      "fala": "O governo cita dívidas das famílias e danos à saúde mental. O setor fala em insegurança jurídica e risco de sites ilegais.",
+      "visual": {"tipo": "lista", "titulo": "Os dois lados", "itens": ["Governo: dívidas e saúde", "Setor: risco de sites ilegais"]}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como funciona uma MP", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Fim das bets: licenças acabam em 25/10 e MP depende do Congresso #Shorts",
+    "descricao": "A MP 1.394/2026 proibiu as bets no Brasil e extinguiu as autorizações das empresas de apostas em 25/10/2026, 30 dias após a publicação. O Congresso tem até 23/11, prazo prorrogável por mais 60 dias, para votar. Mais explicações no canal Legiscópio.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Apostas",
+    "tags": ["Legiscópio", "fim das bets", "proibição das bets", "MP 1394", "medida provisória", "shorts"]
+  }
+}
