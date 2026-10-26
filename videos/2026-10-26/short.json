@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Salário mínimo de dois mil e vinte e sete em um minuto! O Orçamento no Congresso prevê mil setecentos e quarenta e um reais.",
+      "visual": {"tipo": "comparacao", "titulo": "Salário mínimo", "antes": {"valor": "R$ 1.621", "rotulo": "2026"}, "depois": {"valor": "R$ 1.741", "rotulo": "2027 (previsão)"}}
+    },
+    {
+      "fala": "São cento e vinte reais a mais que hoje: alta de sete vírgula quatro por cento.",
+      "visual": {"tipo": "numero", "titulo": "Quanto sobe", "valor": "+R$ 120", "rotulo": "Alta de 7,4% · PLN 24/2026"}
+    },
+    {
+      "fala": "A conta soma a inflação pelo INPC, estimada em quatro vírgula nove por cento, e o crescimento do PIB de dois mil e vinte e cinco: dois vírgula três por cento.",
+      "visual": {"tipo": "barras", "titulo": "Como é a conta", "itens": [{"rotulo": "INPC (estimado)", "valor": 4.93, "texto": "4,93%"}, {"rotulo": "PIB de 2025", "valor": 2.3, "texto": "2,3%"}], "nota": "Fonte: Consultorias de Orçamento do Congresso"}
+    },
+    {
+      "fala": "Pela regra atual, o ganho acima da inflação tem limite de dois e meio por cento ao ano.",
+      "visual": {"tipo": "numero", "titulo": "Limite", "valor": "2,5%", "rotulo": "Ganho real máximo por ano"}
+    },
+    {
+      "fala": "O valor pode mudar. Em abril, a previsão era mil setecentos e dezessete. O número final sai por decreto em dezembro.",
+      "visual": {"tipo": "etapas", "titulo": "Até o valor final", "itens": ["Abril: R$ 1.717 na LDO", "Agosto: R$ 1.741 no Orçamento", "Dezembro: decreto"], "atual": 1}
+    },
+    {
+      "fala": "No Congresso, as diretrizes e o Orçamento de dois mil e vinte e sete aguardam votação, prevista até dezembro.",
+      "visual": {"tipo": "texto", "titulo": "No Congresso", "texto": "LDO e Orçamento de 2027 ainda aguardam votação. Previsão: até dezembro."}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como o Orçamento é votado", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Salário mínimo 2027: Orçamento prevê R$ 1.741; veja como é a conta #Shorts",
+    "descricao": "O projeto de Orçamento de 2027 (PLN 24/2026), em análise no Congresso, prevê salário mínimo de R$ 1.741, alta de R$ 120 (7,4%). O valor final sai por decreto em dezembro, após o INPC de novembro. Mais explicações no canal Legiscópio.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/web/orcamento/acompanhe/orcamento-anual/-/loa/2027\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #SalárioMínimo",
+    "tags": ["Legiscópio", "salário mínimo 2027", "salário mínimo 1741", "Orçamento 2027", "PLN 24/2026", "shorts"]
+  }
+}
