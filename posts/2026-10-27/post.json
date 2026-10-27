@@ -1,0 +1,36 @@
+{
+  "rotulo": "Reforma tributária",
+  "titulo": "Alíquota da CBS: TCU entrega cálculo ao Senado até sexta (30)",
+  "destaque": "15 de dezembro",
+  "detalhe": "Prazo para o Senado fixar a alíquota por resolução. A CBS substitui PIS e Cofins em janeiro de 2027; ainda não há número oficial.",
+  "fonte": "Fonte: Agência Senado · LC 214/2025 · 26/10/2026",
+  "legenda": "A partir de janeiro de 2027, a CBS (Contribuição sobre Bens e Serviços) substitui o PIS/Pasep e a Cofins. Mas a alíquota oficial ainda não existe. O primeiro passo vem nesta semana: o TCU (Tribunal de Contas da União) tem até sexta-feira (30) para enviar ao Senado a proposta de cálculo.\n\nOs próximos passos:\n• Até 30/10: o TCU envia ao Senado o cálculo, feito a partir de uma proposta da Receita Federal. Por enquanto, o documento é sigiloso.\n• Até 15/12: o Senado fixa a alíquota de referência por resolução.\n• Janeiro de 2027: começa a cobrança da CBS.\n\nQuanto vai ser? Ainda não há número oficial. A estimativa mais citada, adotada sem caráter oficial pelo Comitê Gestor do IBS, é de 9,21% para a CBS e 18,7% para o IBS (o tributo de estados e municípios), somando 27,91%. A Lei Complementar 214/2025 prevê que, em 2033, a alíquota de referência não passe de 26,5%; se as projeções indicarem que vai passar, o governo terá de propor redução da carga.\n\nPela lei, os novos tributos devem manter a arrecadação dos que substituem. O diretor da IFI (Instituição Fiscal Independente), do Senado, afirma que baixar a alíquota exigiria cortar exceções e regimes diferenciados. Especialistas ouvidos pela Gazeta do Povo dizem que o prazo é apertado para as empresas ajustarem preços e sistemas; o mercado avalia que o efeito real depende dos créditos dos tributos pagos nas etapas anteriores.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/26/reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #Economia #SenadoFederal",
+  "legenda_tiktok": "CBS, o tributo que substitui PIS e Cofins em 2027: o TCU envia ao Senado o cálculo da alíquota até 30/10, e o Senado fixa o percentual até 15/12. Ainda não há número oficial. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Economia",
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/materias/2026/10/26/reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana",
+    "https://forbes.com.br/forbes-money/2026/10/aliquota-cbs-reforma-tributaria/",
+    "https://www.gazetadopovo.com.br/economia/falta-de-aliquota-da-cbs-prejudica-planejamento-das-empresas-para-2027/",
+    "https://www.contabeis.com.br/noticias/79294/tcu-tem-ate-30-de-outubro-para-calcular-aliquota-da-cbs",
+    "https://www.tribunadosertao.com.br/politica/2026/10/26/1006453-reforma-tributaria-aliquota-da-cbs-avanca-nesta-semana",
+    "https://jornalcontabil.com.br/noticia/aliquota-reforma-tributaria-indefinicao-15-dezembro/",
+    "https://www.camara.leg.br/noticias",
+    "https://www12.senado.leg.br/noticias",
+    "https://obrasilianista.com.br/2026/10/26/politica/congresso-retoma-os-trabalhos-apos-as-eleicoes-o-que-esta-na-agenda-da-semana",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-10-27&dataFim=2026-10-29&itens=100",
+    "https://www.camara.leg.br/noticias/1313433-governo-vai-apresentar-projeto-de-lei-para-perdoar-dividas-dos-setores-de-eventos-bares-e-restaurantes",
+    "https://www.camara.leg.br/noticias/1313505-projeto-proibe-cobranca-de-taxa-para-acesso-a-praias-rios-e-cachoeiras"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Alíquota da CBS: TCU envia cálculo ao Senado até 30/10; Senado fixa até 15/12", "veiculos": ["Agência Senado", "Forbes Brasil", "Gazeta do Povo", "Tribuna do Sertão", "Jornal Contábil", "Contábeis"], "proposicao": "Resolução do Senado que fixa a alíquota de referência da CBS (LC 214/2025) — proposta do TCU prevista até 30/10; prazo do Senado 15/12/2026", "nota": 6},
+      {"assunto": "Escala 6x1: presidente do Senado associa fim da escala a mais tempo para a família", "veiculos": ["Rádio Senado", "Agência Senado"], "proposicao": "EC 141 (PEC 221/2019) — já promulgada; tratada em 14 e 15/10 (−3)", "nota": 1},
+      {"assunto": "PEC da Segurança em impasse no Senado após o 2º turno", "veiculos": ["O Brasilianista", "Correio Braziliense"], "proposicao": "PEC 18/2025 — retirada de pauta, sem data (tratada em 18/10, −3)", "nota": 1},
+      {"assunto": "Projeto proíbe cobrança de taxa para acesso a praias, rios e cachoeiras", "veiculos": ["Agência Câmara"], "proposicao": "Projeto de lei recém-apresentado na Câmara, aguarda comissões", "nota": 3},
+      {"assunto": "Governo vai apresentar projeto para perdoar dívidas de eventos, bares e restaurantes", "veiculos": ["Agência Câmara"], "proposicao": "Projeto ainda não apresentado (sem proposição)", "nota": 2},
+      {"assunto": "Comissões da Câmara retomam reuniões deliberativas (Segurança Pública, Indústria e Comércio, Saúde, Educação)", "veiculos": ["O Brasilianista", "Dados abertos da Câmara"], "proposicao": "Pautas de comissões; Plenário da Câmara sem sessão deliberativa marcada e Senado sem sessão deliberativa confirmada", "nota": 2},
+      {"assunto": "Resultado do 2º turno e reação dos presidentes da Câmara e do Senado", "veiculos": ["Agência Câmara", "Agência Senado", "imprensa em geral"], "proposicao": "Sem proposição; tema centrado em candidaturas (descartado)", "nota": 0}
+    ],
+    "escolhido": "Alíquota de referência da CBS para 2027 — TCU envia proposta ao Senado até 30/10; Senado fixa por resolução até 15/12 (LC 214/2025)",
+    "motivo": "Semana pós-eleição sem sessões deliberativas nos Plenários. A alíquota da CBS teve a maior nota: repercussão em vários veículos, inclusive de economia (2), etapa oficial nesta semana com prazo até sexta (2) e impacto direto nos preços e no bolso (2), sem repetição nos últimos 14 dias (citada como candidata em 24 e 25/10, mas não tratada). Os números são estimativas não oficiais e estão apresentados assim. Google Trends não consultado."
+  }
+}
