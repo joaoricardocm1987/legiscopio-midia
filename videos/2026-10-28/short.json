@@ -1,0 +1,106 @@
+{
+  "cenas": [
+    {
+      "fala": "Consulta da puberdade no SUS em um minuto! A Câmara aprovou consultas para meninas e meninos que estão entrando na puberdade.",
+      "visual": {
+        "tipo": "numero",
+        "titulo": "Aprovado na Câmara",
+        "valor": "PL 5239/2025",
+        "rotulo": "votação de 27/10/2026"
+      }
+    },
+    {
+      "fala": "O projeto original previa consulta ginecológica aos dez anos, só para meninas. O texto aprovado usa o início da puberdade e inclui os meninos.",
+      "visual": {
+        "tipo": "comparacao",
+        "titulo": "O que mudou",
+        "antes": {
+          "valor": "10 anos",
+          "rotulo": "só meninas"
+        },
+        "depois": {
+          "valor": "Puberdade",
+          "rotulo": "meninas e meninos"
+        }
+      }
+    },
+    {
+      "fala": "Na consulta: informação sobre a vacina contra o HPV, orientação sobre saúde sexual e reprodutiva e prevenção de infecções sexualmente transmissíveis.",
+      "visual": {
+        "tipo": "lista",
+        "titulo": "O que oferece",
+        "itens": [
+          "Vacina contra o HPV",
+          "Saúde reprodutiva",
+          "Prevenção de ISTs"
+        ]
+      }
+    },
+    {
+      "fala": "O atendimento é no posto de saúde. Se houver indicação clínica, vai para o especialista.",
+      "visual": {
+        "tipo": "etapas",
+        "titulo": "Onde é feita",
+        "itens": [
+          "Posto de saúde",
+          "Consulta",
+          "Especialista, se preciso"
+        ],
+        "atual": 0
+      }
+    },
+    {
+      "fala": "Segundo o Ministério da Saúde, a vacina contra o HPV chegou a oitenta e dois por cento das meninas e sessenta e sete por cento dos meninos.",
+      "visual": {
+        "tipo": "barras",
+        "titulo": "Vacinados contra HPV",
+        "itens": [
+          {
+            "rotulo": "Meninas",
+            "valor": 82,
+            "texto": "82%"
+          },
+          {
+            "rotulo": "Meninos",
+            "valor": 67.26,
+            "texto": "67,26%"
+          }
+        ],
+        "nota": "Ministério da Saúde, via Agência Brasil (ago/2025)"
+      }
+    },
+    {
+      "fala": "Ainda não vale: o projeto vai para o Senado e depois para a sanção.",
+      "visual": {
+        "tipo": "etapas",
+        "titulo": "Próximos passos",
+        "itens": [
+          "Câmara: aprovado",
+          "Senado",
+          "Sanção"
+        ],
+        "atual": 1
+      }
+    },
+    {
+      "fala": "Quer saber como foi a tramitação e o que ainda fica em aberto? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+      "visual": {
+        "tipo": "cta",
+        "titulo": "Quer entender tudo?",
+        "subtitulo": "Tramitação e pontos em aberto"
+      }
+    }
+  ],
+  "youtube": {
+    "titulo": "Consulta da puberdade no SUS em 1 minuto #Shorts",
+    "descricao": "A Câmara aprovou em 27/10/2026 o PL 5239/2025: consultas no SUS para meninas e meninos a partir do início da puberdade, com orientação sobre HPV e saúde reprodutiva. O texto segue para o Senado. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Câmara — https://www.camara.leg.br/noticias/1314377-camara-aprova-consultas-no-sus-para-orientacao-sobre-saude-reprodutiva-de-meninas-e-meninos\nAcompanhe no Legiscópio: legiscopio.com.br\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Saúde",
+    "tags": [
+      "Legiscópio",
+      "consulta da puberdade SUS",
+      "PL 5239/2025",
+      "vacina HPV",
+      "Câmara dos Deputados",
+      "shorts"
+    ]
+  }
+}
