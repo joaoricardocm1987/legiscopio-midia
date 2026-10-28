@@ -417,7 +417,7 @@ def coluna_texto(c, k_ativo, t_ativo, n_cena, t):
         d.rounded_rectangle([x0, y, x1 + 130, y + 200], radius=26, fill=vl.VERDE + (a,))
         d.text((x0 + 40, y + 34), "Acesse", font=vl.BD(36), fill=vl.LIMA_TX + (a,))
         d.text((x0 + 40, y + 84), "www.legiscopio.com.br", font=vl.BK(50), fill=vl.BRANCO + (a,))
-        d.text((x0 + 40, y + 154), "Android: nos próximos dias · iOS: em breve", font=vl.RG(28), fill=vl.LIMA_TX + (a,))
+        d.text((x0 + 40, y + 154), "Android: já disponível · iOS: em breve", font=vl.RG(28), fill=vl.LIMA_TX + (a,))
         return cam, y + 220
     ds = c.get("destaques", [])
     if k_ativo >= 0:
