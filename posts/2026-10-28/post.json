@@ -1,0 +1,44 @@
+{
+  "rotulo": "Votação na Câmara",
+  "titulo": "Câmara aprova consultas no SUS sobre puberdade para meninas e meninos",
+  "destaque": "PL 5239/2025",
+  "detalhe": "Consultas a partir do início da puberdade ou da 1ª menstruação, com orientação sobre HPV e saúde reprodutiva. O texto segue para o Senado.",
+  "fonte": "Fonte: Câmara dos Deputados · votação de 27/10/2026",
+  "legenda": "A Câmara dos Deputados aprovou na terça-feira (27) o PL 5239/2025, que prevê consultas no SUS para crianças e adolescentes a partir do início da puberdade ou da primeira menstruação. O projeto original falava em uma primeira consulta ginecológica aos 10 anos, só para meninas; o texto aprovado (substitutivo da relatora) inclui também os meninos.\n\nO que a consulta prevê:\n• Informação sobre a vacina contra o HPV.\n• Orientação sobre saúde sexual e reprodutiva.\n• Prevenção de infecções sexualmente transmissíveis (ISTs).\n• Acolhimento das necessidades físicas e emocionais.\n\nO atendimento fica, de preferência, na atenção primária (posto de saúde), com encaminhamento ao especialista quando houver indicação clínica, respeitando a privacidade e a idade de cada um. Segundo o Ministério da Saúde (via Agência Brasil, ago/2025), a vacina contra o HPV chegou a 82% das meninas de 9 a 14 anos e a 67,26% dos meninos. A Agência Câmara não registra manifestações contrárias na votação. O texto ainda precisa passar pelo Senado e pela sanção.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/noticias/1314377-camara-aprova-consultas-no-sus-para-orientacao-sobre-saude-reprodutiva-de-meninas-e-meninos\n\n▶ Vídeo completo no YouTube: Legiscópio\n\nAcompanhe no Legiscópio: legiscopio.com.br\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #Saúde",
+  "legenda_tiktok": "Câmara aprova consultas no SUS para meninas e meninos a partir do início da puberdade, com orientação sobre HPV e saúde reprodutiva (PL 5239/2025). O texto segue para o Senado. Mais no YouTube: Legiscópio. Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Saúde",
+  "fontes": [
+    "https://www.camara.leg.br/noticias/1314377-camara-aprova-consultas-no-sus-para-orientacao-sobre-saude-reprodutiva-de-meninas-e-meninos",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes/2572799-46",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2572799",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2572799/tramitacoes",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-26&dataFim=2026-10-28&ordem=DESC&ordenarPor=dataHoraRegistro&itens=100",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-10-28&dataFim=2026-10-29&itens=100",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos/83108/pauta",
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261028",
+    "https://agenciabrasil.ebc.com.br/saude/noticia/2025-08/vacina-do-hpv-avanca-no-publico-alvo-mas-precisa-resgatar-mais-velhos",
+    "https://canaltech.com.br/saude/vacina-do-hpv-vai-ser-aplicada-em-dose-unica-no-sus-284271/",
+    "https://ninho.inca.gov.br/jspui/bitstream/123456789/18044/1/INCA%20estima%20781%20mil%20novos%20casos%20de%20c%c3%a2ncer%20por%20ano%20no%20Brasil%20de%202026%20a%202028.pdf",
+    "https://www.febrasgo.org.br/pt/noticias/item/1469-especialista-da-febrasgo-explica-que-primeira-consulta-ao-ginecologista-deve-ser-aos-dez-anos-de-idade",
+    "https://www.camara.leg.br/noticias/1297148-camara-aprova-projeto-que-garante-check-up-anual-para-mulheres-no-sus",
+    "https://www.bnews.com.br/noticias/politica/camara-aprova-consultas-no-sus-para-orientar-jovens-sobre-puberdade-e-primeira-menstruacao.html",
+    "https://www.tribunadosertao.com.br/geral/2026/10/27/1007789-camara-aprova-consultas-no-sus-para-orientacao-sobre-saude-reprodutiva-de-meninas-e-meninos",
+    "https://www.camara.leg.br/noticias/1314366-camara-aprova-apoio-financeiro-a-produtores-de-cana-de-acucar-no-nordeste",
+    "https://www.camara.leg.br/noticias/1314372-camara-aprova-mp-que-amplia-alcance-de-indenizacao-para-servidores-em-areas-estrategicas-de-fronteira",
+    "https://obrasilianista.com.br/2026/10/27/politica/alcolumbre-pode-acelerar-pauta-travada-do-segundo-turno",
+    "https://folhadealphaville.com.br/nacional/2026/10/27/governo-e-centrao-querem-acelerar-votacoes-no-congresso-antes-de-2027.html",
+    "https://brasil247.com/brasil/governo-articula-avanco-de-pautas-prioritarias-no-congresso-ainda-em-2026",
+    "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2623400"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Câmara aprova consultas no SUS sobre puberdade e saúde reprodutiva para meninas e meninos", "veiculos": ["Agência Câmara", "BNews", "Tribuna do Sertão", "Atlas Público", "Brasil em Folhas", "Real Pioneiro", "Repórter Maceió", "Sergipe News", "portais regionais"], "proposicao": "PL 5239/2025 — aprovado no Plenário da Câmara em 27/10/2026 (substitutivo); enviado ao Senado", "nota": 7},
+      {"assunto": "Câmara aprova subvenção de R$ 12 por tonelada a produtores de cana do Nordeste; MP 1.374 perde validade em 28/10", "veiculos": ["Agência Câmara", "SpaceMoney", "Boca", "Ativa Notícias", "Panorama Inconfidentes", "Paladino da Verdade"], "proposicao": "PL 5649/2026 (conteúdo da MP 1.374/2026) — aprovado na Câmara em 27/10; segue ao Senado", "nota": 6},
+      {"assunto": "Câmara aprova MP que amplia indenização de R$ 91/dia a servidores em áreas de fronteira", "veiculos": ["Agência Câmara"], "proposicao": "MPV 1.375/2026 — aprovada na Câmara em 27/10 (PLV); vale até 30/10, depende do Senado", "nota": 5},
+      {"assunto": "Redução da maioridade penal: Centrão quer votar em 2026; governo quer PEC da Segurança sem o tema", "veiculos": ["Poder360", "g1 (via Brasil 247)", "Folha de Alphaville", "Jornal Razão", "TV Senado", "Portal Clube News"], "proposicao": "PEC 32/2015 (com a PEC 8/2026 apensada) em comissão especial na Câmara; emendas à PEC 18/2025 no Senado — tema tratado em 18/10 (−3)", "nota": 3},
+      {"assunto": "Pauta do Plenário da Câmara em 28/10: tornozeleira na Lei Maria da Penha, drones em presídios, violência política de gênero", "veiculos": ["Dados abertos da Câmara (pouca repercussão na imprensa)"], "proposicao": "REQ 4300/2026 (urgência do PL 5.542/2026), PL 5902/2023, PL 68/2025, PL 4553/2025, PDL 274/2026 — na pauta de hoje", "nota": 5},
+      {"assunto": "Indicação ao STF e mudanças eleitorais no pós-eleição", "veiculos": ["g1 (via Brasil 247)", "Folha de Alphaville"], "proposicao": "Sem proposição concreta em tramitação (descartado)", "nota": 0}
+    ],
+    "escolhido": "PL 5239/2025 — consultas no SUS para meninas e meninos a partir do início da puberdade, aprovado pela Câmara em 27/10/2026",
+    "motivo": "Maior nota: repercussão em muitos portais desde a noite de 27/10 (2), votado ontem no Plenário (3) e interesse direto de famílias na saúde de crianças e adolescentes (2), sem repetição nos últimos 14 dias. A cana do Nordeste e a MP da fronteira têm menor interesse direto; a maioridade penal foi tratada em 18/10. Votação sem placar nominal nos dados abertos. Não foram encontradas manifestações contrárias registradas; o vídeo informa isso e aponta o que o texto deixa em aberto. Google Trends não consultado."
+  }
+}
