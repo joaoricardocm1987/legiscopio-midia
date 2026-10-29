@@ -1,0 +1,21 @@
+{
+ "cenas": [
+  {"fala": "A alíquota da CBS em um minuto! O Tribunal de Contas da União calculou onze vírgula três por cento para 2027.",
+   "visual": {"tipo": "numero", "titulo": "CBS em 2027", "valor": "11,3%", "rotulo": "Cálculo do TCU · 28/10/2026"}},
+  {"fala": "A estimativa mais citada era de nove vírgula vinte e um por cento. O novo número fica cerca de dois pontos acima.",
+   "visual": {"tipo": "comparacao", "titulo": "Acima do esperado", "antes": {"valor": "9,21%", "rotulo": "estimativa"}, "depois": {"valor": "11,3%", "rotulo": "TCU"}}},
+  {"fala": "A CBS é a contribuição federal da reforma tributária. Ela substitui o PIS e a Cofins a partir de janeiro de 2027.",
+   "visual": {"tipo": "texto", "titulo": "O que é a CBS", "texto": "Tributo federal que substitui PIS e Cofins em 2027."}},
+  {"fala": "Vai pesar no bolso? O TCU diz que a alíquota só mantém a arrecadação, sem mudar a carga. Críticos temem carga maior e dizem que depende dos créditos.",
+   "visual": {"tipo": "comparacao", "titulo": "Mais imposto?", "antes": {"valor": "TCU", "rotulo": "carga neutra"}, "depois": {"valor": "Críticos", "rotulo": "preocupação"}}},
+  {"fala": "Agora, o cálculo vai ao Senado, que tem até quinze de dezembro para fixar a alíquota por resolução. Se não votar, vale o número do TCU.",
+   "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["TCU: 28/10", "Senado: até 15/12", "Cobrança: jan/2027"], "atual": 1}},
+  {"fala": "Quer saber por que o número subiu, quem sente mais e o que é o IBS? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+   "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "IBS, setores e o teto de 26,5%"}}
+ ],
+ "youtube": {
+  "titulo": "Alíquota da CBS em 1 minuto: TCU calcula 11,3% para 2027 #Shorts",
+  "descricao": "O TCU calculou em 11,3% a alíquota da CBS para 2027, acima da estimativa de 9,21%. A CBS substitui PIS e Cofins, e o Senado fixa o número até 15/12. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/28/reforma-tributaria-tcu-calcula-aliquota-da-cbs-em-11-3-para-2027\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #ReformaTributária",
+  "tags": ["Legiscópio", "alíquota da CBS", "CBS 2027", "reforma tributária", "TCU", "shorts"]
+ }
+}
