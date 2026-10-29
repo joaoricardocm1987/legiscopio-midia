@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/rosto-teste-01.py", line 14, in <module>
+    import rosto_editor  # noqa: E402
+    ^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 24, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
