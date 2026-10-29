@@ -11,6 +11,10 @@ ROOT = Path(__file__).resolve().parents[2]
 PASTA = ROOT / "videos" / "rosto" / "teste-01"
 sys.path.insert(0, str(ROOT / "scripts"))
 try:
+    try:
+        import numpy  # noqa: F401
+    except ImportError:
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "numpy"], check=True)
     import rosto_editor  # noqa: E402
     rosto_editor.gerar(PASTA)
     (PASTA / "erro.txt").unlink(missing_ok=True)
