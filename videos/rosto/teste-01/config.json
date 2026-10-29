@@ -1,0 +1,14 @@
+{
+ "drive": "https://drive.google.com/drive/folders/1JxmUrCivL90R7X1qjdmL4u3nqd_J-0cU",
+ "roteiro": "Você sabe como o deputado em quem você votou se posicionou nas últimas votações da Câmara? A maioria das pessoas não sabe. E não é por falta de interesse: os dados existem, são públicos, mas estão espalhados e cheios de siglas. Foi por isso que eu criei o Legiscópio. Ele pega os dados oficiais da Câmara e do Senado e mostra de um jeito simples: o placar de cada votação, como cada partido orientou e o voto de cada parlamentar. Dá pra ver também quanto cada um gastou da cota parlamentar, mês a mês. É gratuito, não tem anúncio e não puxa pra lado nenhum. Só dado oficial. O app já está disponível pra Android. O link está na descrição: legiscopio ponto com ponto br barra baixar.",
+ "insercoes": [
+  {"gatilho": "Você sabe", "tipo": "titulo", "texto": "Como votou|o seu deputado?", "dur": 3.2, "y": 170},
+  {"gatilho": "espalhados", "tipo": "chips", "itens": ["PL", "PEC", "PLP", "MPV"], "dur": 3.0, "y": 150},
+  {"gatilho": "Legiscópio", "tipo": "logo", "dur": 2.6, "y": 230},
+  {"gatilho": "placar", "tipo": "tela", "tela": "votacao.png", "dur": 3.6, "reserva": {"tipo": "placar", "sim": 461, "nao": 4, "rotulo": "PLP 186/2026 · CÂMARA", "nota": "Votação de 14/10/2026 · nova lei do MEI"}},
+  {"gatilho": "cota", "tipo": "tela", "tela": "cota.png", "dur": 3.2, "reserva": {"tipo": "titulo", "texto": "Cota parlamentar|mês a mês", "y": 190}},
+  {"gatilho": "gratuito", "tipo": "chips", "itens": ["GRÁTIS", "SEM ANÚNCIOS", "DADOS OFICIAIS"], "dur": 3.2, "y": 170},
+  {"gatilho": "Android", "tipo": "titulo", "texto": "Já no|Android", "dur": 3.0, "y": 180, "tam": 150}
+ ],
+ "final": {"titulo": "Baixe grátis", "link": "legiscopio.com.br/baixar"}
+}
