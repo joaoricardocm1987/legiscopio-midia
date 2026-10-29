@@ -1,0 +1,823 @@
+1
+00:00:00,102 --> 00:00:03,444
+A partir de janeiro, o tributo federal que vem embutido
+
+2
+00:00:03,444 --> 00:00:06,405
+no preço de produtos e serviços muda de nome e de
+
+3
+00:00:06,405 --> 00:00:07,131
+regra.
+
+4
+00:00:07,131 --> 00:00:08,907
+E agora ele ganhou um número:
+
+5
+00:00:08,907 --> 00:00:10,960
+onze vírgula três por cento.
+
+6
+00:00:10,960 --> 00:00:14,184
+Foi o cálculo aprovado nesta quarta-feira pelo Tribunal
+
+7
+00:00:14,184 --> 00:00:17,592
+de Contas da União para a CBS, a contribuição que
+
+8
+00:00:17,592 --> 00:00:19,802
+substitui o PIS e a Cofins.
+
+9
+00:00:19,802 --> 00:00:22,855
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+10
+00:00:22,855 --> 00:00:23,828
+vai entender:
+
+11
+00:00:23,828 --> 00:00:26,500
+por que o número ficou acima do que se esperava?
+
+12
+00:00:26,500 --> 00:00:28,947
+Isso significa pagar mais imposto?
+
+13
+00:00:28,947 --> 00:00:33,000
+E o que o Senado ainda precisa decidir até dezembro?
+
+14
+00:00:33,552 --> 00:00:34,815
+O número é este:
+
+15
+00:00:34,815 --> 00:00:36,871
+onze vírgula três por cento.
+
+16
+00:00:36,871 --> 00:00:40,028
+Para ser exata, a conta do TCU deu onze vírgula
+
+17
+00:00:40,028 --> 00:00:43,818
+três quatro seis oito por cento, e o tribunal arredondou.
+
+18
+00:00:43,818 --> 00:00:47,068
+A proposta foi aprovada por unanimidade, em sessão
+
+19
+00:00:47,068 --> 00:00:49,989
+extraordinária, nesta quarta-feira, vinte e oito
+
+20
+00:00:49,989 --> 00:00:51,546
+de outubro.
+
+21
+00:00:52,098 --> 00:00:54,167
+E por que isso chamou atenção?
+
+22
+00:00:54,167 --> 00:00:57,403
+Porque a estimativa mais citada até agora era menor:
+
+23
+00:00:57,403 --> 00:01:00,811
+nove vírgula vinte e um por cento, adotada sem caráter
+
+24
+00:01:00,811 --> 00:01:03,614
+oficial pelo Comitê Gestor do IBS.
+
+25
+00:01:03,614 --> 00:01:07,692
+A diferença é de cerca de dois pontos percentuais.
+
+26
+00:01:08,244 --> 00:01:10,655
+Mas, afinal, o que é a CBS?
+
+27
+00:01:10,655 --> 00:01:14,089
+É a Contribuição sobre Bens e Serviços, criada pela
+
+28
+00:01:14,089 --> 00:01:15,615
+reforma tributária.
+
+29
+00:01:15,615 --> 00:01:18,891
+Ela substitui duas contribuições federais, o PIS
+
+30
+00:01:18,891 --> 00:01:21,628
+e a Cofins, que deixam de existir em primeiro de
+
+31
+00:01:21,628 --> 00:01:23,839
+janeiro de 2027.
+
+32
+00:01:23,839 --> 00:01:27,641
+A CBS segue o modelo de IVA, o imposto sobre valor
+
+33
+00:01:27,641 --> 00:01:28,602
+agregado:
+
+34
+00:01:28,602 --> 00:01:31,773
+o tributo pago nas etapas anteriores da cadeia pode
+
+35
+00:01:31,773 --> 00:01:33,063
+ser descontado.
+
+36
+00:01:33,063 --> 00:01:36,269
+É a chamada cobrança não cumulativa.
+
+37
+00:01:36,822 --> 00:01:39,259
+A mudança não acontece de uma vez.
+
+38
+00:01:39,259 --> 00:01:42,864
+Em 2026, a CBS está em fase de teste:
+
+39
+00:01:42,864 --> 00:01:45,969
+as empresas mostram o valor na nota fiscal, mas
+
+40
+00:01:45,969 --> 00:01:47,312
+não precisam pagar.
+
+41
+00:01:47,312 --> 00:01:50,864
+Em 2027, começa a cobrança de verdade.
+
+42
+00:01:50,864 --> 00:01:53,746
+E a transição completa para o novo modelo vai até
+
+43
+00:01:53,746 --> 00:01:56,015
+2033.
+
+44
+00:01:56,568 --> 00:01:58,452
+E de onde veio esse número?
+
+45
+00:01:58,452 --> 00:02:02,268
+A Lei Complementar duzentos e catorze, de 2025,
+
+46
+00:02:02,268 --> 00:02:05,150
+que regulamentou a reforma, divide o trabalho em
+
+47
+00:02:05,150 --> 00:02:06,373
+três etapas.
+
+48
+00:02:06,373 --> 00:02:09,900
+A Receita Federal propõe a metodologia e faz a primeira
+
+49
+00:02:09,900 --> 00:02:10,650
+conta.
+
+50
+00:02:10,650 --> 00:02:13,268
+O TCU examina, refaz e aprova.
+
+51
+00:02:13,268 --> 00:02:16,979
+E o Senado dá a palavra final, por meio de uma resolução.
+
+52
+00:02:16,979 --> 00:02:19,834
+Segundo o jornal O Povo, é a primeira vez que o
+
+53
+00:02:19,834 --> 00:02:22,793
+tribunal faz esse tipo de cálculo.
+
+54
+00:02:23,346 --> 00:02:26,675
+Segundo o TCU, a conta tem dezessete módulos:
+
+55
+00:02:26,675 --> 00:02:29,833
+um central e dezesseis para regimes específicos,
+
+56
+00:02:29,833 --> 00:02:32,086
+diferenciados ou favorecidos.
+
+57
+00:02:32,086 --> 00:02:34,783
+O tribunal criou uma ferramenta própria, chamada
+
+58
+00:02:34,783 --> 00:02:37,875
+César, para reproduzir o modelo da Receita e testar
+
+59
+00:02:37,875 --> 00:02:39,007
+as premissas.
+
+60
+00:02:39,007 --> 00:02:43,243
+E, como ainda não havia dados consolidados de 2025,
+
+61
+00:02:43,243 --> 00:02:49,259
+os anos usados como base passaram a ser 2023 e 2024.
+
+62
+00:02:49,812 --> 00:02:52,420
+Por que o número ficou acima da estimativa?
+
+63
+00:02:52,420 --> 00:02:55,723
+A lei manda que a CBS arrecade o mesmo que os tributos
+
+64
+00:02:55,723 --> 00:02:57,078
+que ela substitui.
+
+65
+00:02:57,078 --> 00:03:00,460
+Segundo o portal Contábeis, a meta usada é de quatro
+
+66
+00:03:00,460 --> 00:03:04,052
+vírgula nove oito seis um por cento do PIB, a média
+
+67
+00:03:04,052 --> 00:03:06,394
+de 2012 a 2021.
+
+68
+00:03:06,394 --> 00:03:09,460
+Para um advogado tributarista ouvido pelo O Povo,
+
+69
+00:03:09,460 --> 00:03:12,525
+essa média fica acima do que esses tributos arrecadaram
+
+70
+00:03:12,525 --> 00:03:13,723
+nos anos-base.
+
+71
+00:03:13,723 --> 00:03:14,973
+E há outro fator:
+
+72
+00:03:14,973 --> 00:03:18,236
+quanto mais exceções e regimes especiais, mais paga
+
+73
+00:03:18,236 --> 00:03:20,478
+quem está na regra geral.
+
+74
+00:03:21,030 --> 00:03:23,112
+Então vou pagar mais imposto?
+
+75
+00:03:23,112 --> 00:03:24,927
+Aqui há duas leituras.
+
+76
+00:03:24,927 --> 00:03:27,809
+O TCU afirma que a alíquota não aumenta nem reduz
+
+77
+00:03:27,809 --> 00:03:29,770
+a carga do PIS e da Cofins:
+
+78
+00:03:29,770 --> 00:03:32,546
+ela só busca manter a mesma arrecadação.
+
+79
+00:03:32,546 --> 00:03:35,638
+O relator disse que não se buscou a maior arrecadação
+
+80
+00:03:35,638 --> 00:03:38,625
+possível, nem a menor alíquota imaginável.
+
+81
+00:03:38,625 --> 00:03:41,480
+Já especialistas ouvidos pela imprensa dizem que
+
+82
+00:03:41,480 --> 00:03:44,691
+o número reforça a preocupação com a carga tributária
+
+83
+00:03:44,691 --> 00:03:47,599
+e que o efeito real depende de quanto crédito cada
+
+84
+00:03:47,599 --> 00:03:50,831
+empresa vai conseguir descontar.
+
+85
+00:03:51,384 --> 00:03:52,871
+Um detalhe importante:
+
+86
+00:03:52,871 --> 00:03:55,726
+alíquota de referência não é, necessariamente, a
+
+87
+00:03:55,726 --> 00:03:57,163
+alíquota cobrada.
+
+88
+00:03:57,163 --> 00:04:00,203
+Pela lei, a União pode fixar outra alíquota por
+
+89
+00:04:00,203 --> 00:04:01,689
+uma lei específica.
+
+90
+00:04:01,689 --> 00:04:04,781
+Se isso não acontecer, vale a de referência.
+
+91
+00:04:04,781 --> 00:04:07,729
+E, segundo o TCU, o número não é uma previsão de
+
+92
+00:04:07,729 --> 00:04:10,650
+arrecadação nem permite estimar o efeito sobre os
+
+93
+00:04:10,650 --> 00:04:12,929
+preços de cada setor.
+
+94
+00:04:13,482 --> 00:04:15,340
+Dá para baixar a alíquota?
+
+95
+00:04:15,340 --> 00:04:18,156
+Para o diretor da Instituição Fiscal Independente,
+
+96
+00:04:18,156 --> 00:04:22,156
+a IFI, órgão do Senado, a definição tem de considerar
+
+97
+00:04:22,156 --> 00:04:25,051
+a necessidade de manter a arrecadação dos tributos
+
+98
+00:04:25,051 --> 00:04:26,340
+substituídos.
+
+99
+00:04:26,340 --> 00:04:29,524
+Segundo ele, alíquotas menores exigiriam cortar
+
+100
+00:04:29,524 --> 00:04:33,396
+benefícios e exceções previstos na própria lei.
+
+101
+00:04:33,948 --> 00:04:34,948
+Rapidinho:
+
+102
+00:04:34,948 --> 00:04:38,001
+se este vídeo está te ajudando, deixa o seu like,
+
+103
+00:04:38,001 --> 00:04:41,159
+se inscreve no canal e ativa o sininho pra não perder
+
+104
+00:04:41,159 --> 00:04:42,306
+os próximos.
+
+105
+00:04:42,306 --> 00:04:44,718
+Agora, vamos continuar!
+
+106
+00:04:45,270 --> 00:04:46,536
+E o IBS?
+
+107
+00:04:46,536 --> 00:04:50,181
+É o imposto sobre bens e serviços de estados e municípios,
+
+108
+00:04:50,181 --> 00:04:52,049
+a outra metade da reforma.
+
+109
+00:04:52,049 --> 00:04:54,996
+Ele terá um cálculo próprio, que ainda não saiu.
+
+110
+00:04:54,996 --> 00:04:58,207
+A estimativa mais citada para ele é de dezoito vírgula
+
+111
+00:04:58,207 --> 00:04:59,444
+sete por cento.
+
+112
+00:04:59,444 --> 00:05:03,260
+Somando com os onze vírgula três da CBS, daria trinta
+
+113
+00:05:03,260 --> 00:05:04,141
+por cento.
+
+114
+00:05:04,141 --> 00:05:05,207
+Mas atenção:
+
+115
+00:05:05,207 --> 00:05:07,872
+essa soma é só uma projeção.
+
+116
+00:05:08,424 --> 00:05:09,874
+Existe um limite?
+
+117
+00:05:09,874 --> 00:05:10,768
+Existe.
+
+118
+00:05:10,768 --> 00:05:14,597
+A lei prevê que, em 2033, a alíquota de referência
+
+119
+00:05:14,597 --> 00:05:17,189
+não poderá passar de vinte e seis vírgula cinco
+
+120
+00:05:17,189 --> 00:05:18,058
+por cento.
+
+121
+00:05:18,058 --> 00:05:21,479
+Se a projeção feita em 2030 mostrar que esse teto
+
+122
+00:05:21,479 --> 00:05:24,440
+vai ser ultrapassado, o governo terá de mandar ao
+
+123
+00:05:24,440 --> 00:05:27,098
+Congresso um projeto com medidas para reduzir a
+
+124
+00:05:27,098 --> 00:05:28,769
+tributação.
+
+125
+00:05:29,322 --> 00:05:31,601
+Quem pode sentir mais a mudança?
+
+126
+00:05:31,601 --> 00:05:34,483
+Segundo um contador ouvido pelo O Povo, hoje as
+
+127
+00:05:34,483 --> 00:05:37,983
+empresas do lucro presumido pagam três vírgula sessenta
+
+128
+00:05:37,983 --> 00:05:40,917
+e cinco por cento de PIS e Cofins, e as do lucro
+
+129
+00:05:40,917 --> 00:05:43,509
+real, nove vírgula vinte e cinco.
+
+130
+00:05:43,509 --> 00:05:46,193
+Para o portal Contábeis, prestadores de serviço
+
+131
+00:05:46,193 --> 00:05:49,206
+com poucos insumos tendem a sentir mais, porque
+
+132
+00:05:49,206 --> 00:05:51,377
+têm menos crédito para descontar.
+
+133
+00:05:51,377 --> 00:05:54,417
+Já no Simples Nacional, segundo o mesmo portal,
+
+134
+00:05:54,417 --> 00:05:58,812
+nada muda na alíquota em 2027. Mesmo assim, um ministro
+
+135
+00:05:58,812 --> 00:06:01,891
+do TCU pediu atenção especial às micro e pequenas
+
+136
+00:06:01,891 --> 00:06:03,588
+empresas.
+
+137
+00:06:04,140 --> 00:06:05,772
+Outro número da decisão:
+
+138
+00:06:05,772 --> 00:06:08,390
+um redutor de quarenta e quatro vírgula dezesseis
+
+139
+00:06:08,390 --> 00:06:11,114
+por cento nas compras feitas pela administração
+
+140
+00:06:11,114 --> 00:06:14,669
+pública direta, autarquias e fundações, inclusive
+
+141
+00:06:14,669 --> 00:06:15,906
+importações.
+
+142
+00:06:15,906 --> 00:06:18,722
+Na prática, a alíquota fica menor quando o próprio
+
+143
+00:06:18,722 --> 00:06:21,293
+poder público é o comprador.
+
+144
+00:06:21,846 --> 00:06:25,572
+Agora, uma conta do Legiscópio com os números oficiais.
+
+145
+00:06:25,572 --> 00:06:30,007
+A proposta de Orçamento de 2027, que está no Congresso,
+
+146
+00:06:30,007 --> 00:06:32,849
+prevê arrecadar seiscentos e trinta e seis vírgula
+
+147
+00:06:32,849 --> 00:06:36,362
+oito bilhões de reais com a CBS, cerca de quatro
+
+148
+00:06:36,362 --> 00:06:38,454
+vírgula sete por cento do PIB.
+
+149
+00:06:38,454 --> 00:06:41,270
+Dividindo pelos trezentos e sessenta e cinco dias
+
+150
+00:06:41,270 --> 00:06:44,691
+do ano, dá cerca de um bilhão e setecentos e quarenta
+
+151
+00:06:44,691 --> 00:06:46,507
+milhões de reais por dia.
+
+152
+00:06:46,507 --> 00:06:49,441
+E os onze vírgula três por cento ficam cerca de
+
+153
+00:06:49,441 --> 00:06:52,480
+vinte e três por cento acima da estimativa de nove
+
+154
+00:06:52,480 --> 00:06:54,456
+vírgula vinte e um.
+
+155
+00:06:55,008 --> 00:06:59,127
+Junto com a CBS, em 2027 começa também o Imposto
+
+156
+00:06:59,127 --> 00:07:02,429
+Seletivo, que vai incidir sobre tabaco, bebidas
+
+157
+00:07:02,429 --> 00:07:04,998
+alcoólicas e bebidas açucaradas.
+
+158
+00:07:04,998 --> 00:07:07,866
+A arrecadação estimada é de quarenta e um vírgula
+
+159
+00:07:07,866 --> 00:07:09,695
+nove bilhões de reais.
+
+160
+00:07:09,695 --> 00:07:13,938
+Mas as alíquotas desse imposto ainda não foram definidas.
+
+161
+00:07:14,490 --> 00:07:16,440
+E o que ainda está em aberto?
+
+162
+00:07:16,440 --> 00:07:19,980
+Especialistas ouvidos pela imprensa citam três pontos:
+
+163
+00:07:19,980 --> 00:07:23,388
+as alíquotas do Imposto Seletivo, a lista de produtos
+
+164
+00:07:23,388 --> 00:07:29,019
+da Zona os percentuais Franca de créditos presumidos
+
+165
+00:07:29,019 --> 00:07:32,124
+Um tributarista ouvido pelo O Povo considera o cálculo
+
+166
+00:07:32,124 --> 00:07:34,624
+tecnicamente sólido mas lembra Manaus que continuam com IPI e
+
+167
+00:07:34,624 --> 00:07:36,703
+saiu a pouco mais os percentuais de dois meses da
+
+168
+00:07:36,703 --> 00:07:39,493
+entrada em vigor Isso deixa pouco tempo para as
+
+169
+00:07:39,493 --> 00:07:42,996
+empresas ajustarem contratos e sistemas créditos presumidos. Um tributarista ouvido pelo O Povo considera o cálculo tecnicamente sólido, mas lembra que ele saiu a pouco mais de dois meses da entrada em vigor. Isso deixa pouco tempo para as empresas ajustarem contratos e sistemas.
+
+170
+00:07:43,548 --> 00:07:44,459
+E agora?
+
+171
+00:07:44,459 --> 00:07:47,722
+O TCU envia o cálculo ao Senado até sexta-feira,
+
+172
+00:07:47,722 --> 00:07:49,011
+trinta de outubro.
+
+173
+00:07:49,011 --> 00:07:51,932
+O Senado tem até quinze de dezembro para fixar a
+
+174
+00:07:51,932 --> 00:07:54,353
+alíquota por meio de uma resolução.
+
+175
+00:07:54,353 --> 00:07:57,630
+E a cobrança da CBS começa em primeiro de janeiro
+
+176
+00:07:57,630 --> 00:07:59,982
+de 2027.
+
+177
+00:08:00,534 --> 00:08:02,682
+E se o Senado não votar a tempo?
+
+178
+00:08:02,682 --> 00:08:06,050
+Nesse caso, vale a conta do TCU, e os onze vírgula
+
+179
+00:08:06,050 --> 00:08:09,274
+três por cento entram em vigor em primeiro de janeiro.
+
+180
+00:08:09,274 --> 00:08:11,326
+E o cálculo não é definitivo:
+
+181
+00:08:11,326 --> 00:08:14,668
+ele será refeito todos os anos, e a partir do cálculo
+
+182
+00:08:14,668 --> 00:08:18,971
+referente a 2029 poderá usar dados reais de arrecadação
+
+183
+00:08:18,971 --> 00:08:21,192
+da própria CBS.
+
+184
+00:08:21,744 --> 00:08:22,810
+Para guardar:
+
+185
+00:08:22,810 --> 00:08:25,981
+onze vírgula três por cento é a alíquota calculada
+
+186
+00:08:25,981 --> 00:08:30,510
+pelo TCU para a CBS em 2027. Nove vírgula vinte
+
+187
+00:08:30,510 --> 00:08:33,602
+e um por cento era a estimativa usada até agora.
+
+188
+00:08:33,602 --> 00:08:36,247
+E quinze de dezembro é o prazo para o Senado dar
+
+189
+00:08:36,247 --> 00:08:38,129
+a palavra final.
+
+190
+00:08:38,682 --> 00:08:42,303
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+191
+00:08:42,303 --> 00:08:46,080
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+192
+00:08:46,080 --> 00:08:48,974
+E o aplicativo do Legiscópio já está disponível
+
+193
+00:08:48,974 --> 00:08:50,619
+para Android, de graça:
+
+194
+00:08:50,619 --> 00:08:53,922
+é só acessar legiscopio ponto com ponto br barra
+
+195
+00:08:53,922 --> 00:08:54,724
+baixar.
+
+196
+00:08:54,724 --> 00:08:57,396
+Para iPhone, chega em breve.
+
+197
+00:08:57,948 --> 00:09:00,777
+Este vídeo usou informações da Agência Senado e
+
+198
+00:09:00,777 --> 00:09:05,053
+da decisão do TCU, publicadas também pela CNN Brasil,
+
+199
+00:09:05,053 --> 00:09:08,740
+pela Gazeta do Povo, pelo jornal O Povo, pela Telesíntese
+
+200
+00:09:08,740 --> 00:09:10,464
+e pelo portal Contábeis.
+
+201
+00:09:10,464 --> 00:09:12,556
+Os links estão na descrição.
+
+202
+00:09:12,556 --> 00:09:15,859
+Se o vídeo te ajudou, se inscreva no canal e compartilhe
+
+203
+00:09:15,859 --> 00:09:19,214
+com quem tem um negócio ou trabalha com contabilidade.
+
+204
+00:09:19,214 --> 00:09:22,530
+O Legiscópio é independente e gratuito, e você pode
+
+205
+00:09:22,530 --> 00:09:25,543
+apoiar em apoia ponto se barra legiscopio.
+
+206
+00:09:25,543 --> 00:09:27,413
+Até a próxima!
