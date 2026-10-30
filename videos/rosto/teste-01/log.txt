@@ -9,3 +9,4 @@ inserção tela em 20.7s (placar)
 inserção tela em 29.1s (cota)
 inserção chips em 31.8s (gratuito)
 inserção titulo em 38.8s (Android)
+quadros: 1227 lidos de 1227 esperados
