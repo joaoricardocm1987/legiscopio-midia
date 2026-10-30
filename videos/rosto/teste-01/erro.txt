@@ -1,7 +1,18 @@
 Traceback (most recent call last):
-  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/rosto-teste-01.py", line 14, in <module>
-    import rosto_editor  # noqa: E402
-    ^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 24, in <module>
-    import numpy as np
-ModuleNotFoundError: No module named 'numpy'
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/rosto-teste-01.py", line 19, in <module>
+    rosto_editor.gerar(PASTA)
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 547, in gerar
+    pal = transcrever(wav, cfg.get("roteiro", ""), pasta / "transcricao.json")
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 98, in transcrever
+    segs, _ = modelo.transcribe(str(wav), language="pt", word_timestamps=True, vad_filter=False,
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/faster_whisper/transcribe.py", line 876, in transcribe
+    audio = decode_audio(audio, sampling_rate=sampling_rate)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/faster_whisper/audio.py", line 46, in decode_audio
+    with av.open(input_file, mode="r", metadata_errors="ignore") as container:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "av/container/core.py", line 479, in av.container.core.open
+    def open(
+TypeError: open() got an unexpected keyword argument 'metadata_errors'
