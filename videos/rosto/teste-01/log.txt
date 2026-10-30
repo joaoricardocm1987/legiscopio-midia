@@ -1,0 +1,12 @@
+bruto: Duration: 00:00:52.97, start: 0.000000, bitrate: 6159 kb/s | Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1092x614 [SAR 1:1 DAR 546:307], 5989 kb/s, 30 fps, 30 tbr, 30 tbn (default) | Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 161 kb/s (default)
+corte de bordas: crop=1024:576:0:0,
+retomada descartada: É gratuito, não tem anúncio e não puxa pra lugar nenhum. Lado.
+bruto 127 palavras · 4 trechos · 40.9s depois dos cortes
+inserção titulo em 0.1s (Você sabe)
+inserção chips em 12.0s (espalhados)
+inserção logo em 14.1s (Legiscópio)
+inserção tela em 20.7s (placar)
+inserção tela em 29.1s (cota)
+inserção chips em 31.8s (gratuito)
+inserção titulo em 38.8s (Android)
+recorte indisponível: OSError('libEGL.so.1: cannot open shared object file: No such file or directory')
