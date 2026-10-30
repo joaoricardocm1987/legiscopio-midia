@@ -94,8 +94,11 @@ def transcrever(wav, roteiro, cache):
     except ImportError:
         pip("faster-whisper")
         from faster_whisper import WhisperModel
+    import wave
+    with wave.open(str(wav)) as w:  # passa o áudio já decodificado (evita incompatibilidade com o PyAV)
+        audio = np.frombuffer(w.readframes(w.getnframes()), dtype=np.int16).astype(np.float32) / 32768.0
     modelo = WhisperModel("medium", device="cpu", compute_type="int8")
-    segs, _ = modelo.transcribe(str(wav), language="pt", word_timestamps=True, vad_filter=False,
+    segs, _ = modelo.transcribe(audio, language="pt", word_timestamps=True, vad_filter=False,
                                 initial_prompt=(roteiro or "")[:800], beam_size=5)
     pal = []
     for s in segs:
