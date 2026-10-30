@@ -1,4 +1,4 @@
-# Vídeo com o rosto do João — teste 01 (editor automático, fora da rotina diária). Revisão 5.
+# Vídeo com o rosto do João — teste 01 (editor automático, fora da rotina diária). Revisão 6.
 # Baixa o bruto do Google Drive, transcreve, corta, insere títulos/placares, legenda, trata a voz e faz o cartão final.
 # Saída: videos/rosto/teste-01/video.mp4 + legendas.srt (o bruto não vai para o git).
 import shutil
@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[2]
 PASTA = ROOT / "videos" / "rosto" / "teste-01"
-REVISAO = "5"
+REVISAO = "6"
 sys.path.insert(0, str(ROOT / "scripts"))
 try:
     try:

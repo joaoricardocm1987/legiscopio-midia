@@ -29,7 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import personagem  # noqa: E402
 import video_longo as vl  # noqa: E402
 
-VERSAO = "3"
+VERSAO = "4"
 W, H, FPS = 1080, 1920, 30
 VERDE, VESC, LIMA, BR = vl.VERDE, (3, 60, 32), vl.LIMA, (255, 255, 255)
 AMAR = (255, 214, 64)
@@ -42,7 +42,7 @@ FIM = 3.2       # duração do cartão final
 VOZ = ("aformat=channel_layouts=mono,highpass=f=85,afftdn=nf=-28:tn=1,"
        "equalizer=f=250:t=q:w=1.2:g=-3,equalizer=f=3200:t=q:w=1.5:g=3,equalizer=f=8000:t=q:w=2:g=1.5,"
        "acompressor=threshold=-21dB:ratio=3:attack=8:release=120:makeup=2,"
-       "alimiter=limit=0.95,loudnorm=I=-14:TP=-1.5:LRA=7")
+       "alimiter=limit=0.95,loudnorm=I=-13:TP=-1.2:LRA=7")
 
 
 LOG = []
@@ -504,7 +504,11 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
     leg = palavras_legenda(pal)
     bls = blocos(leg)
     rec = Recorte() if any(it.get("atras") for it in ins) else type("SemRecorte", (), {"ema": None})()
-    cap = cv2.VideoCapture(str(cortado))
+    # lê os quadros pelo próprio ffmpeg (o OpenCV pulava quadros em alguns arquivos e tirava a voz de sincronia)
+    leitor = subprocess.Popen([vl.ffmpeg(), "-loglevel", "error", "-i", str(cortado), "-f", "rawvideo",
+                               "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-"], stdout=subprocess.PIPE,
+                              stderr=subprocess.DEVNULL)
+    lidos = 0
     audio = tmp / "audio.m4a"
     subprocess.run([vl.ffmpeg(), "-y", "-loglevel", "error", "-i", str(cortado), "-af",
                     VOZ + f",apad=pad_dur={FIM + 0.5}", "-ar", "48000", "-ac", "2", "-c:a", "aac", "-b:a", "192k",
@@ -516,12 +520,16 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
     nq = int(dur * FPS)
     leg_cache = {}
     ultimo = None
+    rgb_ant = None
     for f in range(nq):
-        ok, bgr = cap.read()
-        if not ok:
+        buf = leitor.stdout.read(W * H * 3)
+        if len(buf) == W * H * 3:
+            rgb_ant = np.frombuffer(buf, dtype=np.uint8).reshape(H, W, 3)
+            lidos += 1
+        elif rgb_ant is None:
             break
         t = f / FPS
-        rgb = cv2.cvtColor(bgr, cv2.COLOR_BGR2RGB)
+        rgb = rgb_ant
         # zoom alternado por trecho (disfarça os cortes) com leve aproximação contínua
         k = max(i for i, b in enumerate(bordas) if b <= t + 1e-6) if bordas else 0
         t_ini = bordas[k] if bordas else 0
@@ -571,9 +579,11 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
             a = min(1.0, f / (0.35 * FPS))
             proc.stdin.write((Image.blend(ultimo, fim, a) if a < 1 else fim).tobytes())
     proc.stdin.close()
+    leitor.stdout.close()
+    leitor.wait()
+    log(f"quadros: {lidos} lidos de {nq} esperados")
     if proc.wait():
         raise RuntimeError("ffmpeg falhou")
-    cap.release()
 
 
 def srt(pal, destino):
