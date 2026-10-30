@@ -9,14 +9,3 @@ inserção tela em 20.7s (placar)
 inserção tela em 29.1s (cota)
 inserção chips em 31.8s (gratuito)
 inserção titulo em 38.8s (Android)
-recorte: mediapipe 1.2.0 tasks
-máscara t=0.0s: 69% do quadro é pessoa
-máscara t=2.0s: 70% do quadro é pessoa
-máscara t=12.0s: 69% do quadro é pessoa
-máscara t=14.0s: 75% do quadro é pessoa
-máscara t=16.0s: 75% do quadro é pessoa
-máscara t=22.0s: 75% do quadro é pessoa
-máscara t=24.0s: 72% do quadro é pessoa
-máscara t=30.0s: 76% do quadro é pessoa
-máscara t=32.0s: 74% do quadro é pessoa
-máscara t=34.0s: 74% do quadro é pessoa
