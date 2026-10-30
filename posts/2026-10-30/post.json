@@ -1,0 +1,37 @@
+{
+  "rotulo": "Reforma eleitoral",
+  "titulo": "Voto distrital misto: Câmara quer votar PEC ainda em 2026, valendo em 2034",
+  "destaque": "2034",
+  "detalhe": "Metade das vagas de deputados e vereadores por distritos e metade por listas dos partidos. Transição em 2030; a PEC ainda não foi apresentada.",
+  "fonte": "Fonte: Câmara dos Deputados · 28/10/2026",
+  "legenda": "O presidente da Câmara anunciou na quarta-feira (28) que quer votar ainda neste ano o voto distrital misto para deputados e vereadores. A mudança seria feita por PEC (Proposta de Emenda à Constituição), com transição em 2030 e o novo sistema valendo em 2034.\n\nComo funcionaria:\n• O eleitor dá dois votos: um num candidato do seu distrito e outro num partido.\n• Metade das vagas vai para os eleitos nos distritos; a outra metade, para as listas dos partidos.\n• Vale para deputados federais, estaduais e distritais e para vereadores. Presidente, governador, prefeito e senador não mudam.\n\nHoje o sistema é proporcional: os votos de cada partido definem quantas cadeiras ele ocupa. A PEC ainda não foi apresentada: precisa de 171 assinaturas e de 308 votos em dois turnos na Câmara e 49 no Senado. Já existe um projeto sobre o tema, o PL 9212/2017, vindo do Senado, que aguarda parecer na CCJ da Câmara.\n\nQuem defende diz que o modelo aproxima o eleitor de quem o representa e reduz o número de candidatos na disputa. Críticos e especialistas ouvidos pela imprensa apontam que dois votos podem confundir o eleitor e que o desenho dos distritos pode favorecer alguns grupos.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/noticias/1314520-motta-quer-votar-sistema-distrital-misto-e-regras-para-redes-sociais-ainda-neste-ano\n\n📲 Baixe o app do Legiscópio (Android): legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #ReformaEleitoral",
+  "legenda_tiktok": "Voto distrital misto: a Câmara quer votar ainda neste ano uma PEC para eleger deputados e vereadores por distrito e por lista, valendo em 2034. Mais no YouTube: Legiscópio. App: legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #ReformaEleitoral",
+  "fontes": [
+    "https://www.camara.leg.br/noticias/1314520-motta-quer-votar-sistema-distrital-misto-e-regras-para-redes-sociais-ainda-neste-ano",
+    "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2163674",
+    "https://www.congressoemfoco.com.br/noticia/129609/voto-distrital-misto-entenda-o-sistema-que-deve-ser-votado-na-camara",
+    "https://www.congressoemfoco.com.br/noticia/107564/voto-distrital-misto-os-pros-e-contras-do-projeto-que-hugo-quer-votar",
+    "https://www.correiobraziliense.com.br/politica/2026/10/7529438-voto-misto-distrital-avanca-na-camara-e-deputados-discutem-transicao.html",
+    "https://www.em.com.br/politica/2026/10/7530042-hugo-motta-avanca-para-a-volta-do-voto-distrital-misto-entenda-sistema.html",
+    "https://agendadopoder.com.br/camara-negocia-voto-distrital-misto-para-deputados-e-vereadores-a-partir-de-2034/",
+    "https://www.esmaelmorais.com.br/motta-reforma-eleitoral-voto-distrital-misto",
+    "https://www.oliberal.com/politica/o-que-e-voto-distrital-misto-entenda-reforma-eleitoral-discutida-por-hugo-motta-1.1187946",
+    "https://www12.senado.leg.br/noticias/senado-agora",
+    "https://www.camara.leg.br/noticias",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-11-03&dataFim=2026-11-06&itens=100",
+    "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-27&dataFim=2026-10-30",
+    "https://www.camara.leg.br/noticias/1314937-comissao-aprova-medidas-para-fortalecer-combate-ao-cancer-de-prostata"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Câmara quer votar voto distrital misto (PEC) ainda em 2026, com transição em 2030 e vigência em 2034", "veiculos": ["Agência Câmara", "Correio Braziliense", "Estado de Minas", "Congresso em Foco", "O Liberal", "Agenda do Poder", "Blog do Esmael", "Polêmica Paraíba", "A União"], "proposicao": "PEC anunciada em 28/10, ainda não apresentada; PL 9212/2017 (origem: PLS 86/2017) aguarda parecer do relator na CCJC da Câmara", "nota": 5},
+      {"assunto": "Comissão da Câmara aprova medidas contra o câncer de próstata (às vésperas do Novembro Azul)", "veiculos": ["Agência Câmara"], "proposicao": "Projeto aprovado em comissão da Câmara nesta semana (número não conferido)", "nota": 4},
+      {"assunto": "Adicional de fronteira e apoio à cana do Nordeste vão à sanção", "veiculos": ["Agência Senado", "Sindireceita", "Sinasefe", "Fetransul"], "proposicao": "MPV 1.375/2026 (PLV) e PL 5.649/2026 — aprovados no Senado em 28/10, aguardam sanção (já citados como candidatos em 28 e 29/10)", "nota": 3},
+      {"assunto": "Comissão especial da maioridade penal volta a se reunir em 3/11", "veiculos": ["Dados abertos da Câmara"], "proposicao": "PEC 32/2015 — reunião deliberativa (requerimentos) em 03/11; tema tratado em 18/10 (−3)", "nota": 1},
+      {"assunto": "Alíquota da CBS: TCU envia cálculo ao Senado até hoje (30)", "veiculos": ["Agência Senado", "CNN Brasil", "Poder360"], "proposicao": "Resolução do Senado (LC 214/2025) — tratada em 27 e 29/10 (−3)", "nota": 2},
+      {"assunto": "Nova lei do MEI sancionada (teto de R$ 110 mil em 2027 e perdão de dívidas)", "veiculos": ["Agência Brasil", "Jovem Pan", "ND Mais", "Agência Câmara"], "proposicao": "PLP 186/2026 (LC 238/2026) — já sancionada; tratada em 16, 20 e 22/10 (−3)", "nota": 1}
+    ],
+    "escolhido": "Voto distrital misto para deputados e vereadores — PEC anunciada pelo presidente da Câmara em 28/10/2026 (transição 2030, vigência 2034); PL 9212/2017 aguarda parecer na CCJC",
+    "motivo": "Sexta-feira sem sessões deliberativas no Congresso; na agenda da Câmara publicada até agora, não há sessão deliberativa do Plenário de 3 a 6/11. O distrital misto teve a maior repercussão em veículos diversos (3), tem proposição em comissão (PL 9212/2017, na CCJC) e PEC anunciada para votação ainda em 2026 (1) e mexe diretamente em como o eleitor vota (1), sem repetição nos últimos 14 dias. Tema tratado sem citar nomes de parlamentares e com argumentos dos dois lados. Google Trends não consultado."
+  }
+}
