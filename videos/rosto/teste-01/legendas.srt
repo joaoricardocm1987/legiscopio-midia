@@ -1,0 +1,83 @@
+1
+00:00:00,100 --> 00:00:02,220
+Você sabe como o deputado em quem você
+
+2
+00:00:02,220 --> 00:00:04,500
+votou se posicionou nas últimas votações
+
+3
+00:00:04,500 --> 00:00:05,300
+da Câmara?
+
+4
+00:00:05,580 --> 00:00:07,300
+A maioria das pessoas não sabe.
+
+5
+00:00:07,679 --> 00:00:09,280
+E não é por falta de interesse:
+
+6
+00:00:09,460 --> 00:00:11,960
+os dados existem, são públicos, mas estão
+
+7
+00:00:11,960 --> 00:00:14,140
+espalhados Foi por isso que eu criei o
+
+8
+00:00:14,140 --> 00:00:14,900
+Legiscópio.
+
+9
+00:00:15,180 --> 00:00:17,700
+Ele pega os dados oficiais da Câmara e do
+
+10
+00:00:17,700 --> 00:00:20,240
+Senado e mostra de um jeito simples:
+
+11
+00:00:20,240 --> 00:00:22,820
+o placar de cada votação, como cada
+
+12
+00:00:22,820 --> 00:00:25,060
+partido orientou e o voto de cada
+
+13
+00:00:25,060 --> 00:00:25,960
+parlamentar.
+
+14
+00:00:25,960 --> 00:00:28,880
+Dá pra ver também quanto cada um gastou
+
+15
+00:00:28,880 --> 00:00:31,160
+das cotas parlamentares, mês a mês.
+
+16
+00:00:31,360 --> 00:00:31,960
+Lado.
+
+17
+00:00:32,160 --> 00:00:35,520
+É gratuito, não tem anúncio e não puxa pra
+
+18
+00:00:35,520 --> 00:00:36,080
+lado nenhum.
+
+19
+00:00:36,420 --> 00:00:38,000
+Só dados oficiais.
+
+20
+00:00:38,200 --> 00:00:40,040
+O app está disponível pra Android.
+
+21
+00:00:40,380 --> 00:00:41,600
+O link está na descrição:
