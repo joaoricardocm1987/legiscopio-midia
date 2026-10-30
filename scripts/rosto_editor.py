@@ -28,7 +28,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import personagem  # noqa: E402
 import video_longo as vl  # noqa: E402
 
-VERSAO = "1"
+VERSAO = "2"
 W, H, FPS = 1080, 1920, 30
 VERDE, VESC, LIMA, BR = vl.VERDE, (3, 60, 32), vl.LIMA, (255, 255, 255)
 AMAR = (255, 214, 64)
@@ -36,6 +36,15 @@ BK, BD, RG = vl.BK, vl.BD, vl.RG
 GAP = 0.45      # pausa que separa trechos
 MARGEM = 0.10   # folga antes/depois de cada trecho mantido
 FIM = 3.2       # duração do cartão final
+
+
+LOG = []
+
+
+def log(*a):
+    msg = " ".join(str(x) for x in a)
+    print(msg)
+    LOG.append(msg)
 
 
 def pip(*pacotes):
@@ -74,7 +83,15 @@ def baixar(cfg, pasta):
 def normalizar(src, tmp):
     """1080x1920, 30 fps constante, rotação aplicada; áudio mono 16 kHz para a transcrição."""
     base = tmp / "base.mp4"
-    vf = (f"scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p")
+    info = subprocess.run([vl.ffmpeg(), "-hide_banner", "-i", str(src)], capture_output=True, text=True).stderr
+    log("bruto:", " | ".join(l.strip() for l in info.splitlines() if "Stream" in l or "rotate" in l or "Duration" in l))
+    # remove faixas pretas (letterbox) antes de enquadrar
+    det = subprocess.run([vl.ffmpeg(), "-hide_banner", "-ss", "1", "-i", str(src), "-t", "6", "-vf", "cropdetect=24:2:0",
+                          "-f", "null", "-"], capture_output=True, text=True).stderr
+    crops = re.findall(r"crop=(\d+:\d+:\d+:\d+)", det)
+    corte = f"crop={max(set(crops), key=crops.count)}," if crops else ""
+    log("corte de bordas:", corte or "nenhum")
+    vf = (f"{corte}scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p")
     subprocess.run([vl.ffmpeg(), "-y", "-loglevel", "error", "-i", str(src), "-vf", vf, "-c:v", "libx264",
                     "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", str(base)],
                    check=True)
@@ -127,8 +144,30 @@ def grafia_do_roteiro(pal, roteiro):
 
 # ------------------------------------------------------------------ 3. cortes
 
+def sem_retomadas(pal, n=4, janela=45):
+    """Se uma sequência de n palavras se repete logo adiante, a primeira tentativa (e o que veio até a
+    repetição) é descartada: é o João recomeçando a frase depois de errar."""
+    nk = [norm(p[2]) for p in pal]
+    i, out = 0, []
+    while i < len(pal):
+        alvo = nk[i:i + n]
+        k_rep = None
+        if len(alvo) == n:
+            for k in range(i + 1, min(len(pal) - n + 1, i + janela)):
+                if nk[k:k + n] == alvo:
+                    k_rep = k
+        if k_rep is not None:
+            log("retomada descartada:", " ".join(p[2] for p in pal[i:k_rep]))
+            i = k_rep
+            continue
+        out.append(pal[i])
+        i += 1
+    return out
+
+
 def trechos(pal):
     """Agrupa as palavras em trechos separados por pausas e descarta tomadas que foram refeitas."""
+    pal = sem_retomadas(pal)
     grupos, atual = [], []
     for p in pal:
         if atual and p[0] - atual[-1][1] > GAP:
@@ -215,8 +254,9 @@ class Recorte:
                 self.mp = mp
                 self.modo = "tasks"
             self.ok = True
+            log("recorte: mediapipe", getattr(mp, "__version__", "?"), self.modo)
         except Exception as e:  # sem recorte: as inserções ficam na frente, sem efeito de profundidade
-            print("recorte indisponível:", e)
+            log("recorte indisponível:", repr(e))
 
     def mascara(self, rgb):
         if not self.ok:
@@ -440,8 +480,9 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
     for it in cfg.get("insercoes", []):
         t0 = tempo_gatilho(pal, it["gatilho"], depois) if it.get("gatilho") else it.get("t", 0.0)
         if t0 is None:
-            print("gatilho não encontrado:", it["gatilho"])
+            log("gatilho não encontrado:", it["gatilho"])
             continue
+        log(f"inserção {it.get('tipo')} em {t0:.1f}s ({it['gatilho']})")
         depois = t0
         ins.append(dict(it, t0=max(0.0, t0 - 0.15), t1=min(dur, t0 + it.get("dur", 3.5)), lay=insercao_rgba(it, telas)))
     for a, b in zip(ins, ins[1:]):  # uma inserção sai quando a próxima entra
@@ -452,7 +493,7 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
     cap = cv2.VideoCapture(str(cortado))
     audio = tmp / "audio.m4a"
     subprocess.run([vl.ffmpeg(), "-y", "-loglevel", "error", "-i", str(cortado), "-af",
-                    f"loudnorm=I=-14:TP=-1.5:LRA=11,apad=pad_dur={FIM + 0.5}", "-c:a", "aac", "-b:a", "192k",
+                    f"loudnorm=I=-14:TP=-1.5:LRA=11,apad=pad_dur={FIM + 0.5}", "-ar", "48000", "-c:a", "aac", "-b:a", "192k",
                     str(audio)], check=True)
     cmd = [vl.ffmpeg(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
            "-r", str(FPS), "-i", "-", "-i", str(audio), "-c:v", "libx264", "-preset", "medium", "-crf", "19",
@@ -479,6 +520,8 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
         ativos = [it for it in ins if it["t0"] <= t < it["t1"]]
         if ativos:
             m = rec.mascara(rgb)
+            if m is not None and f % 60 == 0:
+                log(f"máscara t={t:.1f}s: {np.asarray(m).mean() / 255:.0%} do quadro é pessoa")
             img = quadro.convert("RGBA")
             for it in ativos:
                 a = min(1.0, (t - it["t0"]) / 0.25, (it["t1"] - t) / 0.25)
@@ -551,9 +594,10 @@ def gerar(pasta):
     pal = grafia_do_roteiro(pal, cfg.get("roteiro", ""))
     grupos = trechos(pal)
     cortado, novas, bordas, dur = cortar(base, grupos, tmp)
-    print(f"bruto {len(pal)} palavras · {len(grupos)} trechos · {dur:.1f}s depois dos cortes")
+    log(f"bruto {len(pal)} palavras · {len(grupos)} trechos · {dur:.1f}s depois dos cortes")
     montar(cortado, novas, bordas, dur, cfg, telas, pasta / "video.mp4", tmp)
     srt(novas, pasta / "legendas.srt")
+    (pasta / "log.txt").write_text("\n".join(LOG) + "\n", encoding="utf-8")
     marca.write_text(ass + "\n")
     shutil.rmtree(tmp, ignore_errors=True)
     if not os.environ.get("ROSTO_MANTER_BRUTO"):
