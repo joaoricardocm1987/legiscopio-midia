@@ -4,11 +4,12 @@ Pasta do vídeo: videos/rosto/<nome>/config.json
   {"drive": "<link da pasta ou do arquivo no Google Drive>",
    "roteiro": "texto que o João leu (ajuda a transcrição e a grafia das legendas)",
    "insercoes": [{"gatilho": "palavra ou expressão dita", "tipo": "titulo|chips|tela|placar|logo",
-                  "dur": 3.5, ...campos do tipo}],
+                  "dur": 3.5, "atras": false, ...campos do tipo}],
    "final": {"titulo": "...", "link": "legiscopio.com.br/baixar"}}
-Etapas: baixa o bruto do Drive -> normaliza (1080x1920, 30 fps) -> transcreve (faster-whisper, tempos por palavra)
--> corta silêncios e tomadas repetidas -> recorta a pessoa (MediaPipe) -> monta: zoom alternado, inserções
-ATRÁS da cabeça, legenda palavra a palavra na altura do peito, cartão final -> video.mp4 + legendas.srt.
+Etapas: baixa o bruto do Drive -> normaliza (1080x1920, 30 fps, áudio e vídeo alinhados) -> transcreve
+(faster-whisper, tempos por palavra) -> corta silêncios e tomadas repetidas -> monta: zoom alternado, inserções
+(na frente; com "atras": true ficam atrás da cabeça, via recorte MediaPipe), legenda palavra a palavra,
+voz tratada (EQ, redução de ruído, compressão, -14 LUFS), cartão final -> video.mp4 + legendas.srt.
 """
 import hashlib
 import json
@@ -28,7 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import personagem  # noqa: E402
 import video_longo as vl  # noqa: E402
 
-VERSAO = "2"
+VERSAO = "3"
 W, H, FPS = 1080, 1920, 30
 VERDE, VESC, LIMA, BR = vl.VERDE, (3, 60, 32), vl.LIMA, (255, 255, 255)
 AMAR = (255, 214, 64)
@@ -36,6 +37,12 @@ BK, BD, RG = vl.BK, vl.BD, vl.RG
 GAP = 0.45      # pausa que separa trechos
 MARGEM = 0.10   # folga antes/depois de cada trecho mantido
 FIM = 3.2       # duração do cartão final
+# tratamento da voz: tira ronco grave, reduz ruído de fundo, corta o "embolado" dos médios-graves, dá presença,
+# comprime de leve e nivela no padrão das redes (-14 LUFS)
+VOZ = ("aformat=channel_layouts=mono,highpass=f=85,afftdn=nf=-28:tn=1,"
+       "equalizer=f=250:t=q:w=1.2:g=-3,equalizer=f=3200:t=q:w=1.5:g=3,equalizer=f=8000:t=q:w=2:g=1.5,"
+       "acompressor=threshold=-21dB:ratio=3:attack=8:release=120:makeup=2,"
+       "alimiter=limit=0.95,loudnorm=I=-14:TP=-1.5:LRA=7")
 
 
 LOG = []
@@ -91,10 +98,17 @@ def normalizar(src, tmp):
     crops = re.findall(r"crop=(\d+:\d+:\d+:\d+)", det)
     corte = f"crop={max(set(crops), key=crops.count)}," if crops else ""
     log("corte de bordas:", corte or "nenhum")
-    vf = (f"{corte}scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},fps={FPS},format=yuv420p")
-    subprocess.run([vl.ffmpeg(), "-y", "-loglevel", "error", "-i", str(src), "-vf", vf, "-c:v", "libx264",
-                    "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-b:a", "192k", "-ar", "48000", str(base)],
-                   check=True)
+    dur_a = re.search(r"Duration: (\d+):(\d+):([\d.]+)", info)
+    dur_a = int(dur_a[1]) * 3600 + int(dur_a[2]) * 60 + float(dur_a[3]) if dur_a else None
+    # fps com start_time=0 + tpad: vídeo em ritmo constante, começando junto com o áudio e cobrindo toda a fala
+    vf = (f"{corte}scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},"
+          f"fps={FPS}:start_time=0,tpad=stop_mode=clone:stop_duration=30,format=yuv420p")
+    af = "aresample=async=1000:first_pts=0"
+    cmd = [vl.ffmpeg(), "-y", "-loglevel", "error", "-fflags", "+genpts", "-i", str(src), "-vf", vf, "-af", af,
+           "-c:v", "libx264", "-preset", "veryfast", "-crf", "16", "-c:a", "aac", "-b:a", "192k", "-ar", "48000"]
+    if dur_a:
+        cmd += ["-t", f"{dur_a:.3f}"]
+    subprocess.run(cmd + [str(base)], check=True)
     wav = tmp / "fala.wav"
     subprocess.run([vl.ffmpeg(), "-y", "-loglevel", "error", "-i", str(base), "-ac", "1", "-ar", "16000", str(wav)],
                    check=True)
@@ -277,7 +291,7 @@ class Recorte:
         return Image.fromarray((m * 255).astype(np.uint8))
 
 
-# ------------------------------------------------------------------ 5. inserções (ficam atrás da pessoa)
+# ------------------------------------------------------------------ 5. inserções
 
 def caixa_txt(d, txt, x, y, f, bg, fg, pad=26, r=24):
     bb = d.textbbox((0, 0), txt, font=f)
@@ -311,7 +325,7 @@ def celular_rgba(tela_png, largura):
 
 
 def insercao_rgba(ins, telas):
-    """Camada RGBA 1080x1920 da inserção (desenhada na metade de cima, atrás da cabeça)."""
+    """Camada RGBA 1080x1920 da inserção (desenhada na metade de cima do quadro)."""
     lay = Image.new("RGBA", (W, H), (0, 0, 0, 0))
     d = ImageDraw.Draw(lay)
     tipo = ins.get("tipo", "titulo")
@@ -489,11 +503,11 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
         a["t1"] = min(a["t1"], b["t0"])
     leg = palavras_legenda(pal)
     bls = blocos(leg)
-    rec = Recorte()
+    rec = Recorte() if any(it.get("atras") for it in ins) else type("SemRecorte", (), {"ema": None})()
     cap = cv2.VideoCapture(str(cortado))
     audio = tmp / "audio.m4a"
     subprocess.run([vl.ffmpeg(), "-y", "-loglevel", "error", "-i", str(cortado), "-af",
-                    f"loudnorm=I=-14:TP=-1.5:LRA=11,apad=pad_dur={FIM + 0.5}", "-ar", "48000", "-c:a", "aac", "-b:a", "192k",
+                    VOZ + f",apad=pad_dur={FIM + 0.5}", "-ar", "48000", "-ac", "2", "-c:a", "aac", "-b:a", "192k",
                     str(audio)], check=True)
     cmd = [vl.ffmpeg(), "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}",
            "-r", str(FPS), "-i", "-", "-i", str(audio), "-c:v", "libx264", "-preset", "medium", "-crf", "19",
@@ -519,7 +533,7 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
         quadro = Image.fromarray(rgb)
         ativos = [it for it in ins if it["t0"] <= t < it["t1"]]
         if ativos:
-            m = rec.mascara(rgb)
+            m = rec.mascara(rgb) if any(it.get("atras") for it in ativos) else None
             if m is not None and f % 60 == 0:
                 log(f"máscara t={t:.1f}s: {np.asarray(m).mean() / 255:.0%} do quadro é pessoa")
             img = quadro.convert("RGBA")
@@ -531,7 +545,7 @@ def montar(cortado, pal, bordas, dur, cfg, telas, destino, tmp):
                     lay.putalpha(lay.getchannel("A").point(lambda v, a=a: int(v * a)))
                 dy = int(40 * (1 - min(1.0, (t - it["t0"]) / 0.3)))
                 img.alpha_composite(lay, (0, dy))
-            if m is not None and not any(it.get("frente") for it in ativos):
+            if m is not None and any(it.get("atras") for it in ativos):
                 img.paste(quadro, (0, 0), m)  # a pessoa volta para a frente das inserções
             quadro = img.convert("RGB")
         else:
