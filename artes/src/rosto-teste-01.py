@@ -1,4 +1,4 @@
-# Vídeo com o rosto do João — teste 01 (editor automático, fora da rotina diária).
+# Vídeo com o rosto do João — teste 01 (editor automático, fora da rotina diária). Revisão 2.
 # Baixa o bruto do Google Drive, transcreve, corta, insere telas/placares atrás da cabeça, legenda e cartão final.
 # Saída: videos/rosto/teste-01/video.mp4 + legendas.srt (o bruto não vai para o git).
 import shutil
