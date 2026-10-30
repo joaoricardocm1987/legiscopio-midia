@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Voto distrital misto em um minuto! A Câmara quer mudar como elegemos deputados e vereadores, a partir de dois mil e trinta e quatro.",
+      "visual": {"tipo": "numero", "titulo": "Novo sistema", "valor": "2034", "rotulo": "Ano previsto para valer · transição em 2030"}
+    },
+    {
+      "fala": "Hoje, você dá um voto e o total de cada partido define quantas cadeiras ele ocupa. No distrital misto, seriam dois votos.",
+      "visual": {"tipo": "comparacao", "titulo": "Como muda", "antes": {"valor": "1 voto", "rotulo": "Hoje: proporcional"}, "depois": {"valor": "2 votos", "rotulo": "Distrital misto"}}
+    },
+    {
+      "fala": "Um voto num candidato do seu distrito e outro num partido. Metade das vagas sai dos distritos; a outra, das listas.",
+      "visual": {"tipo": "barras", "titulo": "Divisão das vagas", "itens": [{"rotulo": "Distritos", "valor": 50, "texto": "50%"}, {"rotulo": "Listas dos partidos", "valor": 50, "texto": "50%"}], "nota": "Modelo anunciado na Câmara em 28/10/2026"}
+    },
+    {
+      "fala": "Muda para deputados e vereadores. Presidente, governador, prefeito e senador seguem como hoje.",
+      "visual": {"tipo": "texto", "titulo": "Quem muda", "texto": "Deputados federais, estaduais e distritais e vereadores. Presidente, governador, prefeito e senador: nada muda."}
+    },
+    {
+      "fala": "A mudança viria por PEC, ainda não apresentada. Precisa de trezentos e oito votos em dois turnos na Câmara e quarenta e nove no Senado.",
+      "visual": {"tipo": "numero", "titulo": "Votos na Câmara", "valor": "308", "rotulo": "Em 2 turnos · no Senado: 49"}
+    },
+    {
+      "fala": "Quem defende diz que aproxima eleitor e representante. Críticos apontam risco de confusão e de distritos desenhados a favor de alguns grupos.",
+      "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: eleitor mais perto do representante. Contra: risco de confusão e de distritos desenhados a favor de grupos."}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como uma PEC é aprovada", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Voto distrital misto: o que muda na eleição de deputados e vereadores #Shorts",
+    "descricao": "A Câmara quer votar ainda em 2026 uma PEC que cria o voto distrital misto para deputados e vereadores: dois votos, metade das vagas por distrito e metade por lista, valendo em 2034. Mais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/noticias/1314520-motta-quer-votar-sistema-distrital-misto-e-regras-para-redes-sociais-ainda-neste-ano\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #ReformaEleitoral",
+    "tags": ["Legiscópio", "voto distrital misto", "reforma eleitoral", "PL 9212/2017", "como funciona o voto distrital misto", "shorts"]
+  }
+}
