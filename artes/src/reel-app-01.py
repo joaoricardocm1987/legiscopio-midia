@@ -12,21 +12,24 @@ DRIVE = "https://drive.google.com/drive/folders/1JxmUrCivL90R7X1qjdmL4u3nqd_J-0c
 TMP = Path("/tmp/reel-app-01")
 sys.path.insert(0, str(ROOT / "scripts"))
 PASTA.mkdir(parents=True, exist_ok=True)
+# Revisão 2
 try:
     if not (PASTA / "transcricao.json").exists():
         subprocess.run([sys.executable, "-m", "pip", "install", "-q", "gdown", "numpy", "faster-whisper"], check=True)
         import gdown
+        import video_longo as vl
+        FF = vl.ffmpeg()
         TMP.mkdir(parents=True, exist_ok=True)
         gdown.download_folder(url=DRIVE, output=str(TMP), quiet=False, use_cookies=False)
         vids = {p.name: p for p in TMP.rglob("*") if p.suffix.lower() in (".mp4", ".mov", ".m4v")}
         info = []
         for nome, p in vids.items():
-            r = subprocess.run(["ffmpeg", "-hide_banner", "-i", str(p)], capture_output=True, text=True).stderr
+            r = subprocess.run([FF, "-hide_banner", "-i", str(p)], capture_output=True, text=True).stderr
             info.append(nome + " | " + " | ".join(l.strip() for l in r.splitlines() if "Duration" in l or "Stream" in l))
         (PASTA / "info.txt").write_text("\n".join(info) + "\n", encoding="utf-8")
         fala = next(p for n, p in vids.items() if n.lower().startswith("video1"))
         wav = TMP / "fala.wav"
-        subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", str(fala), "-ac", "1", "-ar", "16000", str(wav)], check=True)
+        subprocess.run([FF, "-y", "-loglevel", "error", "-i", str(fala), "-ac", "1", "-ar", "16000", str(wav)], check=True)
         import rosto_editor  # noqa: E402
         roteiro = "Legiscópio, Câmara dos Deputados, Senado Federal, Congresso, aplicativo, Android, iOS, votação, proposição, apoia.se"
         rosto_editor.transcrever(wav, roteiro, PASTA / "transcricao.json")
