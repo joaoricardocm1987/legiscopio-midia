@@ -12,8 +12,21 @@ DRIVE = "https://drive.google.com/drive/folders/1JxmUrCivL90R7X1qjdmL4u3nqd_J-0c
 TMP = Path("/tmp/reel-app-01")
 sys.path.insert(0, str(ROOT / "scripts"))
 PASTA.mkdir(parents=True, exist_ok=True)
-# Revisão 2
+# Revisão 3 — também transcreve o áudio da gravação de tela
 try:
+    if not (PASTA / "transcricao_tela.json").exists():
+        subprocess.run([sys.executable, "-m", "pip", "install", "-q", "gdown", "numpy", "faster-whisper"], check=True)
+        import gdown
+        import video_longo as vl
+        FF = vl.ffmpeg()
+        TMP.mkdir(parents=True, exist_ok=True)
+        gdown.download_folder(url=DRIVE, output=str(TMP), quiet=False, use_cookies=False)
+        tela = next(p for p in TMP.rglob("*") if p.name.lower().startswith("tela"))
+        wav = TMP / "tela.wav"
+        subprocess.run([FF, "-y", "-loglevel", "error", "-i", str(tela), "-ac", "1", "-ar", "16000", str(wav)], check=True)
+        import rosto_editor  # noqa: E402
+        roteiro = "Legiscópio, Câmara dos Deputados, Senado Federal, Congresso, aplicativo, feed, agenda, notificações, favoritos, proposições, políticos"
+        rosto_editor.transcrever(wav, roteiro, PASTA / "transcricao_tela.json")
     if not (PASTA / "transcricao.json").exists():
         subprocess.run([sys.executable, "-m", "pip", "install", "-q", "gdown", "numpy", "faster-whisper"], check=True)
         import gdown
