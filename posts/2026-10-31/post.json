@@ -1,0 +1,40 @@
+{
+  "rotulo": "Senado vota na terça",
+  "titulo": "PEC da Segurança volta à pauta: Senado vota na terça-feira (3)",
+  "destaque": "49 votos",
+  "detalhe": "A PEC precisa de 49 dos 81 senadores, em dois turnos. O impasse é a emenda que reduz a maioridade penal.",
+  "fonte": "Fonte: Agência Brasil e Câmara · PEC 18/2025",
+  "legenda": "O Senado marcou para terça-feira (3) a votação da PEC da Segurança Pública (PEC 18/2025) no Plenário. A proposta foi aprovada pela Câmara em março, por 461 votos a 14 no segundo turno, e concluiu a análise na CCJ do Senado em 14 de outubro. A votação tinha saído da pauta em 15 de outubro.\n\nO que a PEC prevê:\n• Coloca na Constituição o Susp (Sistema Único de Segurança Pública), com cooperação entre União, estados e municípios.\n• Regras mais duras para líderes de facções e milícias, com limites à progressão de pena.\n• A PRF (Polícia Rodoviária Federal) passa a patrulhar também ferrovias e hidrovias federais.\n• Permite polícias municipais e destina 10% do superávit do Fundo Social do pré-sal à segurança, de 2027 a 2029.\n\nPara passar, a PEC precisa de 49 dos 81 senadores, em dois turnos. Pela regra das PECs, só é promulgado o que as duas Casas aprovarem igual; mudanças de conteúdo voltam para a Câmara.\n\nO impasse é a redução da maioridade penal. A oposição propõe responsabilizar a partir dos 16 anos, e dos 14 em crimes como estupro e tráfico. A bancada do PT no Senado aceita discutir 16 anos só para crimes hediondos, em proposta separada, e há governistas contra qualquer mudança.\n\nFonte: Agência Brasil — https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica | Câmara dos Deputados — https://www.camara.leg.br/noticias/1250434-camara-aprova-pec-da-seguranca-publica-em-2o-turno/\n\n▶ Vídeo completo no YouTube: Legiscópio\n\n📲 Baixe o app do Legiscópio (Android): legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #SenadoFederal #SegurançaPública",
+  "legenda_tiktok": "A semana no Congresso: adicional de fronteira e apoio à cana vão à sanção, Câmara aprova consultas no SUS e TCU calcula a CBS em 11,3%. Na terça (3), o Senado vota a PEC da Segurança. Mais no YouTube: Legiscópio. App: legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #CongressoNacional",
+  "fontes": [
+    "https://www.cnnbrasil.com.br/politica/alcolumbre-pauta-pec-da-seguranca-para-sessao-de-terca-feira-3-no-senado/",
+    "https://sbtnews.sbt.com.br/noticia/politica/alcolumbre-pauta-pec-da-seguranca-no-plenario-para-terca-3",
+    "https://jovempan.com.br/politica/alcolumbre-pauta-para-proxima-terca-feira-votacao-da-pec-da-seguranca-publica/",
+    "https://painelpolitico.com/senado-vota-pec-da-seguranca-na-terca-maioridade-penal-trava-acordo",
+    "https://revistaforum.com.br/politica/alcolumbre-marca-pec-seguranca-publica/",
+    "https://revistaoeste.com/politica/pec-seguranca-publica-terca-senado/",
+    "https://agenciabrasil.ebc.com.br/geral/noticia/2026-10/ccj-do-senado-conclui-votacao-da-pec-da-seguranca-publica",
+    "https://www.camara.leg.br/noticias/1250434-camara-aprova-pec-da-seguranca-publica-em-2o-turno/",
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261103",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-10-26&dataFim=2026-10-31&ordem=DESC&ordenarPor=dataHoraRegistro&itens=200",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-11-03&dataFim=2026-11-06&itens=100",
+    "https://legis.senado.leg.br/dadosabertos/votacao?dataInicio=2026-10-26&dataFim=2026-10-31",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/28/aprovada-ampliacao-do-adicional-de-fronteira-para-servidores-federais",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/28/pacote-de-apoio-a-agricultura-transporte-e-aviacao-vai-a-sancao-presidencial",
+    "https://www.camara.leg.br/noticias/1314230-camara-aprova-acordo-do-mercosul-para-proteger-mulheres-vitimas-de-violencia",
+    "https://transmissaopolitica.com.br/politica-nacional/2026/10/30/pauta-congresso-fim-2026-lula-alcolumbre-motta/",
+    "https://www.opovo.com.br/noticias/politica/2026/10/30/resumo-da-semana-politica-de-25-a-31-de-outubro.html"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Senado marca para terça (3/11) a votação da PEC da Segurança Pública; maioridade penal trava acordo", "veiculos": ["CNN Brasil", "SBT News", "Jovem Pan", "Revista Oeste", "Revista Fórum", "Painel Político", "TMC", "Agora RN", "D'PontaNews"], "proposicao": "PEC 18/2025 — aprovada na Câmara (mar/2026), CCJ do Senado concluída em 14/10; Plenário do Senado em 3/11 (sessão deliberativa agendada, pauta ainda não confirmada nos dados abertos)", "nota": 6},
+      {"assunto": "Adicional de fronteira sobe de R$ 91 para R$ 191 por dia e vai à sanção", "veiculos": ["Agência Senado", "A Crítica de Campo Grande", "Jornal de Brasília"], "proposicao": "MPV 1.375/2026 (PLV) — Câmara 27/10, Senado 28/10; aguarda sanção", "nota": 4},
+      {"assunto": "Apoio à cana do Nordeste e crédito para frota e campo vão à sanção", "veiculos": ["Agência Senado", "DGABC"], "proposicao": "PL 5.649/2026 — Câmara 27/10, Senado 28/10; aguarda sanção", "nota": 4},
+      {"assunto": "Prioridades do governo no Congresso até o fim do ano (PEC da Segurança, bets, transporte gratuito aos fins de semana)", "veiculos": ["Transmissão Política", "O Povo", "Brasil 247"], "proposicao": "Sem proposição concreta para o transporte gratuito; demais itens já em tramitação", "nota": 2},
+      {"assunto": "TCU calcula a CBS em 11,3% e envia ao Senado", "veiculos": ["Agência Senado", "Poder360", "InvestNews", "Legisweb"], "proposicao": "Resolução do Senado (LC 214/2025), prazo 15/12 — tratada em 27 e 29/10 (−3)", "nota": 2},
+      {"assunto": "Voto distrital misto", "veiculos": ["Agência Câmara", "Correio Braziliense", "Congresso em Foco"], "proposicao": "PEC anunciada, não apresentada; PL 9212/2017 na CCJC — tratado em 30/10 (−3)", "nota": 0}
+    ],
+    "escolhido": "PEC 18/2025 (PEC da Segurança Pública) — votação marcada no Plenário do Senado para 3/11/2026; o vídeo longo de sábado resume as decisões da semana (MP 1.375, PL 5.649, PL 5.239, PDL 274, CBS) e termina com a PEC",
+    "motivo": "Assunto com maior repercussão em 30 e 31/10, em veículos de linhas editoriais diferentes (3), votação marcada para a próxima terça (2) e interesse direto em segurança (2). Já foi tratada em 18/10, mas em outra fase (retirada de pauta); hoje há data de votação, por isso desconto parcial (−1). Nota: o SBT News cita 308 votos, mas no Senado são 49 de 81 (três quintos). Sem citar nomes de parlamentares, com as posições dos dois lados. Google Trends não consultado."
+  }
+}
