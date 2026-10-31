@@ -1,0 +1,23 @@
+{
+  "cenas": [
+    {"fala": "A semana no Congresso em um minuto! A Câmara registrou cento e quarenta e duas votações.",
+     "visual": {"tipo": "numero", "titulo": "Votações na Câmara", "valor": "142", "rotulo": "26 a 31/10 · cálculo do Legiscópio"}},
+    {"fala": "O adicional de fronteira de servidores federais sobe de noventa e um para cento e noventa e um reais por dia.",
+     "visual": {"tipo": "comparacao", "titulo": "Adicional de fronteira", "antes": {"valor": "R$ 91", "rotulo": "por dia, hoje"}, "depois": {"valor": "R$ 191", "rotulo": "por dia, em 2027"}}},
+    {"fala": "Ele vai à sanção junto com um auxílio de doze reais por tonelada de cana para os produtores do Nordeste.",
+     "visual": {"tipo": "numero", "titulo": "Cana do Nordeste", "valor": "R$ 12", "rotulo": "por tonelada · safra 2025/2026"}},
+    {"fala": "A Câmara aprovou consultas no SUS para meninas e meninos no início da puberdade. Agora o texto vai ao Senado.",
+     "visual": {"tipo": "texto", "titulo": "Consultas no SUS", "texto": "Para meninas e meninos, a partir da puberdade, com orientação sobre HPV. Segue para o Senado."}},
+    {"fala": "O TCU calculou a CBS, que substitui o PIS e a Cofins, em onze vírgula três por cento. O Senado decide até quinze de dezembro.",
+     "visual": {"tipo": "numero", "titulo": "Alíquota da CBS", "valor": "11,3%", "rotulo": "cálculo do TCU para 2027"}},
+    {"fala": "E na terça, o Senado vota a PEC da Segurança. Ela precisa de quarenta e nove votos, em dois turnos.",
+     "visual": {"tipo": "numero", "titulo": "PEC da Segurança", "valor": "49 votos", "rotulo": "de 81 senadores · terça, 3/11"}},
+    {"fala": "Quer saber o que a PEC muda e o impasse da maioridade penal? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+     "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "PEC, maioridade penal e mais"}}
+  ],
+  "youtube": {
+    "titulo": "Semana no Congresso em 1 minuto: fronteira, SUS, CBS e PEC #Shorts",
+    "descricao": "Adicional de fronteira e apoio à cana do Nordeste vão à sanção, a Câmara aprova consultas no SUS, o TCU calcula a CBS em 11,3% e o Senado vota a PEC da Segurança na terça (3). Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/28/aprovada-ampliacao-do-adicional-de-fronteira-para-servidores-federais\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #CongressoNacional",
+    "tags": ["Legiscópio", "semana no Congresso", "PEC da Segurança", "adicional de fronteira", "CBS 11,3%", "shorts"]
+  }
+}
