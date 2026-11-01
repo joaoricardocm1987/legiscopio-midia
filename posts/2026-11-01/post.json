@@ -1,0 +1,33 @@
+{
+  "rotulo": "Pauta da Câmara",
+  "titulo": "Regulação das big techs: projeto dá ao Cade novos poderes sobre plataformas",
+  "destaque": "PL 4675/2025",
+  "detalhe": "Vale para grupos que faturam mais de R$ 50 bi no mundo ou R$ 5 bi no Brasil. Líderes da Câmara discutem o texto na terça (3).",
+  "fonte": "Fonte: Câmara dos Deputados · PL 4675/2025",
+  "legenda": "Regulação das big techs: o governo e o relator querem votar ainda em 2026 o PL 4675/2025, que dá ao Cade (Conselho Administrativo de Defesa Econômica) novos poderes sobre grandes plataformas digitais. Segundo a Folha, o texto deve ser levado à reunião de líderes da Câmara na terça-feira (3).\n\nO que o projeto prevê:\n• O Cade poderá designar empresas de \"relevância sistêmica\" em mercados digitais: grupos com faturamento acima de R$ 50 bilhões no mundo ou de R$ 5 bilhões no Brasil.\n• Essas empresas podem receber obrigações especiais, como não favorecer os próprios produtos, aceitar apps de terceiros e informar critérios de ranqueamento e taxas.\n• Cria uma Superintendência de Mercados Digitais dentro do Cade.\n• O parecer preliminar do relator reduz de 10 para até 6 anos o prazo da designação e proíbe o \"design manipulativo\".\n\nO projeto trata só de concorrência, não de conteúdo nem de moderação. Foi enviado pelo governo em setembro de 2025, tem urgência aprovada desde março de 2026 e precisa passar pelo Plenário da Câmara e pelo Senado. Ainda não há data de votação.\n\nQuem defende diz que a regra age antes que práticas de monopólio causem dano e abre espaço para empresas menores, nos moldes da lei europeia de mercados digitais. Empresas do setor e críticos afirmam que o texto dá margem demais ao regulador e permite impor obrigações sem demonstrar dano concreto.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562481 | Folha, via Estado de Minas — https://www.em.com.br/politica/2026/10/7531376-governo-lula-e-relator-querem-aprovar-regulacao-concorrencial-das-big-techs-ate-o-fim-do-ano.html\n\n📲 Baixe o app do Legiscópio (Android): legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #Tecnologia",
+  "legenda_tiktok": "Regulação das big techs: projeto (PL 4675/2025) dá ao Cade poderes sobre plataformas que faturam mais de R$ 5 bi no Brasil. Líderes da Câmara discutem na terça (3). Mais no YouTube: Legiscópio. App: legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Tecnologia",
+  "fontes": [
+    "https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562481",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2562481",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2562481/tramitacoes",
+    "https://www.em.com.br/politica/2026/10/7531376-governo-lula-e-relator-querem-aprovar-regulacao-concorrencial-das-big-techs-ate-o-fim-do-ano.html",
+    "https://brasil247.com/tecnologia/governo-lula-acelera-regulamentacao-da-inteligencia-artificial-e-das-big-techs-no-congresso",
+    "https://teletime.com.br/10/07/2026/pl-mercados-digitais-nova-versao/",
+    "https://ulti.com.br/noticias/regulacao-big-techs-cade-pl-4675-2026/",
+    "https://www.cnnbrasil.com.br/politica/big-techs-temem-que-projeto-sobre-mercados-digitais-intervenha-em-algoritmo/",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-11-03&dataFim=2026-11-06&itens=100",
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261103",
+    "https://soubrasilia.com/senado-vota-pec-seguranca-terca-3-novembro/"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Governo e relator querem aprovar até dezembro a regulação concorrencial das big techs; texto vai à reunião de líderes da Câmara em 3/11", "veiculos": ["Folha (Folhapress, republicada por Estado de Minas, Jornal de Brasília, Diário de Cuiabá)", "O Globo (via Brasil 247)", "Goiás 24h", "Ulti", "Folha de Curitiba"], "proposicao": "PL 4675/2025 — urgência aprovada em 18/03/2026; parecer preliminar de Plenário apresentado em 08/07/2026; pronto para pauta, sem data de votação", "nota": 6},
+      {"assunto": "Senado vota a PEC da Segurança na terça (3); maioridade penal trava acordo", "veiculos": ["CNN Brasil", "SBT News", "Jovem Pan", "Sou Brasília", "Agência Tocantins", "Correio da Manhã"], "proposicao": "PEC 18/2025 — 1ª sessão de discussão em 1º turno no Plenário do Senado em 3/11 (pauta oficial); tratada ontem, 31/10, na mesma fase (−3)", "nota": 4},
+      {"assunto": "Estatuto do Aprendiz na pauta do Senado de quarta (4)", "veiculos": ["Pauta oficial do Senado (pouca repercussão na imprensa)"], "proposicao": "PL 6.461/2019 — pauta do Plenário do Senado em 4/11, pendente de parecer sobre emendas e de requerimento de urgência", "nota": 4},
+      {"assunto": "Marco legal da inteligência artificial: governo quer acelerar na Câmara", "veiculos": ["O Globo (via Brasil 247)"], "proposicao": "Marco da IA aprovado no Senado, em análise na Câmara, sem data", "nota": 3},
+      {"assunto": "Lei Maria da Penha para casais homoafetivos", "veiculos": ["SCC10"], "proposicao": "Projeto sem fase nova confirmada nesta execução", "nota": 1}
+    ],
+    "escolhido": "PL 4675/2025 — regulação concorrencial das big techs pelo Cade (mercados digitais), com discussão prevista na reunião de líderes da Câmara em 3/11/2026",
+    "motivo": "Domingo sem sessões. Maior repercussão das últimas 48 h em veículos de linhas diferentes (3), projeto com urgência e pronto para o Plenário, levado aos líderes nesta semana, mas sem sessão deliberativa da Câmara marcada de 3 a 6/11 (1), e impacto em serviços e apps usados por milhões de pessoas (2), sem repetição nos últimos 14 dias. A PEC da Segurança tem votação mais próxima, mas foi tratada ontem na mesma fase. Sem nomes de parlamentares e com os dois lados. Google Trends não consultado."
+  }
+}
