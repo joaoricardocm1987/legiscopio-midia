@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Regulação das big techs em um minuto! Um projeto na Câmara dá novos poderes ao Cade sobre as gigantes da tecnologia.",
+      "visual": {"tipo": "numero", "titulo": "Big techs e o Cade", "valor": "PL 4675", "rotulo": "Pronto para o Plenário da Câmara"}
+    },
+    {
+      "fala": "O Cade, órgão que defende a concorrência, poderia apontar plataformas que faturam mais de cinquenta bilhões de reais no mundo ou cinco bilhões no Brasil.",
+      "visual": {"tipo": "comparacao", "titulo": "Quem pode entrar", "antes": {"valor": "R$ 50 bi", "rotulo": "faturamento no mundo"}, "depois": {"valor": "R$ 5 bi", "rotulo": "ou no Brasil"}}
+    },
+    {
+      "fala": "Elas teriam regras especiais: não favorecer os próprios produtos, aceitar aplicativos de terceiros e mostrar como cobram taxas.",
+      "visual": {"tipo": "lista", "titulo": "Regras possíveis", "itens": ["Sem favorecer o próprio", "Apps de terceiros", "Taxas transparentes"]}
+    },
+    {
+      "fala": "O parecer do relator reduz o prazo dessa designação de dez para até seis anos.",
+      "visual": {"tipo": "comparacao", "titulo": "Prazo da designação", "antes": {"valor": "10 anos", "rotulo": "texto original"}, "depois": {"valor": "6 anos", "rotulo": "parecer do relator"}}
+    },
+    {
+      "fala": "Os próximos passos: conversa entre os líderes na terça, votação no Plenário da Câmara e depois no Senado. Ainda não há data.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Líderes: terça (3)", "Plenário da Câmara", "Senado"], "atual": 0}
+    },
+    {
+      "fala": "Quem defende diz que a regra protege a concorrência. Empresas do setor dizem que o texto dá poder demais ao regulador.",
+      "visual": {"tipo": "lista", "titulo": "Os dois lados", "itens": ["A favor: mais concorrência", "Contra: poder demais ao Cade"]}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como uma lei é aprovada", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Regulação das big techs: o que prevê o projeto do Cade #Shorts",
+    "descricao": "O PL 4675/2025 dá ao Cade poderes para impor regras especiais a plataformas digitais que faturam mais de R$ 50 bilhões no mundo ou R$ 5 bilhões no Brasil. Líderes da Câmara discutem o texto na terça (3); ainda não há data de votação. Mais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2562481\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Tecnologia",
+    "tags": ["Legiscópio", "regulação das big techs", "PL 4675", "Cade", "mercados digitais", "shorts"]
+  }
+}
