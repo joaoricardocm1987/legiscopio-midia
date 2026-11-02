@@ -1,0 +1,41 @@
+{
+  "cenas": [
+    {
+      "fala": "Estatuto do Aprendiz em um minuto! O Senado pode votar as novas regras nesta quarta-feira.",
+      "visual": {"tipo": "numero", "titulo": "Estatuto do Aprendiz", "valor": "PL 6.461", "rotulo": "Pauta do Senado: quarta (4)"}
+    },
+    {
+      "fala": "Vale para jovens de catorze a vinte e quatro anos, com prioridade a adolescentes vulneráveis. Para pessoas com deficiência, não há idade máxima.",
+      "visual": {"tipo": "numero", "titulo": "Quem pode ser", "valor": "14 a 24", "rotulo": "anos; PcD sem idade máxima"}
+    },
+    {
+      "fala": "A cota segue de cinco a quinze por cento dos trabalhadores. Empresas com menos de sete empregados podem contratar se quiserem.",
+      "visual": {"tipo": "comparacao", "titulo": "Cota por empresa", "antes": {"valor": "5%", "rotulo": "mínimo"}, "depois": {"valor": "15%", "rotulo": "máximo"}}
+    },
+    {
+      "fala": "O contrato vai até dois anos, ou três no curso técnico.",
+      "visual": {"tipo": "comparacao", "titulo": "Duração do contrato", "antes": {"valor": "2 anos", "rotulo": "regra geral"}, "depois": {"valor": "3 anos", "rotulo": "curso técnico"}}
+    },
+    {
+      "fala": "Quem não conseguir oferecer a parte prática pode pagar mil e quinhentos reais por mês, por vaga, a um fundo, por até doze meses.",
+      "visual": {"tipo": "numero", "titulo": "Sem parte prática", "valor": "R$ 1.500", "rotulo": "por mês e por vaga, até 12 meses"}
+    },
+    {
+      "fala": "Defensores dizem que o texto dá segurança e abre vagas. Críticos dizem que alguns setores teriam dificuldade com a cota.",
+      "visual": {"tipo": "lista", "titulo": "Os dois lados", "itens": ["A favor: segurança e vagas", "Contra: cota difícil em setores"]}
+    },
+    {
+      "fala": "Se o Senado mudar o texto, ele volta à Câmara. Sem mudanças, vai à sanção.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Plenário do Senado", "Câmara, se mudar", "Sanção"], "atual": 0}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como um projeto vira lei", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Estatuto do Aprendiz: o que muda para o jovem aprendiz #Shorts",
+    "descricao": "O Estatuto do Aprendiz (PL 6.461/2019) está na pauta do Plenário do Senado na quarta-feira (4): jovens de 14 a 24 anos, cota de 5% a 15% por empresa e contrato de até 2 anos. Mais explicações no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/08/11/estatuto-do-aprendiz-vai-a-plenario-com-urgencia\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Trabalho",
+    "tags": ["Legiscópio", "Estatuto do Aprendiz", "jovem aprendiz", "PL 6461/2019", "Senado", "shorts"]
+  }
+}
