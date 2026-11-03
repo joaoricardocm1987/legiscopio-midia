@@ -1,0 +1,827 @@
+1
+00:00:00,047 --> 00:00:02,217
+Seu celular foi roubado na rua.
+
+2
+00:00:02,217 --> 00:00:05,118
+Você liga 190, e quem atende é a Polícia
+
+3
+00:00:05,118 --> 00:00:05,849
+Militar.
+
+4
+00:00:05,849 --> 00:00:07,830
+Ela não é da prefeitura nem do governo
+
+5
+00:00:07,830 --> 00:00:08,561
+federal:
+
+6
+00:00:08,561 --> 00:00:09,540
+é do estado.
+
+7
+00:00:09,540 --> 00:00:12,048
+Mas o que mais o governo do estado faz?
+
+8
+00:00:12,595 --> 00:00:13,775
+Quem Faz o Quê?
+
+9
+00:00:13,775 --> 00:00:15,673
+Uma série do Legiscópio.
+
+10
+00:00:15,673 --> 00:00:16,911
+Episódio 2:
+
+11
+00:00:16,911 --> 00:00:17,827
+Estado.
+
+12
+00:00:18,375 --> 00:00:21,453
+Antes, as respostas do teste do episódio 1.
+
+13
+00:00:21,453 --> 00:00:24,094
+A luz acabou em todas as casas da rua?
+
+14
+00:00:24,094 --> 00:00:26,582
+É com a distribuidora de energia, que atua por
+
+15
+00:00:26,582 --> 00:00:28,140
+concessão da União.
+
+16
+00:00:28,140 --> 00:00:30,451
+Faltou vaga na creche para uma criança de três
+
+17
+00:00:30,451 --> 00:00:31,288
+anos?
+
+18
+00:00:31,288 --> 00:00:33,953
+A educação infantil é prioridade do município,
+
+19
+00:00:33,953 --> 00:00:36,206
+então a cobrança começa na prefeitura.
+
+20
+00:00:36,206 --> 00:00:38,493
+E o buraco na rodovia estadual que atravessa a
+
+21
+00:00:38,493 --> 00:00:39,367
+cidade?
+
+22
+00:00:39,367 --> 00:00:41,289
+É do órgão estadual responsável pelas
+
+23
+00:00:41,289 --> 00:00:43,954
+estradas, ou da concessionária, se a rodovia
+
+24
+00:00:43,954 --> 00:00:45,352
+estiver concedida.
+
+25
+00:00:45,899 --> 00:00:48,399
+O Brasil tem vinte e seis estados e o Distrito
+
+26
+00:00:48,399 --> 00:00:49,260
+Federal.
+
+27
+00:00:49,260 --> 00:00:51,264
+Cada estado se organiza pela sua própria
+
+28
+00:00:51,264 --> 00:00:53,670
+Constituição estadual e pelas suas leis,
+
+29
+00:00:53,670 --> 00:00:56,289
+sempre respeitando a Constituição Federal.
+
+30
+00:00:56,289 --> 00:00:57,786
+E há uma regra curiosa:
+
+31
+00:00:57,786 --> 00:00:59,744
+ficam com os estados as competências que a
+
+32
+00:00:59,744 --> 00:01:01,901
+Constituição não proíbe a eles.
+
+33
+00:01:01,901 --> 00:01:04,620
+São os chamados poderes remanescentes.
+
+34
+00:01:05,167 --> 00:01:07,502
+A cada quatro anos, os eleitores escolhem o
+
+35
+00:01:07,502 --> 00:01:10,191
+governador, o vice-governador e os deputados
+
+36
+00:01:10,191 --> 00:01:11,288
+estaduais.
+
+37
+00:01:11,288 --> 00:01:13,234
+O governador chefia o Poder Executivo
+
+38
+00:01:13,234 --> 00:01:15,416
+estadual, com a ajuda dos secretários de
+
+39
+00:01:15,416 --> 00:01:16,181
+estado.
+
+40
+00:01:16,181 --> 00:01:18,563
+Se nenhum candidato tiver mais da metade dos
+
+41
+00:01:18,563 --> 00:01:20,887
+votos válidos, há segundo turno.
+
+42
+00:01:20,887 --> 00:01:23,599
+E o governador pode ser reeleito uma vez, para
+
+43
+00:01:23,599 --> 00:01:24,848
+o mandato seguinte.
+
+44
+00:01:25,395 --> 00:01:27,754
+Os deputados estaduais formam a Assembleia
+
+45
+00:01:27,754 --> 00:01:29,015
+Legislativa.
+
+46
+00:01:29,015 --> 00:01:31,126
+O tamanho dela depende da bancada do estado na
+
+47
+00:01:31,126 --> 00:01:32,635
+Câmara dos Deputados:
+
+48
+00:01:32,635 --> 00:01:34,911
+é o triplo do número de deputados federais,
+
+49
+00:01:34,911 --> 00:01:37,494
+até chegar a trinta e seis; a partir daí,
+
+50
+00:01:37,494 --> 00:01:40,029
+soma-se um para cada deputado federal acima de
+
+51
+00:01:40,029 --> 00:01:40,784
+doze.
+
+52
+00:01:40,784 --> 00:01:43,166
+Por isso, as Assembleias vão de vinte e quatro
+
+53
+00:01:43,166 --> 00:01:45,300
+deputados, nos estados com as menores
+
+54
+00:01:45,300 --> 00:01:48,261
+bancadas, a noventa e quatro, em São Paulo.
+
+55
+00:01:48,261 --> 00:01:50,584
+No Distrito Federal, o papel é da Câmara
+
+56
+00:01:50,584 --> 00:01:51,916
+Legislativa.
+
+57
+00:01:52,463 --> 00:01:55,105
+Diferente do município, o estado tem os três
+
+58
+00:01:55,105 --> 00:01:56,050
+Poderes.
+
+59
+00:01:56,050 --> 00:01:58,621
+Além do Executivo e do Legislativo, tem o seu
+
+60
+00:01:58,621 --> 00:01:59,871
+próprio Judiciário:
+
+61
+00:01:59,871 --> 00:02:02,690
+o Tribunal de Justiça e os juízes estaduais,
+
+62
+00:02:02,690 --> 00:02:04,812
+que cuidam da maior parte dos processos do
+
+63
+00:02:04,812 --> 00:02:05,670
+país.
+
+64
+00:02:05,670 --> 00:02:07,758
+Também são estaduais o Ministério Público do
+
+65
+00:02:07,758 --> 00:02:10,364
+estado, a Defensoria Pública e o Tribunal de
+
+66
+00:02:10,364 --> 00:02:11,592
+Contas do Estado.
+
+67
+00:02:12,139 --> 00:02:13,991
+Agora, a polícia.
+
+68
+00:02:13,991 --> 00:02:15,819
+A Polícia Militar faz o policiamento
+
+69
+00:02:15,819 --> 00:02:18,649
+ostensivo, aquele fardado, nas ruas, e
+
+70
+00:02:18,649 --> 00:02:20,547
+preserva a ordem pública.
+
+71
+00:02:20,547 --> 00:02:23,071
+A Polícia Civil é a polícia judiciária:
+
+72
+00:02:23,071 --> 00:02:25,713
+registra ocorrências e investiga crimes, sob a
+
+73
+00:02:25,713 --> 00:02:27,682
+direção de delegados de carreira.
+
+74
+00:02:27,682 --> 00:02:29,946
+O Corpo de Bombeiros Militar cuida da defesa
+
+75
+00:02:29,946 --> 00:02:32,163
+civil e do combate a incêndios.
+
+76
+00:02:32,163 --> 00:02:34,215
+E a Polícia Penal faz a segurança dos
+
+77
+00:02:34,215 --> 00:02:35,877
+presídios estaduais.
+
+78
+00:02:35,877 --> 00:02:38,189
+Todas se subordinam ao governador.
+
+79
+00:02:38,189 --> 00:02:40,323
+Só no Distrito Federal é diferente:
+
+80
+00:02:40,323 --> 00:02:43,059
+lá, as polícias e os bombeiros são organizados
+
+81
+00:02:43,059 --> 00:02:44,684
+e mantidos pela União.
+
+82
+00:02:45,231 --> 00:02:46,871
+E as outras polícias?
+
+83
+00:02:46,871 --> 00:02:49,465
+A Polícia Federal apura crimes contra a União
+
+84
+00:02:49,465 --> 00:02:51,694
+e o tráfico internacional de drogas, entre
+
+85
+00:02:51,694 --> 00:02:52,484
+outros.
+
+86
+00:02:52,484 --> 00:02:54,618
+A Polícia Rodoviária Federal patrulha as
+
+87
+00:02:54,618 --> 00:02:56,328
+rodovias federais.
+
+88
+00:02:56,328 --> 00:02:58,557
+E a guarda municipal, onde existe, é do
+
+89
+00:02:58,557 --> 00:03:01,175
+município e protege os bens, serviços e
+
+90
+00:03:01,175 --> 00:03:02,848
+instalações da cidade.
+
+91
+00:03:03,395 --> 00:03:05,848
+Na educação, a Constituição manda os estados
+
+92
+00:03:05,848 --> 00:03:08,713
+atuarem prioritariamente no ensino fundamental
+
+93
+00:03:08,713 --> 00:03:10,011
+e no ensino médio.
+
+94
+00:03:10,011 --> 00:03:12,287
+Na prática, a grande maioria dos alunos do
+
+95
+00:03:12,287 --> 00:03:14,244
+ensino médio público está em escolas
+
+96
+00:03:14,244 --> 00:03:16,414
+estaduais, enquanto os primeiros anos do
+
+97
+00:03:16,414 --> 00:03:18,985
+fundamental ficam mais com os municípios.
+
+98
+00:03:18,985 --> 00:03:21,344
+Os estados também podem manter universidades
+
+99
+00:03:21,344 --> 00:03:22,500
+estaduais.
+
+100
+00:03:23,047 --> 00:03:25,642
+Na saúde, o estado coordena o SUS no seu
+
+101
+00:03:25,642 --> 00:03:26,514
+território.
+
+102
+00:03:26,514 --> 00:03:29,050
+Pela lei do SUS, cabe à gestão estadual apoiar
+
+103
+00:03:29,050 --> 00:03:31,903
+os municípios, técnica e financeiramente, e
+
+104
+00:03:31,903 --> 00:03:34,439
+gerir serviços de alta complexidade e de
+
+105
+00:03:34,439 --> 00:03:36,903
+referência regional, além dos hemocentros e
+
+106
+00:03:36,903 --> 00:03:39,403
+dos laboratórios centrais de saúde pública.
+
+107
+00:03:39,403 --> 00:03:41,915
+Muitos hospitais de referência são estaduais,
+
+108
+00:03:41,915 --> 00:03:44,415
+mas também há hospitais municipais, federais e
+
+109
+00:03:44,415 --> 00:03:46,808
+filantrópicos que atendem pelo SUS.
+
+110
+00:03:46,808 --> 00:03:49,462
+Por isso, antes de reclamar, descubra quem
+
+111
+00:03:49,462 --> 00:03:51,056
+administra aquele hospital.
+
+112
+00:03:51,603 --> 00:03:53,349
+Também ficam com o estado as rodovias
+
+113
+00:03:53,349 --> 00:03:55,813
+estaduais, cuidadas pelo órgão estadual de
+
+114
+00:03:55,813 --> 00:03:58,443
+estradas, em geral chamado de DER, ou por uma
+
+115
+00:03:58,443 --> 00:03:59,504
+concessionária.
+
+116
+00:03:59,504 --> 00:04:02,087
+E o Detran, o órgão estadual de trânsito, faz
+
+117
+00:04:02,087 --> 00:04:04,610
+o registro e o licenciamento dos veículos e
+
+118
+00:04:04,610 --> 00:04:06,508
+cuida da carteira de motorista.
+
+119
+00:04:07,055 --> 00:04:09,519
+Se este vídeo já esclareceu alguma dúvida,
+
+120
+00:04:09,519 --> 00:04:11,914
+deixe o seu like e se inscreva no canal.
+
+121
+00:04:11,914 --> 00:04:14,616
+Isso ajuda a explicação a chegar a mais gente.
+
+122
+00:04:15,163 --> 00:04:17,522
+Duas tarefas pouco conhecidas.
+
+123
+00:04:17,522 --> 00:04:19,951
+A distribuição de gás canalizado é um serviço
+
+124
+00:04:19,951 --> 00:04:22,310
+estadual, prestado diretamente ou por
+
+125
+00:04:22,310 --> 00:04:23,277
+concessão.
+
+126
+00:04:23,277 --> 00:04:25,860
+E o estado pode criar, por lei complementar,
+
+127
+00:04:25,860 --> 00:04:28,018
+regiões metropolitanas, para organizar
+
+128
+00:04:28,018 --> 00:04:30,082
+serviços que atravessam várias cidades
+
+129
+00:04:30,082 --> 00:04:32,948
+vizinhas, como o transporte e o saneamento.
+
+130
+00:04:33,495 --> 00:04:35,535
+De onde vem o dinheiro do estado?
+
+131
+00:04:35,535 --> 00:04:37,423
+Dos impostos estaduais.
+
+132
+00:04:37,423 --> 00:04:40,324
+O ICMS, sobre a circulação de mercadorias e
+
+133
+00:04:40,324 --> 00:04:42,423
+alguns serviços, como o transporte entre
+
+134
+00:04:42,423 --> 00:04:44,935
+cidades e a comunicação, é a maior fonte de
+
+135
+00:04:44,935 --> 00:04:46,820
+receita própria dos estados.
+
+136
+00:04:46,820 --> 00:04:49,096
+O IPVA é cobrado sobre a propriedade de
+
+137
+00:04:49,096 --> 00:04:50,075
+veículos.
+
+138
+00:04:50,075 --> 00:04:52,840
+E o ITCMD, sobre heranças e doações.
+
+139
+00:04:53,387 --> 00:04:55,132
+Parte desse dinheiro é repartida:
+
+140
+00:04:55,132 --> 00:04:58,009
+um quarto do ICMS e metade do IPVA vão para os
+
+141
+00:04:58,009 --> 00:04:59,060
+municípios.
+
+142
+00:04:59,060 --> 00:05:00,911
+E o estado recebe da União o Fundo de
+
+143
+00:05:00,911 --> 00:05:03,824
+Participação dos Estados, o FPE, formado por
+
+144
+00:05:03,824 --> 00:05:06,300
+parte do Imposto de Renda e do IPI.
+
+145
+00:05:06,847 --> 00:05:09,700
+Com a reforma tributária, o ICMS também vai
+
+146
+00:05:09,700 --> 00:05:10,398
+acabar.
+
+147
+00:05:10,398 --> 00:05:13,074
+Ele será substituído aos poucos pelo IBS, o
+
+148
+00:05:13,074 --> 00:05:15,527
+imposto compartilhado entre estados, Distrito
+
+149
+00:05:15,527 --> 00:05:17,284
+Federal e municípios.
+
+150
+00:05:17,284 --> 00:05:22,378
+As alíquotas do ICMS caem de 2029 a 2032, e,
+
+151
+00:05:22,378 --> 00:05:25,126
+em 2033, ele deixa de existir.
+
+152
+00:05:25,126 --> 00:05:27,932
+O IPVA continua, e agora pode ter alíquotas
+
+153
+00:05:27,932 --> 00:05:30,751
+diferentes conforme, entre outros critérios, o
+
+154
+00:05:30,751 --> 00:05:32,672
+impacto ambiental do veículo.
+
+155
+00:05:33,219 --> 00:05:35,377
+O orçamento do estado segue o mesmo modelo do
+
+156
+00:05:35,377 --> 00:05:36,203
+município:
+
+157
+00:05:36,203 --> 00:05:39,870
+o PPA, a LDO e a LOA, enviados pelo governador
+
+158
+00:05:39,870 --> 00:05:41,427
+e votados pela Assembleia.
+
+159
+00:05:41,427 --> 00:05:43,915
+A Assembleia também fiscaliza o governo, com o
+
+160
+00:05:43,915 --> 00:05:46,238
+auxílio do Tribunal de Contas do Estado, que
+
+161
+00:05:46,238 --> 00:05:48,632
+emite um parecer prévio sobre as contas anuais
+
+162
+00:05:48,632 --> 00:05:49,670
+do governador.
+
+163
+00:05:49,670 --> 00:05:52,204
+E quem julga essas contas é a Assembleia.
+
+164
+00:05:52,751 --> 00:05:55,369
+Problema com escola estadual, delegacia,
+
+165
+00:05:55,369 --> 00:05:57,892
+hospital estadual ou rodovia estadual?
+
+166
+00:05:57,892 --> 00:06:00,192
+Comece pelo canal oficial do órgão ou da
+
+167
+00:06:00,192 --> 00:06:02,480
+secretaria, e anote o protocolo.
+
+168
+00:06:02,480 --> 00:06:05,110
+Sem solução, procure a ouvidoria do estado:
+
+169
+00:06:05,110 --> 00:06:07,622
+a lei de defesa do usuário do serviço público,
+
+170
+00:06:07,622 --> 00:06:10,039
+que vimos no episódio 1, vale também para os
+
+171
+00:06:10,039 --> 00:06:12,162
+estados, com prazo de trinta dias,
+
+172
+00:06:12,162 --> 00:06:13,623
+prorrogáveis uma vez.
+
+173
+00:06:13,623 --> 00:06:15,817
+Para acompanhar os gastos, use o portal da
+
+174
+00:06:15,817 --> 00:06:17,858
+transparência do governo do estado.
+
+175
+00:06:17,858 --> 00:06:19,744
+E o seu deputado estadual pode cobrar o
+
+176
+00:06:19,744 --> 00:06:22,175
+governo com requerimentos de informação.
+
+177
+00:06:22,723 --> 00:06:24,281
+Hora do teste rápido.
+
+178
+00:06:24,281 --> 00:06:25,909
+Responda nos comentários:
+
+179
+00:06:25,909 --> 00:06:27,782
+de quem é a responsabilidade?
+
+180
+00:06:27,782 --> 00:06:28,867
+Situação um:
+
+181
+00:06:28,867 --> 00:06:31,602
+você precisa tirar ou renovar o passaporte.
+
+182
+00:06:31,602 --> 00:06:33,041
+Situação dois:
+
+183
+00:06:33,041 --> 00:06:34,692
+você quer tirar a primeira carteira de
+
+184
+00:06:34,692 --> 00:06:35,613
+motorista.
+
+185
+00:06:35,613 --> 00:06:37,004
+Situação três:
+
+186
+00:06:37,004 --> 00:06:39,740
+uma rodovia federal está cheia de buracos.
+
+187
+00:06:39,740 --> 00:06:43,219
+Município, estado, União ou concessionária?
+
+188
+00:06:43,219 --> 00:06:45,716
+As respostas estão no episódio 3.
+
+189
+00:06:46,263 --> 00:06:47,148
+Resumindo:
+
+190
+00:06:47,148 --> 00:06:49,270
+o estado tem os três Poderes; cuida do
+
+191
+00:06:49,270 --> 00:06:51,877
+policiamento do dia a dia, do ensino médio, de
+
+192
+00:06:51,877 --> 00:06:54,023
+hospitais de referência e das rodovias
+
+193
+00:06:54,023 --> 00:06:56,487
+estaduais; e se financia principalmente com o
+
+194
+00:06:56,487 --> 00:06:58,551
+ICMS, que está em transição.
+
+195
+00:06:58,551 --> 00:07:01,039
+No próximo episódio, o último degrau:
+
+196
+00:07:01,039 --> 00:07:02,017
+a União.
+
+197
+00:07:02,017 --> 00:07:04,411
+Quem cuida da Previdência, da moeda e das
+
+198
+00:07:04,411 --> 00:07:05,450
+fronteiras?
+
+199
+00:07:05,450 --> 00:07:07,914
+Até lá, conte nos comentários qual serviço
+
+200
+00:07:07,914 --> 00:07:10,391
+estadual mais faz falta na sua região, sem
+
+201
+00:07:10,391 --> 00:07:12,100
+citar nomes de pessoas.
+
+202
+00:07:12,100 --> 00:07:14,270
+O app do Legiscópio já está disponível para
+
+203
+00:07:14,270 --> 00:07:15,685
+Android, de graça:
+
+204
+00:07:15,685 --> 00:07:18,503
+é só acessar www.legiscopio.com.br barra
+
+205
+00:07:18,503 --> 00:07:19,293
+baixar.
+
+206
+00:07:19,293 --> 00:07:21,204
+E, se puder, apoie o projeto em
+
+207
+00:07:21,204 --> 00:07:23,367
+apoia.se/legiscopio
