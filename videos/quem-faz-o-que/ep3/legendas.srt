@@ -1,0 +1,835 @@
+1
+00:00:00,047 --> 00:00:02,547
+Você vai viajar para fora do país e precisa de
+
+2
+00:00:02,547 --> 00:00:03,596
+passaporte.
+
+3
+00:00:03,596 --> 00:00:06,002
+Quem emite não é a prefeitura nem o governo do
+
+4
+00:00:06,002 --> 00:00:06,674
+estado:
+
+5
+00:00:06,674 --> 00:00:09,340
+é a Polícia Federal, um órgão da União.
+
+6
+00:00:09,340 --> 00:00:12,096
+Mas o que mais é responsabilidade da União?
+
+7
+00:00:12,643 --> 00:00:13,823
+Quem Faz o Quê?
+
+8
+00:00:13,823 --> 00:00:15,732
+Uma série do Legiscópio.
+
+9
+00:00:15,732 --> 00:00:17,029
+Episódio 3:
+
+10
+00:00:17,029 --> 00:00:17,852
+União.
+
+11
+00:00:18,399 --> 00:00:21,712
+Antes, as respostas do teste do episódio 2.
+
+12
+00:00:21,712 --> 00:00:22,750
+Passaporte?
+
+13
+00:00:22,750 --> 00:00:25,168
+É com a Polícia Federal, da União.
+
+14
+00:00:25,168 --> 00:00:27,278
+Primeira carteira de motorista?
+
+15
+00:00:27,278 --> 00:00:29,414
+É com o Detran, que é estadual.
+
+16
+00:00:29,414 --> 00:00:32,020
+E a rodovia federal cheia de buracos?
+
+17
+00:00:32,020 --> 00:00:34,791
+É do DNIT, o órgão federal de infraestrutura
+
+18
+00:00:34,791 --> 00:00:37,185
+de transportes, ou da concessionária, quando a
+
+19
+00:00:37,185 --> 00:00:38,730
+estrada está concedida.
+
+20
+00:00:38,730 --> 00:00:40,876
+Nesse caso, quem fiscaliza a concessão é a
+
+21
+00:00:40,876 --> 00:00:43,801
+ANTT, a agência federal de transportes
+
+22
+00:00:43,801 --> 00:00:44,799
+terrestres.
+
+23
+00:00:45,347 --> 00:00:47,375
+A União é o ente federal.
+
+24
+00:00:47,375 --> 00:00:49,568
+Ela representa o Brasil como um todo e tem os
+
+25
+00:00:49,568 --> 00:00:50,807
+seus três Poderes:
+
+26
+00:00:50,807 --> 00:00:53,554
+o Executivo, o Legislativo e o Judiciário
+
+27
+00:00:53,554 --> 00:00:54,557
+federais.
+
+28
+00:00:54,557 --> 00:00:56,692
+A Constituição lista o que só a União pode
+
+29
+00:00:56,692 --> 00:00:59,097
+fazer, e também os assuntos sobre os quais só
+
+30
+00:00:59,097 --> 00:01:00,524
+ela pode fazer leis.
+
+31
+00:01:00,524 --> 00:01:02,634
+É por isso que o Código de Trânsito vale no
+
+32
+00:01:02,634 --> 00:01:04,686
+país inteiro, mesmo que o Detran seja
+
+33
+00:01:04,686 --> 00:01:05,531
+estadual.
+
+34
+00:01:06,079 --> 00:01:08,815
+O Presidente da República é, ao mesmo tempo,
+
+35
+00:01:08,815 --> 00:01:11,268
+chefe de Estado e chefe de governo.
+
+36
+00:01:11,268 --> 00:01:13,709
+Ele é eleito junto com o vice, a cada quatro
+
+37
+00:01:13,709 --> 00:01:15,997
+anos, com segundo turno se nenhum candidato
+
+38
+00:01:15,997 --> 00:01:18,627
+passar da metade dos votos válidos, e pode ser
+
+39
+00:01:18,627 --> 00:01:20,961
+reeleito uma vez para o mandato seguinte.
+
+40
+00:01:20,961 --> 00:01:23,272
+Para governar, o Presidente nomeia os
+
+41
+00:01:23,272 --> 00:01:25,406
+ministros de Estado, que comandam os
+
+42
+00:01:25,406 --> 00:01:26,479
+ministérios.
+
+43
+00:01:27,027 --> 00:01:29,374
+O Poder Legislativo da União é o Congresso
+
+44
+00:01:29,374 --> 00:01:31,968
+Nacional, formado por duas Casas.
+
+45
+00:01:31,968 --> 00:01:34,067
+A Câmara dos Deputados tem quinhentos e treze
+
+46
+00:01:34,067 --> 00:01:37,050
+deputados federais, eleitos para quatro anos,
+
+47
+00:01:37,050 --> 00:01:39,043
+em número proporcional à população de cada
+
+48
+00:01:39,043 --> 00:01:41,708
+estado, com no mínimo oito e no máximo setenta
+
+49
+00:01:41,708 --> 00:01:42,641
+por estado.
+
+50
+00:01:42,641 --> 00:01:45,093
+O Senado Federal tem oitenta e um senadores,
+
+51
+00:01:45,093 --> 00:01:47,947
+três por estado e três pelo Distrito Federal,
+
+52
+00:01:47,947 --> 00:01:49,739
+eleitos para oito anos.
+
+53
+00:01:49,739 --> 00:01:52,428
+A cada quatro anos, o Senado renova um terço
+
+54
+00:01:52,428 --> 00:01:55,515
+ou dois terços das cadeiras, alternadamente.
+
+55
+00:01:56,063 --> 00:01:58,941
+No Judiciário, o Supremo Tribunal Federal, com
+
+56
+00:01:58,941 --> 00:02:01,877
+onze ministros, é o guardião da Constituição.
+
+57
+00:02:01,877 --> 00:02:04,365
+O Superior Tribunal de Justiça uniformiza a
+
+58
+00:02:04,365 --> 00:02:06,724
+interpretação das leis federais.
+
+59
+00:02:06,724 --> 00:02:08,917
+E há a Justiça Federal e as Justiças
+
+60
+00:02:08,917 --> 00:02:10,155
+especializadas:
+
+61
+00:02:10,155 --> 00:02:12,678
+a do Trabalho, a Eleitoral e a Militar.
+
+62
+00:02:12,678 --> 00:02:14,836
+Também são da União o Ministério Público da
+
+63
+00:02:14,836 --> 00:02:17,277
+União, a Defensoria Pública da União e o
+
+64
+00:02:17,277 --> 00:02:19,031
+Tribunal de Contas da União.
+
+65
+00:02:19,579 --> 00:02:21,324
+O que só a União faz?
+
+66
+00:02:21,324 --> 00:02:23,682
+Cuida das relações com outros países, da
+
+67
+00:02:23,682 --> 00:02:26,314
+defesa nacional e das Forças Armadas.
+
+68
+00:02:26,314 --> 00:02:29,037
+Emite a moeda, por meio do Banco Central.
+
+69
+00:02:29,037 --> 00:02:30,913
+Mantém o serviço postal.
+
+70
+00:02:30,913 --> 00:02:33,542
+E explora diretamente, ou por concessão,
+
+71
+00:02:33,542 --> 00:02:36,113
+serviços como as telecomunicações, a energia
+
+72
+00:02:36,113 --> 00:02:38,660
+elétrica, a navegação aérea e o transporte
+
+73
+00:02:38,660 --> 00:02:40,510
+interestadual de passageiros.
+
+74
+00:02:40,510 --> 00:02:42,656
+É por isso que a distribuidora de energia da
+
+75
+00:02:42,656 --> 00:02:45,235
+sua cidade atua por concessão da União.
+
+76
+00:02:45,783 --> 00:02:48,353
+Para fiscalizar essas concessões, existem as
+
+77
+00:02:48,353 --> 00:02:50,724
+agências reguladoras federais.
+
+78
+00:02:50,724 --> 00:02:53,555
+A ANEEL cuida da energia elétrica; a ANATEL,
+
+79
+00:02:53,555 --> 00:02:56,290
+das telecomunicações; a ANAC, da aviação
+
+80
+00:02:56,290 --> 00:02:59,935
+civil; e a ANTT, dos transportes terrestres.
+
+81
+00:02:59,935 --> 00:03:02,329
+Na saúde, a ANVISA cuida da vigilância
+
+82
+00:03:02,329 --> 00:03:05,712
+sanitária, e a ANS, dos planos de saúde.
+
+83
+00:03:05,712 --> 00:03:08,200
+Se a reclamação com a empresa não resolver, a
+
+84
+00:03:08,200 --> 00:03:10,096
+agência é o próximo passo.
+
+85
+00:03:10,643 --> 00:03:13,132
+A Previdência Social do Regime Geral também é
+
+86
+00:03:13,132 --> 00:03:14,051
+federal.
+
+87
+00:03:14,051 --> 00:03:17,565
+O INSS, uma autarquia da União, concede e paga
+
+88
+00:03:17,565 --> 00:03:20,065
+aposentadorias, pensões e auxílios de quem
+
+89
+00:03:20,065 --> 00:03:22,117
+contribui, e também opera o Benefício de
+
+90
+00:03:22,117 --> 00:03:24,853
+Prestação Continuada, o BPC, da assistência
+
+91
+00:03:24,853 --> 00:03:25,690
+social.
+
+92
+00:03:25,690 --> 00:03:27,765
+Programas de transferência de renda, como o
+
+93
+00:03:27,765 --> 00:03:30,678
+Bolsa Família, também são federais, executados
+
+94
+00:03:30,678 --> 00:03:32,907
+com a ajuda dos municípios no cadastro das
+
+95
+00:03:32,907 --> 00:03:33,852
+famílias.
+
+96
+00:03:34,399 --> 00:03:36,994
+Na saúde, a União coordena o SUS em nível
+
+97
+00:03:36,994 --> 00:03:39,529
+nacional, por meio do Ministério da Saúde, e
+
+98
+00:03:39,529 --> 00:03:42,360
+repassa recursos para estados e municípios.
+
+99
+00:03:42,360 --> 00:03:44,718
+Na educação, ela mantém as universidades e os
+
+100
+00:03:44,718 --> 00:03:46,759
+institutos federais, e tem uma função
+
+101
+00:03:46,759 --> 00:03:48,810
+redistributiva e supletiva:
+
+102
+00:03:48,810 --> 00:03:51,098
+ajuda estados e municípios com assistência
+
+103
+00:03:51,098 --> 00:03:53,409
+técnica e financeira, inclusive com a
+
+104
+00:03:53,409 --> 00:03:55,039
+complementação ao FUNDEB.
+
+105
+00:03:55,589 --> 00:03:57,641
+As rodovias federais são da União:
+
+106
+00:03:57,641 --> 00:03:59,869
+em geral, cuidadas pelo DNIT ou por
+
+107
+00:03:59,869 --> 00:04:02,958
+concessionárias fiscalizadas pela ANTT.
+
+108
+00:04:02,958 --> 00:04:05,116
+O patrulhamento é da Polícia Rodoviária
+
+109
+00:04:05,116 --> 00:04:06,024
+Federal.
+
+110
+00:04:06,024 --> 00:04:08,359
+E portos e aeroportos podem ser explorados
+
+111
+00:04:08,359 --> 00:04:11,043
+pela União diretamente ou por concessão.
+
+112
+00:04:11,591 --> 00:04:14,055
+Se este vídeo já esclareceu alguma dúvida,
+
+113
+00:04:14,055 --> 00:04:16,450
+deixe o seu like e se inscreva no canal.
+
+114
+00:04:16,450 --> 00:04:19,151
+Isso ajuda a explicação a chegar a mais gente.
+
+115
+00:04:19,699 --> 00:04:21,671
+De onde vem o dinheiro da União?
+
+116
+00:04:21,671 --> 00:04:23,782
+Dos impostos federais, como o Imposto de
+
+117
+00:04:23,782 --> 00:04:26,942
+Renda, o IPI, sobre produtos industrializados,
+
+118
+00:04:26,942 --> 00:04:29,489
+o IOF, sobre operações financeiras, os
+
+119
+00:04:29,489 --> 00:04:32,095
+impostos de importação e de exportação, e o
+
+120
+00:04:32,095 --> 00:04:34,665
+ITR, sobre propriedades rurais.
+
+121
+00:04:34,665 --> 00:04:36,776
+E também das contribuições sociais, como as
+
+122
+00:04:36,776 --> 00:04:39,016
+contribuições previdenciárias, o PIS e a
+
+123
+00:04:39,016 --> 00:04:41,327
+Cofins, que ajudam a financiar a seguridade
+
+124
+00:04:41,327 --> 00:04:42,047
+social:
+
+125
+00:04:42,047 --> 00:04:44,683
+saúde, previdência e assistência.
+
+126
+00:04:45,231 --> 00:04:47,663
+Parte desse dinheiro não fica com a União.
+
+127
+00:04:47,663 --> 00:04:50,222
+Uma fatia do Imposto de Renda e do IPI forma o
+
+128
+00:04:50,222 --> 00:04:52,627
+Fundo de Participação dos Estados e o Fundo de
+
+129
+00:04:52,627 --> 00:04:55,222
+Participação dos Municípios, aqueles que vimos
+
+130
+00:04:55,222 --> 00:04:56,988
+nos episódios anteriores.
+
+131
+00:04:56,988 --> 00:05:00,007
+Assim, cidades e estados com menos arrecadação
+
+132
+00:05:00,007 --> 00:05:02,439
+própria recebem recursos federais.
+
+133
+00:05:02,987 --> 00:05:05,393
+A reforma tributária também muda os tributos
+
+134
+00:05:05,393 --> 00:05:06,480
+federais.
+
+135
+00:05:06,480 --> 00:05:09,676
+A CBS, contribuição sobre bens e serviços,
+
+136
+00:05:09,676 --> 00:05:13,211
+substitui o PIS e a Cofins a partir de 2027.
+
+137
+00:05:13,211 --> 00:05:16,313
+Junto com o IBS, de estados e municípios, ela
+
+138
+00:05:16,313 --> 00:05:18,188
+forma o chamado IVA dual.
+
+139
+00:05:18,188 --> 00:05:21,042
+O IPI tem as alíquotas reduzidas a zero, com
+
+140
+00:05:21,042 --> 00:05:23,306
+exceção de produtos com industrialização na
+
+141
+00:05:23,306 --> 00:05:24,947
+Zona Franca de Manaus.
+
+142
+00:05:24,947 --> 00:05:27,223
+E surge o Imposto Seletivo, sobre bens e
+
+143
+00:05:27,223 --> 00:05:29,806
+serviços prejudiciais à saúde ou ao meio
+
+144
+00:05:29,806 --> 00:05:30,731
+ambiente.
+
+145
+00:05:31,280 --> 00:05:33,662
+O orçamento federal segue o mesmo modelo:
+
+146
+00:05:33,662 --> 00:05:37,412
+o PPA, a LDO e a LOA, enviados pelo Presidente
+
+147
+00:05:37,412 --> 00:05:39,015
+e votados pelo Congresso.
+
+148
+00:05:39,015 --> 00:05:41,126
+Os projetos passam pela Comissão Mista de
+
+149
+00:05:41,126 --> 00:05:44,275
+Orçamento, formada por deputados e senadores.
+
+150
+00:05:44,275 --> 00:05:46,657
+Deputados e senadores também podem apresentar
+
+151
+00:05:46,657 --> 00:05:48,981
+emendas ao orçamento, e parte delas tem
+
+152
+00:05:48,981 --> 00:05:50,950
+execução obrigatória, nos termos da
+
+153
+00:05:50,950 --> 00:05:52,039
+Constituição.
+
+154
+00:05:52,587 --> 00:05:54,227
+Quem fiscaliza a União?
+
+155
+00:05:54,227 --> 00:05:56,267
+O Congresso Nacional, com o auxílio do
+
+156
+00:05:56,267 --> 00:05:58,802
+Tribunal de Contas da União, o TCU.
+
+157
+00:05:58,802 --> 00:06:01,184
+O TCU emite um parecer prévio sobre as contas
+
+158
+00:06:01,184 --> 00:06:03,377
+anuais do Presidente, e quem julga essas
+
+159
+00:06:03,377 --> 00:06:04,863
+contas é o Congresso.
+
+160
+00:06:04,863 --> 00:06:07,469
+Dentro do Executivo, a Controladoria-Geral da
+
+161
+00:06:07,469 --> 00:06:10,594
+União, a CGU, faz o controle interno.
+
+162
+00:06:10,594 --> 00:06:12,151
+E o Congresso pode criar Comissões
+
+163
+00:06:12,151 --> 00:06:14,875
+Parlamentares de Inquérito, as CPIs, com a
+
+164
+00:06:14,875 --> 00:06:17,304
+assinatura de um terço dos membros da Casa,
+
+165
+00:06:17,304 --> 00:06:19,474
+para apurar um fato determinado, por prazo
+
+166
+00:06:19,474 --> 00:06:20,259
+certo.
+
+167
+00:06:20,807 --> 00:06:22,447
+E como cobrar a União?
+
+168
+00:06:22,447 --> 00:06:24,759
+Reclamações sobre órgãos federais vão para a
+
+169
+00:06:24,759 --> 00:06:27,624
+ouvidoria, pela plataforma Fala.BR, com BR com
+
+170
+00:06:27,624 --> 00:06:30,289
+o mesmo prazo de trinta dias, prorrogáveis uma
+
+171
+00:06:30,289 --> 00:06:30,995
+vez.
+
+172
+00:06:30,995 --> 00:06:33,448
+Para pedir informações, use a Lei de Acesso à
+
+173
+00:06:33,448 --> 00:06:34,297
+Informação:
+
+174
+00:06:34,297 --> 00:06:36,939
+o órgão tem vinte dias, prorrogáveis por mais
+
+175
+00:06:36,939 --> 00:06:38,461
+dez, para responder.
+
+176
+00:06:38,461 --> 00:06:40,513
+Os gastos federais estão no Portal da
+
+177
+00:06:40,513 --> 00:06:41,597
+Transparência.
+
+178
+00:06:41,597 --> 00:06:43,284
+E para acompanhar o que os seus deputados
+
+179
+00:06:43,284 --> 00:06:46,008
+federais e senadores votam e propõem, você
+
+180
+00:06:46,008 --> 00:06:47,639
+pode usar o Legiscópio.
+
+181
+00:06:48,187 --> 00:06:50,828
+Hora do teste rápido, agora misturando os três
+
+182
+00:06:50,828 --> 00:06:51,750
+níveis.
+
+183
+00:06:51,750 --> 00:06:53,377
+Responda nos comentários:
+
+184
+00:06:53,377 --> 00:06:55,262
+de quem é a responsabilidade?
+
+185
+00:06:55,262 --> 00:06:56,489
+Situação um:
+
+186
+00:06:56,489 --> 00:06:58,977
+o pagamento de uma aposentadoria do INSS
+
+187
+00:06:58,977 --> 00:06:59,802
+atrasou.
+
+188
+00:06:59,802 --> 00:07:01,111
+Situação dois:
+
+189
+00:07:01,111 --> 00:07:03,776
+falta vaga no ensino médio da rede pública.
+
+190
+00:07:03,776 --> 00:07:05,097
+Situação três:
+
+191
+00:07:05,097 --> 00:07:07,515
+o caminhão de lixo não passou na sua rua.
+
+192
+00:07:07,515 --> 00:07:10,051
+As respostas estão no episódio 4.
+
+193
+00:07:10,599 --> 00:07:11,437
+Resumindo:
+
+194
+00:07:11,437 --> 00:07:14,066
+a União representa o país, cuida da moeda, da
+
+195
+00:07:14,066 --> 00:07:16,637
+defesa, da Previdência e das concessões de
+
+196
+00:07:16,637 --> 00:07:19,290
+serviços nacionais, faz as leis que valem para
+
+197
+00:07:19,290 --> 00:07:21,224
+todos e reparte parte do que arrecada com
+
+198
+00:07:21,224 --> 00:07:22,805
+estados e municípios.
+
+199
+00:07:22,805 --> 00:07:25,258
+Agora você já conhece os três níveis.
+
+200
+00:07:25,258 --> 00:07:27,487
+No próximo episódio, vamos ver como nasce uma
+
+201
+00:07:27,487 --> 00:07:30,116
+lei federal, da ideia até a sanção.
+
+202
+00:07:30,116 --> 00:07:32,569
+Até lá, conte nos comentários qual destes
+
+203
+00:07:32,569 --> 00:07:34,419
+episódios mais te ajudou.
+
+204
+00:07:34,419 --> 00:07:36,530
+O app do Legiscópio já está disponível para
+
+205
+00:07:36,530 --> 00:07:37,981
+Android, de graça:
+
+206
+00:07:37,981 --> 00:07:40,846
+é só acessar www.legiscopio.com.br barra
+
+207
+00:07:40,846 --> 00:07:41,602
+baixar.
+
+208
+00:07:41,602 --> 00:07:43,524
+E, se puder, apoie o projeto em
+
+209
+00:07:43,524 --> 00:07:45,639
+apoia.se/legiscopio
