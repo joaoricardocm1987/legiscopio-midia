@@ -1,0 +1,875 @@
+1
+00:00:00,047 --> 00:00:02,157
+Toda lei que muda a sua vida começou como um
+
+2
+00:00:02,157 --> 00:00:03,974
+papel com um número, por exemplo:
+
+3
+00:00:03,974 --> 00:00:07,853
+PL mil duzentos e trinta e quatro, de 2026.
+
+4
+00:00:07,853 --> 00:00:09,669
+Como esse papel vira lei?
+
+5
+00:00:09,669 --> 00:00:12,016
+E por que alguns projetos andam em semanas e
+
+6
+00:00:12,016 --> 00:00:13,919
+outros ficam parados por anos?
+
+7
+00:00:14,467 --> 00:00:15,669
+Quem Faz o Quê?
+
+8
+00:00:15,669 --> 00:00:17,533
+Uma série do Legiscópio.
+
+9
+00:00:17,533 --> 00:00:18,677
+Episódio 4:
+
+10
+00:00:18,677 --> 00:00:20,012
+como nasce uma lei.
+
+11
+00:00:20,559 --> 00:00:23,779
+Antes, as respostas do teste do episódio 3.
+
+12
+00:00:23,779 --> 00:00:26,714
+A aposentadoria do INSS atrasou?
+
+13
+00:00:26,714 --> 00:00:29,757
+É com a União, porque o INSS é uma autarquia
+
+14
+00:00:29,757 --> 00:00:30,595
+federal.
+
+15
+00:00:30,595 --> 00:00:32,953
+Falta vaga no ensino médio público?
+
+16
+00:00:32,953 --> 00:00:35,701
+A prioridade do ensino médio é do estado.
+
+17
+00:00:35,701 --> 00:00:37,741
+E o caminhão de lixo que não passou?
+
+18
+00:00:37,741 --> 00:00:39,946
+A coleta de lixo é serviço local, da
+
+19
+00:00:39,946 --> 00:00:40,984
+prefeitura.
+
+20
+00:00:40,984 --> 00:00:43,673
+Neste episódio, o foco é o Congresso Nacional
+
+21
+00:00:43,673 --> 00:00:45,255
+e as leis federais.
+
+22
+00:00:45,255 --> 00:00:47,295
+Nos estados e municípios, o caminho é
+
+23
+00:00:47,295 --> 00:00:49,984
+parecido, mas segue a Constituição estadual e
+
+24
+00:00:49,984 --> 00:00:51,159
+a lei orgânica.
+
+25
+00:00:51,707 --> 00:00:53,582
+Primeiro, as siglas.
+
+26
+00:00:53,582 --> 00:00:56,801
+PL é o projeto de lei ordinária, o mais comum.
+
+27
+00:00:56,801 --> 00:00:59,667
+PLP é o projeto de lei complementar, usado
+
+28
+00:00:59,667 --> 00:01:01,801
+quando a Constituição exige, e precisa da
+
+29
+00:01:01,801 --> 00:01:03,841
+maioria absoluta das Casas.
+
+30
+00:01:03,841 --> 00:01:06,460
+PEC é a proposta de emenda à Constituição.
+
+31
+00:01:06,460 --> 00:01:09,160
+MP é a medida provisória, editada pelo
+
+32
+00:01:09,160 --> 00:01:10,151
+Presidente.
+
+33
+00:01:10,151 --> 00:01:13,099
+E PDL é o projeto de decreto legislativo, que
+
+34
+00:01:13,099 --> 00:01:15,646
+trata de assuntos que só o Congresso decide,
+
+35
+00:01:15,646 --> 00:01:17,863
+como sustar um ato do Executivo que extrapole
+
+36
+00:01:17,863 --> 00:01:19,524
+o seu poder de regulamentar.
+
+37
+00:01:20,071 --> 00:01:22,288
+Quem pode apresentar um projeto de lei?
+
+38
+00:01:22,288 --> 00:01:25,035
+Qualquer deputado ou senador, as comissões, o
+
+39
+00:01:25,035 --> 00:01:27,370
+Presidente da República, o Supremo Tribunal
+
+40
+00:01:27,370 --> 00:01:29,587
+Federal e os tribunais superiores, o
+
+41
+00:01:29,587 --> 00:01:31,792
+Procurador-Geral da República, nos casos
+
+42
+00:01:31,792 --> 00:01:34,186
+previstos, e os próprios cidadãos.
+
+43
+00:01:34,186 --> 00:01:35,778
+É a iniciativa popular:
+
+44
+00:01:35,778 --> 00:01:37,913
+o projeto precisa da assinatura de pelo menos
+
+45
+00:01:37,913 --> 00:01:40,448
+um por cento do eleitorado nacional, espalhado
+
+46
+00:01:40,448 --> 00:01:42,795
+por pelo menos cinco estados, com no mínimo
+
+47
+00:01:42,795 --> 00:01:45,000
+três décimos por cento dos eleitores de cada
+
+48
+00:01:45,000 --> 00:01:45,944
+um deles.
+
+49
+00:01:46,502 --> 00:01:48,189
+Por onde o projeto começa?
+
+50
+00:01:48,189 --> 00:01:50,642
+Os projetos do Presidente, dos tribunais e de
+
+51
+00:01:50,642 --> 00:01:52,942
+iniciativa popular começam na Câmara dos
+
+52
+00:01:52,942 --> 00:01:53,991
+Deputados.
+
+53
+00:01:53,991 --> 00:01:56,256
+Os projetos de deputados também.
+
+54
+00:01:56,256 --> 00:01:58,873
+Já os de senadores começam no Senado.
+
+55
+00:01:58,873 --> 00:02:00,914
+A Casa onde o projeto começa é a Casa
+
+56
+00:02:00,914 --> 00:02:03,555
+iniciadora; a outra é a revisora.
+
+57
+00:02:03,555 --> 00:02:06,436
+Uma lei federal precisa passar pelas duas.
+
+58
+00:02:06,983 --> 00:02:09,307
+Dentro de cada Casa, o projeto passa pelas
+
+59
+00:02:09,307 --> 00:02:11,889
+comissões temáticas, como a de Saúde ou a de
+
+60
+00:02:11,889 --> 00:02:12,821
+Educação.
+
+61
+00:02:12,821 --> 00:02:15,273
+Em cada uma, um relator estuda o texto e
+
+62
+00:02:15,273 --> 00:02:17,490
+apresenta um parecer, que é votado.
+
+63
+00:02:17,490 --> 00:02:19,932
+A Comissão de Constituição e Justiça analisa
+
+64
+00:02:19,932 --> 00:02:22,160
+se o projeto respeita a Constituição.
+
+65
+00:02:22,160 --> 00:02:24,318
+Em muitos casos, a própria comissão pode
+
+66
+00:02:24,318 --> 00:02:26,688
+aprovar o projeto sem passar pelo Plenário, a
+
+67
+00:02:26,688 --> 00:02:28,811
+não ser que um décimo dos membros da Casa
+
+68
+00:02:28,811 --> 00:02:30,144
+apresente recurso.
+
+69
+00:02:30,691 --> 00:02:32,908
+Alguns projetos andam mais rápido.
+
+70
+00:02:32,908 --> 00:02:35,266
+Pelo regimento, os deputados ou senadores
+
+71
+00:02:35,266 --> 00:02:37,471
+podem aprovar um requerimento de urgência, que
+
+72
+00:02:37,471 --> 00:02:39,654
+leva o projeto direto ao Plenário.
+
+73
+00:02:39,654 --> 00:02:41,447
+E o Presidente da República pode pedir
+
+74
+00:02:41,447 --> 00:02:43,711
+urgência para projetos de sua autoria:
+
+75
+00:02:43,711 --> 00:02:45,951
+se cada Casa não votar em até quarenta e cinco
+
+76
+00:02:45,951 --> 00:02:48,428
+dias, o projeto passa a trancar a pauta, e as
+
+77
+00:02:48,428 --> 00:02:50,881
+outras votações ficam paradas, com algumas
+
+78
+00:02:50,881 --> 00:02:51,932
+exceções.
+
+79
+00:02:52,479 --> 00:02:55,086
+No Plenário, a votação pode ser simbólica,
+
+80
+00:02:55,086 --> 00:02:57,267
+quando os parlamentares só se manifestam e o
+
+81
+00:02:57,267 --> 00:03:00,038
+resultado é anunciado, ou nominal, no painel
+
+82
+00:03:00,038 --> 00:03:02,739
+eletrônico, quando cada voto fica registrado.
+
+83
+00:03:02,739 --> 00:03:04,968
+É nas votações nominais que dá para saber como
+
+84
+00:03:04,968 --> 00:03:07,597
+votou cada deputado e cada senador.
+
+85
+00:03:07,597 --> 00:03:09,613
+Para aprovar uma lei ordinária, basta a
+
+86
+00:03:09,613 --> 00:03:11,972
+maioria dos presentes, desde que a maioria
+
+87
+00:03:11,972 --> 00:03:13,788
+absoluta esteja na sessão.
+
+88
+00:03:13,788 --> 00:03:15,981
+Uma lei complementar precisa de duzentos e
+
+89
+00:03:15,981 --> 00:03:18,186
+cinquenta e sete deputados e quarenta e um
+
+90
+00:03:18,186 --> 00:03:19,264
+senadores.
+
+91
+00:03:19,811 --> 00:03:22,689
+Aprovado na primeira Casa, o projeto vai para
+
+92
+00:03:22,689 --> 00:03:23,632
+a revisora.
+
+93
+00:03:23,632 --> 00:03:26,344
+Se ela aprovar sem mudanças, o texto segue
+
+94
+00:03:26,344 --> 00:03:27,440
+para o Presidente.
+
+95
+00:03:27,440 --> 00:03:30,117
+Se rejeitar, o projeto é arquivado.
+
+96
+00:03:30,117 --> 00:03:32,511
+E, se mudar o texto, ele volta para a Casa
+
+97
+00:03:32,511 --> 00:03:35,011
+iniciadora, que só analisa as mudanças:
+
+98
+00:03:35,011 --> 00:03:37,617
+aceita ou rejeita cada uma, e dá a palavra
+
+99
+00:03:37,617 --> 00:03:38,340
+final.
+
+100
+00:03:38,887 --> 00:03:41,151
+Com o texto final, o Presidente da República
+
+101
+00:03:41,151 --> 00:03:43,604
+tem quinze dias úteis para decidir.
+
+102
+00:03:43,604 --> 00:03:46,292
+Pode sancionar, ou seja, concordar e
+
+103
+00:03:46,292 --> 00:03:47,673
+transformar em lei.
+
+104
+00:03:47,673 --> 00:03:50,078
+Se ficar em silêncio nesse prazo, a sanção é
+
+105
+00:03:50,078 --> 00:03:50,963
+tácita.
+
+106
+00:03:50,963 --> 00:03:53,545
+Ou pode vetar, no todo ou só em parte, quando
+
+107
+00:03:53,545 --> 00:03:55,621
+considerar o texto inconstitucional ou
+
+108
+00:03:55,621 --> 00:03:57,850
+contrário ao interesse público, explicando os
+
+109
+00:03:57,850 --> 00:03:59,384
+motivos ao Congresso.
+
+110
+00:03:59,931 --> 00:04:02,066
+O veto não é a palavra final.
+
+111
+00:04:02,066 --> 00:04:04,495
+O Congresso analisa o veto em sessão conjunta
+
+112
+00:04:04,495 --> 00:04:06,299
+de deputados e senadores.
+
+113
+00:04:06,299 --> 00:04:08,716
+Para derrubá-lo, é preciso a maioria absoluta
+
+114
+00:04:08,716 --> 00:04:09,919
+das duas Casas:
+
+115
+00:04:09,919 --> 00:04:12,030
+duzentos e cinquenta e sete deputados e
+
+116
+00:04:12,030 --> 00:04:13,728
+quarenta e um senadores.
+
+117
+00:04:13,728 --> 00:04:16,322
+Se o veto cair, o trecho vetado vira lei do
+
+118
+00:04:16,322 --> 00:04:17,451
+mesmo jeito.
+
+119
+00:04:17,999 --> 00:04:20,463
+Se este vídeo já esclareceu alguma dúvida,
+
+120
+00:04:20,463 --> 00:04:22,858
+deixe o seu like e se inscreva no canal.
+
+121
+00:04:22,858 --> 00:04:25,560
+Isso ajuda a explicação a chegar a mais gente.
+
+122
+00:04:26,107 --> 00:04:28,525
+Depois da sanção, a lei é promulgada e
+
+123
+00:04:28,525 --> 00:04:30,907
+publicada no Diário Oficial da União.
+
+124
+00:04:30,907 --> 00:04:32,486
+E quando ela começa a valer?
+
+125
+00:04:32,486 --> 00:04:34,432
+A própria lei costuma dizer.
+
+126
+00:04:34,432 --> 00:04:36,885
+Se não disser nada, a regra geral é que ela
+
+127
+00:04:36,885 --> 00:04:38,878
+entra em vigor quarenta e cinco dias depois de
+
+128
+00:04:38,878 --> 00:04:39,775
+publicada.
+
+129
+00:04:39,775 --> 00:04:42,581
+Muitas leis, porém, dizem que valem na data da
+
+130
+00:04:42,581 --> 00:04:44,893
+publicação, ou dão um prazo maior para as
+
+131
+00:04:44,893 --> 00:04:47,108
+pessoas e empresas se adaptarem.
+
+132
+00:04:47,655 --> 00:04:49,578
+A PEC tem um caminho próprio.
+
+133
+00:04:49,578 --> 00:04:51,358
+Ela pode ser proposta por um terço dos
+
+134
+00:04:51,358 --> 00:04:53,976
+deputados ou dos senadores, pelo Presidente da
+
+135
+00:04:53,976 --> 00:04:56,040
+República ou por mais da metade das
+
+136
+00:04:56,040 --> 00:04:57,903
+Assembleias Legislativas.
+
+137
+00:04:57,903 --> 00:05:00,037
+Precisa ser aprovada em dois turnos em cada
+
+138
+00:05:00,037 --> 00:05:02,266
+Casa, com três quintos dos votos:
+
+139
+00:05:02,266 --> 00:05:04,448
+trezentos e oito deputados e quarenta e nove
+
+140
+00:05:04,448 --> 00:05:05,509
+senadores.
+
+141
+00:05:05,509 --> 00:05:07,608
+E não passa pela sanção do Presidente:
+
+142
+00:05:07,608 --> 00:05:09,743
+é promulgada pelas Mesas da Câmara e do
+
+143
+00:05:09,743 --> 00:05:10,604
+Senado.
+
+144
+00:05:10,604 --> 00:05:12,939
+Alguns pontos não podem ser abolidos nem por
+
+145
+00:05:12,939 --> 00:05:14,850
+emenda, as cláusulas pétreas:
+
+146
+00:05:14,850 --> 00:05:18,328
+a federação, o voto direto, secreto, universal
+
+147
+00:05:18,328 --> 00:05:20,840
+e periódico, a separação dos Poderes e os
+
+148
+00:05:20,840 --> 00:05:23,127
+direitos e garantias individuais.
+
+149
+00:05:23,677 --> 00:05:25,894
+A medida provisória funciona ao contrário:
+
+150
+00:05:25,894 --> 00:05:28,666
+o Presidente edita a MP em caso de relevância
+
+151
+00:05:28,666 --> 00:05:31,248
+e urgência, e ela vale imediatamente, com
+
+152
+00:05:31,248 --> 00:05:32,307
+força de lei.
+
+153
+00:05:32,307 --> 00:05:33,770
+Mas é provisória mesmo:
+
+154
+00:05:33,770 --> 00:05:36,435
+o Congresso tem sessenta dias, prorrogáveis
+
+155
+00:05:36,435 --> 00:05:38,475
+por mais sessenta, para votar.
+
+156
+00:05:38,475 --> 00:05:40,751
+Depois de quarenta e cinco dias, ela tranca a
+
+157
+00:05:40,751 --> 00:05:42,767
+pauta da Casa onde estiver.
+
+158
+00:05:42,767 --> 00:05:45,609
+Se não for votada a tempo, perde a validade.
+
+159
+00:05:45,609 --> 00:05:48,333
+Se for aprovada, vira lei, às vezes com
+
+160
+00:05:48,333 --> 00:05:50,987
+mudanças, na chamada lei de conversão.
+
+161
+00:05:51,535 --> 00:05:53,693
+E por que alguns projetos ficam parados por
+
+162
+00:05:53,693 --> 00:05:54,448
+anos?
+
+163
+00:05:54,448 --> 00:05:57,007
+Não existe prazo geral para votar um projeto
+
+164
+00:05:57,007 --> 00:05:57,726
+de lei.
+
+165
+00:05:57,726 --> 00:05:59,400
+Quem decide o que entra na pauta são os
+
+166
+00:05:59,400 --> 00:06:02,148
+presidentes das Casas e das comissões, junto
+
+167
+00:06:02,148 --> 00:06:03,835
+com os líderes partidários.
+
+168
+00:06:03,835 --> 00:06:06,547
+Além disso, pelas regras de cada Casa, muitos
+
+169
+00:06:06,547 --> 00:06:08,575
+projetos podem ser arquivados ao fim de uma
+
+170
+00:06:08,575 --> 00:06:11,241
+legislatura, que dura quatro anos, se não
+
+171
+00:06:11,241 --> 00:06:12,656
+tiverem avançado.
+
+172
+00:06:13,203 --> 00:06:14,833
+E você pode participar.
+
+173
+00:06:14,833 --> 00:06:17,710
+No site do Senado, o portal e-Cidadania recebe
+
+174
+00:06:17,710 --> 00:06:19,361
+ideias legislativas:
+
+175
+00:06:19,361 --> 00:06:21,779
+se uma ideia reunir vinte mil apoios em quatro
+
+176
+00:06:21,779 --> 00:06:23,724
+meses, ela passa a ser analisada por uma
+
+177
+00:06:23,724 --> 00:06:25,055
+comissão do Senado.
+
+178
+00:06:25,055 --> 00:06:26,966
+Na Câmara, a Comissão de Legislação
+
+179
+00:06:26,966 --> 00:06:29,596
+Participativa recebe sugestões de associações
+
+180
+00:06:29,596 --> 00:06:32,189
+e outras entidades da sociedade civil.
+
+181
+00:06:32,189 --> 00:06:34,772
+As duas Casas também fazem audiências públicas
+
+182
+00:06:34,772 --> 00:06:37,300
+e consultas sobre projetos em discussão.
+
+183
+00:06:37,847 --> 00:06:40,264
+Para acompanhar, cada projeto tem uma ficha de
+
+184
+00:06:40,264 --> 00:06:42,823
+tramitação nos sites da Câmara e do Senado,
+
+185
+00:06:42,823 --> 00:06:44,371
+com todas as fases.
+
+186
+00:06:44,371 --> 00:06:46,717
+No app do Legiscópio, você pode favoritar uma
+
+187
+00:06:46,717 --> 00:06:49,335
+proposição e receber uma notificação sempre
+
+188
+00:06:49,335 --> 00:06:51,364
+que ela mudar de situação, além de ver como
+
+189
+00:06:51,364 --> 00:06:54,264
+cada parlamentar votou nas votações nominais.
+
+190
+00:06:54,811 --> 00:06:56,416
+Hora do teste rápido.
+
+191
+00:06:56,416 --> 00:06:58,289
+Responda nos comentários.
+
+192
+00:06:58,289 --> 00:06:59,245
+Pergunta um:
+
+193
+00:06:59,245 --> 00:07:01,226
+uma PEC aprovada precisa da sanção do
+
+194
+00:07:01,226 --> 00:07:02,193
+Presidente?
+
+195
+00:07:02,193 --> 00:07:03,325
+Pergunta dois:
+
+196
+00:07:03,325 --> 00:07:05,672
+o Presidente vetou um trecho de uma lei.
+
+197
+00:07:05,672 --> 00:07:08,077
+O Congresso pode derrubar esse veto?
+
+198
+00:07:08,077 --> 00:07:09,268
+Pergunta três:
+
+199
+00:07:09,268 --> 00:07:11,721
+além de deputados e senadores, os cidadãos
+
+200
+00:07:11,721 --> 00:07:13,632
+podem apresentar um projeto de lei?
+
+201
+00:07:13,632 --> 00:07:16,196
+As respostas estão no episódio 5.
+
+202
+00:07:16,743 --> 00:07:17,604
+Resumindo:
+
+203
+00:07:17,604 --> 00:07:19,408
+um projeto passa pelas comissões e pelo
+
+204
+00:07:19,408 --> 00:07:22,133
+Plenário das duas Casas, vai à sanção ou ao
+
+205
+00:07:22,133 --> 00:07:24,703
+veto, e o Congresso pode derrubar o veto.
+
+206
+00:07:24,703 --> 00:07:27,368
+A PEC exige três quintos em dois turnos, e a
+
+207
+00:07:27,368 --> 00:07:30,270
+MP vale na hora, mas precisa ser votada.
+
+208
+00:07:30,270 --> 00:07:32,546
+No próximo e último episódio da série:
+
+209
+00:07:32,546 --> 00:07:33,937
+quem fiscaliza quem.
+
+210
+00:07:33,937 --> 00:07:36,331
+Tribunais de Contas, Ministério Público,
+
+211
+00:07:36,331 --> 00:07:38,748
+Justiça, imprensa e você.
+
+212
+00:07:38,748 --> 00:07:41,319
+Até lá, conte nos comentários qual projeto
+
+213
+00:07:41,319 --> 00:07:43,442
+você gostaria de acompanhar de perto.
+
+214
+00:07:43,442 --> 00:07:45,588
+O app do Legiscópio já está disponível para
+
+215
+00:07:45,588 --> 00:07:47,062
+Android, de graça:
+
+216
+00:07:47,062 --> 00:07:49,916
+é só acessar www.legiscopio.com.br barra
+
+217
+00:07:49,916 --> 00:07:50,670
+baixar.
+
+218
+00:07:50,670 --> 00:07:52,640
+E, se puder, apoie o projeto em
+
+219
+00:07:52,640 --> 00:07:54,760
+apoia.se/legiscopio
