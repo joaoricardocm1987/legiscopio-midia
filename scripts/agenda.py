@@ -33,6 +33,7 @@ CAMARA_COR, SENADO_COR = (5, 87, 47), (31, 78, 140)
 DIAS = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo"]
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro",
          "novembro", "dezembro"]
+FORA_PAUTA = {"REQ", "RIC", "INC", "RQS", "RQN"}  # requerimentos e indicações: fora da lista da pauta
 FIXTURES = None  # testes: dict url -> caminho de arquivo
 
 
@@ -74,7 +75,7 @@ def camara_pauta(ev_id):
         p = it.get("proposicao_") or {}
         sig = p.get("siglaTipo")
         ident = f"{sig} {p.get('numero')}/{p.get('ano')}" if sig else (it.get("titulo") or "").strip()
-        if not ident or ident in [i["id"] for i in itens]:
+        if not ident or ident in [i["id"] for i in itens] or (sig or ident.split(" ")[0]) in FORA_PAUTA:
             continue
         itens.append({"id": ident, "ementa": (p.get("ementa") or it.get("titulo") or "").strip()})
     return itens
@@ -90,7 +91,7 @@ def senado_plenario(dia):
         mats = []
         for m in lista((s.get("Materias") or {}).get("Materia")):
             ident = (m.get("DescricaoIdentificacaoMateria") or "").strip()
-            if ident and ident not in [x["id"] for x in mats]:
+            if ident and ident not in [x["id"] for x in mats] and ident.split(" ")[0] not in FORA_PAUTA:
                 mats.append({"id": ident, "ementa": (m.get("Ementa") or "").strip()})
         out.append({"hora": (s.get("Hora") or "").strip(), "tipo": (s.get("TipoSessao") or "").strip().capitalize(),
                     "casa": s.get("Casa"), "itens": mats})
@@ -341,17 +342,22 @@ def slide_dia(d, cam_plen, cam_ncom, sen_plen, sen_ncom, resumos):
             dd.text((80, y), "Pauta ainda não divulgada", font=RG(34), fill=CINZA)
             y += 70
             continue
-        lim = 4 if nome == "CÂMARA" else 3
-        for it in itens[:lim]:
-            linha = vl.wrap(dd, f"{it['id']}: {resumo(it, resumos)}", RG(32), WC - 200)
-            for j, l in enumerate(linha[:2]):
+        limite_y = (HC - 470) if nome == "CÂMARA" else (HC - 190)  # a Câmara deixa lugar para o Senado
+        mostrados = 0
+        for it in itens:
+            linha = vl.wrap(dd, f"{it['id']}: {resumo(it, resumos)}", RG(32), WC - 200)[:2]
+            if y + 42 * len(linha) + 10 > limite_y - 50:
+                break
+            for j, l in enumerate(linha):
                 if j == 0:
                     dd.ellipse([84, y + 14, 98, y + 28], fill=cor)
                 dd.text((120, y), l, font=RG(32), fill=TEXTO)
                 y += 42
             y += 10
-        if len(itens) > lim:
-            dd.text((120, y), f"+ {len(itens) - lim} itens", font=BD(32), fill=OLIVA)
+            mostrados += 1
+        if len(itens) > mostrados:
+            k = len(itens) - mostrados
+            dd.text((120, y), f"+ {k} {'item' if k == 1 else 'itens'}", font=BD(32), fill=OLIVA)
             y += 50
         y += 30
     cn = [s for s in sen_plen if s["casa"] == "CN"]
