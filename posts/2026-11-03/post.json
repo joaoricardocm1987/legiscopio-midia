@@ -1,0 +1,31 @@
+{
+  "rotulo": "Senado vota hoje",
+  "titulo": "PEC da Segurança: Senado vota hoje e pode concluir os dois turnos",
+  "destaque": "49 de 81",
+  "detalhe": "São 49 votos em cada turno. Sem mudança, a PEC é promulgada; se o texto mudar, volta à Câmara. A maioridade penal divide o Plenário.",
+  "fonte": "Fonte: Senado Federal · pauta de 03/11/2026",
+  "legenda": "O Plenário do Senado vota hoje (3) a PEC da Segurança Pública (PEC 18/2025), primeiro item da pauta desta terça-feira. Um calendário especial aprovado em 14 de outubro dispensa as sessões de discussão, o que permite votar os dois turnos no mesmo dia.\n\nComo funciona a votação:\n• A PEC precisa de 49 dos 81 senadores (três quintos) em cada turno.\n• Se for aprovada sem mudança de conteúdo, vai à promulgação.\n• Se o Senado mudar o conteúdo, o texto volta para a Câmara.\n\nO que está no texto: o Susp (Sistema Único de Segurança Pública) na Constituição, regras mais duras para líderes de facções e milícias, regras para polícias municipais e 10% do superávit do Fundo Social do pré-sal para a segurança. Na CCJ, foram 81 emendas; o relator acatou 4.\n\nO impasse é a maioridade penal. A oposição propõe, por emenda, responsabilizar a partir dos 16 anos e, nos crimes hediondos, dos 14; segundo o Metrópoles, a emenda tem apoio de 37 senadores. Quem defende diz que jovens de 16 anos já votam e trabalham e que crimes graves pedem resposta mais dura. O governo quer manter o texto da Câmara e discutir o tema em proposta separada, para não atrasar a PEC, e parte da base é contra qualquer redução.\n\nFonte: Senado Federal — https://www25.senado.leg.br/web/atividade/materias/-/materia/172997 | Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/10/14/pec-da-seguranca-publica-esta-na-pauta-do-plenario-nesta-quinta-feira\n\n📲 Baixe o app do Legiscópio (Android): legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #SenadoFederal #SegurançaPública",
+  "legenda_tiktok": "PEC da Segurança: o Senado vota hoje (3) e pode fazer os dois turnos no mesmo dia; são 49 votos em cada. Se mudar o texto, volta à Câmara. Mais no YouTube: Legiscópio. App: legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #SegurançaPública",
+  "fontes": [
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261103",
+    "https://www25.senado.leg.br/web/atividade/materias/-/materia/172997",
+    "https://www12.senado.leg.br/noticias/materias/2026/10/14/pec-da-seguranca-publica-esta-na-pauta-do-plenario-nesta-quinta-feira",
+    "https://www.pbagora.com.br/noticia/politica/senado-vota-hoje-pec-da-seguranca-publica-entenda-a-proposta/",
+    "https://www.metropoles.com/brasil/senado-poe-pec-da-seguranca-na-pauta-em-meio-a-debate-sobre-maioridade",
+    "https://mais.opovo.com.br/jornal/politica/2026/11/03/pec-da-seguranca-publica-volta-ao-senado-apos-impasse-sobre-reducao-da-maioridade-penal.html",
+    "https://diario.dopovo.com.br/2026/11/03/senado-vota-pec-da-seguranca-sem-incluir-reducao-da-maioridade-penal/",
+    "https://www.esmaelmorais.com.br/pec-seguranca-plenario-senado-terca-dois-turnos/",
+    "https://dadosabertos.camara.leg.br/api/v2/eventos?dataInicio=2026-11-03&dataFim=2026-11-06&itens=100"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Senado vota hoje (3/11) a PEC da Segurança Pública; impasse sobre a redução da maioridade penal", "veiculos": ["Metrópoles", "O Povo", "Tribuna do Norte", "PB Agora", "Diário do Povo", "Revista Oeste", "SpaceMoney", "Blog do Esmael", "Agora Tocantins"], "proposicao": "PEC 18/2025 — item 1 da pauta do Plenário do Senado em 3/11 (pauta oficial confirmada); calendário especial (RQS 713/2026) permite os dois turnos no mesmo dia; tratada em 31/10 na fase 'votação marcada' (−1, desconto parcial: hoje é o dia da votação, com fatos novos)", "nota": 7},
+      {"assunto": "Estatuto do Aprendiz na pauta do Senado de quarta (4)", "veiculos": ["Pauta oficial do Senado"], "proposicao": "PL 6.461/2019 — pauta de 4/11; tratado ontem, 2/11 (−3)", "nota": 2},
+      {"assunto": "Regulação das big techs na reunião de líderes da Câmara (3/11)", "veiculos": ["Folha", "O Globo"], "proposicao": "PL 4675/2025 — sem sessão deliberativa da Câmara na semana; tratado em 1/11 (−3)", "nota": 2},
+      {"assunto": "Comissão especial da maioridade penal na Câmara vota requerimentos (3/11)", "veiculos": ["Diário do Povo", "Dados abertos da Câmara"], "proposicao": "PEC 32/2015 — comissão especial, requerimentos de audiência; tratada em 18/10 (−3)", "nota": 1},
+      {"assunto": "Eleições de meio de mandato nos EUA", "veiculos": ["CNN Brasil", "Metrópoles"], "proposicao": "Sem proposição no Congresso brasileiro (descartado)", "nota": 0}
+    ],
+    "escolhido": "PEC 18/2025 (PEC da Segurança Pública) — votação no Plenário do Senado em 3/11/2026, com calendário especial que permite os dois turnos no mesmo dia",
+    "motivo": "Terça da série 'Quem Faz o Quê?': só posts de Instagram e Facebook. A PEC da Segurança é o assunto mais citado nas últimas 24 h em veículos de linhas diferentes (3), vota hoje (3) e tem interesse direto em segurança (2). Foi tratada em 31/10 quando a votação foi marcada; hoje o post foca em como funciona a votação do dia (calendário especial, 49 votos por turno, promulgação ou volta à Câmara) e no impasse da maioridade penal, com os dois lados, por isso desconto parcial (−1). Câmara sem sessão deliberativa do Plenário na semana. Sem nomes de parlamentares. Google Trends não consultado."
+  }
+}
