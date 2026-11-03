@@ -33,7 +33,7 @@ CAMARA_COR, SENADO_COR = (5, 87, 47), (31, 78, 140)
 DIAS = ["segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado", "domingo"]
 MESES = ["janeiro", "fevereiro", "março", "abril", "maio", "junho", "julho", "agosto", "setembro", "outubro",
          "novembro", "dezembro"]
-FORA_PAUTA = {"REQ", "RIC", "INC", "RQS", "RQN"}  # requerimentos e indicações: fora da lista da pauta
+FORA_PAUTA = {"REQ", "RIC", "INC", "RQS", "RQN", "REC"}  # requerimentos e indicações: fora da lista da pauta
 FIXTURES = None  # testes: dict url -> caminho de arquivo
 
 
@@ -88,6 +88,9 @@ def senado_plenario(dia):
     for s in sess:
         if (s.get("SituacaoSessao") or "").lower().startswith("cancel"):
             continue
+        tsess = (s.get("TipoSessao") or "").lower()
+        if "não deliberativa" in tsess or "especial" in tsess or "solene" in tsess:
+            continue  # sessões de debates e homenagens: fora da agenda de votações
         mats = []
         for m in lista((s.get("Materias") or {}).get("Materia")):
             ident = (m.get("DescricaoIdentificacaoMateria") or "").strip()
