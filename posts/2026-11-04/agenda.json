@@ -3,7 +3,7 @@
  "camara_plen": [
   {
    "id_evento": 83159,
-   "hora": "13:55",
+   "hora": "14:44",
    "tipo": "Sessão Deliberativa",
    "itens": [
     {
@@ -19,8 +19,8 @@
      "ementa": "Institui no calendário nacional o \"Dia Nacional do Autocuidado\"."
     },
     {
-     "id": "PL 3220/2019",
-     "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, e a Lei nº 14.947, de 2 de agosto de 2024, e dá outras providências."
+     "id": "PEP 1/0",
+     "ementa": "Parecer à Emenda de Plenário proferido pelo Relator Dep. Juscelino Filho (PSDB/MA) pela:\n• Comissão de Comunicação, que conclui pela rejeição da Emenda de Plenário.\n• Comissão de Minas e Energia, que conclui pela rejeição da Emenda de Plenário.\n• Comissão de Desenvolvimento Urbano, que conclui pela rejeição da Emenda de Plenário.\n• Comissão de Finanças e Tributação, que conclui pela não implicação sobre as despesas ou receitas da Emenda de Plenário.\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa da Emenda de Plenário."
     },
     {
      "id": "PL 79/2020",
@@ -39,24 +39,16 @@
      "ementa": "Altera a Lei n.º 11.947, de 16 de junho de 2009 e a Lei n.º 14.113, de 25 de dezembro de 2020 de modo a assegurar que haja a inclusão das escolas comunitárias e o repasse direto dos recursos do Programa Nacional de Alimentação Escolar – PNAE e do Programa Dinheiro Direto na Escola – PDDE, e dá outras providências."
     },
     {
-     "id": "PL 5902/2023",
-     "ementa": "Altera o Decreto-Lei nº 2848, de 07 de dezembro de 1940 – Código Penal, para dispor sobre o uso de drones no espaço aéreo dos presídios."
-    },
-    {
      "id": "PL 2475/2025",
      "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal."
     },
     {
-     "id": "PL 3220/2025",
-     "ementa": "Institui o Dia Nacional da Consolidação da Independência do Brasil."
+     "id": "PPP 1/0",
+     "ementa": "Parecer proferido em Plenário pela Relatora Dep. Lídice da Mata (PSB/BA) pela: • Comissão de Cultura, que conclui pela aprovação do Projeto de Lei nº 3.220, de 2025. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 3.220, de 2025."
     },
     {
      "id": "PL 4159/2025",
      "ementa": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria."
-    },
-    {
-     "id": "PL 5815/2025",
-     "ementa": "Institui e cria o Programa Nacional de Acompanhamento Anual Pediátrico/Médico e Emocional/Psicossocial da Infância e Adolescência - PNAPE, com o objetivo de colocar crianças e adolescentes, os filhos da sociedade brasileira, a salvo das mais  diversas forma de transtorno mental, negligência, discriminação, exploração, violência, automutilação, crueldade, opressão, tráfico humano e especialmente prevenindo abuso e exploração sexual (Lei Augusto Cury). A partir da Lei Augusto Cury o Estado brasileiro não será apenas o  responsável teórico pelo desenvolvimento saudável dos seus filhos, mas acompanhará anualmente este desenvolvimento! Os predadores sexuais, em destaque, saberão que o Estado Brasileiro estará de olho em suas crianças e adolescentes através de escuta ativa e periódica."
     },
     {
      "id": "PL 5542/2026",
@@ -76,9 +68,9 @@
  "camara_com": [
   {
    "hora": "09:00",
-   "sigla": "CREDN",
-   "nome": "Relações Exteriores e de Defesa Nacional",
-   "tipo": "Votações"
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Mesa Redonda"
   },
   {
    "hora": "09:30",
@@ -88,68 +80,14 @@
   },
   {
    "hora": "09:30",
-   "sigla": "CSAUDE",
-   "nome": "Saúde",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "09:30",
-   "sigla": "CDE",
-   "nome": "Desenvolvimento Econômico",
-   "tipo": "Audiência Pública: o Projeto de Lei nº 5.960, de 2025, que institui o Marco de Fomento à Economia Digital no Brasil. (REQ 38/2026 CDE, do deputado Jadyel Alencar; REQ 39/2026 CDE, do deputado Vitor Lippi; REQ 40/2026 CDE, do deputado Jadyel Alencar) 1) MÁRCIA CARDADOR (Confirmada) Coordenadora Geral da Diretoria de Infraestrutura Nacional de Dados MInistério da Gestão e da Inovação em Serviços Públicos - MGI 2) REPRESENTANTE (a Confirmar) Ministério do Empreendedorismo, da Microempresa e Empresa de Pequeno Porte - MEMP 3) CHARLES BEZERRA DO PRADO (Confirmado) Coordenador do Centro de Inteliêngia Artificial INMETRO 4) ANDRÉ MARTINS (Confirmado) Presidente Instituto Brasileiro de Telecomunicações e Soluções Digitais - IBTD 5) ROSILDA PRATES (Confirmada) Presidente Associação de Empresas de Desenvolvimento Tecnológico Nacional e Inovação - P&D Brasil 6) THIAGO MARCÍLIO (Confirmado) Advogado Centro de Estudos em Governaça de IA - CEGIA 7) CONTROLADORIA GERAL DA UNIÃO (Declinou) Controladoria Geral da União"
-  },
-  {
-   "hora": "09:30",
    "sigla": "CAPADR",
    "nome": "Agropecuária",
    "tipo": "Mesa Redonda: Reunião de articulação política, discussão da pauta e assuntos de interesse da Comissão"
   },
   {
-   "hora": "10:00",
-   "sigla": "CFFC",
-   "nome": "Fiscalização Financeira e Controle",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CE",
-   "nome": "Educação",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CAPADR",
-   "nome": "Agropecuária",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CDU",
-   "nome": "Desenvolvimento Urbano",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CFT",
-   "nome": "Finanças e Tributação",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CME",
-   "nome": "Minas e Energia",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CMADS",
-   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CCTI",
-   "nome": "Ciência, Tecnologia e Inovação",
+   "hora": "09:46",
+   "sigla": "CSAUDE",
+   "nome": "Saúde",
    "tipo": "Votações"
   },
   {
@@ -159,103 +97,145 @@
    "tipo": "Votações"
   },
   {
-   "hora": "10:00",
+   "hora": "10:04",
    "sigla": "CVT",
    "nome": "Viação e Transportes",
    "tipo": "Votações"
   },
   {
-   "hora": "10:30",
+   "hora": "10:05",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:08",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:09",
+   "sigla": "CFFC",
+   "nome": "Fiscalização Financeira e Controle",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:11",
+   "sigla": "CDU",
+   "nome": "Desenvolvimento Urbano",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:11",
+   "sigla": "CFT",
+   "nome": "Finanças e Tributação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:11",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Audiência Pública: o Projeto de Lei nº 5.960, de 2025, que institui o Marco de Fomento à Economia Digital no Brasil. (REQ 38/2026 CDE, do deputado Jadyel Alencar; REQ 39/2026 CDE, do deputado Vitor Lippi; REQ 40/2026 CDE, do deputado Jadyel Alencar) 1) MÁRCIA CARDADOR (Confirmada) Coordenadora Geral da Diretoria de Infraestrutura Nacional de Dados MInistério da Gestão e da Inovação em Serviços Públicos - MGI 2) JOSÉ CEREZOLI (Confirmado) Coordenador-Geral de Integração e Inovação Ministério do Empreendedorismo, da Microempresa e Empresa de Pequeno Porte - MEMP 3) CHARLES BEZERRA DO PRADO (Confirmado) Coordenador do Centro de Inteliêngia Artificial INMETRO 4) ANDRÉ MARTINS (Confirmado) Presidente Instituto Brasileiro de Telecomunicações e Soluções Digitais - IBTD 5) ROSILDA PRATES (Confirmada) Presidente Associação de Empresas de Desenvolvimento Tecnológico Nacional e Inovação - P&D Brasil 6) THIAGO MARCÍLIO (Confirmado) Advogado Centro de Estudos em Governaça de IA - CEGIA 7) CONTROLADORIA GERAL DA UNIÃO (Declinou) Controladoria Geral da União"
+  },
+  {
+   "hora": "10:13",
+   "sigla": "CCTI",
+   "nome": "Ciência, Tecnologia e Inovação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:15",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:24",
+   "sigla": "CME",
+   "nome": "Minas e Energia",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:32",
+   "sigla": "CREDN",
+   "nome": "Relações Exteriores e de Defesa Nacional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:46",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Audiência Pública: Contribuições do Brasil à 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP-31), em Antalya, Turquia REQ 60/26, do Deputado Nilto Tatto (PT-SP) Convidados: ALOISIO LOPES PEREIRA DE MELO (Presença confirmada) Secretário Nacional de Mudança do Clima - MMA LILIAM BEATRIS CHAGAS DE MOURA (Presença confirmada - remota) Embaixadora e Diretora do Departamento do Clima do Ministério das Relações Exteriores - MRE TATIANA OLIVEIRA (Presença confirmada - remota) Líder de Estratégia Internacional WWF-Brasil e representante do Observatório do Clima - WWF-Brasil MAIARA FOLLY (Presença confirmada - remota) Diretora-Executiva da Plataforma CIPÓ BEATRIZ PAGY (Presença confirmada - remota) Diretora-Executiva do Clima de Política Não comparecerá: CARMYNIE XAVIER Especialista em Política Climática e Legislativo do Instituto Clima e Sociedade - ICS"
+  },
+  {
+   "hora": "10:51",
    "sigla": "CCJC",
    "nome": "Constituição e Justiça e de Cidadania",
    "tipo": "Votações"
   },
   {
-   "hora": "10:30",
-   "sigla": "CDE",
-   "nome": "Desenvolvimento Econômico",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:30",
-   "sigla": "CMADS",
-   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
-   "tipo": "Audiência Pública: Contribuições do Brasil à 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP-31), em Antalya, Turquia REQ 60/26, do Deputado Nilto Tatto (PT-SP) Convidados: ALOISIO LOPES PEREIRA DE MELO (Presença confirmada ) Secretário da Secretaria Nacional de Mudança do Clima - SMC LILIAM BEATRIS CHAGAS DE MOURA (Presença confirmada - remota) Embaixadora do Ministério das Relações Exteriores - MRE TATIANA OLIVEIRA (Presença confirmada - remota) Líder de Estratégia Internacional WWF-Brasil e representante do Observatório do Clima - WWF-Brasil MAIARA FOLLY (Presença confirmada - remota) Diretora-Executiva da plataforma CIPÓ BEATRIZ PAGY (Presença confirmada - remota) Diretora-Executiva do Clima de Política CARMYNIE XAVIER (Não comparecerá) Especialista em Política Climática e Legislativo do Instituto Clima e Sociedade - ICS"
-  },
-  {
-   "hora": "13:29",
+   "hora": "14:04",
    "sigla": "CCULT",
    "nome": "Cultura",
    "tipo": "Votações"
   },
   {
-   "hora": "13:30",
+   "hora": "14:10",
    "sigla": "CCULT",
    "nome": "Cultura",
    "tipo": "Votações"
   },
   {
-   "hora": "13:30",
-   "sigla": "CTUR",
-   "nome": "Turismo",
-   "tipo": "Votações"
+   "hora": "14:10",
+   "sigla": "CME,CDE",
+   "nome": "Minas e Energia",
+   "tipo": "Audiência Pública: o PL 5802/25, que institui instrumentos transitórios para a desconcentração da oferta no mercado brasileiro de gás natural, estabelece o GEGÁS e autoriza à ANP a aplicação de recursos Requerimentos nºs 67/2026-CME e 41/2026-CDE, do Deputado Arnaldo Jardim. CONVIDADOS: 1.Marcello Gomes Weydt, Diretor do Departamento de Gás Natural da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia - MME; (CONFIRMADO) 2. Uallace Moreira Lima , Secretário de Desenvolvimento Industrial, Inovação, Comércio e Serviços do Ministério de Desenvolvimento, Indústria, Comércio e Serviços - MDIC; (CONFIRMADO) 3. Artur Watt, Diretor-Geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP; (CONFIRMADO) 4. Rennaly Patricio Sousa, Especialista em Políticas e Indústria da Confederação Nacional da Indústria - CNI (CONFIRMADA); 5. Álvaro Ferreira Tupiassu, Gerente Executivo de Gás e Energia da Petrobras; (CONFIRMADO) 6. Rogério Manso, Presidente Executivo da Associação de Empresas de Transporte de Gás Natural por Gasoduto - ATGás; (CONFIRMADO) 7. Alberto Cotrim, Superintendente de Relações Institucionais do Instituto Aço Brasil; (CONFIRMADO) 8. Rogério Cauby, Conselheiro Executivo do Movimento Brasil Competitivo - MBC; (CONFIRMADO) 9. Ticiana Alvares, Diretora Técnica do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis - INEEP; (CONFIRMADA) 10. Fernando Montera, Gerente Executivo de Regulação e Transporte de Gás Natural do Instituto Brasileiro de Petróleo e Gás- IBP; (CONFIRMADO) 11. Fernanda Fiorentini Costa, Advogada da Associação Brasileira das Indústrias de Vidro - ABIVIDRO; (CONFIRMADA) 12. Sylvie D´Apote, Conselheira Técnica do Instituto de Petróleo, Gás e Energia - IPEGEN; (CONFIRMADA) 13. Rodrigo Araújo, Diretor da Federação Única dos Petroleiros - FUP ; (CONFIRMADO) 14. Gustavo José Simões, Diretor da Associação de Engenheiros da Petrobrás - AEPET; (CONFIRMADO) 15. Helder Queiroz, Professor de Economia da Energia do Instituto de Economia da Universidade Federal do Rio de Janeiro - UFRJ. 16. Paulo Pedrosa, Presidente da Associação dos Grandes Consumidores Industriais de Energia e Consumidores Livres - ABRACE. (CONFIRMADO)"
   },
   {
-   "hora": "14:00",
-   "sigla": "CMULHER",
-   "nome": "Defesa dos Direitos da Mulher",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CLP",
-   "nome": "Legislação Participativa",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CPASF",
-   "nome": "Previdência e Assistência",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
+   "hora": "14:13",
    "sigla": "CDHMIR",
    "nome": "Direitos Humanos, Minorias e Igualdade Racial",
    "tipo": "Votações"
   },
   {
-   "hora": "14:00",
-   "sigla": "CME,CDE",
-   "nome": "Minas e Energia",
-   "tipo": "Audiência Pública: o PL 5802/25 que institui instrumentos transitórios para a desconcentração da oferta no mercado brasileiro de gás natural, estabelece o GEGÁS e autoriza à ANP a aplicação de recursos Requerimentos nºs 67/2026-CME e 41/2026-CDE, do Deputado Arnaldo Jardim. CONVIDADOS: 1.Marcello Gomes Weydt, Diretor do Departamento de Gás Natural, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia - MME; (CONFIRMADO) 2. Uallace Moreira Lima , Secretário de Desenvolvimento Industrial, Inovação, Comércio e Serviços do Ministério de Desenvolvimento, Indústria, Comércio e Serviços - MDIC; (CONFIRMADO) 3. Artur Watt, Diretor-Geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP ; (CONFIRMADO) 4. Álvaro Ferreira Tupiassu, Gerente Executivo de Gás e Energia da Petrobras; (CONFIRMADO) 5. Representante da Confederação Nacional da Indústria - CNI; 6. Rogério Cauby, Conselheiro Executivo do Movimento Brasil Competitivo - MBC; (CONFIRMADO) 7. Alberto Cotrim, Superintendente de Relações Institucionaise do Instituto Aço Brasil; (CONFIRMADO) 8. Ticiana Alvares, Diretora Técnica do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis - INEEP; (CONFIRMADA) 9. Sr. Fernando Montera, Gerente Executivo de Regulação e Transporte de Gás Natural do Instituto Brasileiro de Petróleo e Gás- IBP; (CONFIRMADO) 10. Lucien Belmonte, Presidente Executivo da Associação Brasileira das Indústrias de Vidro - ABIVIDRO; (CONFIRMADO) 11. Sylvie D´Apote, Representante do Instituto de Petróleo, Gás e Energia - IPEGEN; (CONFIRMADA) 12. Rogério Manso, Presidente Executivo da Associação de Empresas de Transporte de Gás Natural por Gasoduto - ATGás; (CONFIRMADO) 13. Rodrigo Araújo, Diretor da Federação Única dos Petroleiros - FUP ; (CONFIRMADO) 14. Gustavo José Simões, Diretor da Associação de Engenheiros da Petrobrás - AEPET; (CONFIRMADO) 15. Helder Queiroz, Professor de Economia da Energia do Instituto de Economia da Universidade Federal do Rio de Janiero - UFRJ. (CONFIRMADO)"
+   "hora": "14:20",
+   "sigla": "CPASF",
+   "nome": "Previdência e Assistência",
+   "tipo": "Votações"
   },
   {
-   "hora": "14:00",
+   "hora": "14:42",
    "sigla": "CEXEXPLO",
    "nome": "Violência Sexual Infantojuvenil",
    "tipo": "Audiência Pública e Deliberação: Audiência pública e votação de requerimentos Tema: Plataformas digitais de compartilhamento de vídeos de conteúdo sexual envolvendo crianças e adolescentes, e debater a necessidade de aprimoramento legislativo para a apuração. Convidados: 1) ANDREA HOFFMANN FORMIGA (Confirmada) Presidente-Executiva Instituto Isabel 2) FABRÍCIO GUIMARÃES MADRUGA LOPES (Confirmado) Superintendente de Fiscalização Agência Nacional de Proteção de Dados - ANPD 3) LAÍS JORDY SANT'ANNA SOARES DE MATTOS (Confirmada) Advogada e Influencer Digital (Requerimento nº 24/2026, do Dep. Fernando Rodolfo) (Requerimento nº 26/2026, do Dep. Fernando Rodolfo)"
   },
   {
-   "hora": "14:00",
-   "sigla": "PLP10821",
-   "nome": "Novo Enquadramento MEI",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:30",
+   "hora": "15:00",
    "sigla": "CMULHER",
    "nome": "Defesa dos Direitos da Mulher",
    "tipo": "Votações"
   },
   {
-   "hora": "14:30",
+   "hora": "15:02",
    "sigla": "PEC03215",
    "nome": "Maioridade Penal",
    "tipo": "Votações"
   },
   {
-   "hora": "16:00",
+   "hora": "15:39",
+   "sigla": "CLP",
+   "nome": "Legislação Participativa",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:50",
+   "sigla": "CMULHER",
+   "nome": "Defesa dos Direitos da Mulher",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "16:16",
    "sigla": "SUBPL657",
    "nome": "Dispensa de Diagnóstico Clínico na Educação Especial",
    "tipo": "Audiência Pública: O papel do laudo médico e da avaliação psicopedagógica na identificação das necessidades e no apoio ao desenvolvimento escolar dos alunos. 1) FERNANADA LOUBACK (Participação confirmada) - Vereadora de Niterói/RJ, Vice-Governadora eleita do Rio de Janeiro e mãe atípica; 2) LILIANE GUETHE (Participação confirmada) - Psicopedagoga, especialista em Análise do Comportamento Aplicada; 3) VIVIAN BORGES (Participação confirmada) - Psicopedagoga, neuropsicopedagoga, especialista em Transtornos do Neurodesenvolvimento e Aprendizagem e mestre em educação; 4) JAMILE BENITE PALMA LOPES (Participação confirmada) - Fisioterapeuta, Diretora do Serviço de Saúde da APAE de Taquaritinga/SP e Coordenadora de Saúde e Prevenção da Federação das APAEs do Estado de São Paulo. (REQ 66/2026 CE, da Deputada Soraya Santos)"
@@ -284,6 +264,10 @@
      "ementa": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições Internacionais, alterado pelas Emendas de 24 de junho de 1982 e de 31 de maio de 1988."
     },
     {
+     "id": "PRS 50/2026",
+     "ementa": "Altera a Resolução do Senado Federal nº 43, de 2001, para excepcionar da vedação à contratação de operações de crédito nos 120 dias anteriores ao término do mandato do Chefe do Poder Executivo as operações de reestruturação e recomposição do principal de dívidas dos Estados, do Distrito Federal e dos Municípios."
+    },
+    {
      "id": "PDL 618/2026",
      "ementa": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de 2011, durante a XLII Reunião Ordinária do Conselho do Mercado Comum."
     }
@@ -293,21 +277,21 @@
  "senado_com": [
   {
    "hora": "10:00",
-   "sigla": "CAE",
-   "nome": "Assuntos Econômicos",
-   "tipo": "Votações (4 itens)"
-  },
-  {
-   "hora": "10:00",
    "sigla": "CCT",
    "nome": "Ciência, Tecnologia, Inovação e Informática",
    "tipo": "Votações (52 itens)"
   },
   {
+   "hora": "10:00",
+   "sigla": "CAE",
+   "nome": "Assuntos Econômicos",
+   "tipo": "Votações (8 itens)"
+  },
+  {
    "hora": "11:00",
    "sigla": "CDH",
    "nome": "Direitos Humanos e Legislação Participativa",
-   "tipo": "Votações (14 itens)"
+   "tipo": "Votações (17 itens)"
   },
   {
    "hora": "14:00",
@@ -319,7 +303,7 @@
    "hora": "14:00",
    "sigla": "CTFC",
    "nome": "Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
-   "tipo": "Votações (4 itens)"
+   "tipo": "Votações (6 itens)"
   },
   {
    "hora": "14:30",

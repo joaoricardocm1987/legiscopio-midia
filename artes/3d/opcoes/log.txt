@@ -1,0 +1,4 @@
+A: tarefa 01a1a8d2-4ba1-77e4-ab15-3421bf7bee8d
+B: ERRO 429 {"message":"NoMorePendingTasks: Upgrade your plan to queue up more tasks. You can manage your plan on https://www.meshy.ai/settings/subscription"}
+C: ERRO 429 {"message":"NoMorePendingTasks: Upgrade your plan to queue up more tasks. You can manage your plan on https://www.meshy.ai/settings/subscription"}
+A: SUCCEEDED créditos=3 erro=None
