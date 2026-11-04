@@ -1,0 +1,23 @@
+{
+ "cenas": [
+  {"fala": "PEC da Segurança em um minuto! O Senado aprovou a proposta por setenta e cinco votos a zero.",
+   "visual": {"tipo": "numero", "titulo": "Aprovada no Senado", "valor": "75 a 0", "rotulo": "2º turno · 3/11/2026"}},
+  {"fala": "No primeiro turno, foram setenta e três a zero. Eram necessários quarenta e nove dos oitenta e um senadores.",
+   "visual": {"tipo": "comparacao", "titulo": "Acima do mínimo", "antes": {"valor": "49", "rotulo": "votos exigidos"}, "depois": {"valor": "73 e 75", "rotulo": "votos a favor"}}},
+  {"fala": "O texto coloca o Sistema Único de Segurança Pública na Constituição, endurece as regras para líderes de facções e permite polícias municipais.",
+   "visual": {"tipo": "lista", "titulo": "O que muda", "itens": ["Susp na Constituição", "Regras duras para facções", "Polícias municipais"]}},
+  {"fala": "Metade do dinheiro dos fundos nacionais de segurança e penitenciário passa a ir, obrigatoriamente, para os estados.",
+   "visual": {"tipo": "numero", "titulo": "Repasse aos estados", "valor": "50%", "rotulo": "FNSP e Funpen · hoje, 40% no Funpen"}},
+  {"fala": "A redução da maioridade penal ficou de fora. Por trinta e oito a trinta e seis, as emendas foram separadas e vão tramitar como propostas próprias.",
+   "visual": {"tipo": "comparacao", "titulo": "Maioridade ficou fora", "antes": {"valor": "38", "rotulo": "separar"}, "depois": {"valor": "36", "rotulo": "não separar"}}},
+  {"fala": "Agora, falta a promulgação, em sessão do Congresso, ainda sem data. Emenda à Constituição não passa por sanção.",
+   "visual": {"tipo": "etapas", "titulo": "Próximo passo", "itens": ["Câmara: março", "Senado: 3/11", "Promulgação"], "atual": 2}},
+  {"fala": "Quer saber o que muda nas polícias municipais, no dinheiro do pré-sal e na maioridade penal? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+   "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Pré-sal, PRF e maioridade penal"}}
+ ],
+ "youtube": {
+  "titulo": "PEC da Segurança em 1 minuto: aprovada no Senado por 75 a 0 #Shorts",
+  "descricao": "O Senado aprovou a PEC da Segurança Pública por 73 a 0 e 75 a 0, e o texto vai à promulgação. A redução da maioridade penal ficou fora e vai tramitar separada. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #SegurançaPública",
+  "tags": ["Legiscópio", "PEC da Segurança", "PEC 18/2025", "maioridade penal", "segurança pública", "shorts"]
+ }
+}
