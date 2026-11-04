@@ -1,0 +1,4 @@
+B: tarefa 01a1a8d8-46a3-749a-8d1a-1e324fa5f2bb
+B: SUCCEEDED créditos=3 erro=None
+C: tarefa 01a1a8d8-983a-74db-8a64-ab8ed0f6bb54
+C: SUCCEEDED créditos=3 erro=None
