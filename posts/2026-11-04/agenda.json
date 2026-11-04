@@ -1,0 +1,348 @@
+{
+ "data": "2026-11-04",
+ "camara_plen": [
+  {
+   "id_evento": 83159,
+   "hora": "13:55",
+   "tipo": "Sessão Deliberativa",
+   "itens": [
+    {
+     "id": "PL 2879/2011",
+     "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a sinalização vertical da travessia de pedestre."
+    },
+    {
+     "id": "PL 1932/2021",
+     "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar que o abastecimento de medicamentos e de produtos para a saúde nos entes da federação será controlado por meio de sistema integrado de acompanhamento em tempo real do consumo e do estoque."
+    },
+    {
+     "id": "PL 3099/2019",
+     "ementa": "Institui no calendário nacional o \"Dia Nacional do Autocuidado\"."
+    },
+    {
+     "id": "PL 3220/2019",
+     "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações, altera a Lei nº 9.427, de 26 de dezembro de 1996, a Lei nº 9.472, de 16 de julho de 1997, e a Lei nº 14.947, de 2 de agosto de 2024, e dá outras providências."
+    },
+    {
+     "id": "PL 79/2020",
+     "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA)."
+    },
+    {
+     "id": "PL 2994/2020",
+     "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008, para dispor sobre o Turismo Colaborativo."
+    },
+    {
+     "id": "PL 2726/2022",
+     "ementa": "Institui a Política Nacional de Convivência Sociocultural e Economia Solidária (PNCS)."
+    },
+    {
+     "id": "PL 2374/2023",
+     "ementa": "Altera a Lei n.º 11.947, de 16 de junho de 2009 e a Lei n.º 14.113, de 25 de dezembro de 2020 de modo a assegurar que haja a inclusão das escolas comunitárias e o repasse direto dos recursos do Programa Nacional de Alimentação Escolar – PNAE e do Programa Dinheiro Direto na Escola – PDDE, e dá outras providências."
+    },
+    {
+     "id": "PL 5902/2023",
+     "ementa": "Altera o Decreto-Lei nº 2848, de 07 de dezembro de 1940 – Código Penal, para dispor sobre o uso de drones no espaço aéreo dos presídios."
+    },
+    {
+     "id": "PL 2475/2025",
+     "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal."
+    },
+    {
+     "id": "PL 3220/2025",
+     "ementa": "Institui o Dia Nacional da Consolidação da Independência do Brasil."
+    },
+    {
+     "id": "PL 4159/2025",
+     "ementa": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+     "id": "PL 5815/2025",
+     "ementa": "Institui e cria o Programa Nacional de Acompanhamento Anual Pediátrico/Médico e Emocional/Psicossocial da Infância e Adolescência - PNAPE, com o objetivo de colocar crianças e adolescentes, os filhos da sociedade brasileira, a salvo das mais  diversas forma de transtorno mental, negligência, discriminação, exploração, violência, automutilação, crueldade, opressão, tráfico humano e especialmente prevenindo abuso e exploração sexual (Lei Augusto Cury). A partir da Lei Augusto Cury o Estado brasileiro não será apenas o  responsável teórico pelo desenvolvimento saudável dos seus filhos, mas acompanhará anualmente este desenvolvimento! Os predadores sexuais, em destaque, saberão que o Estado Brasileiro estará de olho em suas crianças e adolescentes através de escuta ativa e periódica."
+    },
+    {
+     "id": "PL 5542/2026",
+     "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima."
+    },
+    {
+     "id": "PL 565/2020",
+     "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para tratar de ações de educação em saúde executadas pelos profissionais do Sistema Único de Saúde."
+    },
+    {
+     "id": "PL 5974/2023",
+     "ementa": "Dispõe sobre a permissão de reprodução adaptada de obras para pessoas com deficiência intelectual."
+    }
+   ]
+  }
+ ],
+ "camara_com": [
+  {
+   "hora": "09:00",
+   "sigla": "CREDN",
+   "nome": "Relações Exteriores e de Defesa Nacional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Mesa Redonda"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CSAUDE",
+   "nome": "Saúde",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Audiência Pública: o Projeto de Lei nº 5.960, de 2025, que institui o Marco de Fomento à Economia Digital no Brasil. (REQ 38/2026 CDE, do deputado Jadyel Alencar; REQ 39/2026 CDE, do deputado Vitor Lippi; REQ 40/2026 CDE, do deputado Jadyel Alencar) 1) MÁRCIA CARDADOR (Confirmada) Coordenadora Geral da Diretoria de Infraestrutura Nacional de Dados MInistério da Gestão e da Inovação em Serviços Públicos - MGI 2) REPRESENTANTE (a Confirmar) Ministério do Empreendedorismo, da Microempresa e Empresa de Pequeno Porte - MEMP 3) CHARLES BEZERRA DO PRADO (Confirmado) Coordenador do Centro de Inteliêngia Artificial INMETRO 4) ANDRÉ MARTINS (Confirmado) Presidente Instituto Brasileiro de Telecomunicações e Soluções Digitais - IBTD 5) ROSILDA PRATES (Confirmada) Presidente Associação de Empresas de Desenvolvimento Tecnológico Nacional e Inovação - P&D Brasil 6) THIAGO MARCÍLIO (Confirmado) Advogado Centro de Estudos em Governaça de IA - CEGIA 7) CONTROLADORIA GERAL DA UNIÃO (Declinou) Controladoria Geral da União"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Mesa Redonda: Reunião de articulação política, discussão da pauta e assuntos de interesse da Comissão"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CFFC",
+   "nome": "Fiscalização Financeira e Controle",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CDU",
+   "nome": "Desenvolvimento Urbano",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CFT",
+   "nome": "Finanças e Tributação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CME",
+   "nome": "Minas e Energia",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CCTI",
+   "nome": "Ciência, Tecnologia e Inovação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CDC",
+   "nome": "Defesa do Consumidor",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CVT",
+   "nome": "Viação e Transportes",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CCJC",
+   "nome": "Constituição e Justiça e de Cidadania",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Audiência Pública: Contribuições do Brasil à 31ª Conferência das Partes da Convenção-Quadro das Nações Unidas sobre Mudança do Clima (COP-31), em Antalya, Turquia REQ 60/26, do Deputado Nilto Tatto (PT-SP) Convidados: ALOISIO LOPES PEREIRA DE MELO (Presença confirmada ) Secretário da Secretaria Nacional de Mudança do Clima - SMC LILIAM BEATRIS CHAGAS DE MOURA (Presença confirmada - remota) Embaixadora do Ministério das Relações Exteriores - MRE TATIANA OLIVEIRA (Presença confirmada - remota) Líder de Estratégia Internacional WWF-Brasil e representante do Observatório do Clima - WWF-Brasil MAIARA FOLLY (Presença confirmada - remota) Diretora-Executiva da plataforma CIPÓ BEATRIZ PAGY (Presença confirmada - remota) Diretora-Executiva do Clima de Política CARMYNIE XAVIER (Não comparecerá) Especialista em Política Climática e Legislativo do Instituto Clima e Sociedade - ICS"
+  },
+  {
+   "hora": "13:29",
+   "sigla": "CCULT",
+   "nome": "Cultura",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "13:30",
+   "sigla": "CCULT",
+   "nome": "Cultura",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "13:30",
+   "sigla": "CTUR",
+   "nome": "Turismo",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CMULHER",
+   "nome": "Defesa dos Direitos da Mulher",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CLP",
+   "nome": "Legislação Participativa",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CPASF",
+   "nome": "Previdência e Assistência",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CDHMIR",
+   "nome": "Direitos Humanos, Minorias e Igualdade Racial",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CME,CDE",
+   "nome": "Minas e Energia",
+   "tipo": "Audiência Pública: o PL 5802/25 que institui instrumentos transitórios para a desconcentração da oferta no mercado brasileiro de gás natural, estabelece o GEGÁS e autoriza à ANP a aplicação de recursos Requerimentos nºs 67/2026-CME e 41/2026-CDE, do Deputado Arnaldo Jardim. CONVIDADOS: 1.Marcello Gomes Weydt, Diretor do Departamento de Gás Natural, da Secretaria Nacional de Petróleo, Gás Natural e Biocombustíveis do Ministério de Minas e Energia - MME; (CONFIRMADO) 2. Uallace Moreira Lima , Secretário de Desenvolvimento Industrial, Inovação, Comércio e Serviços do Ministério de Desenvolvimento, Indústria, Comércio e Serviços - MDIC; (CONFIRMADO) 3. Artur Watt, Diretor-Geral da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP ; (CONFIRMADO) 4. Álvaro Ferreira Tupiassu, Gerente Executivo de Gás e Energia da Petrobras; (CONFIRMADO) 5. Representante da Confederação Nacional da Indústria - CNI; 6. Rogério Cauby, Conselheiro Executivo do Movimento Brasil Competitivo - MBC; (CONFIRMADO) 7. Alberto Cotrim, Superintendente de Relações Institucionaise do Instituto Aço Brasil; (CONFIRMADO) 8. Ticiana Alvares, Diretora Técnica do Instituto de Estudos Estratégicos de Petróleo, Gás Natural e Biocombustíveis - INEEP; (CONFIRMADA) 9. Sr. Fernando Montera, Gerente Executivo de Regulação e Transporte de Gás Natural do Instituto Brasileiro de Petróleo e Gás- IBP; (CONFIRMADO) 10. Lucien Belmonte, Presidente Executivo da Associação Brasileira das Indústrias de Vidro - ABIVIDRO; (CONFIRMADO) 11. Sylvie D´Apote, Representante do Instituto de Petróleo, Gás e Energia - IPEGEN; (CONFIRMADA) 12. Rogério Manso, Presidente Executivo da Associação de Empresas de Transporte de Gás Natural por Gasoduto - ATGás; (CONFIRMADO) 13. Rodrigo Araújo, Diretor da Federação Única dos Petroleiros - FUP ; (CONFIRMADO) 14. Gustavo José Simões, Diretor da Associação de Engenheiros da Petrobrás - AEPET; (CONFIRMADO) 15. Helder Queiroz, Professor de Economia da Energia do Instituto de Economia da Universidade Federal do Rio de Janiero - UFRJ. (CONFIRMADO)"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CEXEXPLO",
+   "nome": "Violência Sexual Infantojuvenil",
+   "tipo": "Audiência Pública e Deliberação: Audiência pública e votação de requerimentos Tema: Plataformas digitais de compartilhamento de vídeos de conteúdo sexual envolvendo crianças e adolescentes, e debater a necessidade de aprimoramento legislativo para a apuração. Convidados: 1) ANDREA HOFFMANN FORMIGA (Confirmada) Presidente-Executiva Instituto Isabel 2) FABRÍCIO GUIMARÃES MADRUGA LOPES (Confirmado) Superintendente de Fiscalização Agência Nacional de Proteção de Dados - ANPD 3) LAÍS JORDY SANT'ANNA SOARES DE MATTOS (Confirmada) Advogada e Influencer Digital (Requerimento nº 24/2026, do Dep. Fernando Rodolfo) (Requerimento nº 26/2026, do Dep. Fernando Rodolfo)"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "PLP10821",
+   "nome": "Novo Enquadramento MEI",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMULHER",
+   "nome": "Defesa dos Direitos da Mulher",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "PEC03215",
+   "nome": "Maioridade Penal",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "16:00",
+   "sigla": "SUBPL657",
+   "nome": "Dispensa de Diagnóstico Clínico na Educação Especial",
+   "tipo": "Audiência Pública: O papel do laudo médico e da avaliação psicopedagógica na identificação das necessidades e no apoio ao desenvolvimento escolar dos alunos. 1) FERNANADA LOUBACK (Participação confirmada) - Vereadora de Niterói/RJ, Vice-Governadora eleita do Rio de Janeiro e mãe atípica; 2) LILIANE GUETHE (Participação confirmada) - Psicopedagoga, especialista em Análise do Comportamento Aplicada; 3) VIVIAN BORGES (Participação confirmada) - Psicopedagoga, neuropsicopedagoga, especialista em Transtornos do Neurodesenvolvimento e Aprendizagem e mestre em educação; 4) JAMILE BENITE PALMA LOPES (Participação confirmada) - Fisioterapeuta, Diretora do Serviço de Saúde da APAE de Taquaritinga/SP e Coordenadora de Saúde e Prevenção da Federação das APAEs do Estado de São Paulo. (REQ 66/2026 CE, da Deputada Soraya Santos)"
+  }
+ ],
+ "senado_plen": [
+  {
+   "hora": "14:00",
+   "tipo": "Sessão deliberativa ordinária",
+   "casa": "SF",
+   "itens": [
+    {
+     "id": "PL 6461/2019",
+     "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+    },
+    {
+     "id": "PL 2234/2024",
+     "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para adequar a obrigatoriedade à educação básica à forma disposta na Constituição Federal."
+    },
+    {
+     "id": "PDL 344/2024",
+     "ementa": "Aprova o texto do Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Croácia sobre Cooperação na Área de Educação, assinado em Zagreb, em 14 de fevereiro de 2023."
+    },
+    {
+     "id": "PDL 359/2024",
+     "ementa": "Aprova o texto do Protocolo, de 30 de novembro de 1972, para Alterar a Convenção Assinada em Paris em 22 de novembro de 1928 sobre Exposições Internacionais, alterado pelas Emendas de 24 de junho de 1982 e de 31 de maio de 1988."
+    },
+    {
+     "id": "PDL 618/2026",
+     "ementa": "Aprova o texto do Protocolo de Montevidéu sobre Compromisso com a Democracia no Mercosul (Ushuaia II), assinado em Montevidéu, em 20 de dezembro de 2011, durante a XLII Reunião Ordinária do Conselho do Mercado Comum."
+    }
+   ]
+  }
+ ],
+ "senado_com": [
+  {
+   "hora": "10:00",
+   "sigla": "CAE",
+   "nome": "Assuntos Econômicos",
+   "tipo": "Votações (4 itens)"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CCT",
+   "nome": "Ciência, Tecnologia, Inovação e Informática",
+   "tipo": "Votações (52 itens)"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CDH",
+   "nome": "Direitos Humanos e Legislação Participativa",
+   "tipo": "Votações (14 itens)"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CRA",
+   "nome": "Agricultura e Reforma Agrária",
+   "tipo": "Votações (7 itens)"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CTFC",
+   "nome": "Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+   "tipo": "Votações (4 itens)"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMMPV 1379/2026",
+   "nome": "Mista da Medida Provisória n° 1379, de 2026",
+   "tipo": "Reunião"
+  },
+  {
+   "hora": "15:00",
+   "sigla": "CTFC",
+   "nome": "Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+   "tipo": "Audiência pública"
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png",
+  "agenda_3.png",
+  "agenda_4.png",
+  "agenda_5.png",
+  "agenda_6.png",
+  "agenda_7.png",
+  "agenda_8.png"
+ ],
+ "semana_arquivos": []
+}
