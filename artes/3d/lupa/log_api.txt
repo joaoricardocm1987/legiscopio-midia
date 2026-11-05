@@ -1,0 +1,92 @@
+/v1/image-to-3d/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836735594}
+  url em model_url
+  baixado tarefa_image-to-3d_model_url.glb (21600 KB)
+  url em model_urls.glb
+  baixado tarefa_image-to-3d_model_urls_glb.glb (21600 KB)
+  url em thumbnail_url
+  baixado tarefa_image-to-3d_thumbnail_url.png (105 KB)
+  url em texture_urls.0.base_color
+  baixado tarefa_image-to-3d_texture_urls_0_base_color.png (17632 KB)
+  url em texture_urls.0.metallic
+  baixado tarefa_image-to-3d_texture_urls_0_metallic.png (18 KB)
+  url em texture_urls.0.roughness
+  baixado tarefa_image-to-3d_texture_urls_0_roughness.png (966 KB)
+  url em texture_urls.0.normal
+  baixado tarefa_image-to-3d_texture_urls_0_normal.png (10888 KB)
+/v2/text-to-3d/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "mode": "preview", "progress": 100, "task_error": null, "created_at": 1793836735594}
+  url em model_urls.glb
+  baixado tarefa_text-to-3d_model_urls_glb.glb (21600 KB)
+  url em thumbnail_url
+  baixado tarefa_text-to-3d_thumbnail_url.png (105 KB)
+  url em texture_urls.0.base_color
+  baixado tarefa_text-to-3d_texture_urls_0_base_color.png (17632 KB)
+  url em texture_urls.0.metallic
+  baixado tarefa_text-to-3d_texture_urls_0_metallic.png (18 KB)
+  url em texture_urls.0.roughness
+  baixado tarefa_text-to-3d_texture_urls_0_roughness.png (966 KB)
+  url em texture_urls.0.normal
+  baixado tarefa_text-to-3d_texture_urls_0_normal.png (10888 KB)
+/v1/multi-image-to-3d/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836735594}
+  url em model_url
+  baixado tarefa_multi-image-to-3d_model_url.glb (21600 KB)
+  url em model_urls.glb
+  baixado tarefa_multi-image-to-3d_model_urls_glb.glb (21600 KB)
+  url em thumbnail_url
+  baixado tarefa_multi-image-to-3d_thumbnail_url.png (105 KB)
+  url em texture_urls.0.base_color
+  baixado tarefa_multi-image-to-3d_texture_urls_0_base_color.png (17632 KB)
+  url em texture_urls.0.metallic
+  baixado tarefa_multi-image-to-3d_texture_urls_0_metallic.png (18 KB)
+  url em texture_urls.0.roughness
+  baixado tarefa_multi-image-to-3d_texture_urls_0_roughness.png (966 KB)
+  url em texture_urls.0.normal
+  baixado tarefa_multi-image-to-3d_texture_urls_0_normal.png (10888 KB)
+/v1/rigging/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836735594}
+  url em result.rigged_character_fbx_url
+  baixado tarefa_rigging_result_rigged_character_fbx_url.fbx (24922 KB)
+  url em result.rigged_character_glb_url
+  baixado tarefa_rigging_result_rigged_character_glb_url.glb (24579 KB)
+  url em result.basic_animations.walking_glb_url
+  baixado tarefa_rigging_result_basic_animations_walking_glb_url.glb (64 KB)
+  url em result.basic_animations.walking_armature_glb_url
+  baixado tarefa_rigging_result_basic_animations_walking_armature_glb_url.glb (24579 KB)
+  url em result.basic_animations.running_glb_url
+  baixado tarefa_rigging_result_basic_animations_running_glb_url.glb (52 KB)
+  url em result.basic_animations.running_armature_glb_url
+  baixado tarefa_rigging_result_basic_animations_running_armature_glb_url.glb (24579 KB)
+/v1/animations/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836735594}
+/v1/image-to-image/01a1a900-5701-703f-b7c3-5af8ced3eef1: 404 {"message":"Task not found"}
+/v1/text-to-image/01a1a900-5701-703f-b7c3-5af8ced3eef1: 404 {"message":"Task not found"}
+/v1/retexture/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836735594}
+  url em model_url
+  baixado tarefa_retexture_model_url.glb (21600 KB)
+  url em model_urls.glb
+  baixado tarefa_retexture_model_urls_glb.glb (21600 KB)
+  url em thumbnail_url
+  baixado tarefa_retexture_thumbnail_url.png (105 KB)
+  url em texture_urls.0.base_color
+  baixado tarefa_retexture_texture_urls_0_base_color.png (17632 KB)
+  url em texture_urls.0.metallic
+  baixado tarefa_retexture_texture_urls_0_metallic.png (18 KB)
+  url em texture_urls.0.roughness
+  baixado tarefa_retexture_texture_urls_0_roughness.png (966 KB)
+  url em texture_urls.0.normal
+  baixado tarefa_retexture_texture_urls_0_normal.png (10888 KB)
+/v1/remesh/01a1a900-5701-703f-b7c3-5af8ced3eef1: 200 {"id": "01a1a900-5701-703f-b7c3-5af8ced3eef1", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836735594}
+  url em model_urls.glb
+  baixado tarefa_remesh_model_urls_glb.glb (21600 KB)
+  url em thumbnail_url
+  baixado tarefa_remesh_thumbnail_url.png (105 KB)
+  url em texture_urls.0.base_color
+  baixado tarefa_remesh_texture_urls_0_base_color.png (17632 KB)
+  url em texture_urls.0.metallic
+  baixado tarefa_remesh_texture_urls_0_metallic.png (18 KB)
+  url em texture_urls.0.roughness
+  baixado tarefa_remesh_texture_urls_0_roughness.png (966 KB)
+  url em texture_urls.0.normal
+  baixado tarefa_remesh_texture_urls_0_normal.png (10888 KB)
+LISTA /v1/image-to-3d: 2 tarefas
+  - {"id": "ac49a399-1659-5633-b61f-4d203f7d7642", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836495189}
+  - {"id": "c90fa74f-e215-4a62-8351-01e9bd674005", "status": "SUCCEEDED", "progress": 100, "task_error": null, "created_at": 1793836439755}
+LISTA /v1/rigging: 0 tarefas
+LISTA /v1/animations: 0 tarefas
