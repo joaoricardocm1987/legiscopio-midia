@@ -1,4 +1,7 @@
-"""YouTube Short diário do Legiscópio (1080x1920, ~1 min): resumo do vídeo longo.
+"""YouTube Short diário do Legiscópio (1080x1920, ~1 min) e Resumo de ~2 min para Reels/TikTok.
+
+Também gera o RESUMO de ~2 min (Reels do Instagram/Facebook e TikTok) quando recebe o caminho de
+videos/<data>/resumo.json (mesmo formato do short.json; sai resumo.mp4, selo "RESUMO EM 2 MINUTOS").
 
 Lê videos/<data>/short.json (voz e velocidade vêm do video.json da mesma pasta, se existir) e gera:
   short.mp4   vídeo vertical com narração, Lupa 2.0, visuais e legendas
@@ -51,14 +54,15 @@ def painel_vertical():
         vl.PAINEL, vl.titulo_painel = antigo, tit
 
 
-def fundo_base():
+def fundo_base(selo="RESUMO EM 1 MINUTO"):
     img = Image.new("RGB", (W, H), vl.FUNDO)
     d = ImageDraw.Draw(img)
     lg = vl.logo(80)
     if lg:
         img.paste(lg, (70, 110), lg)
-    d.rounded_rectangle([70, 215, 470, 265], radius=14, fill=vl.VERDE)
-    d.text((270, 240), "RESUMO EM 1 MINUTO", font=vl.MO(24), fill=vl.LIMA, anchor="mm")
+    larg = max(400, int(d.textlength(selo, font=vl.MO(24))) + 60)
+    d.rounded_rectangle([70, 215, 70 + larg, 265], radius=14, fill=vl.VERDE)
+    d.text((70 + larg // 2, 240), selo, font=vl.MO(24), fill=vl.LIMA, anchor="mm")
     d.text((W - 70, 160), "legiscopio.com.br", font=vl.MO(26), fill=vl.TEXTO2, anchor="rs")
     d.text((W - 70, 200), "apoia.se/legiscopio", font=vl.MO(26), fill=vl.TEXTO2, anchor="rs")
     return img
@@ -148,26 +152,32 @@ def gerar(caminho_json):
     # aceita video.json ou short.json; nos dias sem vídeo longo só existe o short.json
     cfg = json.loads(vj.read_text(encoding="utf-8")) if vj.exists() else {"voz": "pt-BR-FranciscaNeural",
                                                                            "velocidade": "-5%"}
-    arq = pasta / "short.json"
-    sh = json.loads(arq.read_text(encoding="utf-8")) if arq.exists() else cfg.get("short")
+    saida = "resumo" if p.name == "resumo.json" else "short"
+    arq = pasta / f"{saida}.json"
+    if arq.exists():
+        sh = json.loads(arq.read_text(encoding="utf-8"))
+    else:
+        sh = cfg.get("short") if saida == "short" else None
     if not sh or not sh.get("cenas"):
-        print("sem short.json em", pasta)
+        print(f"sem {saida}.json em", pasta)
         return
     bruto = json.dumps({"voz": cfg.get("voz"), "velocidade": cfg.get("velocidade"), "short": sh},
                        sort_keys=True, ensure_ascii=False).encode()
+    if saida != "short":
+        bruto += saida.encode()
     assinatura = hashlib.sha256(bruto + VERSAO.encode() + vl.VERSAO.encode()
                                 + str(bool(os.environ.get("LEGIS_FAKE_TTS"))).encode()).hexdigest()
-    marca = pasta / ".short_render"
-    destino = pasta / "short.mp4"
+    marca = pasta / f".{saida}_render"
+    destino = pasta / f"{saida}.mp4"
     if marca.exists() and marca.read_text().strip() == assinatura and destino.exists():
-        print("short sem mudanças", pasta)
+        print(f"{saida} sem mudanças", pasta)
         return
     if destino.exists() and vl.ja_passou(pasta.name):
-        print("short de data passada já existe; não regera", pasta)
+        print(f"{saida} de data passada já existe; não regera", pasta)
         return
     voz = cfg.get("voz", "pt-BR-FranciscaNeural")
     taxa = cfg.get("velocidade", "+0%")
-    tmp = pasta / "_tmp_short"
+    tmp = pasta / f"_tmp_{saida}"
     tmp.mkdir(exist_ok=True)
 
     cenas = []
@@ -175,7 +185,7 @@ def gerar(caminho_json):
         amostras, palavras = vl.tts(c["fala"], voz, taxa, tmp, i)
         dur = len(amostras) / 2 / SR
         cenas.append(dict(c, amostras=amostras, palavras=palavras, dur=dur + PAUSA))
-        print(f"short cena {i + 1}/{len(sh['cenas'])}: {dur:.1f}s")
+        print(f"{saida} cena {i + 1}/{len(sh['cenas'])}: {dur:.1f}s")
 
     silencio = bytes(int(PAUSA * SR) * 2)
     wav_total = tmp / "narracao.wav"
@@ -191,7 +201,7 @@ def gerar(caminho_json):
            "-c:v", "libx264", "-preset", "veryfast", "-tune", "animation", "-crf", "22", "-pix_fmt", "yuv420p",
            "-c:a", "aac", "-b:a", "128k", "-shortest", "-movflags", "+faststart", str(destino)]
     proc = subprocess.Popen(cmd, stdin=subprocess.PIPE)
-    base = fundo_base()
+    base = fundo_base(sh.get("selo") or ("RESUMO EM 2 MINUTOS" if saida == "resumo" else "RESUMO EM 1 MINUTO"))
     qg, t_glob = 0, 0.0
     for i, c in enumerate(cenas):
         dur = c["dur"]
@@ -242,8 +252,9 @@ def gerar(caminho_json):
     shutil.rmtree(tmp, ignore_errors=True)
     marca.write_text(assinatura + "\n")
     print(f"ok {destino} ({t_glob:.1f} s)")
-    if t_glob > 62:
-        print(f"AVISO: short com {t_glob:.1f}s (meta: até 60s)")
+    limite = 140 if saida == "resumo" else 62
+    if t_glob > limite:
+        print(f"AVISO: {saida} com {t_glob:.1f}s (meta: até {limite - 2}s)")
 
 
 if __name__ == "__main__":

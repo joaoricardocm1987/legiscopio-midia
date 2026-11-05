@@ -1,4 +1,4 @@
-# Vídeos de AAAA-MM-DD: explicativo longo + Short de 1 min (resumo do vídeo longo) + capítulos
+# Vídeos de AAAA-MM-DD: explicativo longo + Short de 1 min + Resumo de 2 min (Reels/TikTok) + capítulos
 # MODELO: copie para artes/src/video_<data>.py trocando AAAA-MM-DD pela data.
 import subprocess
 import sys
@@ -14,5 +14,6 @@ import capitulos  # noqa: E402
 
 video_longo.gerar(VIDEO)
 short_video.gerar(VIDEO)
+short_video.gerar(VIDEO.with_name("resumo.json"))  # Resumo de ~2 min (só se resumo.json existir)
 capitulos.gerar(VIDEO)
 subprocess.run(["git", "add", str(VIDEO.parent)], check=True, cwd=ROOT)
