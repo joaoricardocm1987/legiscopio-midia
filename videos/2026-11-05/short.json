@@ -1,0 +1,23 @@
+{
+ "cenas": [
+  {"fala": "Dívidas no fim do mandato em um minuto! O Senado liberou a renegociação nos últimos cento e vinte dias de governo.",
+   "visual": {"tipo": "numero", "titulo": "Aprovado no Senado", "valor": "120 dias", "rotulo": "PRS 50/2026 · 4/11/2026"}},
+  {"fala": "Hoje, uma resolução de 2001 proíbe estados e municípios de contratar crédito nesse período, com poucas exceções.",
+   "visual": {"tipo": "comparacao", "titulo": "Antes e depois", "antes": {"valor": "Proibido", "rotulo": "crédito nos 120 dias finais"}, "depois": {"valor": "Permitido", "rotulo": "só reestruturar dívida"}}},
+  {"fala": "Agora, pode trocar dívida antiga por nova. Mas sem dinheiro novo para gastar, e só para pagar o valor principal, sem juros e encargos.",
+   "visual": {"tipo": "lista", "titulo": "As regras", "itens": ["Só dívida antiga", "Sem dinheiro novo", "Sem juros e encargos"]}},
+  {"fala": "A nova dívida, trazida a valores de hoje, não pode custar mais que a antiga. E o custo não pode ser empurrado para o próximo governo.",
+   "visual": {"tipo": "texto", "titulo": "As travas", "texto": "Valor presente igual ou menor. Sem empurrar custos para o sucessor."}},
+  {"fala": "Segundo o relator, pelo menos doze estados podem se beneficiar.",
+   "visual": {"tipo": "numero", "titulo": "Quem ganha", "valor": "12 estados", "rotulo": "no mínimo, segundo o relator"}},
+  {"fala": "Como é uma resolução do Senado, o texto não passa pela Câmara nem pela sanção. Falta só a promulgação.",
+   "visual": {"tipo": "etapas", "titulo": "Próximo passo", "itens": ["CAE: 4/11", "Plenário: 4/11", "Promulgação"], "atual": 2}},
+  {"fala": "Quer saber por que a regra existe, o que precisa ser publicado e quando vale para os prefeitos? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!",
+   "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "Transparência, prazos e prefeitos"}}
+ ],
+ "youtube": {
+  "titulo": "Dívidas no fim do mandato em 1 minuto: o que o Senado liberou #Shorts",
+  "descricao": "O Senado aprovou o PRS 50/2026, que permite a estados e municípios renegociar dívidas nos últimos 120 dias do mandato, desde que a nova dívida não custe mais. O texto vai à promulgação. Vídeo completo no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato\nBaixe o app do Legiscópio (Android): legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Economia",
+  "tags": ["Legiscópio", "PRS 50/2026", "renegociação de dívidas", "fim de mandato", "dívida dos estados", "shorts"]
+ }
+}
