@@ -1,0 +1,80 @@
+{
+ "data": "2026-11-05",
+ "camara_plen": [
+  {
+   "id_evento": 83188,
+   "hora": "10:00",
+   "tipo": "Sessão Deliberativa",
+   "itens": [
+    {
+     "id": "PL 2879/2011",
+     "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que institui o Código de Trânsito Brasileiro, para dispor sobre a sinalização vertical da travessia de pedestre."
+    },
+    {
+     "id": "PL 1932/2021",
+     "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para determinar que o abastecimento de medicamentos e de produtos para a saúde nos entes da federação será controlado por meio de sistema integrado de acompanhamento em tempo real do consumo e do estoque."
+    },
+    {
+     "id": "PL 3099/2019",
+     "ementa": "Institui no calendário nacional o \"Dia Nacional do Autocuidado\"."
+    },
+    {
+     "id": "PL 79/2020",
+     "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA)."
+    },
+    {
+     "id": "PL 2994/2020",
+     "ementa": "Altera a Lei nº 11.771, de 17 de setembro de 2008, para dispor sobre o Turismo Colaborativo."
+    },
+    {
+     "id": "PL 2726/2022",
+     "ementa": "Institui a Política Nacional de Convivência Sociocultural e Economia Solidária (PNCS)."
+    },
+    {
+     "id": "PL 2374/2023",
+     "ementa": "Altera a Lei n.º 11.947, de 16 de junho de 2009 e a Lei n.º 14.113, de 25 de dezembro de 2020 de modo a assegurar que haja a inclusão das escolas comunitárias e o repasse direto dos recursos do Programa Nacional de Alimentação Escolar – PNAE e do Programa Dinheiro Direto na Escola – PDDE, e dá outras providências."
+    },
+    {
+     "id": "PL 2475/2025",
+     "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal."
+    },
+    {
+     "id": "PL 4159/2025",
+     "ementa": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+     "id": "PL 5542/2026",
+     "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima."
+    },
+    {
+     "id": "PRC 113/2023",
+     "ementa": "Dá ao túnel que conecta os anexos II e IV da Câmara dos Deputados a denominação José Richa."
+    },
+    {
+     "id": "PL 565/2020",
+     "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990, para tratar de ações de educação em saúde executadas pelos profissionais do Sistema Único de Saúde."
+    },
+    {
+     "id": "PL 5974/2023",
+     "ementa": "Dispõe sobre a permissão de reprodução adaptada de obras para pessoas com deficiência intelectual."
+    }
+   ]
+  }
+ ],
+ "camara_com": [],
+ "senado_plen": [],
+ "senado_com": [
+  {
+   "hora": "14:00",
+   "sigla": "CMMPV 1379/2026",
+   "nome": "Mista da Medida Provisória n° 1379, de 2026",
+   "tipo": "Votações (1 itens)"
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png",
+  "agenda_3.png"
+ ],
+ "semana_arquivos": []
+}

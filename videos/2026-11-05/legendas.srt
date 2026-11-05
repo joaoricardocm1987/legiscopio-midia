@@ -1,0 +1,723 @@
+1
+00:00:00,102 --> 00:00:03,181
+Governadores e prefeitos no fim do mandato vão poder
+
+2
+00:00:03,181 --> 00:00:06,552
+trocar dívidas caras por dívidas mais baratas.
+
+3
+00:00:06,552 --> 00:00:09,421
+Até agora, isso era proibido nos últimos quatro
+
+4
+00:00:09,421 --> 00:00:10,776
+meses de governo.
+
+5
+00:00:10,776 --> 00:00:13,947
+O Senado aprovou a mudança nesta quarta-feira, quatro
+
+6
+00:00:13,947 --> 00:00:14,921
+de novembro.
+
+7
+00:00:14,921 --> 00:00:17,855
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+8
+00:00:17,855 --> 00:00:18,907
+vai entender:
+
+9
+00:00:18,907 --> 00:00:21,763
+o que era proibido, o que passa a ser permitido
+
+10
+00:00:21,763 --> 00:00:24,460
+e quais travas o texto criou para que a conta não
+
+11
+00:00:24,460 --> 00:00:27,120
+sobre para o próximo governo.
+
+12
+00:00:27,672 --> 00:00:30,948
+O texto aprovado é o Projeto de Resolução do Senado
+
+13
+00:00:30,948 --> 00:00:33,741
+número cinquenta, de 2026.
+
+14
+00:00:33,741 --> 00:00:37,267
+Ele permite que estados, o Distrito Federal e municípios
+
+15
+00:00:37,267 --> 00:00:40,280
+renegociem dívidas nos cento e vinte dias anteriores
+
+16
+00:00:40,280 --> 00:00:43,464
+ao fim do mandato do governador ou do prefeito.
+
+17
+00:00:43,464 --> 00:00:46,464
+Mas só para reestruturar dívidas que já existem,
+
+18
+00:00:46,464 --> 00:00:49,457
+sem pegar dinheiro novo para gastar.
+
+19
+00:00:50,010 --> 00:00:51,868
+A tramitação foi rápida.
+
+20
+00:00:51,868 --> 00:00:54,921
+O projeto foi apresentado no fim de agosto e chegou
+
+21
+00:00:54,921 --> 00:00:58,158
+à Comissão de Assuntos Econômicos, a CAE, em trinta
+
+22
+00:00:58,158 --> 00:00:59,065
+de outubro.
+
+23
+00:00:59,065 --> 00:01:02,592
+Na terça, três de novembro, o relatório foi apresentado
+
+24
+00:01:02,592 --> 00:01:05,658
+e houve pedido de vista coletiva, que é mais tempo
+
+25
+00:01:05,658 --> 00:01:07,526
+para os senadores analisarem.
+
+26
+00:01:07,526 --> 00:01:10,618
+Na quarta de manhã, a CAE aprovou o texto e um pedido
+
+27
+00:01:10,618 --> 00:01:11,658
+de urgência.
+
+28
+00:01:11,658 --> 00:01:13,736
+À noite, o Plenário aprovou.
+
+29
+00:01:13,736 --> 00:01:16,403
+Agora, falta a promulgação.
+
+30
+00:01:16,956 --> 00:01:19,827
+Para entender a mudança, vale explicar um termo.
+
+31
+00:01:19,827 --> 00:01:23,459
+Operação de crédito é, de forma simples, um empréstimo
+
+32
+00:01:23,459 --> 00:01:26,196
+ou financiamento que o governo contrata, com bancos
+
+33
+00:01:26,196 --> 00:01:28,235
+ou com outras instituições.
+
+34
+00:01:28,235 --> 00:01:31,235
+Assim como uma família, um estado pode ter dívidas
+
+35
+00:01:31,235 --> 00:01:34,538
+antigas com juros altos e querer trocá-las por outras
+
+36
+00:01:34,538 --> 00:01:36,894
+com condições melhores.
+
+37
+00:01:37,446 --> 00:01:40,578
+A regra que vale hoje está numa resolução do Senado
+
+38
+00:01:40,578 --> 00:01:43,778
+de 2001, a Resolução quarenta e três.
+
+39
+00:01:43,778 --> 00:01:47,015
+Ela proíbe estados e municípios de contratar operações
+
+40
+00:01:47,015 --> 00:01:49,699
+de crédito nos cento e vinte dias anteriores ao
+
+41
+00:01:49,699 --> 00:01:52,291
+fim do mandato, com poucas exceções.
+
+42
+00:01:52,291 --> 00:01:55,791
+Na justificativa do projeto, o próprio autor reconhece
+
+43
+00:01:55,791 --> 00:01:58,593
+que essa restrição nos meses finais é necessária
+
+44
+00:01:58,593 --> 00:02:01,871
+para preservar a responsabilidade fiscal.
+
+45
+00:02:02,424 --> 00:02:04,400
+Aqui entra uma curiosidade.
+
+46
+00:02:04,400 --> 00:02:07,348
+Por que essa regra é do Senado, e não uma lei votada
+
+47
+00:02:07,348 --> 00:02:08,808
+pelas duas Casas?
+
+48
+00:02:08,808 --> 00:02:11,835
+A Constituição, no artigo cinquenta e dois, diz
+
+49
+00:02:11,835 --> 00:02:15,361
+que cabe só ao Senado definir os limites e as condições
+
+50
+00:02:15,361 --> 00:02:18,361
+para as operações de crédito de estados, Distrito
+
+51
+00:02:18,361 --> 00:02:20,137
+Federal e municípios.
+
+52
+00:02:20,137 --> 00:02:23,058
+Por isso, o texto não passa pela Câmara e não vai
+
+53
+00:02:23,058 --> 00:02:24,650
+à sanção do presidente:
+
+54
+00:02:24,650 --> 00:02:27,569
+ele é promulgado pelo próprio Senado.
+
+55
+00:02:28,122 --> 00:02:31,083
+Com a mudança, a proibição continua, mas ganha uma
+
+56
+00:02:31,083 --> 00:02:32,269
+nova exceção.
+
+57
+00:02:32,269 --> 00:02:35,533
+Antes, nos cento e vinte dias finais, a renegociação
+
+58
+00:02:35,533 --> 00:02:37,191
+também ficava travada.
+
+59
+00:02:37,191 --> 00:02:40,388
+Agora, ela passa a ser permitida, desde que sirva
+
+60
+00:02:40,388 --> 00:02:43,585
+apenas para reestruturar e recompor o valor principal
+
+61
+00:02:43,585 --> 00:02:46,019
+de dívidas que já existem.
+
+62
+00:02:46,572 --> 00:02:49,654
+O texto deixa claro o que pode e o que não pode.
+
+63
+00:02:49,654 --> 00:02:53,114
+Segundo a Agência Senado, o dinheiro da nova operação
+
+64
+00:02:53,114 --> 00:02:56,325
+só pode pagar o valor principal da dívida antiga,
+
+65
+00:02:56,325 --> 00:02:58,588
+sem incluir juros e encargos.
+
+66
+00:02:58,588 --> 00:03:01,364
+E não pode haver dinheiro novo de uso livre, ou
+
+67
+00:03:01,364 --> 00:03:04,627
+seja, nada de usar a operação para bancar outras
+
+68
+00:03:04,627 --> 00:03:06,293
+despesas.
+
+69
+00:03:06,846 --> 00:03:09,901
+A trava principal é o chamado valor presente.
+
+70
+00:03:09,901 --> 00:03:11,151
+Funciona assim:
+
+71
+00:03:11,151 --> 00:03:14,533
+todas as parcelas futuras da nova dívida são convertidas
+
+72
+00:03:14,533 --> 00:03:16,046
+para valores de hoje.
+
+73
+00:03:16,046 --> 00:03:18,915
+Esse total não pode ser maior que o da dívida que
+
+74
+00:03:18,915 --> 00:03:20,704
+está sendo substituída.
+
+75
+00:03:20,704 --> 00:03:23,928
+Na prática, a troca só é permitida se a nova dívida
+
+76
+00:03:23,928 --> 00:03:26,591
+não custar mais do que a antiga.
+
+77
+00:03:27,144 --> 00:03:29,515
+Outra trava mira o próximo governo.
+
+78
+00:03:29,515 --> 00:03:32,739
+Segundo a Gazeta do Povo e o Correio Braziliense,
+
+79
+00:03:32,739 --> 00:03:35,936
+o texto impede cronogramas que transfiram, de forma
+
+80
+00:03:35,936 --> 00:03:39,449
+artificial, os custos para a administração seguinte.
+
+81
+00:03:39,449 --> 00:03:42,055
+Esse é justamente o risco que a proibição de fim
+
+82
+00:03:42,055 --> 00:03:44,921
+de mandato sempre tentou evitar.
+
+83
+00:03:45,474 --> 00:03:48,990
+No Plenário, foi aprovada uma emenda sobre transparência.
+
+84
+00:03:48,990 --> 00:03:52,490
+Antes de assinar o contrato, o governo precisa publicar
+
+85
+00:03:52,490 --> 00:03:55,529
+no seu site oficial a metodologia e os cálculos
+
+86
+00:03:55,529 --> 00:03:58,740
+que comparam a dívida antiga com a nova, os cronogramas
+
+87
+00:03:58,740 --> 00:04:01,700
+anuais de pagamento e as mudanças importantes nas
+
+88
+00:04:01,700 --> 00:04:04,740
+condições financeiras, nas garantias e nos riscos
+
+89
+00:04:04,740 --> 00:04:06,395
+da operação.
+
+90
+00:04:06,948 --> 00:04:07,948
+Rapidinho:
+
+91
+00:04:07,948 --> 00:04:11,001
+se este vídeo está te ajudando, deixa o seu like,
+
+92
+00:04:11,001 --> 00:04:14,159
+se inscreve no canal e ativa o sininho pra não perder
+
+93
+00:04:14,159 --> 00:04:15,306
+os próximos.
+
+94
+00:04:15,306 --> 00:04:17,717
+Agora, vamos continuar!
+
+95
+00:04:18,270 --> 00:04:21,010
+As outras exigências continuam valendo.
+
+96
+00:04:21,010 --> 00:04:24,167
+Estados e municípios já precisam cumprir os critérios
+
+97
+00:04:24,167 --> 00:04:26,957
+técnicos da Secretaria do Tesouro Nacional para
+
+98
+00:04:26,957 --> 00:04:29,996
+contratar crédito, e o texto mantém essas regras
+
+99
+00:04:29,996 --> 00:04:32,903
+e as demais exigências legais.
+
+100
+00:04:33,455 --> 00:04:36,169
+Agora, uma conta feita pelo Legiscópio.
+
+101
+00:04:36,169 --> 00:04:39,775
+Por causa de uma emenda constitucional de 2021,
+
+102
+00:04:39,775 --> 00:04:43,696
+os governadores eleitos em 2026 tomam posse em seis
+
+103
+00:04:43,696 --> 00:04:46,038
+de janeiro de 2027.
+
+104
+00:04:46,038 --> 00:04:49,103
+Contando cento e vinte dias para trás, a janela
+
+105
+00:04:49,103 --> 00:04:52,077
+de restrição dos atuais governadores começou por
+
+106
+00:04:52,077 --> 00:04:53,932
+volta de oito de setembro.
+
+107
+00:04:53,932 --> 00:04:57,577
+Ou seja, o projeto foi apresentado poucos dias antes
+
+108
+00:04:57,577 --> 00:04:58,814
+de a janela abrir.
+
+109
+00:04:58,814 --> 00:05:01,643
+E, a partir de hoje, restam cerca de sessenta e
+
+110
+00:05:01,643 --> 00:05:04,025
+dois dias até a posse.
+
+111
+00:05:04,578 --> 00:05:07,173
+Para os prefeitos, a situação é outra.
+
+112
+00:05:07,173 --> 00:05:10,923
+Os mandatos atuais terminam no fim de 2028.
+
+113
+00:05:10,923 --> 00:05:14,225
+Pela mesma conta, a janela dos municípios só começa
+
+114
+00:05:14,225 --> 00:05:16,423
+em setembro de 2028.
+
+115
+00:05:16,423 --> 00:05:19,765
+As notícias consultadas não mencionam prazo de validade
+
+116
+00:05:19,765 --> 00:05:20,975
+para a nova regra.
+
+117
+00:05:20,975 --> 00:05:24,147
+Se ela for permanente, valerá também nesse período
+
+118
+00:05:24,147 --> 00:05:26,915
+e nos próximos fins de mandato.
+
+119
+00:05:27,468 --> 00:05:29,626
+Sobre quem pode se beneficiar:
+
+120
+00:05:29,626 --> 00:05:32,613
+segundo o relator, pelo menos doze estados podem
+
+121
+00:05:32,613 --> 00:05:34,115
+ser beneficiados.
+
+122
+00:05:34,115 --> 00:05:37,260
+A proposta tem o apoio do Comsefaz, o comitê que
+
+123
+00:05:37,260 --> 00:05:40,023
+reúne os secretários estaduais de Fazenda.
+
+124
+00:05:40,023 --> 00:05:42,589
+E uma senadora que defendeu o texto afirmou que
+
+125
+00:05:42,589 --> 00:05:44,931
+alguns estados já estão negociando.
+
+126
+00:05:44,931 --> 00:05:47,865
+As fontes não informam quais estados nem o valor
+
+127
+00:05:47,865 --> 00:05:50,261
+das dívidas envolvidas.
+
+128
+00:05:50,814 --> 00:05:52,988
+Os dois lados dessa discussão.
+
+129
+00:05:52,988 --> 00:05:55,725
+Quem defende, como o autor e o relator, diz que
+
+130
+00:05:55,725 --> 00:05:58,343
+o fim do mandato não deveria impedir a troca de
+
+131
+00:05:58,343 --> 00:06:01,290
+uma dívida cara por outra mais barata, e que adiar
+
+132
+00:06:01,290 --> 00:06:04,251
+pode sair mais caro, porque as oportunidades do
+
+133
+00:06:04,251 --> 00:06:06,133
+mercado financeiro mudam.
+
+134
+00:06:06,133 --> 00:06:08,843
+Do outro lado está a razão da regra atual:
+
+135
+00:06:08,843 --> 00:06:11,817
+evitar decisões de última hora que deixem custos
+
+136
+00:06:11,817 --> 00:06:12,988
+para o sucessor.
+
+137
+00:06:12,988 --> 00:06:15,777
+Um veículo de imprensa chamou a mudança de brecha
+
+138
+00:06:15,777 --> 00:06:16,738
+no título.
+
+139
+00:06:16,738 --> 00:06:19,790
+Nas fontes consultadas, não houve registro de votos
+
+140
+00:06:19,790 --> 00:06:22,871
+contrários nem de críticas formais.
+
+141
+00:06:23,424 --> 00:06:24,740
+Sobre a votação:
+
+142
+00:06:24,740 --> 00:06:27,911
+os registros do Plenário nos dados abertos do Senado
+
+143
+00:06:27,911 --> 00:06:31,371
+mostram o projeto aprovado, com a emenda de transparência
+
+144
+00:06:31,371 --> 00:06:33,900
+e o pedido de urgência, mas sem placar.
+
+145
+00:06:33,900 --> 00:06:37,321
+Isso acontece quando não há votação nominal no painel.
+
+146
+00:06:37,321 --> 00:06:41,369
+Por isso, não é possível dizer como votou cada senador.
+
+147
+00:06:41,922 --> 00:06:44,635
+Vamos esclarecer três dúvidas comuns.
+
+148
+00:06:44,635 --> 00:06:45,517
+A primeira:
+
+149
+00:06:45,517 --> 00:06:49,043
+o governo pode pegar dinheiro novo no fim do mandato?
+
+150
+00:06:49,043 --> 00:06:51,385
+Não, só trocar dívida antiga.
+
+151
+00:06:51,385 --> 00:06:52,346
+A segunda:
+
+152
+00:06:52,346 --> 00:06:54,569
+a dívida pode ficar mais cara?
+
+153
+00:06:54,569 --> 00:06:57,346
+Pelo texto, não, porque o valor presente precisa
+
+154
+00:06:57,346 --> 00:06:58,806
+ser igual ou menor.
+
+155
+00:06:58,806 --> 00:06:59,806
+A terceira:
+
+156
+00:06:59,806 --> 00:07:01,583
+a regra já está valendo?
+
+157
+00:07:01,583 --> 00:07:04,355
+Ainda depende da promulgação.
+
+158
+00:07:04,908 --> 00:07:05,895
+Resumindo:
+
+159
+00:07:05,895 --> 00:07:08,619
+cento e vinte dias é o período final do mandato
+
+160
+00:07:08,619 --> 00:07:11,516
+em que a renegociação passa a ser permitida.
+
+161
+00:07:11,516 --> 00:07:14,240
+O valor presente é a trava que impede uma dívida
+
+162
+00:07:14,240 --> 00:07:15,200
+mais cara.
+
+163
+00:07:15,200 --> 00:07:17,963
+E a promulgação, feita pelo próprio Senado, é o
+
+164
+00:07:17,963 --> 00:07:19,733
+último passo.
+
+165
+00:07:20,286 --> 00:07:23,907
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+166
+00:07:23,907 --> 00:07:27,683
+No Instagram e no TikTok, a gente é arroba legiscopio.
+
+167
+00:07:27,683 --> 00:07:30,578
+E o aplicativo do Legiscópio já está disponível
+
+168
+00:07:30,578 --> 00:07:32,223
+para Android, de graça:
+
+169
+00:07:32,223 --> 00:07:35,526
+é só acessar legiscopio ponto com ponto br barra
+
+170
+00:07:35,526 --> 00:07:36,328
+baixar.
+
+171
+00:07:36,328 --> 00:07:38,999
+Para iPhone, chega em breve.
+
+172
+00:07:39,551 --> 00:07:42,512
+Este vídeo usou informações da Agência Senado, da
+
+173
+00:07:42,512 --> 00:07:46,130
+Rádio Senado, dos dados abertos do Senado Federal,
+
+174
+00:07:46,130 --> 00:07:49,213
+da Constituição e de reportagens do Estadão, da
+
+175
+00:07:49,213 --> 00:07:51,936
+Gazeta do Povo e do Correio Braziliense.
+
+176
+00:07:51,936 --> 00:07:54,028
+Os links estão na descrição.
+
+177
+00:07:54,028 --> 00:07:57,226
+Se o vídeo te ajudou, se inscreva no canal e compartilhe
+
+178
+00:07:57,226 --> 00:08:00,028
+com quem quer entender as contas do seu estado.
+
+179
+00:08:00,028 --> 00:08:03,344
+O Legiscópio é independente e gratuito, e você pode
+
+180
+00:08:03,344 --> 00:08:06,357
+apoiar em apoia ponto se barra legiscopio.
+
+181
+00:08:06,357 --> 00:08:08,225
+Até a próxima!
