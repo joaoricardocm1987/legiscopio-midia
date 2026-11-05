@@ -1,0 +1,36 @@
+{
+  "rotulo": "Aprovado no Senado",
+  "titulo": "Dívidas de estados: Senado libera renegociação no fim do mandato",
+  "destaque": "120 dias",
+  "detalhe": "Governos poderão trocar dívidas nos últimos 120 dias do mandato, só se a nova dívida não custar mais. Vai à promulgação.",
+  "fonte": "Fonte: Senado Federal · PRS 50/2026 · 04/11/2026",
+  "legenda": "O Senado aprovou nesta quarta-feira (4) o PRS 50/2026, que permite a estados, ao Distrito Federal e a municípios renegociar dívidas nos últimos 120 dias do mandato. Hoje, uma resolução do Senado de 2001 proíbe novas operações de crédito nesse período, com poucas exceções. Por ser uma resolução do Senado, o texto não passa pela Câmara nem pela sanção: vai direto à promulgação.\n\nO que o texto permite e exige:\n• Só vale para reestruturar dívidas que já existem, sem dinheiro novo para gastar.\n• O dinheiro novo só pode pagar o valor principal da dívida antiga, sem juros e encargos.\n• O custo da nova dívida, trazido a valores de hoje (valor presente), não pode ser maior que o da antiga.\n• Ficam proibidos cronogramas que empurrem custos para a próxima gestão.\n• Antes de assinar, o governo precisa publicar no site oficial os cálculos, os cronogramas e as mudanças em garantias e riscos.\n\nQuem defende, como o autor, o relator e o comitê dos secretários estaduais de Fazenda (Comsefaz), diz que trocar uma dívida cara por outra mais barata reduz custos e que esperar a troca de governo pode sair mais caro. Segundo o relator, pelo menos 12 estados podem se beneficiar. A proibição atual existe para preservar a responsabilidade fiscal no fim dos mandatos e evitar que o custo fique para o sucessor; as salvaguardas do texto tentam manter essa proteção. Nas fontes consultadas, não houve registro de votos contrários nem de críticas formais.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato\n\n▶ Vídeo completo no YouTube: Legiscópio\n\n📲 Baixe o app do Legiscópio (Android): legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #SenadoFederal #Economia",
+  "legenda_tiktok": "Senado aprova renegociação de dívidas de estados e municípios nos últimos 120 dias do mandato, se a nova dívida não custar mais. Vai à promulgação. Mais no YouTube: Legiscópio. App: legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Economia",
+  "fontes": [
+    "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
+    "https://www12.senado.leg.br/radio/1/noticia/2026/11/04/renegociacao-de-dividas-de-estados-e-municipios-podera-ocorrer-nos-ultimos-120-dias-de-mandato",
+    "https://legis.senado.leg.br/dadosabertos/plenario/resultado/20261104",
+    "https://www25.senado.leg.br/web/atividade/materias/-/materia/175606",
+    "https://www.diariodepernambuco.com.br/politica/2026/11/11728385-senado-aprova-projeto-que-permite-renegociar-dividas-de-estados-e-municipios-no-fim-de-mandato.html",
+    "https://www.correiobraziliense.com.br/politica/2026/11/7532922-cae-do-senado-aprova-reestruturacao-de-dividas-de-estados-e-municipios-em-fim-de-mandato.html",
+    "https://www.gazetadopovo.com.br/republica/comissao-do-senado-aprova-renegociacao-de-dividas-por-governadores-e-prefeitos-no-fim-do-mandato/",
+    "https://www.metropoles.com/brasil/senado-cae-aprova-renegociacao-de-dividas-publicas-no-fim-de-mandato",
+    "https://oantagonista.com.br/brasil/cae-aprova-brecha-para-renegociacao-de-dividas-no-fim-de-mandato/",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-11-03&dataFim=2026-11-05&ordem=DESC&ordenarPor=dataHoraRegistro&itens=200",
+    "https://www.camara.leg.br/noticias/1315992-camara-aprova-regras-para-o-uso-de-postes-por-empresas-de-energia-e-teles",
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261105",
+    "https://www.dgabc.com.br/Noticia/4354471/presidente-toma-posse-em-5-de-janeiro-de-2027-governadores-no-dia-6"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Senado aprova renegociação de dívidas de estados e municípios nos últimos 120 dias do mandato (CAE e Plenário em 4/11); vai à promulgação", "veiculos": ["Agência Senado", "Estadão Conteúdo (Diario de Pernambuco)", "Metrópoles", "Correio Braziliense", "Gazeta do Povo", "O Antagonista", "Revista Oeste", "Tribuna do Norte"], "proposicao": "PRS 50/2026 — aprovado no Plenário do Senado em 4/11/2026 com urgência e a Emenda nº 2 (transparência); vai à promulgação; sem placar registrado", "nota": 7},
+      {"assunto": "Câmara aprova regras para o uso de postes por distribuidoras de energia e empresas de telecomunicações", "veiculos": ["Agência Câmara", "Teletime", "O Liberal", "Convergência Digital"], "proposicao": "PL 3.220/2019 — aprovado no Plenário da Câmara em 4/11 (substitutivo); volta ao Senado", "nota": 6},
+      {"assunto": "Senado aprova atualização do ECA (educação básica dos 4 aos 17 anos e comunicação de evasão ao Conselho Tutelar)", "veiculos": ["Agência Senado"], "proposicao": "PL 2.234/2024 — aprovado em 4/11; vai à sanção", "nota": 5},
+      {"assunto": "Câmara aprova pena de 1 a 5 anos para sobrevoo de drones em presídios", "veiculos": ["Agência Câmara", "ND+", "Portal N10", "Portal Tela"], "proposicao": "PL 5.902/2023 — aprovado em 4/11; vai ao Senado", "nota": 5},
+      {"assunto": "Câmara aprova duas ultrassonografias morfológicas no pré-natal do SUS", "veiculos": ["Agência Câmara", "Febrasgo", "sites regionais"], "proposicao": "PL 4.674/2024 — aprovado em 3/11; vai ao Senado", "nota": 5},
+      {"assunto": "Redução da maioridade penal: Senado vai aguardar a PEC da Câmara", "veiculos": ["Poder360", "O Tempo", "Jornal de Brasília", "Agência Senado"], "proposicao": "PECs 19 e 20/2026 no Senado (não apreciadas); PEC 32/2015 em comissão especial na Câmara — tratado em 3 e 4/11 (−3)", "nota": 2}
+    ],
+    "escolhido": "PRS 50/2026 — renegociação de dívidas de estados, DF e municípios nos últimos 120 dias do mandato, aprovada pelo Plenário do Senado em 4/11/2026; vai à promulgação",
+    "motivo": "Assunto do Congresso com maior número de veículos de linhas diferentes em 4 e 5/11 (3), votado ontem no Plenário (3) e com efeito nas contas públicas pagas com impostos (1), sem repetição nos últimos 14 dias. Hoje não há sessão deliberativa em nenhuma das Casas. Placar não registrado nas fontes oficiais. Não foram encontradas críticas atribuídas; o texto apresenta a razão da regra atual e as salvaguardas. Sem nomes de parlamentares. Análise própria: janela de 120 dias dos governadores (posse em 6/1/2027, EC 111/2021) calculada pelo Legiscópio. Google Trends não consultado."
+  }
+}
