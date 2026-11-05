@@ -274,12 +274,51 @@ def alinhar(palavras, texto):
     return out
 
 
+# Na LEGENDA, endereços e perfis falados por extenso aparecem escritos (a voz continua falando por extenso).
+# A ordem importa: as sequências mais longas primeiro.
+ENDERECOS = [
+    ("legiscopio ponto com ponto br barra baixar", "www.legiscopio.com.br/baixar"),
+    ("legiscopio ponto com ponto br", "www.legiscopio.com.br"),
+    ("apoia ponto se barra legiscopio", "apoia.se/legiscopio"),
+    ("arroba legiscopio", "@legiscopio"),
+]
+
+
+def _sem_acento(w):
+    import unicodedata
+    w = unicodedata.normalize("NFD", w.lower())
+    return "".join(ch for ch in w if ch.isalnum() and not unicodedata.combining(ch))
+
+
+def trocar_enderecos(palavras):
+    """[(t, palavra)] -> mesma lista com 'legiscopio ponto com ponto br barra baixar' etc. na forma escrita."""
+    toks = [(t, x) for t, w in palavras for x in w.split()]
+    out, k = [], 0
+    while k < len(toks):
+        achou = False
+        for falado, escrito in ENDERECOS:
+            alvo = falado.split()
+            n = len(alvo)
+            if k + n <= len(toks) and [_sem_acento(x) for _, x in toks[k:k + n]] == alvo:
+                ult = toks[k + n - 1][1]
+                resto = ult[len(ult.rstrip(".,;:!?")):]
+                out.append((toks[k][0], escrito + resto))
+                k += n
+                achou = True
+                break
+        if not achou:
+            out.append(toks[k])
+            k += 1
+    return out
+
+
 def blocos_legenda(palavras, dur, texto):
     if not palavras:
         ws = texto.split()
         palavras = [(dur * k / max(1, len(ws)), w) for k, w in enumerate(ws)]
     else:
         palavras = alinhar(palavras, texto)
+    palavras = trocar_enderecos(palavras)
     blocos, atual, ini = [], [], None
     for t, w in palavras:
         if ini is None:
