@@ -17,3 +17,4 @@ except Exception:
     PASTA.mkdir(parents=True, exist_ok=True)
     (PASTA / "agenda_erro.txt").write_text(traceback.format_exc(), encoding="utf-8")
 subprocess.run(["git", "add", "-A", str(PASTA)], check=True, cwd=ROOT)
+# resumos: 13 itens
