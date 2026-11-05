@@ -1,0 +1,39 @@
+tarefa_image-to-3d_model_url.glb -> lupa_modelo.glb
+apagado tarefa_image-to-3d_model_urls_glb.glb
+tarefa_image-to-3d_texture_urls_0_base_color.png -> textura_cor.png
+tarefa_image-to-3d_texture_urls_0_metallic.png -> textura_metal.png
+tarefa_image-to-3d_texture_urls_0_normal.png -> textura_normal.png
+tarefa_image-to-3d_texture_urls_0_roughness.png -> textura_rugosidade.png
+tarefa_image-to-3d_thumbnail_url.png -> lupa_miniatura.png
+apagado tarefa_multi-image-to-3d_model_url.glb
+apagado tarefa_multi-image-to-3d_model_urls_glb.glb
+apagado tarefa_multi-image-to-3d_texture_urls_0_base_color.png
+apagado tarefa_multi-image-to-3d_texture_urls_0_metallic.png
+apagado tarefa_multi-image-to-3d_texture_urls_0_normal.png
+apagado tarefa_multi-image-to-3d_texture_urls_0_roughness.png
+apagado tarefa_multi-image-to-3d_thumbnail_url.png
+apagado tarefa_remesh_model_urls_glb.glb
+apagado tarefa_remesh_texture_urls_0_base_color.png
+apagado tarefa_remesh_texture_urls_0_metallic.png
+apagado tarefa_remesh_texture_urls_0_normal.png
+apagado tarefa_remesh_texture_urls_0_roughness.png
+apagado tarefa_remesh_thumbnail_url.png
+apagado tarefa_retexture_model_url.glb
+apagado tarefa_retexture_model_urls_glb.glb
+apagado tarefa_retexture_texture_urls_0_base_color.png
+apagado tarefa_retexture_texture_urls_0_metallic.png
+apagado tarefa_retexture_texture_urls_0_normal.png
+apagado tarefa_retexture_texture_urls_0_roughness.png
+apagado tarefa_retexture_thumbnail_url.png
+tarefa_rigging_result_basic_animations_running_armature_glb_url.glb -> lupa_correndo.glb
+tarefa_rigging_result_basic_animations_running_glb_url.glb -> anim_correndo_so_ossos.glb
+tarefa_rigging_result_basic_animations_walking_armature_glb_url.glb -> lupa_andando.glb
+tarefa_rigging_result_basic_animations_walking_glb_url.glb -> anim_andando_so_ossos.glb
+tarefa_rigging_result_rigged_character_fbx_url.fbx -> lupa_rig.fbx
+tarefa_rigging_result_rigged_character_glb_url.glb -> lupa_rig.glb
+apagado tarefa_text-to-3d_model_urls_glb.glb
+apagado tarefa_text-to-3d_texture_urls_0_base_color.png
+apagado tarefa_text-to-3d_texture_urls_0_metallic.png
+apagado tarefa_text-to-3d_texture_urls_0_normal.png
+apagado tarefa_text-to-3d_texture_urls_0_roughness.png
+apagado tarefa_text-to-3d_thumbnail_url.png
