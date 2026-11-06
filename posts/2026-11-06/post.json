@@ -1,1 +1,32 @@
-PLACEHOLDER
+{
+  "rotulo": "Aprovada em comissão",
+  "titulo": "Tarifaço: comissão aprova MP com R$ 22,6 bi em crédito a exportadores",
+  "destaque": "R$ 22,6 bi",
+  "detalhe": "A MP Brasil Soberano 3 segue para a Câmara e o Senado. Ela perde a validade se não for votada até 18 de novembro.",
+  "fonte": "Fonte: Congresso Nacional · MP 1.379/2026 · 05/11/2026",
+  "legenda": "Uma comissão mista do Congresso aprovou nesta quinta-feira (5) o relatório da MP 1.379/2026, conhecida como \"Brasil Soberano 3\". A medida provisória amplia o crédito para empresas exportadoras afetadas pelo aumento das tarifas dos Estados Unidos, o chamado tarifaço.\n\nO que a MP prevê:\n• Até R$ 13,5 bilhões a mais da União para linhas de crédito com juros subsidiados.\n• Somando recursos próprios do BNDES, o total chega a R$ 22,6 bilhões.\n• R$ 8,8 bilhões para exportadores e fornecedores afetados pelas tarifas dos EUA; R$ 6,8 bilhões para quem exporta ao Golfo Pérsico, afetado pelo conflito no Oriente Médio.\n• R$ 7 bilhões para indústria ligada ao comércio exterior, fertilizantes e minerais críticos.\n\nA relatora retirou a regra que limitava o dinheiro extra a valores devolvidos antes à União; segundo o parecer, essa vinculação deixaria o programa dependente do ritmo das devoluções. Cinco emendas foram rejeitadas. O texto segue para o Plenário da Câmara e depois para o Senado. A MP está em vigor desde 22 de julho, mas perde a validade se não for votada até 18 de novembro.\n\nFonte: Agência Câmara — https://www.camara.leg.br/noticias/1316195 | Agência Senado — https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-em-comissao-mista-relatorio-de-mp-que-amplia-credito-a-exportacao\n\n📲 Baixe o app do Legiscópio (Android): www.legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #Economia #CâmaraDosDeputados",
+  "legenda_tiktok": "Tarifaço: comissão aprova MP do Brasil Soberano 3, com até R$ 22,6 bi em crédito a exportadores. Precisa passar por Câmara e Senado até 18/11. Mais no YouTube: Legiscópio. App: www.legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Economia",
+  "fontes": [
+    "https://www.camara.leg.br/noticias/1316195",
+    "https://www12.senado.leg.br/noticias/audios/2026/11/aprovado-em-comissao-mista-relatorio-de-mp-que-amplia-credito-a-exportacao",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641546",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2641546/tramitacoes",
+    "https://www.opovo.com.br/noticias/economia/2026/11/05/comissao-especial-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco.html",
+    "https://www.metropoles.com/brasil/comissao-aprova-mp-do-brasil-soberano-3-para-empresas-afetadas-por-tarifaco",
+    "https://98fmnatal.com.br/economia/comissao-aprova-r-135-bilhoes-em-credito-para-empresas-afetadas-pelo-tarifaco/412468/",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-11-04&dataFim=2026-11-06&ordem=DESC&ordenarPor=dataHoraRegistro&itens=200",
+    "https://www.camara.leg.br/noticias/1316213-camara-pode-votar-projetos-sobre-monitoramento-de-agressores-e-maus-tratos-a-animais",
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261110"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Comissão mista aprova a MP do Brasil Soberano 3 (crédito a exportadores afetados pelo tarifaço dos EUA)", "veiculos": ["Agência Câmara", "Agência Senado", "O Povo/Estadão Conteúdo", "Metrópoles", "Diário do Comércio", "Jornal do Comércio", "Canal Rural", "NN1", "98 FM Natal"], "proposicao": "MPV 1.379/2026 — parecer aprovado na comissão mista em 5/11/2026; vai ao Plenário da Câmara e ao Senado; perde a validade em 18/11/2026", "nota": 7},
+      {"assunto": "Câmara aprova adaptação de obras em linguagem simples para pessoas com deficiência intelectual", "veiculos": ["Atlas Público", "Panorama Inconfidentes", "Brasil em Folhas"], "proposicao": "PL 5.974/2023 — substitutivo aprovado no Plenário da Câmara em 5/11/2026", "nota": 5},
+      {"assunto": "Câmara aprova ações de educação em saúde no SUS com foco na família", "veiculos": ["Tribuna do Sertão", "Clic Portela", "Atlas Público"], "proposicao": "PL 565/2020 — aprovado no Plenário da Câmara em 5/11/2026 (votação 2238560-42)", "nota": 5},
+      {"assunto": "Câmara aprova reconhecimento do artesanato do Maranhão como cultura nacional", "veiculos": ["Panorama Inconfidentes"], "proposicao": "PL 3.507/2026 — aprovado em 5/11/2026; vai ao Senado", "nota": 3},
+      {"assunto": "Eleições de meio de mandato nos EUA", "veiculos": ["Nexo", "Euronews"], "proposicao": "Sem proposição no Congresso brasileiro (descartado)", "nota": 0}
+    ],
+    "escolhido": "MPV 1.379/2026 (Brasil Soberano 3) — relatório aprovado na comissão mista em 5/11/2026; vai à Câmara e ao Senado até 18/11/2026",
+    "motivo": "Assunto do Congresso com mais veículos de linhas diferentes em 5 e 6/11 (3), aprovado ontem em comissão com prazo curto para virar lei (3) e ligado a emprego e renda em setores exportadores (1), sem repetição nos últimos 14 dias. Sexta sem sessão deliberativa. Placar da comissão não informado nas fontes. Não foram encontradas críticas formais atribuídas nas fontes; o texto informa as emendas rejeitadas e a justificativa da relatora. Valores: R$ 13,5 bi adicionais da União; R$ 22,6 bi com recursos próprios do BNDES (O Povo e Metrópoles; Agência Câmara e Senado citam R$ 18,5 bi, valor anterior à ampliação do BNDES de R$ 5 bi para R$ 9,1 bi). Sem nomes de parlamentares. Google Trends não consultado."
+  }
+}
