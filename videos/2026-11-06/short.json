@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Tarifaço em um minuto! Uma comissão do Congresso aprovou a MP que amplia o crédito para exportadores.",
+      "visual": {"tipo": "numero", "titulo": "Brasil Soberano 3", "valor": "MP 1.379", "rotulo": "Aprovada em comissão: 5/11"}
+    },
+    {
+      "fala": "São até treze bilhões e meio de reais a mais da União. Com recursos do BNDES, as linhas de crédito somam vinte e dois vírgula seis bilhões.",
+      "visual": {"tipo": "comparacao", "titulo": "Crédito subsidiado", "antes": {"valor": "R$ 13,5 bi", "rotulo": "a mais da União"}, "depois": {"valor": "R$ 22,6 bi", "rotulo": "total com BNDES"}}
+    },
+    {
+      "fala": "Oito vírgula oito bilhões vão para quem foi atingido pelas tarifas dos Estados Unidos. Seis vírgula oito, para quem exporta ao Golfo Pérsico.",
+      "visual": {"tipo": "barras", "titulo": "Para onde vai", "itens": [{"rotulo": "Tarifas dos EUA", "valor": 8.8, "texto": "R$ 8,8 bi"}, {"rotulo": "Golfo Pérsico", "valor": 6.8, "texto": "R$ 6,8 bi"}, {"rotulo": "Indústria e outros", "valor": 7, "texto": "R$ 7 bi"}], "nota": "Fonte: O Povo e Metrópoles"}
+    },
+    {
+      "fala": "Os outros sete bilhões vão para indústria ligada à exportação, fertilizantes e minerais críticos.",
+      "visual": {"tipo": "lista", "titulo": "Os R$ 7 bilhões", "itens": ["Fertilizantes: R$ 4 bi", "Minerais críticos: R$ 2 bi", "Indústria: R$ 1 bi"]}
+    },
+    {
+      "fala": "A relatora tirou a regra que limitava o dinheiro extra a valores devolvidos à União. Cinco emendas foram rejeitadas.",
+      "visual": {"tipo": "texto", "titulo": "O que mudou", "texto": "Sai a regra que ligava o dinheiro extra a valores devolvidos à União."}
+    },
+    {
+      "fala": "Agora, a MP vai ao Plenário da Câmara e depois ao Senado. Ela perde a validade se não for votada até dezoito de novembro.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Comissão mista", "Câmara e Senado", "Prazo: 18/11"], "atual": 1}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como funciona uma MP", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Tarifaço: MP de crédito a exportadores avança no Congresso #Shorts",
+    "descricao": "Comissão mista aprovou a MP 1.379/2026 (Brasil Soberano 3): até R$ 13,5 bi a mais da União e R$ 22,6 bi em crédito com o BNDES para exportadores afetados pelo tarifaço. Precisa ser votada na Câmara e no Senado até 18/11. Mais explicações no canal Legiscópio.\n\nFonte: Agência Câmara — https://www.camara.leg.br/noticias/1316195\nBaixe o app do Legiscópio (Android): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #Economia",
+    "tags": ["Legiscópio", "tarifaço", "Brasil Soberano", "MP 1379/2026", "exportação", "shorts"]
+  }
+}
