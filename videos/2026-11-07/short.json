@@ -1,0 +1,16 @@
+{
+ "cenas": [
+  {"fala": "A semana no Congresso em um minuto! O Senado aprovou a PEC da Segurança Pública por setenta e cinco votos a zero.", "visual": {"tipo": "numero", "titulo": "PEC da Segurança", "valor": "75 a 0", "rotulo": "2º turno no Senado · 3/11"}},
+  {"fala": "A redução da maioridade penal ficou de fora e vai tramitar separada. A PEC vai à promulgação.", "visual": {"tipo": "texto", "titulo": "Maioridade separada", "texto": "Fica fora da PEC e tramita à parte (38 a 36)."}},
+  {"fala": "O Senado também liberou estados e municípios a renegociar dívidas nos últimos cento e vinte dias do mandato, se a nova dívida não custar mais.", "visual": {"tipo": "numero", "titulo": "Dívidas de estados", "valor": "120 dias", "rotulo": "finais do mandato · PRS 50/2026"}},
+  {"fala": "A mudança no ECA sobre a educação básica obrigatória, dos quatro aos dezessete anos, foi à sanção.", "visual": {"tipo": "texto", "titulo": "ECA à sanção", "texto": "Educação básica obrigatória dos 4 aos 17 anos."}},
+  {"fala": "Na Câmara, passaram as regras para o uso de postes por empresas de energia e de telefonia. O texto volta ao Senado.", "visual": {"tipo": "texto", "titulo": "Postes", "texto": "Regras para energia e telecom. Volta ao Senado."}},
+  {"fala": "E a MP do crédito aos exportadores afetados pelo tarifaço precisa ser votada até dezoito de novembro.", "visual": {"tipo": "etapas", "titulo": "MP do tarifaço", "itens": ["Comissão: 5/11", "Câmara e Senado", "Prazo: 18/11"], "atual": 1}},
+  {"fala": "Quer saber o que a PEC muda na prática e o prazo da MP das bets? O vídeo completo está no canal do Legiscópio no YouTube. Procure Legiscópio e assista!", "visual": {"tipo": "cta", "titulo": "Quer entender tudo?", "subtitulo": "PEC, dívidas e os prazos de novembro"}}
+ ],
+ "youtube": {
+  "titulo": "Semana no Congresso: PEC da Segurança aprovada por 75 a 0 #Shorts",
+  "descricao": "O Senado aprovou a PEC da Segurança Pública por 73 a 0 e 75 a 0, sem a maioridade penal, e liberou a renegociação de dívidas de estados no fim do mandato. Vídeo completo no canal Legiscópio.\n\nFonte: Senado Federal — https://legis.senado.leg.br/dadosabertos/plenario/resultado/20261103\nBaixe o app do Legiscópio (Android): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #CongressoNacional",
+  "tags": ["shorts", "semana no Congresso", "PEC da Segurança Pública", "maioridade penal", "Legiscópio"]
+ }
+}
