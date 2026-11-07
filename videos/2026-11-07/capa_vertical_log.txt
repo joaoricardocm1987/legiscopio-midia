@@ -1,0 +1,4 @@
+short_video.py: capa_semana na abertura dos verticais de sábado
+short.json: abertura falada repetida removida
+resumo.mp4 refeito: 5352574 bytes Duration: 00:02:09.44, start: 0.000000, bitrate: 330 kb/s
+short.mp4 refeito: 2568584 bytes Duration: 00:01:02.74, start: 0.000000, bitrate: 327 kb/s

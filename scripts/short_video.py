@@ -14,6 +14,8 @@ Formato do short.json:
 }
 Visuais: os mesmos do vídeo longo (capa, numero, comparacao, barras, lista, etapas, texto)
 e mais "cta" {titulo?, subtitulo?, botao?: ["linha 1", "linha 2"]} — chamada final (use na última cena).
+Nos sábados (video.json com a 1ª cena em "capa_semana"), o short e o resumo ganham automaticamente uma
+cena de abertura com a mesma capa ("Resumão da semana na Câmara e no Senado").
 Por padrão o botão diz "Vídeo completo / no canal"; nos dias sem vídeo longo use, por exemplo,
 "botao": ["Mais vídeos", "no canal"].
 """
@@ -41,6 +43,8 @@ PAINEL = (70, 300, 1010, 1020)
 MASC = 680  # altura da Lupa 2.0 (corpo inteiro)
 MASC_Y = 1270
 LEG_Y = 1060  # topo da faixa de legenda (acima da área coberta pelos botões do Shorts)
+
+FALA_CAPA_SEMANA = "Esse é o resumão da semana na Câmara e no Senado."
 
 
 @contextmanager
@@ -161,6 +165,11 @@ def gerar(caminho_json):
     if not sh or not sh.get("cenas"):
         print(f"sem {saida}.json em", pasta)
         return
+    # sábado: abre com a capa "Resumão da semana" do vídeo longo
+    capa = next((c.get("visual") for c in cfg.get("cenas", [])[:1]
+                 if (c.get("visual") or {}).get("tipo") == "capa_semana"), None)
+    if capa and (sh["cenas"][0].get("visual") or {}).get("tipo") != "capa_semana":
+        sh = dict(sh, cenas=[{"fala": FALA_CAPA_SEMANA, "visual": capa}] + list(sh["cenas"]))
     bruto = json.dumps({"voz": cfg.get("voz"), "velocidade": cfg.get("velocidade"), "short": sh},
                        sort_keys=True, ensure_ascii=False).encode()
     if saida != "short":
