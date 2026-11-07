@@ -11,9 +11,10 @@
   {
    "fala": "A PEC da Segurança Pública passou no Senado sem nenhum voto contrário, e agora só falta a promulgação. Na mesma semana, estados ganharam uma regra nova para renegociar dívidas no fim do mandato. Fica até o final que eu explico o que ainda depende de outra votação e quais prazos vencem em novembro.",
    "visual": {
-    "tipo": "capa",
-    "titulo": "A semana no Congresso",
-    "subtitulo": "PEC da Segurança aprovada por 75 a 0"
+    "tipo": "capa_semana",
+    "titulo": "Resumão da semana",
+    "subtitulo": "na Câmara e no Senado",
+    "periodo": "3 a 5 de novembro de 2026"
    }
   },
   {

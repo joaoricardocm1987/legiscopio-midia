@@ -1,0 +1,3 @@
+video_longo.py: capa_semana adicionada
+capitulos.py: capa_semana = Introdução
+video.mp4 refeito: 20100777 bytes

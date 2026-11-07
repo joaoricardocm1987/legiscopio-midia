@@ -17,6 +17,7 @@ Formato do video.json:
 }
 Tipos de visual:
   capa       {titulo, subtitulo}
+  capa_semana {titulo?, subtitulo?, periodo, tag?}  (abertura do sábado: "Resumão da semana")
   numero     {valor, rotulo, titulo?}
   comparacao {titulo?, antes:{valor, rotulo}, depois:{valor, rotulo}}
   barras     {titulo, itens:[{rotulo, valor, texto?}], nota?}
@@ -138,7 +139,7 @@ def pose_da_cena(v, t, i, n_cenas, nivel):
     Regra editorial: nada de comemorar resultado de votação (neutralidade)."""
     tipo = v.get("tipo", "texto")
     titulo = (v.get("titulo") or "") + " " + (v.get("texto") or "")
-    if tipo == "capa":
+    if tipo in ("capa", "capa_semana"):
         nome = "acenando" if t < 2.6 else "explicando"
     elif tipo == "numero":
         nome = "surpresa" if t < 1.6 else "apontando"
@@ -393,7 +394,37 @@ def desenhar_visual(img, v, p, t, dur):
     a = suave(p)
     off = int(40 * (1 - a))
 
-    if tipo == "capa":
+    if tipo == "capa_semana":  # abertura do sábado: "Resumão da semana na Câmara e no Senado"
+        cx0, cy0, cx1, cy1 = x0, y0 + 10 + off, x1 + 20, y0 + 650 + off
+        cartao = Image.new("RGB", (cx1 - cx0, cy1 - cy0), VERDE)
+        dc = ImageDraw.Draw(cartao)
+        for k in range(-cartao.height, cartao.width, 56):  # listras sutis, como na miniatura
+            dc.line([(k, cartao.height), (k + cartao.height, 0)], fill=(8, 96, 53), width=20)
+        masc = Image.new("L", cartao.size, 0)
+        ImageDraw.Draw(masc).rounded_rectangle([0, 0, cartao.width - 1, cartao.height - 1], radius=36, fill=255)
+        img.paste(cartao, (cx0, cy0), masc)
+        px = cx0 + 70
+        y = cy0 + 50
+        tag = (v.get("tag") or "TODO SÁBADO").upper()
+        ft = BD(34)
+        tw = d.textlength(tag, font=ft)
+        d.rounded_rectangle([px, y, px + tw + 48, y + 58], radius=29, fill=LIMA)
+        d.text((px + 24, y + 29), tag, font=ft, fill=VERDE_ESC, anchor="lm")
+        y += 96
+        f = BK(122)
+        for l in wrap(d, (v.get("titulo") or "Resumão da semana").upper(), f, cx1 - cx0 - 140):
+            d.text((px, y), l, font=f, fill=BRANCO, stroke_width=3, stroke_fill=VERDE_ESC)
+            y += 132
+        y += 26
+        fs = BD(64)
+        for l in wrap(d, v.get("subtitulo") or "na Câmara e no Senado", fs, cx1 - cx0 - 140):
+            d.text((px, y), l, font=fs, fill=LIMA)
+            y += 78
+        if v.get("periodo"):
+            y += 10
+            d.text((px, y), v["periodo"], font=RG(46), fill=LIMA_TX)
+
+    elif tipo == "capa":
         f = BK(96)
         y = y0 + 120 + off
         for l in wrap(d, v.get("titulo", ""), f, x1 - x0):

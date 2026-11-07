@@ -59,7 +59,7 @@ def gerar(caminho_json):
             continue
         v = c.get("visual", {})
         tipo = v.get("tipo")
-        if tipo == "capa":
+        if tipo in ("capa", "capa_semana"):
             nome = "Introdução"
         elif tipo in ("redes", "fim"):
             nome = "Siga e apoie o Legiscópio"
