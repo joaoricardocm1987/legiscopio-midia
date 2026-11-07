@@ -29,6 +29,7 @@ Tipos de visual:
 Chamada do meio: por padrão, no meio do vídeo a Lupa pede like, inscrição e sininho
 sem trocar a tela (o visual anterior fica parado e aparece a barra animada).
 Opcional no video.json: "cta_meio": false (desliga) ou "cta_meio_fala": "texto próprio".
+"cta_pos": "abertura" põe a mesma chamada logo depois da 1ª cena (o resumão), em vez do meio.
 
 A pose da Lupa é escolhida automaticamente pelo tipo de cena (pose_da_cena).
 Vídeos de datas passadas que já existem não são regerados quando o código muda.
@@ -624,6 +625,10 @@ def miniatura(cfg, destino):
     img.save(destino, quality=92)
 
 
+FALA_ABERTURA = ("Antes de começar: se esse assunto te interessa, deixa o seu like, se inscreve no canal "
+                 "e ativa o sininho pra não perder os próximos. Agora, vamos lá!")
+
+
 # ------------------------------------------------------------------ principal
 
 def gerar(caminho_json):
@@ -665,15 +670,18 @@ def gerar(caminho_json):
                 continue
             if dist is None or abs(acum - total / 2) < dist:
                 melhor, dist = k + 1, abs(acum - total / 2)
+        abertura = cfg.get("cta_pos") == "abertura"
+        if abertura:
+            melhor = 1
         if melhor:
-            fala = cfg.get("cta_meio_fala") or cta_meio.FALA_PADRAO
+            fala = cfg.get("cta_meio_fala") or (FALA_ABERTURA if abertura else cta_meio.FALA_PADRAO)
             amostras, palavras = tts(fala, voz, taxa, tmp, 99)
             dur = len(amostras) / 2 / SR
             ant = cenas[melhor - 1]
             cenas.insert(melhor, dict(fala=fala, visual=ant.get("visual", {}), _cta=True, _ant_dur=ant["dur"],
                                       amostras=amostras, palavras=palavras, dur=dur + PAUSA,
                                       _mk=cta_meio.marcos(palavras, dur)))
-            print(f"chamada do meio (like/inscrição/sino) antes da cena {melhor + 1}: {dur:.1f}s")
+            print(f"chamada (like/inscrição/sino) antes da cena {melhor + 1}: {dur:.1f}s")
 
     silencio = bytes(int(PAUSA * SR) * 2)
     audio_total = b"".join(c["amostras"] + silencio for c in cenas)
