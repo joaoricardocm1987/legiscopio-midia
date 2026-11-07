@@ -1,0 +1,34 @@
+{
+  "rotulo": "A semana no Congresso",
+  "titulo": "Semana no Congresso: PEC da Segurança aprovada e dívidas de estados",
+  "destaque": "75 a 0",
+  "detalhe": "Senado aprova a PEC da Segurança sem a maioridade penal e libera renegociar dívidas no fim do mandato. ECA vai à sanção.",
+  "fonte": "Fonte: Câmara e Senado · votações de 3 a 5/11/2026",
+  "legenda": "O Senado aprovou a PEC da Segurança Pública (PEC 18/2025) por 73 a 0 e 75 a 0. A redução da maioridade penal ficou fora: por 38 a 36, o Plenário decidiu que o tema vai tramitar em propostas separadas. A PEC vai à promulgação, ainda sem data.\n\nOutras decisões da semana (3 a 5/11):\n• Senado: estados e municípios poderão renegociar dívidas nos últimos 120 dias do mandato, se a nova dívida não custar mais (PRS 50/2026). Vai à promulgação.\n• Senado: mudança no ECA que adequa a obrigatoriedade da educação básica à Constituição (4 a 17 anos) vai à sanção.\n• Câmara: regras para o uso de postes por empresas de energia e telecomunicações (PL 3.220/2019). Volta ao Senado.\n• Comissão mista aprova a MP do Brasil Soberano 3, com até R$ 22,6 bi em crédito a exportadores afetados pelo tarifaço. Prazo: 18/11.\n\nNa semana que vem, a MP que proibiu as bets passa a trancar a pauta a partir de 9/11. O Estatuto do Aprendiz estava na pauta do Senado, mas não foi analisado.\n\nFonte: Senado Federal — https://legis.senado.leg.br/dadosabertos/plenario/resultado/20261104 | Câmara dos Deputados — https://dadosabertos.camara.leg.br/api/v2/votacoes\n\n▶ Vídeo completo no YouTube: Legiscópio\n\n📲 Baixe o app do Legiscópio (Android): www.legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #SenadoFederal #SegurançaPública",
+  "legenda_tiktok": "Semana no Congresso: PEC da Segurança aprovada por 75 a 0; dívidas de estados e ECA também avançam. Mais no YouTube: Legiscópio. App: www.legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #CongressoNacional",
+  "fontes": [
+    "https://legis.senado.leg.br/dadosabertos/plenario/resultado/20261103",
+    "https://legis.senado.leg.br/dadosabertos/plenario/resultado/20261104",
+    "https://legis.senado.leg.br/dadosabertos/plenario/resultado/20261105",
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261110",
+    "https://dadosabertos.camara.leg.br/api/v2/votacoes?dataInicio=2026-11-02&dataFim=2026-11-07&ordem=DESC&ordenarPor=dataHoraRegistro",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/03/senado-aprova-pec-da-seguranca-publica-sem-reducao-da-maioridade-penal",
+    "https://www12.senado.leg.br/noticias/materias/2026/11/04/senado-permite-que-estados-e-municipios-renegociem-dividas-durante-final-de-mandato",
+    "https://www.camara.leg.br/noticias/1315992-camara-aprova-regras-para-o-uso-de-postes-por-empresas-de-energia-e-teles",
+    "https://www.camara.leg.br/noticias/1316422-deputados-aprovam-projeto-que-permite-adaptar-obras-em-linguagem-simples-para-pessoas-com-deficiencia",
+    "https://www.camara.leg.br/noticias/1316195",
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175261",
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871",
+    "https://soubrasilia.com/estatuto-aprendiz-pl-6461-2019-plenario-senado-cota-5-15-por-cento-4-novembro-2026/"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Senado aprova a PEC da Segurança Pública (73 a 0 e 75 a 0) sem a maioridade penal (38 a 36)", "veiculos": ["Agência Senado", "Congresso em Foco", "Jornal do Comércio", "O Liberal", "Correio 24 Horas", "Tribuna do Sertão", "Portal de Prefeitura"], "proposicao": "PEC 18/2025 — aprovada no Senado em 3/11; aguarda promulgação", "nota": 6},
+      {"assunto": "Senado libera renegociação de dívidas de estados e municípios no fim do mandato", "veiculos": ["Agência Senado", "Estadão Conteúdo", "Metrópoles", "Correio Braziliense", "Gazeta do Povo"], "proposicao": "PRS 50/2026 — aprovado em 4/11; vai à promulgação", "nota": 5},
+      {"assunto": "MP do Brasil Soberano 3 (tarifaço) aprovada em comissão; prazo 18/11", "veiculos": ["Agência Câmara", "Agência Senado", "O Povo", "Metrópoles"], "proposicao": "MPV 1.379/2026 — parecer aprovado na comissão mista em 5/11", "nota": 5},
+      {"assunto": "Estatuto do Aprendiz na pauta do Senado", "veiculos": ["Sou Brasília", "Jornal Opção"], "proposicao": "PL 6.461/2019 — não apreciado em 4/11", "nota": 2}
+    ],
+    "escolhido": "A semana no Congresso (3 a 5/11/2026): PEC da Segurança, PRS 50/2026, ECA (PL 2.234/2024), postes (PL 3.220/2019), MP 1.379/2026 e linguagem simples (PL 5.974/2023), com os prazos da semana seguinte",
+    "motivo": "Sábado: vídeo longo 'A semana no Congresso'. Os destaques individuais já foram tratados nos dias 3 a 6/11, por isso o post do dia é o resumo da semana, em sintonia com o vídeo e o Resumo de 2 min usados nos Reels. Sexta e sábado sem sessão deliberativa. Placares do Senado nos dados abertos; na Câmara, os registros do Plenário consultados não trazem placar. Contagem de votações da Câmara (408 no total, 27 no Plenário) é cálculo do Legiscópio. Sem nomes de parlamentares. Google Trends não consultado."
+  }
+}
