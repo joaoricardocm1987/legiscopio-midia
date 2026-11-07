@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/rosto-teste-01.py", line 26, in <module>
+    rosto_editor.gerar(PASTA)
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 622, in gerar
+    montar(cortado, novas, bordas, dur, cfg, telas, pasta / "video.mp4", tmp)
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 573, in montar
+    proc.stdin.write(quadro.tobytes())
+BrokenPipeError: [Errno 32] Broken pipe

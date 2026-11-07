@@ -381,8 +381,8 @@ def slide_fim():
     for k, t in enumerate(("Agenda da Câmara e do Senado", "Votações e como cada um votou",
                            "Notificações dos seus favoritos")):
         dd.text((80, 720 + k * 70), "✓ " + t, font=BD(42), fill=BR)
-    dd.text((80, 1000), "Android: legiscopio.com.br/baixar", font=BK(52), fill=BR)
-    dd.text((80, 1080), "iOS em breve · grátis e sem anúncios", font=RG(40), fill=LIMA)
+    dd.text((80, 1000), "www.legiscopio.com.br/baixar", font=BK(52), fill=BR)
+    dd.text((80, 1080), "Android e iOS · grátis e sem anúncios", font=RG(40), fill=LIMA)
     dd.text((80, 1160), "Apoie: apoia.se/legiscopio", font=BD(40), fill=LIMA)
     return img
 

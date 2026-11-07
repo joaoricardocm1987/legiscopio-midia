@@ -1,0 +1,10 @@
+agenda.py: trocado (1x) '"Android: legiscopio.com.br/baixar", fon'
+agenda.py: trocado (1x) '"iOS em breve · grátis e sem anúncios", '
+tutorial_app.py: trocado (1x) '"Android: já disponível · iOS: em breve"'
+rosto_editor.py: trocado (1x) 'caixa_txt(d, "ANDROID", (W - d.textbbox('
+rosto_editor.py: trocado (1x) '"iOS em breve · grátis e sem anúncios", '
+video_longo.py: trocado (1x) 'v.get("app_texto", "Já no Android · iOS '
+restos de 'em breve' em scripts/:
+(nenhum)
+resumo.json: fala final com Android e iPhone
+resumo.mp4 refeito: 5366645 bytes Duration: 00:02:10.24, start: 0.000000, bitrate: 329 kb/s
