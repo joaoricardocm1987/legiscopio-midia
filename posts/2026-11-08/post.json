@@ -1,0 +1,28 @@
+{
+  "rotulo": "Medida provisória",
+  "titulo": "MP das bets entra em regime de urgência nesta segunda (9)",
+  "destaque": "45 dias",
+  "detalhe": "A MP 1.394/2026 completa 45 dias sem votação. A comissão mista ainda não foi instalada e o prazo inicial vai até 23 de novembro.",
+  "fonte": "Fonte: Congresso Nacional · MPV 1.394/2026",
+  "legenda": "A medida provisória que proibiu as bets (MP 1.394/2026) completa 45 dias neste domingo sem ter sido votada. Pela Constituição, a partir do 46º dia, nesta segunda-feira (9), ela entra em regime de urgência e passa a ter prioridade nas votações.\n\nO que a MP faz:\n• Proíbe a exploração, a oferta e a publicidade de apostas de quota fixa (as bets) em todo o país.\n• Encerrou as autorizações das empresas e criou um comitê para fiscalizar apostas ilegais.\n\nOnde está a MP:\n• A comissão mista de deputados e senadores, primeira etapa, ainda não foi instalada, segundo O Tempo e o site BNLData.\n• Foram apresentadas 99 emendas; segundo o site Focus, a maioria tenta manter as apostas esportivas.\n• O prazo inicial vai até 23 de novembro e pode ser prorrogado por mais 60 dias. Se não for votada a tempo, a MP perde a validade.\n\nNa Justiça: na sexta (6), a Procuradoria-Geral da República pediu ao STF que suspenda as ações contra a MP, segundo O Tempo. O governo defende a proibição por causa do endividamento e dos danos à saúde ligados às apostas. Associações do setor afirmam no STF que o tema não poderia ser tratado por MP e que o fim do mercado desrespeita contratos.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871\n\n📲 Baixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #ProcessoLegislativo #CâmaraDosDeputados",
+  "legenda_tiktok": "MP das bets entra em regime de urgência nesta segunda (9). A comissão mista ainda não foi instalada e o prazo inicial vai até 23/11. Mais no YouTube: Legiscópio. App: www.legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #ProcessoLegislativo",
+  "fontes": [
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871",
+    "https://www.congressonacional.leg.br/materias/medidas-provisorias",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2647155",
+    "https://www12.senado.leg.br/radio/1/noticia/2026/09/28/medida-provisoria-que-proibe-bets-no-pais-ja-esta-no-congresso-nacional",
+    "https://www.otempo.com.br/politica/2026/11/7/gr-pede-ao-stf-que-suspenda-todas-as-acoes-contra-a-proibicao-das-bets",
+    "https://bnldata.com.br/mp-das-bets-corre-risco-de-caducar-sem-que-o-congresso-sequer-instale-a-comissao-mista/",
+    "https://focusgn.com/brasil/mp-bets-urgencia-comissao-congresso",
+    "https://www.nexojornal.com.br/expresso/2026/11/07/bets-stf-jogo-de-apostas-esportes-proibicao"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "MP das bets: urgência a partir de 9/11, comissão mista não instalada; PGR pede ao STF suspensão das ações contra a proibição (6/11)", "veiculos": ["O Tempo", "Nexo Jornal", "Poder360", "Lance", "BNLData", "Diário do Poder", "Focus", "Brasil em Folhas"], "proposicao": "MPV 1.394/2026 — urgência a partir de 9/11; prazo inicial 23/11. Tema tratado em 25/10 em outra fase (fim das autorizações): desconto parcial −1", "nota": 6},
+      {"assunto": "Fiscalização do setor de combustíveis na pauta do Plenário da Câmara", "veiculos": ["Agência Câmara (republicada por Agência Tocantins, Tribuna do Sertão, RBTV, VIP MT)"], "proposicao": "Projetos sobre fiscalização de combustíveis — pauta da semana; proposição exata não confirmada nesta execução", "nota": 5},
+      {"assunto": "Câmara pode votar monitoramento de agressores e maus-tratos a animais", "veiculos": ["Agência Câmara", "Clic Portela"], "proposicao": "Projetos na pauta do Plenário da Câmara (semana de 9/11)", "nota": 4}
+    ],
+    "escolhido": "MPV 1.394/2026 (proibição das bets) — entra em regime de urgência em 9/11/2026, com comissão mista não instalada e prazo inicial em 23/11/2026",
+    "motivo": "Domingo sem sessão. Assunto do Congresso com mais veículos de linhas diferentes em 6 a 8/11 (3), mudança de fase amanhã com prazo curto (2), interesse direto de quem apostava e das famílias (2), menos desconto parcial (−1) por já ter sido tema em 25/10 em outra fase. Ementa e data de apresentação (25/09/2026) na API da Câmara; prazo de 23/11 na página do Congresso; 45 dias contados pelo Legiscópio (25/9 a 8/11). Status da comissão e das ações judiciais atribuídos às reportagens. Prazo final com recesso (março de 2027, segundo BNLData e Nexo) não confirmado em fonte oficial: não usado. Sem nomes de parlamentares. Google Trends não consultado."
+  }
+}
