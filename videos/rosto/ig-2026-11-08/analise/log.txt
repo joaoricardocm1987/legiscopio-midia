@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/ig-analise.py", line 18, in <module>
+    import rosto_editor as re_
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 25, in <module>
+    import numpy as np
+ModuleNotFoundError: No module named 'numpy'
+
