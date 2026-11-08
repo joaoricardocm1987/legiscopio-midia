@@ -1,7 +1,60 @@
+A: Traceback (most recent call last):
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 490, in _get_download_response
+    url = get_url_from_gdrive_confirmation(contents)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 87, in get_url_from_gdrive_confirmation
+    raise FileURLRetrievalError(
+gdown.exceptions.FileURLRetrievalError: Cannot retrieve the public link of the file. You may need to change the permission to 'Anyone with the link', or have had many accesses. Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
-  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/ig-analise.py", line 18, in <module>
-    import rosto_editor as re_
-  File "/home/runner/work/legiscopio-midia/legiscopio-midia/scripts/rosto_editor.py", line 25, in <module>
-    import numpy as np
-ModuleNotFoundError: No module named 'numpy'
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/ig-analise.py", line 27, in <module>
+    gdown.download(id=fid, output=str(dst), quiet=True)
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 874, in download
+    res, url = _get_download_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 501, in _get_download_response
+    raise FileURLRetrievalError(message)
+gdown.exceptions.FileURLRetrievalError: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1Q_72x8r4UzRokOZbxjtMmwXUAv-hFTKY
+
+but Gdown can't. Please check connections and permissions.
+
+B: Traceback (most recent call last):
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 490, in _get_download_response
+    url = get_url_from_gdrive_confirmation(contents)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 87, in get_url_from_gdrive_confirmation
+    raise FileURLRetrievalError(
+gdown.exceptions.FileURLRetrievalError: Cannot retrieve the public link of the file. You may need to change the permission to 'Anyone with the link', or have had many accesses. Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/legiscopio-midia/legiscopio-midia/artes/src/ig-analise.py", line 27, in <module>
+    gdown.download(id=fid, output=str(dst), quiet=True)
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 874, in download
+    res, url = _get_download_response(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/.local/lib/python3.12/site-packages/gdown/download.py", line 501, in _get_download_response
+    raise FileURLRetrievalError(message)
+gdown.exceptions.FileURLRetrievalError: Failed to retrieve file url:
+
+	Cannot retrieve the public link of the file. You may need to change
+	the permission to 'Anyone with the link', or have had many accesses.
+	Check FAQ in https://github.com/wkentaro/gdown?tab=readme-ov-file#faq.
+
+You may still be able to access the file from the browser:
+
+	https://drive.google.com/uc?id=1QdD4kPZaGk_uk281k_jUUPeGRF_6hg0f
+
+but Gdown can't. Please check connections and permissions.
 
