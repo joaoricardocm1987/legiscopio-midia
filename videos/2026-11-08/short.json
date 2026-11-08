@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "MP das bets em um minuto! A partir desta segunda-feira, a medida que proibiu as apostas online entra em regime de urgência no Congresso.",
+      "visual": {"tipo": "numero", "titulo": "MP das bets", "valor": "9/11", "rotulo": "Início da urgência"}
+    },
+    {
+      "fala": "Essa medida proíbe a oferta e a publicidade das bets em todo o país.",
+      "visual": {"tipo": "texto", "titulo": "O que a MP faz", "texto": "Proíbe a oferta e a publicidade de apostas de quota fixa em todo o país."}
+    },
+    {
+      "fala": "Ela vale desde vinte e cinco de setembro e completou quarenta e cinco dias sem votação. A partir daí, ganha prioridade nas votações.",
+      "visual": {"tipo": "comparacao", "titulo": "Contagem do prazo", "antes": {"valor": "25/09", "rotulo": "MP em vigor"}, "depois": {"valor": "45 dias", "rotulo": "sem votação"}}
+    },
+    {
+      "fala": "Mas a primeira etapa ainda não começou: segundo a imprensa, a comissão mista de deputados e senadores nem foi instalada.",
+      "visual": {"tipo": "etapas", "titulo": "Caminho da MP", "itens": ["Comissão mista", "Plenário da Câmara", "Plenário do Senado"], "atual": 0}
+    },
+    {
+      "fala": "O prazo inicial termina em vinte e três de novembro e pode ser prorrogado por mais sessenta dias. Sem votação, a MP perde a validade.",
+      "visual": {"tipo": "comparacao", "titulo": "Prazo da MP", "antes": {"valor": "23/11", "rotulo": "prazo inicial"}, "depois": {"valor": "+60 dias", "rotulo": "se prorrogada"}}
+    },
+    {
+      "fala": "O governo defende a proibição por causa do endividamento e dos danos à saúde. Associações do setor dizem no Supremo que o tema não caberia em medida provisória.",
+      "visual": {"tipo": "lista", "titulo": "Os dois lados", "itens": ["Governo: dívidas e saúde", "Setor: não caberia em MP"]}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "Como funciona uma MP", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "MP das bets: o que muda com a urgência a partir de 9/11 #Shorts",
+    "descricao": "A MP 1.394/2026, que proibiu as bets, completa 45 dias sem votação e entra em regime de urgência nesta segunda (9). O prazo inicial vai até 23/11 e pode ser prorrogado por mais 60 dias. Mais explicações no canal Legiscópio.\n\nFonte: Congresso Nacional — https://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/175871\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #ProcessoLegislativo",
+    "tags": ["Legiscópio", "MP das bets", "proibição das bets", "MP 1394", "medida provisória", "shorts"]
+  }
+}
