@@ -62,7 +62,7 @@
   {
    "data": "2026-11-11",
    "camara_plen": [],
-   "n_camara_com": 27,
+   "n_camara_com": 29,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -84,7 +84,7 @@
      ]
     }
    ],
-   "n_senado_com": 7
+   "n_senado_com": 8
   },
   {
    "data": "2026-11-12",
