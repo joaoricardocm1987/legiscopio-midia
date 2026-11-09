@@ -1,0 +1,58 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><script>document.documentElement.setAttribute('style',decodeURIComponent(location.hash.slice(1)))</script>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1080px;height:var(--H);font-family:'Poppins',sans-serif;background:#fff;overflow:hidden}
+.faixa{height:12px;display:flex}.faixa div{flex:1}
+.topo{position:relative;height:calc(var(--H) - 12px - var(--rod));background:radial-gradient(circle at 80% 60%,#1f8a4c 0%,#16703d 45%,#0f5a30 100%);overflow:hidden}
+#conf{position:absolute;inset:0}
+.selo{position:absolute;left:60px;top:var(--t0);background:#f7d548;color:#0d3b20;font-weight:800;font-size:38px;padding:14px 26px;border-radius:40px;letter-spacing:1px}
+h1{position:absolute;left:56px;top:calc(var(--t0) + 95px);color:#fff;font-weight:900;font-size:var(--h1);line-height:1;letter-spacing:2px}
+.sub{position:absolute;left:60px;top:var(--ts);color:#fff;font-weight:700;font-size:var(--sub);line-height:1.18}
+.pill{display:inline-flex;align-items:center;gap:18px;margin-top:10px;background:#bfe06a;color:#0d3b20;font-weight:900;font-size:var(--pill);padding:4px 40px 8px;border-radius:70px}
+.pill svg{width:calc(var(--pill)*.8);height:calc(var(--pill)*.8)}
+.lista{position:absolute;left:60px;top:var(--tl);color:#fff;font-weight:600;font-size:var(--li);line-height:1.15;width:450px}
+.lista div{display:flex;gap:16px;margin-bottom:26px}
+.ck{flex:none;width:40px;height:40px;border-radius:50%;background:#bfe06a;color:#0d3b20;display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:900;margin-top:2px}
+.fone{position:absolute;right:50px;top:var(--tf);width:var(--fw);height:calc(var(--fw)*1.62 + 76px);background:#111;border-radius:64px;padding:16px;transform:rotate(6deg);box-shadow:0 30px 60px rgba(0,0,0,.4)}
+.fone .tela{width:100%;height:100%;border-radius:50px;overflow:hidden;background:#fff;position:relative}
+.fone .tela img{width:100%;display:block;margin-top:44px}
+.ilha{position:absolute;top:12px;left:50%;transform:translateX(-50%);width:120px;height:34px;background:#111;border-radius:20px;z-index:2}
+.hora{position:absolute;top:14px;left:34px;font-size:22px;font-weight:700;color:#111;z-index:2}
+.masc{position:absolute;left:var(--mx);bottom:-6px;height:var(--mh)}
+.rod{height:var(--rod);display:flex;align-items:center;justify-content:space-between;padding:0 60px var(--pb,0px);background:#fff}
+.rod h2{color:#0f5a30;font-weight:800;font-size:var(--h2);display:flex;align-items:center;gap:14px}
+.rod h2 svg{width:52px;height:52px}
+.rod p{color:#2d6a45;font-weight:700;font-size:calc(var(--h2)*.62);margin-top:6px}
+.rod small{display:block;color:#7a8a80;font-weight:500;font-size:calc(var(--h2)*.5);margin-top:8px}
+.rod img{height:130px}
+</style></head><body>
+<div class="faixa"><div style="background:#6a4fb3"></div><div style="background:#2f6fc7"></div><div style="background:#e07a2e"></div></div>
+<div class="topo">
+<canvas id="conf"></canvas>
+<div class="selo">★ NOVIDADE</div>
+<h1>CHEGOU!</h1>
+<div class="sub">O app do Legiscópio<br>agora também no<br>
+<span class="pill"><svg viewBox="0 0 384 512"><path fill="#0d3b20" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>iPhone</span></div>
+<div class="lista">
+<div><span class="ck">✓</span>Votos de deputados e senadores</div>
+<div><span class="ck">✓</span>Gastos da cota parlamentar</div>
+<div><span class="ck">✓</span>Emendas e agenda do Congresso</div>
+</div>
+<div class="fone"><div class="tela"><div class="ilha"></div><div class="hora">9:41</div><img src="votacao.png"></div></div>
+<img class="masc" src="mascote_c.png">
+</div>
+<div class="rod"><div>
+<h2><svg viewBox="0 0 384 512"><path fill="#0f5a30" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>Baixe grátis na App Store</h2>
+<p>Procure por "Legiscópio" · também no Google Play</p>
+<small>www.legiscopio.com.br/baixar · gratuito · sem anúncios</small>
+</div><img src="logo_c.png"></div>
+<script>
+const c=document.getElementById('conf'),r=c.parentElement.getBoundingClientRect();c.width=r.width;c.height=r.height;
+const x=c.getContext('2d');let s=7;const R=()=>(s=(s*16807)%2147483647)/2147483647;
+const cores=['#f7d548','#ffffff','#e07a2e','#7fc4f0','#bfe06a'];
+for(let i=0;i<110;i++){const top=getComputedStyle(document.documentElement).getPropertyValue('--t0');const t0=parseInt(top)||50;let px,py;if(R()<.6){px=420+R()*660;py=t0-40+R()*130}else{px=840+R()*240;py=t0+90+R()*200};x.fillStyle=cores[(R()*5)|0];
+if(R()<.35){x.beginPath();x.arc(px,py,4+R()*4,0,7);x.fill()}else x.fillRect(px,py,14+R()*16,7+R()*4)}
+</script>
+</body></html>
