@@ -1,7 +1,14 @@
 {
  "data": "2026-11-09",
  "camara_plen": [],
- "camara_com": [],
+ "camara_com": [
+  {
+   "hora": "14:00",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Reunião Técnica"
+  }
+ ],
  "senado_plen": [],
  "senado_com": [
   {
@@ -21,14 +28,14 @@
   {
    "data": "2026-11-09",
    "camara_plen": [],
-   "n_camara_com": 0,
+   "n_camara_com": 1,
    "senado_plen": [],
    "n_senado_com": 2
   },
   {
    "data": "2026-11-10",
    "camara_plen": [],
-   "n_camara_com": 8,
+   "n_camara_com": 12,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -55,7 +62,7 @@
   {
    "data": "2026-11-11",
    "camara_plen": [],
-   "n_camara_com": 24,
+   "n_camara_com": 27,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -77,7 +84,7 @@
      ]
     }
    ],
-   "n_senado_com": 3
+   "n_senado_com": 7
   },
   {
    "data": "2026-11-12",
@@ -96,7 +103,8 @@
  ],
  "arquivos": [
   "agenda_1.png",
-  "agenda_2.png"
+  "agenda_2.png",
+  "agenda_3.png"
  ],
  "semana_arquivos": [
   "semana_1.png",
