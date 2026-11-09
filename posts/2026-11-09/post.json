@@ -1,0 +1,31 @@
+{
+  "rotulo": "Pauta do Senado",
+  "titulo": "Fraude em combustíveis: Senado vota acesso da ANP a notas fiscais",
+  "destaque": "381 a 2",
+  "detalhe": "O PLP 109/2025 dá à ANP acesso às notas fiscais de distribuidoras e postos. Aprovado na Câmara por 381 a 2, vai ao Plenário do Senado na terça (10).",
+  "fonte": "Fonte: Senado Federal · pauta de 10/11/2026 · PLP 109/2025",
+  "legenda": "O Senado pode votar nesta terça-feira (10) o PLP 109/2025, que dá à ANP (Agência Nacional do Petróleo, Gás Natural e Biocombustíveis) acesso permanente às notas fiscais das empresas que ela regula, como distribuidoras e postos de combustíveis. O objetivo é ajudar a identificar fraudes como adulteração, sonegação e lavagem de dinheiro.\n\nO que o projeto prevê:\n• Receita Federal e secretarias de Fazenda dos estados e do DF compartilham com a ANP as notas fiscais eletrônicas do setor (NF-e, NFC-e e CT-e).\n• Para obter ou manter a autorização da ANP, a empresa precisa autorizar esse acesso.\n• Os dados continuam protegidos por sigilo fiscal. A ANP arca com os custos e avisa o Fisco quando abrir processo com efeito tributário.\n• Regulamentação em até 180 dias.\n\nNa Câmara, o texto foi aprovado em 7 de abril por 381 votos a 2. No Senado, passou pelas comissões de Fiscalização e Controle (julho) e de Infraestrutura (setembro). Por ser lei complementar, precisa do voto de pelo menos 41 dos 81 senadores. Se for aprovado sem mudança de conteúdo, segue para sanção; se for alterado, volta à Câmara.\n\nQuem defende, como os relatores nas duas Casas e o sindicato das distribuidoras (Sindicom), argumenta que cruzar as notas fiscais permite achar fraudes mais rápido e reduz a concorrência desleal. Nas fontes consultadas, não houve registro de críticas formais; na Câmara, um pedido para retirar o projeto da pauta foi rejeitado por 306 a 60.\n\nFonte: Senado Federal — https://www25.senado.leg.br/web/atividade/materias/-/materia/173581\n\n📲 Baixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #SenadoFederal #Economia",
+  "legenda_tiktok": "Fraude em combustíveis: Senado pode votar na terça (10) o PLP 109/2025, que dá à ANP acesso às notas fiscais de distribuidoras e postos. Na Câmara, foi aprovado por 381 a 2. Mais no YouTube: Legiscópio. App: www.legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #SenadoFederal",
+  "fontes": [
+    "https://legis.senado.leg.br/dadosabertos/plenario/agenda/mes/20261109",
+    "https://www25.senado.leg.br/web/atividade/materias/-/materia/173581",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503998/tramitacoes",
+    "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2503998/votacoes",
+    "https://www.congressoemfoco.com.br/noticia/117921/camara-aprova-acesso-da-anp-a-dados-fiscais-do-setor-de-combustiveis",
+    "https://eixos.com.br/politica/congresso/projeto-que-permite-acesso-da-anp-a-notas-fiscais-avanca-no-senado/",
+    "https://www12.senado.leg.br/radio/1/noticia/2026/07/08/medida-para-aprimorar-fiscalizacao-de-combustiveis-e-aprovada-em-comissao",
+    "https://cenarioenergia.com.br/2026/09/02/senado-vota-plp-109-2025-para-liberar-dados-fiscais-a-anp-e-fechar-o-cerco-as-fraudes-em-combustiveis/",
+    "https://www.congressonacional.leg.br/pt_BR/sessoes/agenda-do-congresso-senado-e-camara/-/agenda/2026-11-10"
+  ],
+  "pesquisa": {
+    "assuntos_imprensa": [
+      {"assunto": "Fiscalização de fraudes no setor de combustíveis: acesso da ANP às notas fiscais (pacote após a Operação Carbono Oculto)", "veiculos": ["Eixos", "Cenário Energia", "Congresso em Foco", "Rádio Senado", "Agência Câmara (republicada por sites regionais)"], "proposicao": "PLP 109/2025 — item 1 da pauta do Plenário do Senado em 10/11/2026; aprovado na Câmara em 7/4/2026 (381 a 2)", "nota": 6},
+      {"assunto": "Trabalhadoras com câncer de mama: selo para empresas (Empresa Rosa)", "veiculos": ["Agência Senado", "O Cafezinho"], "proposicao": "PL 5.608/2023 — item 2 da pauta do Senado em 10/11/2026", "nota": 5},
+      {"assunto": "MP das bets entra em regime de urgência em 9/11; comissão mista não instalada", "veiculos": ["O Tempo", "Nexo", "Poder360", "Diário Carioca", "BNLData"], "proposicao": "MPV 1.394/2026 — urgência a partir de 9/11; tratada em 8/11 na mesma fase (−3)", "nota": 4},
+      {"assunto": "Estatuto do Aprendiz na pauta do Senado", "veiculos": ["Pauta oficial do Senado"], "proposicao": "PL 6.461/2019 — pauta de 11/11; tratado em 2/11 (−3)", "nota": 2},
+      {"assunto": "Redução da maioridade penal: Senado aguarda a Câmara", "veiculos": ["DGABC", "A Crítica", "A Pública"], "proposicao": "PEC 32/2015 em comissão especial na Câmara — tratado em 3 e 4/11 (−3)", "nota": 1}
+    ],
+    "escolhido": "PLP 109/2025 — acesso da ANP às notas fiscais dos agentes do setor de combustíveis, item 1 da pauta do Plenário do Senado em 10/11/2026",
+    "motivo": "Segunda-feira sem sessão deliberativa. Tema com repercussão em veículos especializados e gerais (2), na pauta do Plenário desta semana (2) e ligado ao preço e à qualidade do combustível (2), sem repetição nos últimos 14 dias. Ficou à frente do PL 5.608/2023 também por ter dados oficiais mais completos (placar da Câmara 381 a 2 e tramitação no Senado). Não foram encontrados números oficiais de perdas com fraudes nem críticas formais nas fontes; o texto registra o placar e o pedido de retirada de pauta rejeitado (306 a 60). Quórum de 41 votos: regra da lei complementar (art. 69 da Constituição). Sem nomes de parlamentares. Pauta da Câmara não confirmada (API indisponível nesta execução). Google Trends não consultado."
+  }
+}
