@@ -1,0 +1,81 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{width:1920px;height:1080px;overflow:hidden;font-family:'Poppins',sans-serif;background:radial-gradient(circle at 75% 55%,#1f8a4c 0%,#16703d 45%,#0f5a30 100%);color:#fff;position:relative}
+.faixa{position:absolute;top:0;left:0;right:0;height:16px;display:flex;z-index:5}.faixa div{flex:1}
+.cena{position:absolute;inset:0}
+.t{position:absolute;left:110px;font-weight:900;line-height:1.05}
+.pill{display:inline-block;background:#bfe06a;color:#0d3b20;border-radius:80px;padding:4px 44px 12px}
+.fone{position:absolute;width:430px;height:780px;background:#111;border-radius:64px;padding:16px;box-shadow:0 30px 60px rgba(0,0,0,.45)}
+.fone .tela{width:100%;height:100%;border-radius:50px;overflow:hidden;background:#fff}
+.fone img{width:100%;display:block;margin-top:38px}
+.masc{position:absolute}
+.chk{position:absolute;left:110px;top:230px;font-size:84px;font-weight:800;display:flex;flex-direction:column;gap:36px}
+.chk div{display:flex;align-items:center;gap:30px}
+.chk span{width:90px;height:90px;border-radius:50%;background:#bfe06a;color:#0d3b20;display:flex;align-items:center;justify-content:center;font-size:60px;font-weight:900}
+.rod{position:absolute;left:0;right:0;bottom:0;height:330px;background:#fff;display:flex;align-items:center;padding:0 110px;gap:60px;color:#0f5a30}
+.rod .logo{height:210px}
+.rod h2{font-size:66px;font-weight:900;line-height:1.05}
+.rod p{font-size:42px;font-weight:700;color:#2d6a45;margin-top:6px}
+.rod p.ct{font-size:34px;font-weight:600;color:#55705f;margin-top:6px;line-height:1.3}
+.rod p.ct b{color:#0f5a30;font-weight:800}
+.qrbox{margin-left:auto;display:flex;align-items:center;gap:28px}
+.qrbox small{white-space:nowrap;flex:none;font-size:32px;font-weight:700;color:#2d6a45;text-align:right;line-height:1.25}
+.qrbox img{width:250px;height:250px}
+</style></head><body>
+<div class="faixa"><div style="background:#6a4fb3"></div><div style="background:#2f6fc7"></div><div style="background:#e07a2e"></div></div>
+
+<div class="cena" id="c1">
+  <div class="t a" style="top:260px;font-size:170px">O Congresso<br><span class="pill">no seu bolso.</span></div>
+  <img class="masc b" src="mascote_c.png" style="left:1450px;top:300px;height:700px">
+</div>
+
+<div class="cena" id="c2">
+  <div class="chk">
+    <div class="k"><span>✓</span>Como cada um vota</div>
+    <div class="k"><span>✓</span>Quanto gasta</div>
+    <div class="k"><span>✓</span>Pra onde manda verba</div>
+  </div>
+  <div class="fone f" style="left:1340px;top:150px"><div class="tela"><img src="perfil_cota_emendas.png"></div></div>
+</div>
+
+<div class="cena" id="c3">
+  <div class="t a" style="top:150px;font-size:110px">Fiscalize quem<br>você elegeu.</div>
+  <img class="masc b" src="mascote_c.png" style="left:1560px;top:30px;height:560px">
+  <div class="rod">
+    <img class="logo" src="logo_c.png">
+    <div>
+      <h2>Legiscópio</h2>
+      <p>Grátis · Android e iPhone</p>
+      <p class="ct">www.legiscopio.com.br<br>Mande sua sugestão para: <b>contato@legiscopio.com.br</b></p>
+    </div>
+    <div class="qrbox"><small>Aponte a câmera<br>e baixe grátis</small><img src="qr.png"></div>
+  </div>
+</div>
+
+<script>
+const ease=x=>x<0?0:x>1?1:1-Math.pow(1-x,3);
+const entra=(el,p,dy=60)=>{el.style.opacity=p;el.style.transform=`translateY(${(1-p)*dy}px)`};
+window.setT=function(t){
+  const cenas=[['c1',0,5],['c2',5,10],['c3',10,15]];
+  for(const [id,a,b] of cenas){
+    const el=document.getElementById(id);
+    const lt=t-a;
+    let op=1;
+    if(lt<0||t>=b+0.25) op=0; else if(lt<0.25&&a>0) op=lt/0.25; else if(t>b-0.0) op=1;
+    if(t>=b && b<15) op=Math.max(0,1-(t-b)/0.25);
+    el.style.opacity=op;
+    if(op===0) continue;
+    el.querySelectorAll('.a').forEach(e=>entra(e,ease(lt/0.6)));
+    el.querySelectorAll('.b').forEach(e=>{const p=ease((lt-0.2)/0.7);e.style.opacity=p;e.style.transform=`translateY(${(1-p)*120+Math.sin(lt*3)*10}px)`});
+    el.querySelectorAll('.k').forEach((e,i)=>entra(e,ease((lt-0.2-i*0.8)/0.5),0));
+    el.querySelectorAll('.k').forEach((e,i)=>{const p=ease((lt-0.2-i*0.8)/0.5);e.style.transform=`translateX(${(1-p)*-80}px)`});
+    el.querySelectorAll('.f').forEach(e=>{const p=ease((lt-0.3)/0.7);e.style.opacity=p;e.style.transform=`translateY(${(1-p)*200}px) rotate(${5-(1-p)*5}deg)`});
+    el.querySelectorAll('.rod').forEach(e=>{const p=ease((lt-0.5)/0.6);e.style.transform=`translateY(${(1-p)*330}px)`});
+  }
+};
+setT(0);
+</script>
+</body></html>
