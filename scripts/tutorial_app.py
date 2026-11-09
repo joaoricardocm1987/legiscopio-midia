@@ -229,6 +229,7 @@ def preparar_audio(pasta):
 
 # fala -> legenda: o que é dito por extenso aparece escrito como endereço
 TROCAS = {
+    "legiscopio ponto com ponto br barra baixar": "www.legiscopio.com.br/baixar",
     "legiscopio ponto com ponto br": "www.legiscopio.com.br",
     "apoia ponto se barra legiscopio": "apoia.se/legiscopio",
 }

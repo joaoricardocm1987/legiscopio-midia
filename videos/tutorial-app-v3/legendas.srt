@@ -1,0 +1,891 @@
+1
+00:00:00,101 --> 00:00:02,743
+Quer saber o que o Congresso decidiu hoje,
+
+2
+00:00:02,743 --> 00:00:05,191
+como votou um parlamentar do seu estado,
+
+3
+00:00:05,191 --> 00:00:07,575
+quanto ele gastou da cota ou para onde foram
+
+4
+00:00:07,575 --> 00:00:09,394
+as emendas dele?
+
+5
+00:00:09,394 --> 00:00:11,610
+Tudo isso está num aplicativo só:
+
+6
+00:00:11,610 --> 00:00:14,793
+o Legiscópio, gratuito, sem anúncios e já
+
+7
+00:00:14,793 --> 00:00:17,590
+disponível para Android e iPhone.
+
+8
+00:00:17,590 --> 00:00:20,425
+Neste vídeo, eu passo tela por tela e mostro
+
+9
+00:00:20,425 --> 00:00:22,847
+para que serve cada botão.
+
+10
+00:00:23,349 --> 00:00:24,960
+Começando pelo básico:
+
+11
+00:00:24,960 --> 00:00:27,975
+lá embaixo fica a barra de navegação, com sete
+
+12
+00:00:27,975 --> 00:00:29,317
+abas.
+
+13
+00:00:29,317 --> 00:00:33,595
+Feed, Agenda, Políticos, Propostas, Emendas,
+
+14
+00:00:33,595 --> 00:00:35,657
+Favoritos e Conta.
+
+15
+00:00:35,657 --> 00:00:39,111
+É por ela que você circula pelo app inteiro.
+
+16
+00:00:39,613 --> 00:00:42,010
+A primeira aba é o Feed, com a atividade
+
+17
+00:00:42,010 --> 00:00:44,099
+recente do Congresso.
+
+18
+00:00:44,099 --> 00:00:46,921
+Em cima, você escolhe entre Para mim, que
+
+19
+00:00:46,921 --> 00:00:50,401
+mostra só o que você acompanha, e Tudo.
+
+20
+00:00:50,401 --> 00:00:52,630
+Logo abaixo, filtra por Casa:
+
+21
+00:00:52,630 --> 00:00:55,916
+todas, só a Câmara ou só o Senado.
+
+22
+00:00:55,916 --> 00:00:58,777
+Cada cartão traz o tipo de novidade, a data e
+
+23
+00:00:58,777 --> 00:00:59,589
+o que mudou:
+
+24
+00:00:59,589 --> 00:01:02,816
+de onde a proposta saiu e para onde foi.
+
+25
+00:01:03,317 --> 00:01:05,765
+Na aba Agenda ficam as reuniões e sessões
+
+26
+00:01:05,765 --> 00:01:07,996
+marcadas no Congresso.
+
+27
+00:01:07,996 --> 00:01:10,728
+Você alterna entre Câmara e Senado, escolhe o
+
+28
+00:01:10,728 --> 00:01:12,984
+dia nessa fileira de datas e vê cada evento
+
+29
+00:01:12,984 --> 00:01:15,743
+com horário, local e assunto.
+
+30
+00:01:16,245 --> 00:01:19,119
+Quando não há nada marcado, o app avisa, e
+
+31
+00:01:19,119 --> 00:01:21,580
+lembra que a agenda é atualizada algumas vezes
+
+32
+00:01:21,580 --> 00:01:24,415
+por dia, a partir das páginas oficiais da
+
+33
+00:01:24,415 --> 00:01:26,401
+Câmara e do Senado.
+
+34
+00:01:26,401 --> 00:01:27,857
+E tem dois atalhos:
+
+35
+00:01:27,857 --> 00:01:30,125
+Só o que eu acompanho, que filtra a agenda
+
+36
+00:01:30,125 --> 00:01:32,948
+pelos seus favoritos, e o link Agenda, que
+
+37
+00:01:32,948 --> 00:01:35,703
+abre a página oficial da Casa.
+
+38
+00:01:36,205 --> 00:01:38,885
+Na aba Políticos estão os deputados federais e
+
+39
+00:01:38,885 --> 00:01:41,310
+os senadores em exercício.
+
+40
+00:01:41,310 --> 00:01:44,003
+Dá para buscar pelo nome, filtrar por estado e
+
+41
+00:01:44,003 --> 00:01:46,219
+por partido e, com a estrelinha ao lado de
+
+42
+00:01:46,219 --> 00:01:48,217
+cada um, passar a acompanhar aquele
+
+43
+00:01:48,217 --> 00:01:49,783
+parlamentar.
+
+44
+00:01:50,285 --> 00:01:53,455
+Abrindo um perfil, você vê partido, estado e
+
+45
+00:01:53,455 --> 00:01:55,904
+situação, e logo abaixo o histórico
+
+46
+00:01:55,904 --> 00:01:58,661
+partidário, com as trocas de partido ao longo
+
+47
+00:01:58,661 --> 00:02:00,055
+do tempo.
+
+48
+00:02:00,055 --> 00:02:02,452
+Se você acompanha alguém mas não quer receber
+
+49
+00:02:02,452 --> 00:02:04,861
+todo aviso, é só tocar em Silenciar
+
+50
+00:02:04,861 --> 00:02:06,743
+notificações.
+
+51
+00:02:07,245 --> 00:02:09,526
+Um dos indicadores do perfil é a aderência à
+
+52
+00:02:09,526 --> 00:02:10,338
+bancada:
+
+53
+00:02:10,338 --> 00:02:12,709
+em quantas votações o parlamentar seguiu a
+
+54
+00:02:12,709 --> 00:02:15,765
+orientação do próprio partido ou bloco.
+
+55
+00:02:15,765 --> 00:02:17,749
+O app não julga.
+
+56
+00:02:17,749 --> 00:02:19,785
+Seguir ou não a orientação é um fato
+
+57
+00:02:19,785 --> 00:02:22,311
+registrado, não um erro.
+
+58
+00:02:22,813 --> 00:02:25,300
+Mais abaixo, o perfil mostra a cota
+
+59
+00:02:25,300 --> 00:02:28,135
+parlamentar do ano, com o total e o número de
+
+60
+00:02:28,135 --> 00:02:30,468
+notas, e agora também as emendas
+
+61
+00:02:30,468 --> 00:02:31,615
+parlamentares:
+
+62
+00:02:31,615 --> 00:02:34,295
+quanto foi empenhado nas emendas individuais,
+
+63
+00:02:34,295 --> 00:02:37,376
+quanto já foi pago e os restos a pagar.
+
+64
+00:02:37,376 --> 00:02:40,495
+Tudo conforme publicado pelas fontes oficiais,
+
+65
+00:02:40,495 --> 00:02:42,727
+com a data da consulta.
+
+66
+00:02:43,229 --> 00:02:46,013
+Tocando em Ver detalhes da cota, você abre o
+
+67
+00:02:46,013 --> 00:02:47,301
+gasto completo:
+
+68
+00:02:47,301 --> 00:02:50,226
+o total do ano, o número de notas e o gráfico
+
+69
+00:02:50,226 --> 00:02:51,903
+mês a mês.
+
+70
+00:02:51,903 --> 00:02:54,442
+A risquinha em cada barra é o limite mensal da
+
+71
+00:02:54,442 --> 00:02:57,135
+cota para o estado do parlamentar.
+
+72
+00:02:57,135 --> 00:02:58,682
+É só uma referência:
+
+73
+00:02:58,682 --> 00:03:01,703
+o app não avalia se houve excesso.
+
+74
+00:03:02,205 --> 00:03:04,847
+Rolando, aparecem os gastos por tipo de
+
+75
+00:03:04,847 --> 00:03:07,605
+despesa, cada um com o valor, o número de
+
+76
+00:03:07,605 --> 00:03:10,067
+notas e a fatia do total.
+
+77
+00:03:10,067 --> 00:03:12,825
+E logo depois, a lista de fornecedores que
+
+78
+00:03:12,825 --> 00:03:15,183
+receberam os pagamentos.
+
+79
+00:03:15,685 --> 00:03:17,863
+Já o botão Ver emendas abre as emendas
+
+80
+00:03:17,863 --> 00:03:20,287
+individuais do parlamentar.
+
+81
+00:03:20,287 --> 00:03:22,620
+Você escolhe o ano e filtra o tipo:
+
+82
+00:03:22,620 --> 00:03:25,107
+todas, as de finalidade definida ou as
+
+83
+00:03:25,107 --> 00:03:27,787
+transferências especiais, conhecidas como
+
+84
+00:03:27,787 --> 00:03:29,785
+emenda PIX.
+
+85
+00:03:29,785 --> 00:03:32,877
+Aparecem o total empenhado, o liquidado, o
+
+86
+00:03:32,877 --> 00:03:35,712
+pago, e a lista de emendas, com área e
+
+87
+00:03:35,712 --> 00:03:37,169
+destino.
+
+88
+00:03:37,169 --> 00:03:39,733
+O app não compara parlamentares nem avalia as
+
+89
+00:03:39,733 --> 00:03:41,311
+emendas.
+
+90
+00:03:41,813 --> 00:03:44,622
+Em cada emenda, o botão Distribuição mostra
+
+91
+00:03:44,622 --> 00:03:46,401
+para onde o dinheiro foi pago:
+
+92
+00:03:46,401 --> 00:03:49,650
+a cidade, o estado e quem recebeu.
+
+93
+00:03:49,650 --> 00:03:51,325
+Atenção a um detalhe:
+
+94
+00:03:51,325 --> 00:03:53,709
+a cidade do pagamento pode ser diferente de
+
+95
+00:03:53,709 --> 00:03:56,402
+onde o recurso foi aplicado, e pagamentos a
+
+96
+00:03:56,402 --> 00:03:59,495
+pessoas físicas não são detalhados.
+
+97
+00:03:59,997 --> 00:04:02,909
+De volta ao perfil, a seção Votos recentes
+
+98
+00:04:02,909 --> 00:04:04,907
+lista como o parlamentar votou em cada
+
+99
+00:04:04,907 --> 00:04:05,706
+proposta:
+
+100
+00:04:05,706 --> 00:04:08,502
+sim, não, ou voto não divulgado, quando a
+
+101
+00:04:08,502 --> 00:04:10,578
+votação é secreta.
+
+102
+00:04:10,578 --> 00:04:13,272
+E embaixo de cada voto aparece se ele seguiu a
+
+103
+00:04:13,272 --> 00:04:15,495
+orientação da bancada.
+
+104
+00:04:15,997 --> 00:04:19,244
+Tocando num voto, você abre a votação inteira:
+
+105
+00:04:19,244 --> 00:04:23,549
+o resultado, aqui aprovada por 461 a 4, o
+
+106
+00:04:23,549 --> 00:04:27,079
+placar completo e como cada bancada orientou.
+
+107
+00:04:27,581 --> 00:04:30,403
+Rolando, aparecem as orientações de blocos e
+
+108
+00:04:30,403 --> 00:04:34,037
+lideranças e, depois, os votos individuais, um
+
+109
+00:04:34,037 --> 00:04:36,370
+por um, sempre indicando quem seguiu a
+
+110
+00:04:36,370 --> 00:04:37,991
+orientação.
+
+111
+00:04:38,493 --> 00:04:39,395
+Rapidinho:
+
+112
+00:04:39,395 --> 00:04:42,063
+se este tutorial está te ajudando, deixa o seu
+
+113
+00:04:42,063 --> 00:04:44,756
+like, se inscreve no canal e ativa o sininho
+
+114
+00:04:44,756 --> 00:04:47,141
+pra não perder os próximos.
+
+115
+00:04:47,141 --> 00:04:49,959
+Agora, vamos continuar!
+
+116
+00:04:50,461 --> 00:04:53,090
+Quando alguém vota diferente da orientação, o
+
+117
+00:04:53,090 --> 00:04:55,926
+app destaca a linha, como aqui.
+
+118
+00:04:55,926 --> 00:04:56,854
+De novo:
+
+119
+00:04:56,854 --> 00:05:00,391
+é só um fato registrado, não um julgamento.
+
+120
+00:05:00,893 --> 00:05:03,818
+A aba Propostas é o buscador de proposições,
+
+121
+00:05:03,818 --> 00:05:06,049
+da Câmara e do Senado.
+
+122
+00:05:06,049 --> 00:05:07,828
+Você procura pela ementa ou pela
+
+123
+00:05:07,828 --> 00:05:12,879
+identificação, como PL 1234 de 2025, filtra
+
+124
+00:05:12,879 --> 00:05:15,482
+por tema e por tipo, e acompanha qualquer
+
+125
+00:05:15,482 --> 00:05:17,783
+proposta com a estrelinha.
+
+126
+00:05:18,285 --> 00:05:21,094
+Tocando numa proposta, você abre a página
+
+127
+00:05:21,094 --> 00:05:22,346
+dela.
+
+128
+00:05:22,346 --> 00:05:25,000
+No topo, o nome completo, a data de
+
+129
+00:05:25,000 --> 00:05:27,797
+apresentação e a situação atual.
+
+130
+00:05:27,797 --> 00:05:30,903
+Depois vêm a ementa, que é o resumo oficial, e
+
+131
+00:05:30,903 --> 00:05:32,913
+as palavras-chave.
+
+132
+00:05:32,913 --> 00:05:35,297
+No canto, o botão de compartilhar e a
+
+133
+00:05:35,297 --> 00:05:37,479
+estrelinha para acompanhar.
+
+134
+00:05:37,981 --> 00:05:41,861
+Rolando, aparece o quadro Nas duas Casas.
+
+135
+00:05:41,861 --> 00:05:44,142
+Como uma proposta passa pela Câmara e pelo
+
+136
+00:05:44,142 --> 00:05:47,377
+Senado, cada Casa informa a própria situação,
+
+137
+00:05:47,377 --> 00:05:49,774
+e o app mostra as duas, com a data da
+
+138
+00:05:49,774 --> 00:05:51,295
+consulta.
+
+139
+00:05:51,797 --> 00:05:54,413
+Mais abaixo ficam os autores e o histórico de
+
+140
+00:05:54,413 --> 00:05:55,405
+tramitação:
+
+141
+00:05:55,405 --> 00:05:58,305
+cada passo da proposta, com data e órgão,
+
+142
+00:05:58,305 --> 00:06:00,911
+direto dos dados oficiais.
+
+143
+00:06:01,413 --> 00:06:03,127
+Agora, a novidade:
+
+144
+00:06:03,127 --> 00:06:05,010
+a aba Emendas.
+
+145
+00:06:05,010 --> 00:06:07,162
+Emendas parlamentares são recursos do
+
+146
+00:06:07,162 --> 00:06:09,288
+orçamento da União que parlamentares e
+
+147
+00:06:09,288 --> 00:06:11,621
+comissões do Congresso destinam a ações e
+
+148
+00:06:11,621 --> 00:06:13,412
+localidades.
+
+149
+00:06:13,412 --> 00:06:15,719
+Os dados vêm do Portal da Transparência do
+
+150
+00:06:15,719 --> 00:06:19,623
+Governo Federal, de 2023 em diante.
+
+151
+00:06:19,623 --> 00:06:21,634
+Aqui você tem dois caminhos:
+
+152
+00:06:21,634 --> 00:06:23,927
+as emendas coletivas e as emendas no seu
+
+153
+00:06:23,927 --> 00:06:25,479
+município.
+
+154
+00:06:25,981 --> 00:06:28,739
+As emendas coletivas são as de bancada, uma
+
+155
+00:06:28,739 --> 00:06:31,550
+por estado, e as de comissão.
+
+156
+00:06:31,550 --> 00:06:34,578
+Escolha o tipo e o ano, e o app mostra o total
+
+157
+00:06:34,578 --> 00:06:37,516
+empenhado, o liquidado e o pago.
+
+158
+00:06:37,516 --> 00:06:40,428
+Logo abaixo, a explicação de como esses dados
+
+159
+00:06:40,428 --> 00:06:43,148
+funcionam e a lista das bancadas, em ordem
+
+160
+00:06:43,148 --> 00:06:44,767
+alfabética.
+
+161
+00:06:45,269 --> 00:06:47,949
+Tocando numa bancada, ela se abre com cada
+
+162
+00:06:47,949 --> 00:06:48,736
+emenda:
+
+163
+00:06:48,736 --> 00:06:52,034
+o valor empenhado, o que já foi pago, a área,
+
+164
+00:06:52,034 --> 00:06:54,947
+como urbanismo ou educação, e uma descrição do
+
+165
+00:06:54,947 --> 00:06:56,567
+objetivo.
+
+166
+00:06:57,069 --> 00:06:59,170
+E a Distribuição mostra os destinos do
+
+167
+00:06:59,170 --> 00:07:02,172
+pagamento, agrupados por estado, com cada
+
+168
+00:07:02,172 --> 00:07:05,188
+cidade e cada recebedor, seja um órgão público
+
+169
+00:07:05,188 --> 00:07:06,831
+ou uma empresa.
+
+170
+00:07:07,333 --> 00:07:10,181
+Já em Emendas no meu município, você escolhe o
+
+171
+00:07:10,181 --> 00:07:13,069
+estado e digita o nome da cidade.
+
+172
+00:07:13,069 --> 00:07:15,343
+Não precisa de acento.
+
+173
+00:07:15,845 --> 00:07:19,648
+Aqui, Volta Redonda, no Rio de Janeiro.
+
+174
+00:07:19,648 --> 00:07:22,058
+Você escolhe o ano e vê as emendas em que o
+
+175
+00:07:22,058 --> 00:07:24,455
+Portal da Transparência informa essa cidade
+
+176
+00:07:24,455 --> 00:07:26,607
+como local de aplicação, com o valor
+
+177
+00:07:26,607 --> 00:07:28,063
+empenhado.
+
+178
+00:07:28,063 --> 00:07:29,223
+O app avisa:
+
+179
+00:07:29,223 --> 00:07:31,620
+muitas emendas são registradas para o estado
+
+180
+00:07:31,620 --> 00:07:34,223
+ou para vários municípios, então essa lista
+
+181
+00:07:34,223 --> 00:07:36,839
+não é tudo o que chegou à cidade.
+
+182
+00:07:37,341 --> 00:07:40,099
+Mais abaixo, os pagamentos a destinatários na
+
+183
+00:07:40,099 --> 00:07:40,859
+cidade:
+
+184
+00:07:40,859 --> 00:07:44,416
+prefeitura, fundos, empresas e entidades, cada
+
+185
+00:07:44,416 --> 00:07:47,587
+um com o valor pago e a emenda de origem.
+
+186
+00:07:47,587 --> 00:07:50,603
+De novo, a cidade é a de quem recebeu, e o
+
+187
+00:07:50,603 --> 00:07:54,111
+recurso pode ter sido aplicado em outro lugar.
+
+188
+00:07:54,613 --> 00:07:56,791
+Tudo o que você marca com a estrela vai para a
+
+189
+00:07:56,791 --> 00:07:59,975
+aba Favoritos, em Meus acompanhados.
+
+190
+00:07:59,975 --> 00:08:02,810
+É a sua lista pessoal, e é ela que alimenta o
+
+191
+00:08:02,810 --> 00:08:05,599
+Feed Para mim e o filtro da Agenda.
+
+192
+00:08:06,101 --> 00:08:08,551
+Por fim, a aba Conta.
+
+193
+00:08:08,551 --> 00:08:11,554
+Aqui você edita seus dados, cuida da segurança
+
+194
+00:08:11,554 --> 00:08:14,930
+e do login e vê como seus dados são tratados.
+
+195
+00:08:14,930 --> 00:08:17,778
+Os avisos no celular chegam pelo aplicativo,
+
+196
+00:08:17,778 --> 00:08:21,263
+que já está disponível para Android e iPhone.
+
+197
+00:08:21,765 --> 00:08:24,871
+Rolando, tem as preferências de notificação, o
+
+198
+00:08:24,871 --> 00:08:27,654
+tema do aplicativo e a parte de ajuda, com
+
+199
+00:08:27,654 --> 00:08:30,831
+termos de uso e política de privacidade.
+
+200
+00:08:31,333 --> 00:08:34,492
+E vale abrir o Sobre os dados do app.
+
+201
+00:08:34,492 --> 00:08:37,030
+Ele explica que o Legiscópio é independente:
+
+202
+00:08:37,030 --> 00:08:39,659
+não é do governo, não representa a Câmara nem
+
+203
+00:08:39,659 --> 00:08:42,804
+o Senado e não tem vínculo com partidos.
+
+204
+00:08:42,804 --> 00:08:45,819
+Os dados vêm direto das fontes oficiais, sem
+
+205
+00:08:45,819 --> 00:08:48,847
+edição manual, e a fonte de cada informação é
+
+206
+00:08:48,847 --> 00:08:50,791
+sempre mostrada.
+
+207
+00:08:51,293 --> 00:08:54,128
+O Legiscópio é gratuito, não tem anúncios e é
+
+208
+00:08:54,128 --> 00:08:56,436
+feito por uma pessoa só.
+
+209
+00:08:56,436 --> 00:08:58,846
+Quem quiser ajudar com o servidor e o domínio
+
+210
+00:08:58,846 --> 00:09:02,815
+pode contribuir em apoia.se/legiscopio
+
+211
+00:09:02,815 --> 00:09:04,916
+E nada muda para quem não apoia:
+
+212
+00:09:04,916 --> 00:09:08,591
+não existe versão paga nem conteúdo bloqueado.
+
+213
+00:09:09,093 --> 00:09:10,639
+Agora é com você:
+
+214
+00:09:10,639 --> 00:09:13,036
+o Legiscópio está disponível para Android e
+
+215
+00:09:13,036 --> 00:09:15,357
+iPhone, de graça.
+
+216
+00:09:15,357 --> 00:09:19,301
+É só acessar www.legiscopio.com.br/baixar,
+
+217
+00:09:19,301 --> 00:09:21,040
+instalar e marcar com a estrelinha os
+
+218
+00:09:21,040 --> 00:09:23,102
+políticos e as propostas que você quer
+
+219
+00:09:23,102 --> 00:09:24,571
+acompanhar.
+
+220
+00:09:24,571 --> 00:09:27,368
+Se este vídeo ajudou, deixa o like, se
+
+221
+00:09:27,368 --> 00:09:29,778
+inscreve no canal e me conta nos comentários
+
+222
+00:09:29,778 --> 00:09:32,522
+qual função você mais gostou.
+
+223
+00:09:32,522 --> 00:09:34,791
+Até o próximo vídeo!
