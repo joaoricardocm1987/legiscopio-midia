@@ -1,1 +1,2 @@
-sem lupa: tutorial.mp4 26248812 bytes Duration: 00:09:35.19, start: 0.000000, bitrate: 365 kb/s
+thumb.jpg sem lupa
+short sem lupa: 2415069 bytes Duration: 00:00:48.69, start: 0.000000, bitrate: 396 kb/s
