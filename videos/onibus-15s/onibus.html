@@ -60,7 +60,7 @@ body{width:1920px;height:1080px;overflow:hidden;font-family:'Poppins',sans-serif
 const ease=x=>x<0?0:x>1?1:1-Math.pow(1-x,3);
 const entra=(el,p,dy=60)=>{el.style.opacity=p;el.style.transform=`translateY(${(1-p)*dy}px)`};
 window.setT=function(t){
-  const cenas=[['c1',0,5],['c2',5,10],['c3',10,15]];
+  const cenas=[['c1',0,3],['c2',3,6],['c3',6,15]];
   for(const [id,a,b] of cenas){
     const el=document.getElementById(id);
     const lt=t-a;
@@ -70,7 +70,7 @@ window.setT=function(t){
     el.style.opacity=op;
     if(op===0) continue;
     el.querySelectorAll('.a').forEach(e=>entra(e,ease(lt/0.6)));
-    el.querySelectorAll('.k').forEach((e,i)=>{const p=ease((lt-0.2-i*0.8)/0.5);e.style.opacity=p;e.style.transform=`translateX(${(1-p)*-80}px)`});
+    el.querySelectorAll('.k').forEach((e,i)=>{const p=ease((lt-0.15-i*0.6)/0.4);e.style.opacity=p;e.style.transform=`translateX(${(1-p)*-80}px)`});
     el.querySelectorAll('.f').forEach(e=>{const p=ease((lt-0.3)/0.7);e.style.opacity=p;e.style.transform=`translateY(${(1-p)*200}px) rotate(${5-(1-p)*5}deg)`});
     el.querySelectorAll('.q').forEach(e=>{const p=ease((lt-0.3)/0.6);e.style.opacity=p;e.style.transform=`scale(${0.85+0.15*p})`});
   }
