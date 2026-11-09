@@ -1,0 +1,79 @@
+{
+ "trechos": [
+  [
+   "A",
+   0.85,
+   4.4
+  ],
+  [
+   "B",
+   12.45,
+   19.3
+  ],
+  [
+   "B",
+   19.55,
+   24.52
+  ],
+  [
+   "B",
+   24.4,
+   34.1
+  ],
+  [
+   "A",
+   34.18,
+   39.66
+  ],
+  [
+   "A",
+   41.28,
+   42.85
+  ],
+  [
+   "B",
+   34.55,
+   37.55
+  ]
+ ],
+ "insercoes": [
+  {
+   "gatilho": "liberado pro",
+   "tipo": "titulo",
+   "texto": "AGORA TAMBÉM|NO iOS",
+   "dur": 3.0,
+   "atras": true
+  },
+  {
+   "gatilho": "Play Store",
+   "tipo": "chips",
+   "itens": [
+    "Google Play",
+    "App Store"
+   ],
+   "dur": 3.4,
+   "y": 200
+  },
+  {
+   "gatilho": "emendas parlamentares",
+   "tipo": "titulo",
+   "texto": "EMENDAS|POR CIDADE",
+   "dur": 3.6,
+   "atras": true
+  },
+  {
+   "gatilho": "cada deputado",
+   "tipo": "chips",
+   "itens": [
+    "Por deputado",
+    "Por bancada"
+   ],
+   "dur": 3.6,
+   "y": 200
+  }
+ ],
+ "final": {
+  "titulo": "Baixe grátis",
+  "link": "www.legiscopio.com.br/baixar"
+ }
+}

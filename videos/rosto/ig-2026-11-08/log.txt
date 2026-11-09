@@ -1,0 +1,13 @@
+trechos: 7 · 35.1s de fala
+texto: Fala pessoal, voltei agora nesse final de domingo Temos uma novidade no app Agora ele tá liberado pro iOS, então Android e iOS. Só ir lá na Play Store, na Apple Store e baixar E agora temos a tabela também sobre as emendas parlamentares O que que tá indo pra cada cidade, pra onde que tá sendo enviado e o que cada deputado mandou tanto a bancada quanto o deputado mandaram para a cidade Vá lá, confere lá, Legiscópio!
+video.mp4: 26340420 bytes
+bruto: Duration: 00:00:57.88, start: 0.000000, bitrate: 9320 kb/s | Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720, 8966 kb/s, 29.87 fps, 29.92 tbr, 90k tbn, start 0.014400 (default) | Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)
+corte de bordas: crop=720:1280:0:0,
+bruto: Duration: 00:00:38.00, start: 0.000000, bitrate: 9382 kb/s | Stream #0:0[0x1](eng): Video: h264 (High) (avc1 / 0x31637661), yuv420p(tv, bt709, progressive), 1280x720, 8973 kb/s, 29.85 fps, 29.92 tbr, 90k tbn, start 0.003600 (default) | Stream #0:1[0x2](eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 256 kb/s (default)
+corte de bordas: crop=720:1280:0:0,
+inserção titulo em 6.9s (liberado pro)
+inserção chips em 11.7s (Play Store)
+inserção titulo em 18.7s (emendas parlamentares)
+inserção chips em 26.0s (cada deputado)
+recorte indisponível: OSError('libEGL.so.1: cannot open shared object file: No such file or directory')
+quadros: 1053 lidos de 1053 esperados
