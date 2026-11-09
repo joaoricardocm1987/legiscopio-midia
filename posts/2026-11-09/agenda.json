@@ -3,7 +3,7 @@
  "camara_plen": [],
  "camara_com": [
   {
-   "hora": "14:00",
+   "hora": "14:06",
    "sigla": "CMO",
    "nome": "Comissão Mista de Orçamento",
    "tipo": "Reunião Técnica"
@@ -35,7 +35,7 @@
   {
    "data": "2026-11-10",
    "camara_plen": [],
-   "n_camara_com": 12,
+   "n_camara_com": 11,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -48,7 +48,7 @@
       },
       {
        "id": "PL 5608/2023",
-       "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama."
+       "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama e institui o Programa Empresa Rosa e o Selo Rosa."
       },
       {
        "id": "PDL 934/2025",
@@ -57,12 +57,12 @@
      ]
     }
    ],
-   "n_senado_com": 5
+   "n_senado_com": 6
   },
   {
    "data": "2026-11-11",
    "camara_plen": [],
-   "n_camara_com": 29,
+   "n_camara_com": 31,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -84,7 +84,7 @@
      ]
     }
    ],
-   "n_senado_com": 8
+   "n_senado_com": 9
   },
   {
    "data": "2026-11-12",
