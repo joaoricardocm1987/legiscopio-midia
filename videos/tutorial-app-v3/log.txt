@@ -1,4 +1,1 @@
-TROCAS: /baixar adicionado
-telas: 31
-tutorial.mp4: 35668615 bytes Duration: 00:09:35.19, start: 0.000000, bitrate: 496 kb/s
-short.mp4: 3030539 bytes Duration: 00:00:48.69, start: 0.000000, bitrate: 497 kb/s
+sem lupa: tutorial.mp4 26248812 bytes Duration: 00:09:35.19, start: 0.000000, bitrate: 365 kb/s
