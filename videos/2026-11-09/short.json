@@ -1,0 +1,37 @@
+{
+  "cenas": [
+    {
+      "fala": "Fraude em combustíveis em um minuto! O Senado pode votar nesta terça-feira um projeto que dá à ANP acesso às notas fiscais do setor.",
+      "visual": {"tipo": "numero", "titulo": "PLP 109/2025", "valor": "10/11", "rotulo": "Votação no Senado"}
+    },
+    {
+      "fala": "A ANP é a agência que regula petróleo, gás e biocombustíveis. Pelo texto, ela passa a ver as notas fiscais de distribuidoras e postos.",
+      "visual": {"tipo": "texto", "titulo": "O que muda", "texto": "A ANP passa a ter acesso permanente às notas fiscais eletrônicas das empresas que ela regula."}
+    },
+    {
+      "fala": "Na Câmara, o projeto foi aprovado em abril por trezentos e oitenta e um votos a dois.",
+      "visual": {"tipo": "comparacao", "titulo": "Placar na Câmara", "antes": {"valor": "381", "rotulo": "sim"}, "depois": {"valor": "2", "rotulo": "não"}}
+    },
+    {
+      "fala": "Para ter ou manter a autorização da agência, a empresa precisa permitir o acesso. Os dados continuam sob sigilo fiscal.",
+      "visual": {"tipo": "lista", "titulo": "Regras do acesso", "itens": ["Autorização obrigatória", "Sigilo fiscal mantido", "Custo pago pela ANP"]}
+    },
+    {
+      "fala": "Quem defende diz que cruzar as notas ajuda a achar adulteração e sonegação mais rápido. Nas fontes consultadas, não houve críticas formais.",
+      "visual": {"tipo": "texto", "titulo": "O argumento", "texto": "Cruzar notas fiscais para achar adulteração, sonegação e lavagem de dinheiro."}
+    },
+    {
+      "fala": "Por ser lei complementar, precisa de quarenta e um votos no Senado. Sem mudanças de conteúdo, vai à sanção.",
+      "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Câmara aprovou", "Plenário do Senado", "Sanção"], "atual": 1}
+    },
+    {
+      "fala": "Quer entender outros temas do Congresso? Os vídeos completos estão no canal do Legiscópio no YouTube. Procure Legiscópio e se inscreva!",
+      "visual": {"tipo": "cta", "titulo": "Quer entender mais?", "subtitulo": "O que é uma lei complementar", "botao": ["Mais vídeos", "no canal"]}
+    }
+  ],
+  "youtube": {
+    "titulo": "Fraude em combustíveis: Senado vota acesso da ANP a notas fiscais #Shorts",
+    "descricao": "O Senado pode votar nesta terça (10) o PLP 109/2025, que dá à ANP acesso permanente às notas fiscais de distribuidoras e postos para combater fraudes. Na Câmara, o texto foi aprovado por 381 a 2. Mais explicações no canal Legiscópio.\n\nFonte: Senado Federal — https://www25.senado.leg.br/web/atividade/materias/-/materia/173581\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #Brasil #SenadoFederal",
+    "tags": ["Legiscópio", "fraude em combustíveis", "PLP 109/2025", "ANP notas fiscais", "adulteração de combustível", "shorts"]
+  }
+}
