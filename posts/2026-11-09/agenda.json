@@ -1,0 +1,108 @@
+{
+ "data": "2026-11-09",
+ "camara_plen": [],
+ "camara_com": [],
+ "senado_plen": [],
+ "senado_com": [
+  {
+   "hora": "09:30",
+   "sigla": "CCS",
+   "nome": "Conselho de Comunicação Social",
+   "tipo": "Audiência pública"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CCS",
+   "nome": "Conselho de Comunicação Social",
+   "tipo": "Reunião"
+  }
+ ],
+ "semana": [
+  {
+   "data": "2026-11-09",
+   "camara_plen": [],
+   "n_camara_com": 0,
+   "senado_plen": [],
+   "n_senado_com": 2
+  },
+  {
+   "data": "2026-11-10",
+   "camara_plen": [],
+   "n_camara_com": 8,
+   "senado_plen": [
+    {
+     "hora": "14:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PLP 109/2025",
+       "ementa": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do § 1º do art. 145 da Constituição Federal."
+      },
+      {
+       "id": "PL 5608/2023",
+       "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama."
+      },
+      {
+       "id": "PDL 934/2025",
+       "ementa": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no Caribe (Acordo de Escazú), assinado em Nova York, em 27 de setembro de 2018."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 5
+  },
+  {
+   "data": "2026-11-11",
+   "camara_plen": [],
+   "n_camara_com": 24,
+   "senado_plen": [
+    {
+     "hora": "14:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PLP 230/2025",
+       "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica."
+      },
+      {
+       "id": "PL 6461/2019",
+       "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+      },
+      {
+       "id": "PL 6683/2025",
+       "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 3
+  },
+  {
+   "data": "2026-11-12",
+   "camara_plen": [],
+   "n_camara_com": 0,
+   "senado_plen": [],
+   "n_senado_com": 0
+  },
+  {
+   "data": "2026-11-13",
+   "camara_plen": [],
+   "n_camara_com": 0,
+   "senado_plen": [],
+   "n_senado_com": 0
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png"
+ ],
+ "semana_arquivos": [
+  "semana_1.png",
+  "semana_2.png",
+  "semana_3.png",
+  "semana_4.png",
+  "semana_5.png"
+ ]
+}
