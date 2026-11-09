@@ -1,0 +1,79 @@
+{
+ "selo": "RANKING DAS PROPOSTAS",
+ "cenas": [
+  {
+   "fala": "Quase todo mundo acha que tudo o que um deputado apresenta vira lei. Não vira! Esse é o ranking das propostas do Congresso, da mais fraca à mais forte.",
+   "visual": {
+    "tipo": "capa",
+    "titulo": "Da mais fraca à mais forte",
+    "subtitulo": "Os 6 tipos de proposta do Congresso"
+   }
+  },
+  {
+   "fala": "Sexto lugar: a indicação. É o parlamentar sugerindo, por exemplo, que um ministério conserte uma estrada. É o famoso seria legal se. Ninguém é obrigado a fazer.",
+   "visual": {
+    "tipo": "numero",
+    "titulo": "Indicação",
+    "valor": "6º",
+    "rotulo": "Uma sugestão. Não obriga ninguém."
+   }
+  },
+  {
+   "fala": "Quinto: o requerimento. Serve para pedir coisas, como informações a um ministro. E aqui já tem dente: o ministro tem trinta dias para responder.",
+   "visual": {
+    "tipo": "numero",
+    "titulo": "Requerimento",
+    "valor": "5º",
+    "rotulo": "Pedido oficial. O ministro tem 30 dias para responder."
+   }
+  },
+  {
+   "fala": "Quarto: o projeto de lei. Esse cria ou muda uma lei de verdade. Passa pela Câmara, pelo Senado e pelo presidente, que pode sancionar ou vetar.",
+   "visual": {
+    "tipo": "etapas",
+    "titulo": "4º · Projeto de lei",
+    "itens": [
+     "Câmara",
+     "Senado",
+     "Sanção ou veto"
+    ],
+    "atual": 2
+   }
+  },
+  {
+   "fala": "Terceiro: o projeto de lei complementar. Ele trata de temas que a Constituição pede, como as regras do MEI. Precisa de maioria absoluta: duzentos e cinquenta e sete deputados e quarenta e um senadores.",
+   "visual": {
+    "tipo": "numero",
+    "titulo": "3º · Lei complementar",
+    "valor": "257",
+    "rotulo": "deputados e 41 senadores: maioria absoluta."
+   }
+  },
+  {
+   "fala": "Segundo: a medida provisória. Só o presidente pode editar, e ela vale no mesmo dia, como se fosse lei. Mas o Congresso precisa votar em até sessenta dias, prorrogáveis por mais sessenta. Senão, ela cai.",
+   "visual": {
+    "tipo": "numero",
+    "titulo": "Medida provisória",
+    "valor": "2º",
+    "rotulo": "Vale na hora. Cai se não for votada em 60 + 60 dias."
+   }
+  },
+  {
+   "fala": "E o primeiro lugar: a PEC, a proposta de emenda à Constituição. Ela muda a lei mais importante do país. Precisa de trezentos e oito deputados e quarenta e nove senadores, em dois turnos. E o presidente não pode vetar.",
+   "visual": {
+    "tipo": "numero",
+    "titulo": "1º · PEC",
+    "valor": "308",
+    "rotulo": "deputados e 49 senadores, em 2 turnos. Sem veto do presidente."
+   }
+  },
+  {
+   "fala": "Qual dessas você já ouviu no jornal e não entendeu? Comenta aí! E para acompanhar cada proposta, baixe o Legiscópio. O link está na legenda.",
+   "visual": {
+    "tipo": "texto",
+    "titulo": "Comenta aí",
+    "texto": "Qual delas você já ouviu no jornal sem entender? Acompanhe no app: www.legiscopio.com.br/baixar"
+   }
+  }
+ ]
+}
