@@ -1,7 +1,21 @@
 {
  "data": "2026-11-05",
- "camara_plen": [],
- "camara_com": [],
+ "camara_plen": [
+  {
+   "id_evento": 83188,
+   "hora": "11:07",
+   "tipo": "Sessão Deliberativa",
+   "itens": []
+  }
+ ],
+ "camara_com": [
+  {
+   "hora": "14:00",
+   "sigla": "TESTECOM",
+   "nome": "TESTE COMISSÃO",
+   "tipo": "Votações"
+  }
+ ],
  "senado_plen": [],
  "senado_com": [
   {
@@ -13,7 +27,9 @@
  ],
  "arquivos": [
   "agenda_1.png",
-  "agenda_2.png"
+  "agenda_2.png",
+  "agenda_3.png",
+  "agenda_4.png"
  ],
  "semana_arquivos": []
 }

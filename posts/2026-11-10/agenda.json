@@ -1,0 +1,141 @@
+{
+ "data": "2026-11-10",
+ "camara_plen": [],
+ "camara_com": [
+  {
+   "hora": "10:00",
+   "sigla": "EVENTOS",
+   "nome": "Outros Eventos",
+   "tipo": "Reunião Técnica"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CSAUDE",
+   "nome": "Saúde",
+   "tipo": "Audiência Pública: Políticas públicas em saúde da mulher e oncologia REQ nº 13/2026 CSAUDE, do Dep. Giovani Cherini (PL/RS). Convidados confirmados: - Joana Jenkes (participação presencial) Representante da Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama (FEMAMA); - Shirley Marshal Diaz Morales (participação presencial) Conselheira Nacional de Saúde, da Coordenação da Comissão da Saúde da Mulher do Conselho Nacional de Saúde; - Rodrigo Lacerda (particpação remota) Representante do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS); - Itamar Bento Claro (participação remota) Representante do Instituto Nacional de Câncer (INCA); - Ana Cristina Marques Martins (participação remota) Gerente-Geral de Regulação Assistencial da Diretoria de Normas e Habilitação dos Produtos da Agência Nacional de Saúde Suplementar (ANS). - Mariana Seabra Souza Pereira (participação remota) Coordenadora-Geral de Atenção à Saúde das Mulheres, do Ministério da Saúde; - Raica Candeias (participação remota) Consultora técnica na Coordenação-Geral de Atenção ao Câncer, do Ministério da Saúde. Convidados não confirmados: Representante do Conselho Nacional de Secretários de Saúde (CONASS)."
+  },
+  {
+   "hora": "13:00",
+   "sigla": "CPD",
+   "nome": "Defesa dos Direitos das Pessoas com Deficiência",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CPOVOS",
+   "nome": "Amazônia e dos Povos Originários e Tradicionais",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CASP",
+   "nome": "Administração e Serviço Público",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CEXEXPLO",
+   "nome": "Violência Sexual Infantojuvenil",
+   "tipo": "Audiência Pública e Deliberação: Audiência pública e votação de requerimentos <p><strong>Tema</strong>: Turismo sexual, exploração em rodovias federais e cadeias de aliciamento de crianças e adolescentes.</p><p></p><p><strong>A - Audiência Pública</strong></p><p></p><p><strong>Convidados:</strong></p><p></p><p>1) FERNANDA SOUZA CARLOS | PRF (Confirmada)</p><p>&nbsp;&nbsp;&nbsp;Coordenadora-Geral de Direitos Humanos</p><p>&nbsp;&nbsp;&nbsp;Polícia Rodoviária Federal</p><p></p><p>2) GUSTAVO COSTA FELICIANO (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Ministro de Estado do Turismo</p><p>&nbsp;&nbsp;&nbsp;Ministério do Turismo</p><p></p><p>3) BRUNO GIOVANNI DOS REIS (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Diretor-Presidente da Agência Brasileira de Promoção Internacional do Turismo - Embratur</p><p>&nbsp;&nbsp;&nbsp;Agência Brasileira de Promoção Internacional do Turismo - Embratur</p><p></p><p>4) FERNANDA BRITO PEREIRA (Confirmada)</p><p>&nbsp;&nbsp;&nbsp;Procuradora Regional do Trabalho (PRT 23ª) e Coordenadora Nacional de Combate ao Trabalho Infantil e de Promoção e Defesa dos Direitos de Crianças e Adolescentes - COORDINFÂNCIA</p><p>&nbsp;&nbsp;&nbsp;Ministério Público do Trabalho - MPT</p><p></p><p>5) REGINA COELI CALIL LUSTOZA LEÃO (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Coordenadora da Pastoral do Menor</p><p>&nbsp;&nbsp;&nbsp;Pastoral do Menor</p><p></p><p>6) LAÍS ZASNICOFF (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Diretora-Executiva da Childhood Brasil</p><p>&nbsp;&nbsp;&nbsp;Childhood Brasil</p><p></p><p>(Requerimento nº 25/2026, do Dep. Fernando Rodolfo)</p><p></p><p><strong>B - Deliberação de Requerimentos</strong> (estão sujeitos à pauta os requerimentos apresentados até 24h antes do início da Reunião)</p><p></p><p></p>"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CSPCCO",
+   "nome": "Segurança Pública e Combate ao Crime Organizado",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "PEC03215",
+   "nome": "Maioridade Penal",
+   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal Audiência Pública Convidados: PAULO GARRIDO MODESTO, Secretário de Assuntos Legislativo do MJSP, representante do Ministro da Justiça e Segurança Pública (REQ 2/2026) - (confirmado); PAULO GUSTAVO GONET BRANCO, Presidente do Conselho Nacional do Ministério Público (REQ 4/2026) - (a confirmar); KATY BRAUN DO PRADO, Presidente da Associação Brasileira dos Magistrados da Infância e da Juventude - ABRAMINJ (REQ 4/2026) - (confirmada); SIRO DARLAN DE OLIVEIRA, Desembargador aposentado e Vice-Presidente da Academia Brasileira de Letras do Cárcere - ABLC (REQ 31/2026) - (confirmado). (Requerimento nºs 2, 4/2026, do Deputado Capitão Alden) (Requerimento nº 31/2026, do Deputado Renildo Calheiros)"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CCJC",
+   "nome": "Constituição e Justiça e de Cidadania",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:00",
+   "sigla": "CCULT",
+   "nome": "Cultura",
+   "tipo": "Outro Evento"
+  }
+ ],
+ "senado_plen": [
+  {
+   "hora": "14:00",
+   "tipo": "Sessão deliberativa ordinária",
+   "casa": "SF",
+   "itens": [
+    {
+     "id": "PLP 109/2025",
+     "ementa": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do § 1º do art. 145 da Constituição Federal."
+    },
+    {
+     "id": "PL 5608/2023",
+     "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama e institui o Programa Empresa Rosa e o Selo Rosa."
+    },
+    {
+     "id": "PDL 934/2025",
+     "ementa": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no Caribe (Acordo de Escazú), assinado em Nova York, em 27 de setembro de 2018."
+    }
+   ]
+  }
+ ],
+ "senado_com": [
+  {
+   "hora": "09:00",
+   "sigla": "CI",
+   "nome": "Serviços de Infraestrutura",
+   "tipo": "Votações (19 itens)"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CE",
+   "nome": "Educação e Cultura",
+   "tipo": "Votações (11 itens)"
+  },
+  {
+   "hora": "11:30",
+   "sigla": "CESPNE",
+   "nome": "Subcomissão Permanente do Plano Nacional de Educação",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CCJ",
+   "nome": "Constituição, Justiça e Cidadania",
+   "tipo": "Audiência pública"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CMMPV 1376/2026",
+   "nome": "Mista da Medida Provisória n° 1376, de 2026",
+   "tipo": "Votações (1 itens)"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CCT",
+   "nome": "Ciência, Tecnologia, Inovação e Informática",
+   "tipo": "Audiência pública"
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png",
+  "agenda_3.png",
+  "agenda_4.png",
+  "agenda_5.png",
+  "agenda_6.png",
+  "agenda_7.png"
+ ],
+ "semana_arquivos": []
+}
