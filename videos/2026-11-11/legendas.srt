@@ -1,0 +1,747 @@
+1
+00:00:00,102 --> 00:00:03,497
+A medida provisória que renegocia dívidas de produtores
+
+2
+00:00:03,497 --> 00:00:06,931
+rurais atingidos por seca, enchente e geada chega
+
+3
+00:00:06,931 --> 00:00:08,342
+ao dia decisivo.
+
+4
+00:00:08,342 --> 00:00:11,210
+A Câmara aprovou o texto nesta terça-feira, e o
+
+5
+00:00:11,210 --> 00:00:14,736
+Senado tem até hoje, onze de novembro, para votar.
+
+6
+00:00:14,736 --> 00:00:17,710
+Se não votar, a MP perde a validade.
+
+7
+00:00:17,710 --> 00:00:21,605
+E até agora só um quinto do valor previsto foi renegociado.
+
+8
+00:00:21,605 --> 00:00:24,250
+Fica até o final que eu explico por que tão pouco
+
+9
+00:00:24,250 --> 00:00:25,632
+saiu.
+
+10
+00:00:26,184 --> 00:00:27,408
+Antes de começar:
+
+11
+00:00:27,408 --> 00:00:30,237
+se esse assunto te interessa, deixa o seu like,
+
+12
+00:00:30,237 --> 00:00:33,316
+se inscreve no canal e ativa o sininho pra não perder
+
+13
+00:00:33,316 --> 00:00:34,463
+os próximos.
+
+14
+00:00:34,463 --> 00:00:36,498
+Agora, vamos lá!
+
+15
+00:00:37,050 --> 00:00:40,129
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+16
+00:00:40,129 --> 00:00:42,945
+vai entender quem pode renegociar, com quais juros
+
+17
+00:00:42,945 --> 00:00:45,921
+e prazos, o que a Câmara mudou no texto e o que
+
+18
+00:00:45,921 --> 00:00:48,842
+acontece com os produtores se a medida provisória
+
+19
+00:00:48,842 --> 00:00:50,939
+perder a validade.
+
+20
+00:00:51,492 --> 00:00:54,637
+A medida é a MP mil trezentos e setenta e seis,
+
+21
+00:00:54,637 --> 00:00:58,676
+de 2026, publicada no Diário Oficial em quinze de
+
+22
+00:00:58,676 --> 00:00:59,390
+julho.
+
+23
+00:00:59,390 --> 00:01:02,140
+Medida provisória é uma norma que o presidente da
+
+24
+00:01:02,140 --> 00:01:04,982
+República edita e que vale na hora, como se fosse
+
+25
+00:01:04,982 --> 00:01:05,561
+lei.
+
+26
+00:01:05,561 --> 00:01:08,416
+Mas o Congresso precisa aprová-la em até cento e
+
+27
+00:01:08,416 --> 00:01:09,508
+vinte dias.
+
+28
+00:01:09,508 --> 00:01:11,732
+Senão, ela perde a validade.
+
+29
+00:01:11,732 --> 00:01:14,406
+E esse prazo termina hoje.
+
+30
+00:01:14,958 --> 00:01:18,932
+Nesta terça, a Câmara aprovou a MP em votação simbólica,
+
+31
+00:01:18,932 --> 00:01:21,669
+aquela em que não fica registrado como votou cada
+
+32
+00:01:21,669 --> 00:01:22,632
+deputado.
+
+33
+00:01:22,632 --> 00:01:25,619
+O texto foi aprovado na forma de um projeto de lei
+
+34
+00:01:25,619 --> 00:01:29,645
+de conversão, o PLV dezesseis de 2026.
+
+35
+00:01:29,645 --> 00:01:32,434
+Isso quer dizer que os deputados mudaram o texto
+
+36
+00:01:32,434 --> 00:01:33,961
+original do governo.
+
+37
+00:01:33,961 --> 00:01:36,711
+Se o Senado aprovar, ele segue para a sanção do
+
+38
+00:01:36,711 --> 00:01:38,423
+presidente.
+
+39
+00:01:38,976 --> 00:01:42,452
+Para entender a MP, vale olhar o tamanho do problema.
+
+40
+00:01:42,452 --> 00:01:45,676
+Segundo o Cepea, centro de pesquisa da Esalq, da
+
+41
+00:01:45,676 --> 00:01:49,097
+Universidade de São Paulo, com dados do Banco Central,
+
+42
+00:01:49,097 --> 00:01:52,281
+a inadimplência das pessoas físicas no crédito rural
+
+43
+00:01:52,281 --> 00:01:54,991
+chegou a nove vírgula sessenta e nove por cento
+
+44
+00:01:54,991 --> 00:01:56,505
+do saldo em agosto.
+
+45
+00:01:56,505 --> 00:01:59,952
+É o maior nível da série iniciada em 2011.
+
+46
+00:01:59,952 --> 00:02:04,169
+No fim de 2022, era menos de um por cento.
+
+47
+00:02:04,722 --> 00:02:08,025
+A MP vale para produtores rurais e cooperativas
+
+48
+00:02:08,025 --> 00:02:11,393
+de produção que tiveram perdas em duas ou mais safras,
+
+49
+00:02:11,393 --> 00:02:14,356
+entre 2019 e 2025.
+
+50
+00:02:14,356 --> 00:02:17,185
+A perda precisa ter reduzido a renda esperada em
+
+51
+00:02:17,185 --> 00:02:19,067
+pelo menos trinta por cento.
+
+52
+00:02:19,067 --> 00:02:22,672
+Nas áreas atendidas pelas superintendências de desenvolvimento
+
+53
+00:02:22,672 --> 00:02:26,014
+da Amazônia, do Nordeste e do Centro-Oeste, a Sudam,
+
+54
+00:02:26,014 --> 00:02:29,106
+a Sudene e a Sudeco, o corte é de vinte e cinco
+
+55
+00:02:29,106 --> 00:02:30,635
+por cento.
+
+56
+00:02:31,188 --> 00:02:34,057
+As perdas podem vir de eventos climáticos, como
+
+57
+00:02:34,057 --> 00:02:38,175
+secas, estiagens, enchentes, granizo, geadas, ondas
+
+58
+00:02:38,175 --> 00:02:39,770
+de frio e vendavais.
+
+59
+00:02:39,770 --> 00:02:43,046
+Também contam perdas por queda nos preços de venda.
+
+60
+00:02:43,046 --> 00:02:45,717
+Para comprovar, é preciso um laudo assinado por
+
+61
+00:02:45,717 --> 00:02:47,520
+um profissional habilitado.
+
+62
+00:02:47,520 --> 00:02:50,349
+E quem assinar laudo falso responde pelos danos
+
+63
+00:02:50,349 --> 00:02:52,589
+aos cofres públicos.
+
+64
+00:02:53,142 --> 00:02:55,171
+Os juros dependem do porte.
+
+65
+00:02:55,171 --> 00:02:58,368
+Agricultores familiares, do Pronaf, pagam seis por
+
+66
+00:02:58,368 --> 00:03:01,342
+cento ao ano, para dívidas de até quatrocentos mil
+
+67
+00:03:01,342 --> 00:03:02,171
+reais.
+
+68
+00:03:02,171 --> 00:03:05,526
+Médios produtores, do Pronamp, pagam nove por cento,
+
+69
+00:03:05,526 --> 00:03:07,026
+até dois milhões.
+
+70
+00:03:07,026 --> 00:03:10,566
+Os demais pagam doze por cento, até quatro milhões.
+
+71
+00:03:10,566 --> 00:03:13,553
+O prazo é de até oito anos, com dois de carência,
+
+72
+00:03:13,553 --> 00:03:16,512
+período em que só se pagam os juros.
+
+73
+00:03:17,064 --> 00:03:20,185
+Para quem perdeu mais, as condições são melhores.
+
+74
+00:03:20,185 --> 00:03:23,040
+Com perdas em três ou mais safras e queda de renda
+
+75
+00:03:23,040 --> 00:03:25,909
+de pelo menos quarenta por cento, os juros caem
+
+76
+00:03:25,909 --> 00:03:26,685
+um ponto:
+
+77
+00:03:26,685 --> 00:03:29,540
+cinco, oito e onze por cento ao ano.
+
+78
+00:03:29,540 --> 00:03:32,830
+O limite dos maiores produtores sobe para oito milhões
+
+79
+00:03:32,830 --> 00:03:36,449
+de reais, e o prazo vai a até dez anos.
+
+80
+00:03:37,002 --> 00:03:39,018
+Agora, a origem do dinheiro.
+
+81
+00:03:39,018 --> 00:03:41,965
+Os juros mais baixos usam recursos que os bancos
+
+82
+00:03:41,965 --> 00:03:44,978
+já são obrigados a direcionar ao crédito rural,
+
+83
+00:03:44,978 --> 00:03:48,136
+como parte da poupança rural e das Letras de Crédito
+
+84
+00:03:48,136 --> 00:03:50,623
+do Agronegócio, as LCAs.
+
+85
+00:03:50,623 --> 00:03:53,531
+O Tesouro Nacional cobre a diferença de juros, a
+
+86
+00:03:53,531 --> 00:03:55,149
+chamada equalização.
+
+87
+00:03:55,149 --> 00:03:58,136
+Segundo o Estadão, foram reservados vinte e quatro
+
+88
+00:03:58,136 --> 00:04:00,834
+vírgula três bilhões de reais para isso.
+
+89
+00:04:00,834 --> 00:04:04,211
+E o risco de calote fica com os bancos.
+
+90
+00:04:04,764 --> 00:04:07,856
+A MP também autoriza a União a participar de um
+
+91
+00:04:07,856 --> 00:04:09,161
+fundo garantidor.
+
+92
+00:04:09,161 --> 00:04:11,833
+Ele funciona como uma proteção para o banco:
+
+93
+00:04:11,833 --> 00:04:14,622
+cobre atrasos em novos empréstimos de produtores
+
+94
+00:04:14,622 --> 00:04:16,306
+afetados pelo clima.
+
+95
+00:04:16,306 --> 00:04:19,161
+O fundo é privado, pode ter bancos e produtores
+
+96
+00:04:19,161 --> 00:04:22,425
+como cotistas e não tem garantia do poder público.
+
+97
+00:04:22,425 --> 00:04:26,549
+Quanto a União vai colocar será definido em regulamento.
+
+98
+00:04:27,101 --> 00:04:29,434
+Agora, uma conta do Legiscópio.
+
+99
+00:04:29,434 --> 00:04:32,710
+Quando a MP foi publicada, o governo estimava cem
+
+100
+00:04:32,710 --> 00:04:36,210
+bilhões de reais em renegociações, segundo o Estadão.
+
+101
+00:04:36,210 --> 00:04:39,210
+Até esta terça-feira, cerca de vinte bilhões tinham
+
+102
+00:04:39,210 --> 00:04:40,868
+sido renegociados.
+
+103
+00:04:40,868 --> 00:04:44,144
+Ou seja, vinte por cento do previsto, um quinto,
+
+104
+00:04:44,144 --> 00:04:46,439
+a um dia do fim do prazo.
+
+105
+00:04:46,992 --> 00:04:50,324
+Os dados por estado mostram onde a procura foi maior.
+
+106
+00:04:50,324 --> 00:04:53,403
+Segundo a Confederação da Agricultura e Pecuária,
+
+107
+00:04:53,403 --> 00:04:57,047
+a CNA, citada pelo site AgFeed, o Rio Grande do
+
+108
+00:04:57,047 --> 00:04:59,929
+Sul contratou sete bilhões de reais até vinte e
+
+109
+00:04:59,929 --> 00:05:03,061
+sete de outubro, o maior volume do país.
+
+110
+00:05:03,061 --> 00:05:06,192
+São Paulo e Minas Gerais tiveram novecentos milhões
+
+111
+00:05:06,192 --> 00:05:09,834
+cada, e o Paraná, oitocentos milhões.
+
+112
+00:05:10,386 --> 00:05:13,544
+O volume ficou abaixo do previsto, e as entidades
+
+113
+00:05:13,544 --> 00:05:15,560
+do setor apontam motivos.
+
+114
+00:05:15,560 --> 00:05:18,573
+Em nota citada pelo AgFeed, a Frente Parlamentar
+
+115
+00:05:18,573 --> 00:05:21,323
+da Agropecuária listou entraves como a exigência
+
+116
+00:05:21,323 --> 00:05:24,573
+de laudo, os juros, os limites por produtor e as
+
+117
+00:05:24,573 --> 00:05:25,639
+garantias.
+
+118
+00:05:25,639 --> 00:05:28,612
+Além disso, o prazo para contratar era curto:
+
+119
+00:05:28,612 --> 00:05:32,531
+cento e vinte dias a partir da publicação da MP.
+
+120
+00:05:33,084 --> 00:05:34,995
+Foi aí que a Câmara mexeu.
+
+121
+00:05:34,995 --> 00:05:38,205
+Com o texto do relator, o prazo para contratar passa
+
+122
+00:05:38,205 --> 00:05:40,955
+a contar só depois da regulamentação da lei:
+
+123
+00:05:40,955 --> 00:05:43,758
+são cento e vinte dias, que podem ser prorrogados
+
+124
+00:05:43,758 --> 00:05:45,179
+pelo mesmo período.
+
+125
+00:05:45,179 --> 00:05:48,074
+O texto também inclui cooperativas e Cédulas de
+
+126
+00:05:48,074 --> 00:05:52,231
+Produto Rural, as CPRs, emitidas a fornecedores
+
+127
+00:05:52,231 --> 00:05:55,587
+de insumos e cerealistas, e amplia o laudo coletivo
+
+128
+00:05:55,587 --> 00:05:59,573
+para micro, mini, pequenos e médios produtores.
+
+129
+00:06:00,126 --> 00:06:03,139
+O texto aprovado também trata de assuntos fora do
+
+130
+00:06:03,139 --> 00:06:04,300
+crédito rural.
+
+131
+00:06:04,300 --> 00:06:07,313
+Segundo a Agência Câmara e o jornal O Tempo, ele
+
+132
+00:06:07,313 --> 00:06:10,497
+prevê a fabricação no Brasil de produtos de nicotina,
+
+133
+00:06:10,497 --> 00:06:13,668
+como vapes, apenas para exportação, com cadastro
+
+134
+00:06:13,668 --> 00:06:15,458
+simplificado na Anvisa.
+
+135
+00:06:15,458 --> 00:06:20,142
+E prorroga de 2027 para 2030 prazos ligados a dívidas
+
+136
+00:06:20,142 --> 00:06:22,958
+do antigo Sistema Financeiro da Habitação com o
+
+137
+00:06:22,958 --> 00:06:26,183
+FCVS, um fundo do governo.
+
+138
+00:06:26,736 --> 00:06:28,081
+Os dois lados.
+
+139
+00:06:28,081 --> 00:06:30,752
+Quem defende o texto, como o relator e a Frente
+
+140
+00:06:30,752 --> 00:06:34,133
+Parlamentar da Agropecuária, afirma que ele avançou
+
+141
+00:06:34,133 --> 00:06:37,791
+e vai ajudar parte dos endividados a continuar produzindo,
+
+142
+00:06:37,791 --> 00:06:40,476
+embora reconheça que não agrada a todos.
+
+143
+00:06:40,476 --> 00:06:43,489
+Parlamentares do Sul e do Centro-Oeste criticaram
+
+144
+00:06:43,489 --> 00:06:46,107
+as condições, segundo a Rádio Senado.
+
+145
+00:06:46,107 --> 00:06:49,173
+E, segundo o Estadão, a equipe econômica do governo
+
+146
+00:06:49,173 --> 00:06:52,318
+é contra parte das mudanças, e há sinais de possíveis
+
+147
+00:06:52,318 --> 00:06:53,133
+vetos.
+
+148
+00:06:53,133 --> 00:06:56,657
+O relator nega impacto fiscal adicional.
+
+149
+00:06:57,210 --> 00:07:00,686
+Se o Senado não votar até hoje, a MP caduca.
+
+150
+00:07:00,686 --> 00:07:04,015
+Segundo o AgFeed, os contratos já assinados continuam
+
+151
+00:07:04,015 --> 00:07:06,397
+valendo, com as mesmas condições.
+
+152
+00:07:06,397 --> 00:07:09,713
+Mas novas renegociações pelas regras da MP deixam
+
+153
+00:07:09,713 --> 00:07:12,910
+de ser possíveis, e uma solução dependeria de outra
+
+154
+00:07:12,910 --> 00:07:15,871
+proposta no Congresso ou de medidas do Conselho
+
+155
+00:07:15,871 --> 00:07:17,331
+Monetário Nacional.
+
+156
+00:07:17,331 --> 00:07:20,950
+Se o Senado aprovar, o texto vai à sanção, e o presidente
+
+157
+00:07:20,950 --> 00:07:23,147
+pode vetar trechos.
+
+158
+00:07:23,700 --> 00:07:25,347
+Três dúvidas comuns.
+
+159
+00:07:25,347 --> 00:07:27,387
+A MP não perdoa dívidas:
+
+160
+00:07:27,387 --> 00:07:30,597
+ela troca dívidas antigas por novas, com juros menores
+
+161
+00:07:30,597 --> 00:07:33,769
+e mais prazo, e o produtor continua pagando.
+
+162
+00:07:33,769 --> 00:07:36,479
+Também não vale para qualquer produtor, só para
+
+163
+00:07:36,479 --> 00:07:39,624
+quem comprovar perdas em pelo menos duas safras.
+
+164
+00:07:39,624 --> 00:07:42,624
+E quem já assinou a renegociação não perde o contrato
+
+165
+00:07:42,624 --> 00:07:44,645
+se a MP cair.
+
+166
+00:07:45,198 --> 00:07:47,121
+Resumindo em três pontos.
+
+167
+00:07:47,121 --> 00:07:50,200
+A MP mil trezentos e setenta e seis troca dívidas
+
+168
+00:07:50,200 --> 00:07:53,213
+de quem perdeu safras por crédito com juros de cinco
+
+169
+00:07:53,213 --> 00:07:56,753
+a doze por cento ao ano e até dez anos para pagar.
+
+170
+00:07:56,753 --> 00:08:00,003
+A Câmara ampliou o alcance e o prazo para contratar.
+
+171
+00:08:00,003 --> 00:08:02,964
+E o Senado tem até hoje, onze de novembro, para
+
+172
+00:08:02,964 --> 00:08:04,343
+votar.
+
+173
+00:08:04,896 --> 00:08:08,517
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+174
+00:08:08,517 --> 00:08:12,293
+No Instagram e no TikTok, a gente é @legiscopio.
+
+175
+00:08:12,293 --> 00:08:15,228
+E o aplicativo do Legiscópio já está disponível
+
+176
+00:08:15,228 --> 00:08:17,570
+para Android e iPhone, de graça:
+
+177
+00:08:17,570 --> 00:08:22,337
+é só acessar www.legiscopio.com.br/baixar.
+
+178
+00:08:22,889 --> 00:08:25,732
+Este vídeo usou informações da Agência Câmara, da
+
+179
+00:08:25,732 --> 00:08:29,337
+Rádio Senado, dos dados abertos da Câmara e do Congresso
+
+180
+00:08:29,337 --> 00:08:32,537
+Nacional e de reportagens do Estadão, do jornal
+
+181
+00:08:32,537 --> 00:08:36,695
+O Tempo e do site AgFeed, que cita o Cepea e a CNA.
+
+182
+00:08:36,695 --> 00:08:38,787
+Os links estão na descrição.
+
+183
+00:08:38,787 --> 00:08:42,064
+Se o vídeo te ajudou, se inscreva no canal e compartilhe
+
+184
+00:08:42,064 --> 00:08:43,616
+com quem vive do campo.
+
+185
+00:08:43,616 --> 00:08:46,932
+O Legiscópio é independente e gratuito, e você pode
+
+186
+00:08:46,932 --> 00:08:49,945
+apoiar em apoia.se/legiscopio.
+
+187
+00:08:49,945 --> 00:08:51,803
+Até a próxima!
