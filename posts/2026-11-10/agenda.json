@@ -1,6 +1,86 @@
 {
  "data": "2026-11-10",
- "camara_plen": [],
+ "camara_plen": [
+  {
+   "id_evento": 83243,
+   "hora": "14:03",
+   "tipo": "Sessão Deliberativa",
+   "itens": [
+    {
+     "id": "PAR 1/2026",
+     "ementa": "PARECER n° 1/2026  Da COMISSÃO MISTA DA MEDIDA PROVISÓRIA N° 1376, DE 2026, sobre Medida Provisória n° 1376, de 2026, de Presidência da República, que Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos."
+    },
+    {
+     "id": "PAR 1/0",
+     "ementa": "PARECER 1 /2026 Da COMISSÃO MISTA DA MEDIDA PROVISÓRIA N° 1379, DE 2026, sobre Medida Provisória n° 1379, de 2026, de Presidência da República, que Altera a Lei nº 15.473, de 22 de julho de 2026, que altera a Lei nº 9.818, de 23 de agosto de 1999, e a Lei nº 12.712, de 30 de agosto de 2012, para fortalecer e modernizar o sistema brasileiro de apoio oficial ao crédito à exportação."
+    },
+    {
+     "id": "PL 215/2015",
+     "ementa": "Acrescenta inciso V ao art. 141 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940."
+    },
+    {
+     "id": "PSS 1/0",
+     "ementa": "Parecer ao Substitutivo do Senado Federal proferido pelo Relator Dep. Eduardo Bismarck (PV/CE) pela:\n• Comissão de Saúde, que conclui pela aprovação do Substitutivo do Senado Federal ao Projeto de Lei n° 3.099, de 2019.\n• Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Substitutivo do Senado Federal ao Projeto de Lei n° 3.099, de 2019."
+    },
+    {
+     "id": "PL 79/2020",
+     "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA)."
+    },
+    {
+     "id": "PL 504/2021",
+     "ementa": "Cria a Política Nacional de Residência em Área Profissional da Saúde."
+    },
+    {
+     "id": "PL 636/2023",
+     "ementa": "Altera a Lei n. 12.340, de 1° de Dezembro de 2010, para dar maior efetividade ao Plano de Contingência de Proteção e Defesa Civil.   NOVA EMENTA: Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dar mais efetividade ao Plano de Contingência de Proteção e Defesa Civil."
+    },
+    {
+     "id": "PL 2829/2024",
+     "ementa": "Denomina “Viaduto Severo Eulálio Filho” o viaduto localizado na BR-343, na Ladeira do Uruguai, Zona Leste do Município de Teresina, Estado do Piauí."
+    },
+    {
+     "id": "PL 2475/2025",
+     "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal."
+    },
+    {
+     "id": "PL 4159/2025",
+     "ementa": "Inscreve o nome de Padre Inácio de Sousa Rolim no Livro dos Heróis e Heroínas da Pátria."
+    },
+    {
+     "id": "PPP 1/0",
+     "ementa": "Parecer proferido em Plenário pelo Relator Dep. Rodrigo da Zaeli (PL/MT) pela: • Comissão de Segurança Pública e Combate ao Crime Organizado, que conclui pela aprovação do Projeto de Lei nº 4.480, de 2025, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária do Projeto de Lei nº 4.480, de 2025, e do Substitutivo adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado; e, no mérito, pela sua aprovação, na forma do Substitutivo adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 4.480, de 2025, e do Substitutivo adotado pelo relator da Comissão de Segurança Pública e Combate ao Crime Organizado."
+    },
+    {
+     "id": "PDL 557/2026",
+     "ementa": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de adesão brasileira ao referido instrumento."
+    },
+    {
+     "id": "PL 423/2022",
+     "ementa": "Reconhece o extermínio de ucranianos por meio da fome (Holodomor) como genocídio e institui o quarto sábado de novembro como Dia de Memória às Vítimas do Holodomor."
+    },
+    {
+     "id": "PL 4724/2024",
+     "ementa": "Acrescenta o § 1º ao artigo 299 da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), para prever causa de aumento de pena quando o crime for cometido por meio de associações ou organizações criminosas."
+    },
+    {
+     "id": "PL 724/2003",
+     "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
+    },
+    {
+     "id": "PL 4754/2024",
+     "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, para prever a perda automática de cargo, função pública ou mandato eletivo em caso de condenação por estupro de vulnerável."
+    },
+    {
+     "id": "PL 2500/2025",
+     "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal, e a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal, para endurecer os requisitos de progressão de regime e livramento condicional de reincidentes em crimes patrimoniais praticados com violência ou grave ameaça à pessoa."
+    },
+    {
+     "id": "PL 464/2026",
+     "ementa": "Altera a Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil) e a Lei  nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa) para dispor sobre a responsabilização por interdição abusiva"
+    }
+   ]
+  }
+ ],
  "camara_com": [
   {
    "hora": "10:00",
@@ -9,55 +89,37 @@
    "tipo": "Reunião Técnica"
   },
   {
-   "hora": "10:00",
+   "hora": "10:19",
    "sigla": "CSAUDE",
    "nome": "Saúde",
-   "tipo": "Audiência Pública: Políticas públicas em saúde da mulher e oncologia REQ nº 13/2026 CSAUDE, do Dep. Giovani Cherini (PL/RS). Convidados confirmados: - Joana Jenkes (participação presencial) Representante da Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama (FEMAMA); - Shirley Marshal Diaz Morales (participação presencial) Conselheira Nacional de Saúde, da Coordenação da Comissão da Saúde da Mulher do Conselho Nacional de Saúde; - Rodrigo Lacerda (particpação remota) Representante do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS); - Itamar Bento Claro (participação remota) Representante do Instituto Nacional de Câncer (INCA); - Ana Cristina Marques Martins (participação remota) Gerente-Geral de Regulação Assistencial da Diretoria de Normas e Habilitação dos Produtos da Agência Nacional de Saúde Suplementar (ANS). - Mariana Seabra Souza Pereira (participação remota) Coordenadora-Geral de Atenção à Saúde das Mulheres, do Ministério da Saúde; - Raica Candeias (participação remota) Consultora técnica na Coordenação-Geral de Atenção ao Câncer, do Ministério da Saúde. Convidados não confirmados: Representante do Conselho Nacional de Secretários de Saúde (CONASS)."
+   "tipo": "Audiência Pública: Políticas públicas em saúde da mulher e oncologia REQ nº 13/2026 CSAUDE, do Dep. Giovani Cherini (PL/RS). Convidados confirmados: - Joana Jeker (participação presencial) Representante da Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama (FEMAMA); - Shirley Marshal Diaz Morales (participação presencial) Conselheira Nacional de Saúde, da Coordenação da Comissão da Saúde da Mulher do Conselho Nacional de Saúde; - Rodrigo Lacerda (particpação remota) Representante do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS); - Itamar Bento Claro (participação remota) Representante do Instituto Nacional de Câncer (INCA); - Ana Cristina Marques Martins (participação remota) Gerente-Geral de Regulação Assistencial da Diretoria de Normas e Habilitação dos Produtos da Agência Nacional de Saúde Suplementar (ANS). - Mariana Seabra Souza Pereira (participação remota) Coordenadora-Geral de Atenção à Saúde das Mulheres, do Ministério da Saúde; - Raica Candeias (participação remota) Consultora técnica na Coordenação-Geral de Atenção ao Câncer, do Ministério da Saúde. Convidados não confirmados: Representante do Conselho Nacional de Secretários de Saúde (CONASS)."
   },
   {
-   "hora": "13:00",
+   "hora": "13:22",
    "sigla": "CPD",
    "nome": "Defesa dos Direitos das Pessoas com Deficiência",
    "tipo": "Votações"
   },
   {
-   "hora": "14:00",
-   "sigla": "CPOVOS",
-   "nome": "Amazônia e dos Povos Originários e Tradicionais",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CASP",
-   "nome": "Administração e Serviço Público",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CEXEXPLO",
-   "nome": "Violência Sexual Infantojuvenil",
-   "tipo": "Audiência Pública e Deliberação: Audiência pública e votação de requerimentos <p><strong>Tema</strong>: Turismo sexual, exploração em rodovias federais e cadeias de aliciamento de crianças e adolescentes.</p><p></p><p><strong>A - Audiência Pública</strong></p><p></p><p><strong>Convidados:</strong></p><p></p><p>1) FERNANDA SOUZA CARLOS | PRF (Confirmada)</p><p>&nbsp;&nbsp;&nbsp;Coordenadora-Geral de Direitos Humanos</p><p>&nbsp;&nbsp;&nbsp;Polícia Rodoviária Federal</p><p></p><p>2) GUSTAVO COSTA FELICIANO (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Ministro de Estado do Turismo</p><p>&nbsp;&nbsp;&nbsp;Ministério do Turismo</p><p></p><p>3) BRUNO GIOVANNI DOS REIS (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Diretor-Presidente da Agência Brasileira de Promoção Internacional do Turismo - Embratur</p><p>&nbsp;&nbsp;&nbsp;Agência Brasileira de Promoção Internacional do Turismo - Embratur</p><p></p><p>4) FERNANDA BRITO PEREIRA (Confirmada)</p><p>&nbsp;&nbsp;&nbsp;Procuradora Regional do Trabalho (PRT 23ª) e Coordenadora Nacional de Combate ao Trabalho Infantil e de Promoção e Defesa dos Direitos de Crianças e Adolescentes - COORDINFÂNCIA</p><p>&nbsp;&nbsp;&nbsp;Ministério Público do Trabalho - MPT</p><p></p><p>5) REGINA COELI CALIL LUSTOZA LEÃO (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Coordenadora da Pastoral do Menor</p><p>&nbsp;&nbsp;&nbsp;Pastoral do Menor</p><p></p><p>6) LAÍS ZASNICOFF (a Confirmar)</p><p>&nbsp;&nbsp;&nbsp;Diretora-Executiva da Childhood Brasil</p><p>&nbsp;&nbsp;&nbsp;Childhood Brasil</p><p></p><p>(Requerimento nº 25/2026, do Dep. Fernando Rodolfo)</p><p></p><p><strong>B - Deliberação de Requerimentos</strong> (estão sujeitos à pauta os requerimentos apresentados até 24h antes do início da Reunião)</p><p></p><p></p>"
-  },
-  {
-   "hora": "14:00",
+   "hora": "14:28",
    "sigla": "CSPCCO",
    "nome": "Segurança Pública e Combate ao Crime Organizado",
    "tipo": "Votações"
   },
   {
    "hora": "14:30",
-   "sigla": "PEC03215",
-   "nome": "Maioridade Penal",
-   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal Audiência Pública Convidados: PAULO GARRIDO MODESTO, Secretário de Assuntos Legislativo do MJSP, representante do Ministro da Justiça e Segurança Pública (REQ 2/2026) - (confirmado); PAULO GUSTAVO GONET BRANCO, Presidente do Conselho Nacional do Ministério Público (REQ 4/2026) - (a confirmar); KATY BRAUN DO PRADO, Presidente da Associação Brasileira dos Magistrados da Infância e da Juventude - ABRAMINJ (REQ 4/2026) - (confirmada); SIRO DARLAN DE OLIVEIRA, Desembargador aposentado e Vice-Presidente da Academia Brasileira de Letras do Cárcere - ABLC (REQ 31/2026) - (confirmado). (Requerimento nºs 2, 4/2026, do Deputado Capitão Alden) (Requerimento nº 31/2026, do Deputado Renildo Calheiros)"
-  },
-  {
-   "hora": "14:30",
-   "sigla": "CCJC",
-   "nome": "Constituição e Justiça e de Cidadania",
+   "sigla": "CPOVOS",
+   "nome": "Amazônia e dos Povos Originários e Tradicionais",
    "tipo": "Votações"
   },
   {
-   "hora": "14:30",
+   "hora": "14:49",
+   "sigla": "PEC03215",
+   "nome": "Maioridade Penal",
+   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal Audiência Pública Convidados: PAULO GARRIDO MODESTO, Secretário de Assuntos Legislativos do MJSP, representante do Ministério da Justiça e Segurança Pública (REQ 2/2026) - (confirmado); CHICO LUCAS, Secretário Nacional de Segurança Pública, representante do Ministério da Justiça e Segurança Pública (REQ 2/2026) - (confirmado); ANDRÉ GARCIA, Secretário Nacional de Políticas Penais, representante do Ministério da Justiça e Segurança Pública (REQ 2/2026) - (Confirmado); KATY BRAUN DO PRADO, Presidente da Associação Brasileira dos Magistrados da Infância e da Juventude - ABRAMINJ (REQ 4/2026) - (confirmada); SIRO DARLAN DE OLIVEIRA, Desembargador aposentado e Vice-Presidente da Academia Brasileira de Letras do Cárcere - ABLC (REQ 31/2026) - (confirmado). (Requerimento nºs 2, 4/2026, do Deputado Capitão Alden) (Requerimento nº 31/2026, do Deputado Renildo Calheiros)"
+  },
+  {
+   "hora": "14:59",
    "sigla": "CMO",
    "nome": "Comissão Mista de Orçamento",
    "tipo": "Votações"
@@ -67,6 +129,18 @@
    "sigla": "CCULT",
    "nome": "Cultura",
    "tipo": "Outro Evento"
+  },
+  {
+   "hora": "15:04",
+   "sigla": "CEXEXPLO",
+   "nome": "Violência Sexual Infantojuvenil",
+   "tipo": "Audiência Pública e Deliberação: Audiência pública e votação de requerimentos Tema: Turismo sexual, exploração em rodovias federais e cadeias de aliciamento de crianças e adolescentes. A - Audiência Pública Convidados: TATIANA OLIVEIRA (Confirmada) Coordenadora-Geral de Turismo Sustentável e Responsável - Substituta, do Departamento de Qualificação, Sustentabilidade e Ações Climáticas no Turismo, da Secretaria Nacional de Políticas no Turismo Ministério do Turismo FERNANDA SOUZA CARLOS (Confirmada) Coordenadora-Geral de Direitos Humanos da PRF Polícia Rodoviária Federal BRUNO GIOVANNI DOS REIS (a Confirmar) Diretor-Presidente da Agência Brasileira de Promoção Internacional do Turismo - Embratur Agência Brasileira de Promoção Internacional do Turismo - Embratur FERNANDA BRITO PEREIRA (Confirmada) Procuradora Regional do Trabalho (PRT 23ª) e Coordenadora Nacional de Combate ao Trabalho Infantil e de Promoção e Defesa dos Direitos de Crianças e Adolescentes - COORDINFÂNCIA Ministério Público do Trabalho - MPT REGINA COELI CALIL LUSTOZA LEÃO (a Confirmar) Coordenadora da Pastoral do Menor Pastoral do Menor LAÍS ZASNICOFF (a Confirmar) Diretora-Executiva da Childhood Brasil Childhood Brasil (Requerimento nº 25/2026, do Dep. Fernando Rodolfo) B - Deliberação de Requerimentos (estão sujeitos à pauta os requerimentos apresentados até 24h antes do início da Reunião)"
+  },
+  {
+   "hora": "15:21",
+   "sigla": "CCJC",
+   "nome": "Constituição e Justiça e de Cidadania",
+   "tipo": "Votações"
   }
  ],
  "senado_plen": [
@@ -95,7 +169,7 @@
    "hora": "09:00",
    "sigla": "CI",
    "nome": "Serviços de Infraestrutura",
-   "tipo": "Votações (19 itens)"
+   "tipo": "Votações (20 itens)"
   },
   {
    "hora": "11:00",
@@ -135,7 +209,8 @@
   "agenda_4.png",
   "agenda_5.png",
   "agenda_6.png",
-  "agenda_7.png"
+  "agenda_7.png",
+  "agenda_8.png"
  ],
  "semana_arquivos": []
 }
