@@ -221,7 +221,7 @@
   {
    "data": "2026-11-12",
    "camara_plen": [],
-   "n_camara_com": 1,
+   "n_camara_com": 2,
    "senado_plen": [
     {
      "hora": "9:00",
@@ -355,7 +355,7 @@
   {
    "data": "2026-11-13",
    "camara_plen": [],
-   "n_camara_com": 0,
+   "n_camara_com": 1,
    "senado_plen": [],
    "n_senado_com": 0
   }
@@ -371,6 +371,7 @@
   "semana_3.png",
   "semana_4.png",
   "semana_5.png",
-  "semana_6.png"
+  "semana_6.png",
+  "semana_7.png"
  ]
 }

@@ -3,10 +3,16 @@
  "camara_plen": [],
  "camara_com": [
   {
-   "hora": "09:00",
+   "hora": "10:03",
    "sigla": "CN",
    "nome": "CONGRESSO NACIONAL",
    "tipo": "Votações"
+  },
+  {
+   "hora": "15:00",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Reunião Técnica"
   }
  ],
  "senado_plen": [
