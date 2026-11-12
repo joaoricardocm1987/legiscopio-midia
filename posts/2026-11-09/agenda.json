@@ -115,7 +115,7 @@
      ]
     }
    ],
-   "n_camara_com": 10,
+   "n_camara_com": 9,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -144,7 +144,7 @@
    "camara_plen": [
     {
      "id_evento": 83266,
-     "hora": "13:55",
+     "hora": "14:39",
      "tipo": "Sessão Deliberativa",
      "itens": [
       {
@@ -156,24 +156,20 @@
        "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA)."
       },
       {
-       "id": "PL 504/2021",
-       "ementa": "Cria a Política Nacional de Residência em Área Profissional da Saúde."
+       "id": "PPP 1/0",
+       "ementa": "Parecer proferido em Plenário pela Relatora Dep. Ana Pimentel (PT/MG) pela: • Comissão de Saúde, que conclui pela aprovação do Projeto de Lei nº 504, de 2021, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela inadequação do Projeto de Lei nº 504/2021, em sua forma originalmente proposta, e pela não implicação orçamentária e financeira da matéria na forma do Substitutivo adotado pela relatora da Comissão de Saúde. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 504, de 2021, na forma do Substitutivo adotado pela relatora da Comissão de Saúde."
       },
       {
        "id": "PL 636/2023",
        "ementa": "Altera a Lei n. 12.340, de 1° de Dezembro de 2010, para dar maior efetividade ao Plano de Contingência de Proteção e Defesa Civil.   NOVA EMENTA: Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dar mais efetividade ao Plano de Contingência de Proteção e Defesa Civil."
       },
       {
-       "id": "PL 2475/2025",
-       "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal."
+       "id": "PEP 1/0",
+       "ementa": "Parecer às Emendas de Plenário proferido pelo Relator Dep. Delegado Matheus Laiola (UNIÃO/PR) pela: • Comissão de Meio Ambiente e Desenvolvimento Sustentável, que conclui pela aprovação parcial da Emenda de Plenário nº 2, na forma da Subemenda Substitutiva adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, e pela rejeição da Emenda de Plenário nº 1. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa; e, no mérito, pela aprovação parcial da Emenda de Plenário nº 2, na forma da Subemenda Substitutiva adotada, e pela rejeição da Emenda de Plenário nº 1."
       },
       {
        "id": "PL 724/2003",
        "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
-      },
-      {
-       "id": "PDL 557/2026",
-       "ementa": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de adesão brasileira ao referido instrumento."
       },
       {
        "id": "PL 423/2022",
@@ -194,7 +190,7 @@
      ]
     }
    ],
-   "n_camara_com": 41,
+   "n_camara_com": 40,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -204,6 +200,10 @@
       {
        "id": "PLP 230/2025",
        "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica."
+      },
+      {
+       "id": "MPV 1376/2026",
+       "ementa": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos. (proveniente da Medida Provisória nº 1.376, de 2026)"
       },
       {
        "id": "PL 6461/2019",
@@ -221,9 +221,136 @@
   {
    "data": "2026-11-12",
    "camara_plen": [],
-   "n_camara_com": 0,
-   "senado_plen": [],
-   "n_senado_com": 0
+   "n_camara_com": 1,
+   "senado_plen": [
+    {
+     "hora": "9:00",
+     "tipo": "Sessão conjunta",
+     "casa": "CN",
+     "itens": [
+      {
+       "id": "PLN 1/2026",
+       "ementa": "Altera o Anexo V à Lei nº 15.346, de 14 de janeiro de 2026, que estima a receita e fixa a despesa da União para o exercício financeiro de 2026."
+      },
+      {
+       "id": "PLN 3/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência, Tecnologia e Inovação, crédito suplementar no valor de R$ 13.186.131,00, para reforço de dotação constante da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 4/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, crédito suplementar no valor de R$ 34.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente. (alteração proposta pela Mensagem presidencial nº 803/2026)"
+      },
+      {
+       "id": "PLN 6/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública e de Minas e Energia, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 543.681.108,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 7/2026",
+       "ementa": "Altera a Lei nº 15.321, de 31 de dezembro de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2026."
+      },
+      {
+       "id": "PLN 8/2026",
+       "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor das Justiças Federal e do Trabalho, crédito especial no valor de R$ 21.557.807,00, para os fins que especifica."
+      },
+      {
+       "id": "PLN 10/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, do Planejamento e Orçamento, do Desenvolvimento, Indústria, Comércio e Serviços e da Justiça e Segurança Pública, crédito especial no valor de R$ 11.528.608,00, para os fins que especifica (alteração proposta pela Mensagem presidencial nº 636/2026)."
+      },
+      {
+       "id": "PLN 11/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, da Justiça do Trabalho, e do Ministério Público da União, crédito suplementar no valor de R$ 56.250.092,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 12/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, das Comunicações, da Cultura e da Integração e do Desenvolvimento Regional, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 168.145.850,00, para reforço de dotações constantes da Lei  Orçamentária vigente (alteração proposta pela Mensagem presidencial nº 763/2026)."
+      },
+      {
+       "id": "PLN 13/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 488.112.855,00, para reforço de dotação constante da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 14/2026",
+       "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 3.000.000,00, para os fins que especifica"
+      },
+      {
+       "id": "PLN 15/2026",
+       "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos MME, MS, MIDR, e Portos, crédito suplementar no valor de R$ 24.431.895,00."
+      },
+      {
+       "id": "PLN 16/2026",
+       "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Educação, crédito especial no valor de R$ 45.369,00, para os fins que especifica."
+      },
+      {
+       "id": "PLN 18/2026",
+       "ementa": "Altera o art. 4º da Lei nº 15.346, de 14 de janeiro de 2026, que estima a receita e fixa a despesa da União para o exercício financeiro de 2026."
+      },
+      {
+       "id": "PLN 19/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e dos Transportes, crédito especial no valor de R$ 130.041.737,00, para os fins que especifica (alteração proposta pela Mensagem presidencial nº 841/2026)."
+      },
+      {
+       "id": "PLN 20/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, da Cultura, da Integração e do Desenvolvimento Regional e dos Direitos Humanos e da Cidadania, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 520.535.876,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 22/2026",
+       "ementa": "Abre ao Orçamento de Investimento da União, em favor do Serviço Federal de Processamento de Dados, crédito suplementar no valor de R$ 34.941.713,00."
+      },
+      {
+       "id": "PLN 23/2026",
+       "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministérios da Previdência Social e do Desenvolvimento e Assistência Social, Família e Combate à Fome, crédito suplementar no valor de R$ 185.555.629.364,00."
+      },
+      {
+       "id": "PLN 25/2026",
+       "ementa": "Abre ao Orçamento de Investimento da União, em favor da Eletronuclear S.A., crédito suplementar no valor de R$ 290.058.339,00, para reforço de dotação orçamentária constante da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 26/2026",
+       "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor das Justiças Federal e do Trabalho, da Presidência da República e dos Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, crédito especial no valor de R$ 4.856.104,00, para os fins que especifica."
+      },
+      {
+       "id": "PLN 27/2026",
+       "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e da Saúde, crédito especial no valor de R$ 115.000.000,00, para os fins que especifica."
+      },
+      {
+       "id": "PLN 28/2026",
+       "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 39.002.919,00,para reforço de dotações constantes da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 29/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor do Superior Tribunal de Justiça, da Justiça Federal e da Justiça Militar da União, crédito suplementar no valor de R$ 11.785.853,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 30/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda, da Justiça e Segurança Pública, dos Transportes, da Cultura, da Integração e do Desenvolvimento Regional, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 420.770.561,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+      },
+      {
+       "id": "PLN 33/2026",
+       "ementa": "Abre ao Orçamento de Investimento da União, em favor da Companhia das Docas do Estado da Bahia, crédito especial no valor de R$ 700.000,00, para os fins que especifica."
+      },
+      {
+       "id": "PLN 35/2026",
+       "ementa": "Abre ao Orçamento Fiscal da União, em favor do TCU, das Justiças Federal, Eleitoral e do Trabalho, da DPU, e do MPU crédito especial no valor de R$ 114.969.959,00, para os fins que especifica."
+      }
+     ]
+    },
+    {
+     "hora": "16:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PL 6461/2019",
+       "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+      },
+      {
+       "id": "PL 6683/2025",
+       "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 1
   },
   {
    "data": "2026-11-13",
@@ -243,6 +370,7 @@
   "semana_2.png",
   "semana_3.png",
   "semana_4.png",
-  "semana_5.png"
+  "semana_5.png",
+  "semana_6.png"
  ]
 }

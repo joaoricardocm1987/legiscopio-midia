@@ -3,7 +3,7 @@
  "camara_plen": [
   {
    "id_evento": 83266,
-   "hora": "13:55",
+   "hora": "14:39",
    "tipo": "Sessão Deliberativa",
    "itens": [
     {
@@ -15,24 +15,20 @@
      "ementa": "Altera o Decreto-Lei nº 1.305, de 8 de janeiro de 1974, e as Leis nºs 5.461, de 25 de junho de 1968, 5.989, de 17 de dezembro de 1973, 7.573, de 23 de dezembro de 1986, 8.706, de 14 de setembro de 1993, e 12.462, de 4 de agosto de 2011, além de dar outras providências, para dispor sobre a destinação das contribuições sociais compulsórias das empresas do setor de transporte aéreo e portuário, incluindo aquelas relativas à contratação do trabalhador portuário avulso (TPA)."
     },
     {
-     "id": "PL 504/2021",
-     "ementa": "Cria a Política Nacional de Residência em Área Profissional da Saúde."
+     "id": "PPP 1/0",
+     "ementa": "Parecer proferido em Plenário pela Relatora Dep. Ana Pimentel (PT/MG) pela: • Comissão de Saúde, que conclui pela aprovação do Projeto de Lei nº 504, de 2021, na forma do Substitutivo adotado. • Comissão de Finanças e Tributação, que conclui pela inadequação do Projeto de Lei nº 504/2021, em sua forma originalmente proposta, e pela não implicação orçamentária e financeira da matéria na forma do Substitutivo adotado pela relatora da Comissão de Saúde. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 504, de 2021, na forma do Substitutivo adotado pela relatora da Comissão de Saúde."
     },
     {
      "id": "PL 636/2023",
      "ementa": "Altera a Lei n. 12.340, de 1° de Dezembro de 2010, para dar maior efetividade ao Plano de Contingência de Proteção e Defesa Civil.   NOVA EMENTA: Altera a Lei nº 12.340, de 1º de dezembro de 2010, para dar mais efetividade ao Plano de Contingência de Proteção e Defesa Civil."
     },
     {
-     "id": "PL 2475/2025",
-     "ementa": "Altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para tornar hediondo o crime de maus-tratos aos animais, quando do evento criminoso resultar a morte do animal."
+     "id": "PEP 1/0",
+     "ementa": "Parecer às Emendas de Plenário proferido pelo Relator Dep. Delegado Matheus Laiola (UNIÃO/PR) pela: • Comissão de Meio Ambiente e Desenvolvimento Sustentável, que conclui pela aprovação parcial da Emenda de Plenário nº 2, na forma da Subemenda Substitutiva adotada pelo relator da Comissão de Constituição e Justiça e de Cidadania, e pela rejeição da Emenda de Plenário nº 1. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa; e, no mérito, pela aprovação parcial da Emenda de Plenário nº 2, na forma da Subemenda Substitutiva adotada, e pela rejeição da Emenda de Plenário nº 1."
     },
     {
      "id": "PL 724/2003",
      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
-    },
-    {
-     "id": "PDL 557/2026",
-     "ementa": "Aprova o texto da Convenção Internacional de Hong Kong para a Reciclagem Segura e Ambientalmente Adequada de Navios de 2009 (HKC), para fins de adesão brasileira ao referido instrumento."
     },
     {
      "id": "PL 423/2022",
@@ -62,27 +58,15 @@
   },
   {
    "hora": "09:00",
-   "sigla": "CREDN",
-   "nome": "Relações Exteriores e de Defesa Nacional",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "09:00",
    "sigla": "CSAUDE",
    "nome": "Saúde",
    "tipo": "Outro Evento"
   },
   {
-   "hora": "09:30",
-   "sigla": "CCTI",
-   "nome": "Ciência, Tecnologia e Inovação",
-   "tipo": "Audiência Pública: Rede Nacional de Física de Altas Energias (Renafae) PALESTRANTES: Prof. MARCELO MUNHOZ Coordenador-Geral da Rede Nacional de Física de Altas Energias (Renafae) (presença confirmada) Prof. IGNÁCIO BEDIAGA Presidente do Comitê Técnico-Científico da Rede Nacional de Física de Altas Energias (Renafae) (não comparecerá - ausência justificada) Representante: Prof. LUIZ MUNDIM Vice-Coordenador da Rede Nacional de Física de Altas Energias (Renafae) (presença confirmada) JOANA NUNES Coordenadora-Geral de Bioeconomia, Ciências Exatas, Ciências Humanas e Sociais, da Secretaria de Políticas e Programas Estratégicos, do Ministério da Ciência, Tecnologia e Inovação (SEPPE/MCTI) (presença confirmada) ANDRÉ ALENCAR JUNIOR Analista em Ciência e Tecnologia, da Secretaria de Políticas e Programas Estratégicos, do Ministério da Ciência, Tecnologia e Inovação (SEPPE/MCTI) Representante: JOANA NUNES Coordenadora-Geral de Bioeconomia, Ciências Exatas, Ciências Humanas e Sociais, da Secretaria de Políticas e Programas Estratégicos, do Ministério da Ciência, Tecnologia e Inovação (SEPPE/MCTI) (presença confirmada) (Requerimento nº 38/2026, do Deputado Inácio Arruda)"
-  },
-  {
-   "hora": "09:30",
-   "sigla": "CSAUDE",
-   "nome": "Saúde",
-   "tipo": "Votações"
+   "hora": "09:00",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Mesa Redonda"
   },
   {
    "hora": "09:30",
@@ -97,28 +81,10 @@
    "tipo": "Mesa Redonda: Reunião de articulação política, discussão da pauta e assuntos de interesse da Comissão"
   },
   {
-   "hora": "09:59",
-   "sigla": "CVT",
-   "nome": "Viação e Transportes",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CTRAB",
-   "nome": "Trabalho",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CE",
-   "nome": "Educação",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CDE",
-   "nome": "Desenvolvimento Econômico",
-   "tipo": "Votações"
+   "hora": "09:52",
+   "sigla": "CCTI",
+   "nome": "Ciência, Tecnologia e Inovação",
+   "tipo": "Audiência Pública: Rede Nacional de Física de Altas Energias (Renafae) PALESTRANTES: Prof. MARCELO MUNHOZ Coordenador-Geral da Rede Nacional de Física de Altas Energias (Renafae) (presença confirmada) Prof. IGNÁCIO BEDIAGA Presidente do Comitê Técnico-Científico da Rede Nacional de Física de Altas Energias (Renafae) (não comparecerá - ausência justificada) Representante: Prof. LUIZ MUNDIM Vice-Coordenador da Rede Nacional de Física de Altas Energias (Renafae) (presença confirmada) JOANA NUNES Coordenadora-Geral de Bioeconomia, Ciências Exatas, Ciências Humanas e Sociais, da Secretaria de Políticas e Programas Estratégicos, do Ministério da Ciência, Tecnologia e Inovação (SEPPE/MCTI) (presença confirmada) ANDRÉ ALENCAR JUNIOR Analista em Ciência e Tecnologia, da Secretaria de Políticas e Programas Estratégicos, do Ministério da Ciência, Tecnologia e Inovação (SEPPE/MCTI) Representante: JOANA NUNES Coordenadora-Geral de Bioeconomia, Ciências Exatas, Ciências Humanas e Sociais, da Secretaria de Políticas e Programas Estratégicos, do Ministério da Ciência, Tecnologia e Inovação (SEPPE/MCTI) (presença confirmada) (Requerimento nº 38/2026, do Deputado Inácio Arruda)"
   },
   {
    "hora": "10:00",
@@ -128,62 +94,92 @@
   },
   {
    "hora": "10:00",
-   "sigla": "CDU",
-   "nome": "Desenvolvimento Urbano",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CME",
-   "nome": "Minas e Energia",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CAPADR",
-   "nome": "Agropecuária",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CMADS",
-   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CINDRE",
-   "nome": "Integração Nacional e Desenvolvimento Regional",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CN",
-   "nome": "CONGRESSO NACIONAL",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CFT",
-   "nome": "Finanças e Tributação",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CVT",
-   "nome": "Viação e Transportes",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "10:00",
    "sigla": "CFFC",
    "nome": "Fiscalização Financeira e Controle",
    "tipo": "Votações"
   },
   {
-   "hora": "10:00",
-   "sigla": "CMO",
-   "nome": "Comissão Mista de Orçamento",
+   "hora": "10:04",
+   "sigla": "CREDN",
+   "nome": "Relações Exteriores e de Defesa Nacional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:06",
+   "sigla": "CVT",
+   "nome": "Viação e Transportes",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:09",
+   "sigla": "CDU",
+   "nome": "Desenvolvimento Urbano",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:11",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:15",
+   "sigla": "CFT",
+   "nome": "Finanças e Tributação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:18",
+   "sigla": "CSAUDE",
+   "nome": "Saúde",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:20",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:21",
+   "sigla": "CINDRE",
+   "nome": "Integração Nacional e Desenvolvimento Regional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:22",
+   "sigla": "CN",
+   "nome": "CONGRESSO NACIONAL",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:28",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:35",
+   "sigla": "CVT",
+   "nome": "Viação e Transportes",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:43",
+   "sigla": "CTRAB",
+   "nome": "Trabalho",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:45",
+   "sigla": "CME",
+   "nome": "Minas e Energia",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "11:43",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
    "tipo": "Votações"
   },
   {
@@ -193,112 +189,106 @@
    "tipo": "Votações"
   },
   {
-   "hora": "13:29",
+   "hora": "14:06",
    "sigla": "CCULT",
    "nome": "Cultura",
    "tipo": "Votações"
   },
   {
-   "hora": "13:30",
-   "sigla": "CCULT",
-   "nome": "Cultura",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "13:30",
-   "sigla": "CMULHER",
-   "nome": "Defesa dos Direitos da Mulher",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "13:30",
-   "sigla": "CTUR",
-   "nome": "Turismo",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
+   "hora": "14:17",
    "sigla": "CESPO",
    "nome": "Esporte",
    "tipo": "Audiência Pública: Implantação e projeto acadêmico da Universidade Federal do Esporte Audiência Pública para debater a implantação e o projeto acadêmico da Universidade Federal do Esporte - UFEsporte, em atenção ao Requerimento nº 39/2026, de autoria do deputado Julio Cesar Ribeiro. Convidados confirmados: - Sr. Fernando Mezzadri, presidente da Comissão de Implantação da Universidade Federal do Esporte -UFEsporte; - Sr. Fernando Augusto Pimenta Kreismann, Coordenador-Geral de Projetos Estratégicos e Articulação Institucional substituto do Ministério da Educação; - Sra. Iziane Castro Marques de Oliveira , Secretária Nacional de Excelência Esportiva do Ministério do Esporte; - Sr. Israel Teoldo da Costa, vice-presidente da Comissão de Implantação da Universidade Federal do Esporte - UFEsporte (videoconferência); - Sr. Emmanuel Carneiro, representante da Comissão de Implantação da Universidade Federal do Esporte, atuante em atividades de pesquisa, ensino e gestão na área do esporte (videoconferência); - Sr. Tharcísio Anchieta da Silva, Conselheiro Federal do Conselho Federal de Educação Física - CONFEF (videoconferência); - Sr. Ednaldo da Silva Pereira Filho, presidente do Colégio Brasileiro de Ciências do Esporte - CBCE (videoconferência); - Sr. Sebastian Pereira, gerente executivo de Educação e Fomento do Comitê Olímpico do Brasil - COB (videoconferência);"
   },
   {
-   "hora": "14:00",
+   "hora": "14:21",
    "sigla": "CSPCCO",
    "nome": "Segurança Pública e Combate ao Crime Organizado",
-   "tipo": "Audiência Pública: a maioridade penal no Brasil, com foco no enfrentamento da criminalidade violenta e na responsabililzação penal. Requerimento nº 177/2026 de autoria do Deputado Federal Capitão Alden (PL/BA) Requer a realização de Audiência Pública para debater a redução da maioridade penal no Brasil, com foco no enfrentamento da criminalidade violenta e na responsabilização penal. Subscrito pelos Deputados: Sanderson (PL/RS), Osmar Terra (PL/RS), Sargento Fahur (PL/PR), Delegado Caveira (PL/PA) e Delegada Ione (AVANTE/MG). CONVIDADOS: ALUISIO MENDES (confirmado) Deputado Federal Presidente da Comissão Especial sobre a Maioridade Penal - PEC 032/2015 MENDONÇA FILHO Deputado Federal Relator da PEC 032/2015 que tramita na Comissão Especial sobre a Maioridade Penal Dr. FRANCISCO EGYDIO VIANNA ALMINHANA (confirmado) Advogado Criminalista Especialista em Direito Penal, Constitucional e Legislação Armamentista; Dr. JEFFREY CHIQUINI DA COSTA (confirmado) Advogado Criminalista eleito Deputado Federal no Pleito de 2026 PAULO EDUARDO GARRIDO MODESTO (confirmado) Secretário Nacional de Assuntos Legislativos do Ministério da Justiça e Segurança Pública (MJSP) Dr. PAULO HENRIQUE DA SILVA (confirmado) Advogado representando a Ordem dos Advogados do Brasil Secional Goiás SAMUEL RAPOSO MASCARENHA (confirmado) Presidente da Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) HERON RENATO FERNANDES DE OLIVEIRA (confirmado) Vice-Presidente da Associação dos Agentes de Proteção da Infância e da Juventude do Distrito Federal (ADAPDF) RIVÂNIA DE ARAÚJO RESENDE (confirmada) Diretora Jurídica da Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) CARLOS AUGUSTO PEREIRA DE SOUSA (confirmado) Representando o Sistema Socioeducativo do Distrito Federal SHEILA REGINA ALVES PEREIRA OLIVEIRA (confirmada) Advogada em colaboração com a Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) POLYANA MARIA SANTANA DA SILVA (confirmada) Advogada em colaboração com a Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) CRISTIANO TORRES DANTAS (confirmado) Presidente do Conselho Nacional de Entidades Representativas de Servidores e Trabalhadores do Sistema Socioeducativo (CONASSE) Representante do Conselho Nacional do Ministério Público; Representante do Conselho Nacional de Justiça; Representante das forças de segurança pública; Representante de associação de familiares de vítimas da violência."
+   "tipo": "Audiência Pública: a maioridade penal no Brasil, com foco no enfrentamento da criminalidade violenta e na responsabililzação penal. Requerimento nº 177/2026 de autoria do Deputado Federal Capitão Alden (PL/BA) Requer a realização de Audiência Pública para debater a redução da maioridade penal no Brasil, com foco no enfrentamento da criminalidade violenta e na responsabilização penal. Subscrito pelos Deputados: Sanderson (PL/RS), Osmar Terra (PL/RS), Sargento Fahur (PL/PR), Delegado Caveira (PL/PA) e Delegada Ione (AVANTE/MG). CONVIDADOS: ALUISIO MENDES (confirmado) Deputado Federal Presidente da Comissão Especial sobre a Maioridade Penal - PEC 032/2015 MENDONÇA FILHO Deputado Federal Relator da PEC 032/2015 que tramita na Comissão Especial sobre a Maioridade Penal Dr. FRANCISCO EGYDIO VIANNA ALMINHANA (confirmado) Advogado Criminalista Especialista em Direito Penal, Constitucional e Legislação Armamentista; Dr. JEFFREY CHIQUINI DA COSTA (confirmado) Advogado Criminalista eleito Deputado Federal no Pleito de 2026 DÁRCIO BRACARENSE (confirmado) Deputado Estadual eleito pelo Espírito Santo no pleito de 2026 ANDRÉ DE ALBUQUERQUE GARCIA (confirmado) Secretário Nacional de Políticas Penais FRANCISCO LUCAS COSTA VELOSO (confirmado) Secretário Nacional de Segurança Pública PAULO EDUARDO GARRIDO MODESTO (confirmado) Secretário Nacional de Assuntos Legislativos do Ministério da Justiça e Segurança Pública (MJSP) DOUGLAS GOMES (confirmado) Deputado Federal eleito no pleito de 2026 ROGÉRIO PIRES (confirmado) Jornalista do Canal Timeline Dr. PAULO HENRIQUE DA SILVA (confirmado) Advogado representando a Ordem dos Advogados do Brasil Secional Goiás SAMUEL RAPOSO MASCARENHA (confirmado) Presidente da Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) HERON RENATO FERNANDES DE OLIVEIRA (confirmado) Vice-Presidente da Associação dos Agentes de Proteção da Infância e da Juventude do Distrito Federal (ADAPDF) RIVÂNIA DE ARAÚJO RESENDE (confirmada) Diretora Jurídica da Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) CARLOS AUGUSTO PEREIRA DE SOUSA (confirmado) Representando o Sistema Socioeducativo do Distrito Federal SHEILA REGINA ALVES PEREIRA OLIVEIRA (confirmada) Advogada em colaboração com a Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) POLYANA MARIA SANTANA DA SILVA (confirmada) Advogada em colaboração com a Federação Nacional dos Agentes de Proteção da Justiça da Infância e da Juventude (FENAPJUS) CRISTIANO TORRES DANTAS (confirmado) Presidente do Conselho Nacional de Entidades Representativas de Servidores e Trabalhadores do Sistema Socioeducativo (CONASSE) Representante do Conselho Nacional do Ministério Público; Representante do Conselho Nacional de Justiça;"
   },
   {
-   "hora": "14:00",
+   "hora": "14:21",
+   "sigla": "CCULT",
+   "nome": "Cultura",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:21",
    "sigla": "CPASF",
    "nome": "Previdência e Assistência",
    "tipo": "Votações"
   },
   {
-   "hora": "14:00",
-   "sigla": "CCOM",
-   "nome": "Comunicação",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CLP",
-   "nome": "Legislação Participativa",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
+   "hora": "14:37",
    "sigla": "CMULHER",
    "nome": "Defesa dos Direitos da Mulher",
    "tipo": "Votações"
   },
   {
-   "hora": "14:00",
-   "sigla": "CDHMIR",
-   "nome": "Direitos Humanos, Minorias e Igualdade Racial",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "PL808514",
-   "nome": "Código de Trânsito Brasileiro",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:30",
-   "sigla": "PEC03215",
-   "nome": "Maioridade Penal",
-   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal <p>A - Audiência Pública:&nbsp;</p><p></p><p>Tema: Redução da maioridade penal</p><p></p><p>Convidados:</p><p></p><p>JANINE MELLO DOS SANTOS, Ministra dos Direitos Humanos e da Cidadania (REQ 3/2026) - (a confirmar);</p><p>MARCELO ROCHA MONTEIRO, Procurador de Justiça do Ministério Público do Estado do Rio de Janeiro (REQ 18/2026) - (confirmado);</p><p>LUDMILA LINS GRILO, Juíza aposentada (REQ 18/2026) - (confirmada);</p><p>DANIELLE CRISTINE CAVALI TUOTO, representante do Conselho Nacional dos Procuradores-Gerais (CNPG) e da Associação Nacional dos Membros do Ministério Público<span style=\"font-size: 12pt; font-family: Aptos; color: black;\"> (</span>CONAMP) (REQ 46/2026) - (confirmada).</p><p></p><p></p><p>(Requerimento nº 3/2026 - do Deputado Capitão Alden)</p><p>(Requerimento nº 18/2026 - do Deputado Marcel van Hattem)</p><p>(Requerimento nº 46/2026 - do Deputado Fábio Costa)</p><p></p><p>B - Requerimentos:&nbsp;</p>"
-  },
-  {
-   "hora": "14:30",
+   "hora": "14:38",
    "sigla": "CMO",
    "nome": "Comissão Mista de Orçamento",
    "tipo": "Audiência Pública: Apresentação da LDO e da LOA para 2027. Art. 29 e 84 da Res 1/2006-CN"
   },
   {
-   "hora": "16:00",
-   "sigla": "CDHMIR",
-   "nome": "Direitos Humanos, Minorias e Igualdade Racial",
-   "tipo": "Audiência Pública: Déficit histórico no número de Auditores-Fiscais do Trabalho Requerimento n. 1/2026 Autora: Deputada Alice Portugal Convidados: 1. Representante do Ministério do Trabalho e Emprego; 2. Representante do Ministério da Gestão e Inovação; 3. Fundador/Coordenador Rodrigo Oliveira - Comissão de Aprovados AFT; 4. Presidente Bob Machado - SINAIT 5. Secretário Jurídico Valeir Ertle - CUT 6. Presidente Moisés Selerges Júnior – Sindicato dos Metalúrgicos do ABC 7. Representante do movimento Vida Além do Trabalho - VAT 8. Leonardo Sakamoto - Jornalista e Diretor da Repórter Brasil 9. Flauzino Antunes Neto - Presidente da CTB-DF"
+   "hora": "14:53",
+   "sigla": "CCOM",
+   "nome": "Comunicação",
+   "tipo": "Votações"
   },
   {
-   "hora": "16:00",
+   "hora": "14:59",
+   "sigla": "PEC03215",
+   "nome": "Maioridade Penal",
+   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal A - Audiência Pública: Tema: Redução da maioridade penal Convidados: FRANCIMARA CARNEIRO ARAÚJO, Conselheira do Conselho Nacional da Criança e do Adolescente (CONANDA), representante do Ministério dos Direitos Humanos e da Cidadania (REQ 3/2026) - (confirmada); LUDMILA LINS GRILO, Juíza aposentada (REQ 18/2026) - (confirmada); DANIELLE CRISTINE CAVALI TUOTO, representante do Conselho Nacional dos Procuradores-Gerais (CNPG) e da Associação Nacional dos Membros do Ministério Público (CONAMP) (REQ 46/2026) - (confirmada). (Requerimento nº 3/2026 - do Deputado Capitão Alden) (Requerimento nº 18/2026 - do Deputado Marcel van Hattem) (Requerimento nº 46/2026 - do Deputado Fábio Costa) B - Requerimentos:"
+  },
+  {
+   "hora": "15:11",
+   "sigla": "CTUR",
+   "nome": "Turismo",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:16",
+   "sigla": "CLP",
+   "nome": "Legislação Participativa",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "16:03",
+   "sigla": "PL808514",
+   "nome": "Código de Trânsito Brasileiro",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "16:21",
    "sigla": "SUBPL657",
    "nome": "Dispensa de Diagnóstico Clínico na Educação Especial",
    "tipo": "Audiência Pública: O papel do laudo médico e da avaliação psicopedagógica na identificação das necessidades e no apoio ao desenvolvimento escolar dos alunos. 1) OLZENI RIBEIRO (Participação confirmada) - PhD em Educação, especialista em Neuropsicologia, Altas Habilidades/Superdotação (AH/SD), TDAH e dupla excepcionalidade; 2) JEAN ALESSANDRO BORTOLLO (Paticipação confirmada) - Psicólogo, com atuação em Altas Habilidades/Superdotação (AH/SD), dupla excepcionalidade e desenvolvimento socioemocional; 3) ELYSE MATOS (Participação confirmada) - Advogada, mestre em Direito e em Educação, fundadora do Instituto Ico Project; 4) NATÁLIA ROSENDO (Participação confirmada) - Médica pediatra, com atuação em neurodesenvolvimento infantil, TDAH, TEA, Altas Habilidades/Superdotação e dupla excepcionalidade. (REQ 67/2026 CE, da deputada Soraya Santos)"
   },
   {
-   "hora": "17:00",
+   "hora": "16:28",
+   "sigla": "CDHMIR",
+   "nome": "Direitos Humanos, Minorias e Igualdade Racial",
+   "tipo": "Audiência Pública: Déficit histórico no número de Auditores-Fiscais do Trabalho Convidados: 1 - SR. LUIZ HENRIQUE RAMOS LOPES, SECRETÁRIO DE INSPEÇÃO DO TRABALHO, REPRESENTANTE DO MINISTÉRIO DO TRABALHO E EMPREGO 2 - SRA. NATASHA MACEDO DALCOMUNI, COORDENADORA DA COMISSÃO DOS APROVADOS AFT 3 - SR. BOB MACHADO - PRESIDENTE SINDICATO NACIONAL DOS AUDITORES FISCAIS DO TRABALHO - SINAIT 4 - SR. LUCAS SIDRACH, REPRESENTANTE DO MOVIMENTO VIDA ALÉM DO TRABALHO - VAT 5 - SR. FLAUZINO ANTUNES NETO - PRESIDENTE - CTB-DF 6 - FREI XAVIER, DA COMISSÃO PASTORAL DA TERRA 7 - SRA. BARBARA BEZERRA - REPRESENTANTE DA FEDERAÇÃO ÚNICA DE PETROLEIROS"
+  },
+  {
+   "hora": "16:53",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "17:07",
    "sigla": "CEDES",
    "nome": "Centro de Estudos e Debates Estratégicos",
    "tipo": "Reunião Técnica"
   },
   {
-   "hora": "17:00",
+   "hora": "17:12",
    "sigla": "CSAUDE",
    "nome": "Saúde",
-   "tipo": "Audiência Pública: Cartão de identificação do usuário SUS (PL 5.875/2013) - Parte 2 REQ nº 196/2026 CSAUDE, da Dep. Adriana Ventura (NOVO/SP). Convidados confirmados: - Carlos Pedrotti (participação remota) Representante da Saúde Digital Brasil; - Francisco Balestrin (participação remota) Presidente do Sindicato dos Hospitais, Clínicas, Laboratórios e Estabelecimentos de Saúde do Estado de São Paulo (SINDHOSP); - Michael Luiz Diana (participação remota) Representante do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS); - Felipe Ferré (participação presencial) Representante do Conselho Nacional de Secretários de Saúde (CONASS); - Raquel Rachid (participação remota) Representante da Estratégia Latino-Americana de Inteligência Artificial (ELA-IA); - Luiz Vianna (participação remota) Representante do Centro Brasileiro de Estudos de Saúde (CEBES); Convidados (a confirmar): - Representante do Ministério da Saúde."
+   "tipo": "Audiência Pública: Cartão de identificação do usuário SUS (PL 5875/13) - Parte 2 REQ nº 196/2026 CSAUDE, da Dep. Adriana Ventura (NOVO/SP). Convidados confirmados: - Raquel Rachid (participação remota) Representante da Estratégia Latino-Americana de Inteligência Artificial (ELA-IA); - Luiz Vianna (participação remota) Representante do Centro Brasileiro de Estudos de Saúde (CEBES); - Felipe Ferré (participação presencial) Representante do Conselho Nacional de Secretários de Saúde (CONASS); - Michael Luiz Diana (participação remota) Representante do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS); - Francisco Balestrin (participação remota) Presidente do Sindicato dos Hospitais, Clínicas, Laboratórios e Estabelecimentos de Saúde do Estado de São Paulo (SINDHOSP); - Carlos Pedrotti (participação remota) Representante da Saúde Digital Brasil; - Maria Aparecida Cina da Silva (participação presencial) Secretária de Informação e Saúde Digital do Ministério da Saúde - Ana Estela Haddad (participação presencial) Secretária de Informação e Saúde Digital do Ministério da Saúde de 2023 a agosto de 2026"
   }
  ],
  "senado_plen": [
@@ -310,6 +300,10 @@
     {
      "id": "PLP 230/2025",
      "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica."
+    },
+    {
+     "id": "MPV 1376/2026",
+     "ementa": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos. (proveniente da Medida Provisória nº 1.376, de 2026)"
     },
     {
      "id": "PL 6461/2019",
@@ -327,13 +321,13 @@
    "hora": "09:00",
    "sigla": "CCJ",
    "nome": "Constituição, Justiça e Cidadania",
-   "tipo": "Votações (11 itens)"
+   "tipo": "Votações (18 itens)"
   },
   {
    "hora": "09:00",
    "sigla": "CAS",
    "nome": "Assuntos Sociais",
-   "tipo": "Votações (11 itens)"
+   "tipo": "Votações (13 itens)"
   },
   {
    "hora": "10:00",
@@ -345,7 +339,7 @@
    "hora": "11:00",
    "sigla": "CSP",
    "nome": "Segurança Pública",
-   "tipo": "Votações (2 itens)"
+   "tipo": "Votações (3 itens)"
   },
   {
    "hora": "11:00",
@@ -357,7 +351,7 @@
    "hora": "11:00",
    "sigla": "CDH",
    "nome": "Direitos Humanos e Legislação Participativa",
-   "tipo": "Votações (16 itens)"
+   "tipo": "Votações (17 itens)"
   },
   {
    "hora": "11:30",
@@ -381,7 +375,7 @@
    "hora": "14:00",
    "sigla": "CRA",
    "nome": "Agricultura e Reforma Agrária",
-   "tipo": "Votações (7 itens)"
+   "tipo": "Votações (8 itens)"
   },
   {
    "hora": "14:30",

@@ -1,0 +1,155 @@
+{
+ "data": "2026-11-12",
+ "camara_plen": [],
+ "camara_com": [
+  {
+   "hora": "09:00",
+   "sigla": "CN",
+   "nome": "CONGRESSO NACIONAL",
+   "tipo": "Votações"
+  }
+ ],
+ "senado_plen": [
+  {
+   "hora": "9:00",
+   "tipo": "Sessão conjunta",
+   "casa": "CN",
+   "itens": [
+    {
+     "id": "PLN 1/2026",
+     "ementa": "Altera o Anexo V à Lei nº 15.346, de 14 de janeiro de 2026, que estima a receita e fixa a despesa da União para o exercício financeiro de 2026."
+    },
+    {
+     "id": "PLN 3/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Ciência, Tecnologia e Inovação, crédito suplementar no valor de R$ 13.186.131,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 4/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério da Fazenda, crédito suplementar no valor de R$ 34.000.000,00, para reforço de dotação constante da Lei Orçamentária vigente. (alteração proposta pela Mensagem presidencial nº 803/2026)"
+    },
+    {
+     "id": "PLN 6/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública e de Minas e Energia, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 543.681.108,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 7/2026",
+     "ementa": "Altera a Lei nº 15.321, de 31 de dezembro de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2026."
+    },
+    {
+     "id": "PLN 8/2026",
+     "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor das Justiças Federal e do Trabalho, crédito especial no valor de R$ 21.557.807,00, para os fins que especifica."
+    },
+    {
+     "id": "PLN 10/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, do Planejamento e Orçamento, do Desenvolvimento, Indústria, Comércio e Serviços e da Justiça e Segurança Pública, crédito especial no valor de R$ 11.528.608,00, para os fins que especifica (alteração proposta pela Mensagem presidencial nº 636/2026)."
+    },
+    {
+     "id": "PLN 11/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, da Justiça do Trabalho, e do Ministério Público da União, crédito suplementar no valor de R$ 56.250.092,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 12/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, das Comunicações, da Cultura e da Integração e do Desenvolvimento Regional, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 168.145.850,00, para reforço de dotações constantes da Lei  Orçamentária vigente (alteração proposta pela Mensagem presidencial nº 763/2026)."
+    },
+    {
+     "id": "PLN 13/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União, crédito suplementar no valor de R$ 488.112.855,00, para reforço de dotação constante da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 14/2026",
+     "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Saúde, crédito especial no valor de R$ 3.000.000,00, para os fins que especifica"
+    },
+    {
+     "id": "PLN 15/2026",
+     "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos MME, MS, MIDR, e Portos, crédito suplementar no valor de R$ 24.431.895,00."
+    },
+    {
+     "id": "PLN 16/2026",
+     "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Educação, crédito especial no valor de R$ 45.369,00, para os fins que especifica."
+    },
+    {
+     "id": "PLN 18/2026",
+     "ementa": "Altera o art. 4º da Lei nº 15.346, de 14 de janeiro de 2026, que estima a receita e fixa a despesa da União para o exercício financeiro de 2026."
+    },
+    {
+     "id": "PLN 19/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e dos Transportes, crédito especial no valor de R$ 130.041.737,00, para os fins que especifica (alteração proposta pela Mensagem presidencial nº 841/2026)."
+    },
+    {
+     "id": "PLN 20/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Justiça e Segurança Pública, da Cultura, da Integração e do Desenvolvimento Regional e dos Direitos Humanos e da Cidadania, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 520.535.876,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 22/2026",
+     "ementa": "Abre ao Orçamento de Investimento da União, em favor do Serviço Federal de Processamento de Dados, crédito suplementar no valor de R$ 34.941.713,00."
+    },
+    {
+     "id": "PLN 23/2026",
+     "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministérios da Previdência Social e do Desenvolvimento e Assistência Social, Família e Combate à Fome, crédito suplementar no valor de R$ 185.555.629.364,00."
+    },
+    {
+     "id": "PLN 25/2026",
+     "ementa": "Abre ao Orçamento de Investimento da União, em favor da Eletronuclear S.A., crédito suplementar no valor de R$ 290.058.339,00, para reforço de dotação orçamentária constante da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 26/2026",
+     "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor das Justiças Federal e do Trabalho, da Presidência da República e dos Ministérios da Saúde e do Meio Ambiente e Mudança do Clima, crédito especial no valor de R$ 4.856.104,00, para os fins que especifica."
+    },
+    {
+     "id": "PLN 27/2026",
+     "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor dos Ministérios da Educação, da Justiça e Segurança Pública e da Saúde, crédito especial no valor de R$ 115.000.000,00, para os fins que especifica."
+    },
+    {
+     "id": "PLN 28/2026",
+     "ementa": "Abre aos Orçamentos Fiscal e da Seguridade Social da União, em favor de diversos órgãos do Poder Executivo federal e de Transferências a Estados, Distrito Federal e Municípios, crédito suplementar no valor de R$ 39.002.919,00,para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 29/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor do Superior Tribunal de Justiça, da Justiça Federal e da Justiça Militar da União, crédito suplementar no valor de R$ 11.785.853,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 30/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor dos Ministérios da Fazenda, da Justiça e Segurança Pública, dos Transportes, da Cultura, da Integração e do Desenvolvimento Regional, e de Operações Oficiais de Crédito, crédito suplementar no valor de R$ 420.770.561,00, para reforço de dotações constantes da Lei Orçamentária vigente."
+    },
+    {
+     "id": "PLN 33/2026",
+     "ementa": "Abre ao Orçamento de Investimento da União, em favor da Companhia das Docas do Estado da Bahia, crédito especial no valor de R$ 700.000,00, para os fins que especifica."
+    },
+    {
+     "id": "PLN 35/2026",
+     "ementa": "Abre ao Orçamento Fiscal da União, em favor do TCU, das Justiças Federal, Eleitoral e do Trabalho, da DPU, e do MPU crédito especial no valor de R$ 114.969.959,00, para os fins que especifica."
+    }
+   ]
+  },
+  {
+   "hora": "16:00",
+   "tipo": "Sessão deliberativa ordinária",
+   "casa": "SF",
+   "itens": [
+    {
+     "id": "PL 6461/2019",
+     "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+    },
+    {
+     "id": "PL 6683/2025",
+     "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
+    }
+   ]
+  }
+ ],
+ "senado_com": [
+  {
+   "hora": "15:00",
+   "sigla": "CDH",
+   "nome": "Direitos Humanos e Legislação Participativa",
+   "tipo": "Outros eventos"
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png",
+  "agenda_3.png",
+  "agenda_4.png"
+ ],
+ "semana_arquivos": []
+}
