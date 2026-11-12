@@ -16,3 +16,4 @@ short_video.gerar(VIDEO)
 short_video.gerar(VIDEO.with_name("resumo.json"))  # Resumo de ~2 min (só se resumo.json existir)
 capitulos.gerar(VIDEO)
 subprocess.run(["git", "add", str(VIDEO.parent)], check=True, cwd=ROOT)
+# nova tentativa
