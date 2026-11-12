@@ -1,0 +1,12 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Votação na Câmara", "titulo": "Maus-tratos que matam cães e gatos podem virar crime hediondo", "destaque": "PL 2.475/2025", "subtitulo": "Aprovado pela Câmara em 11/11. Agora o texto vai ao Senado."},
+  {"tipo": "texto", "titulo": "Como é hoje", "itens": ["Maus-tratos a cães e gatos: reclusão de 2 a 5 anos, multa e proibição da guarda.", "Se o animal morre, a pena aumenta de um sexto a um terço.", "O crime não é hediondo: cabem fiança, anistia, graça e indulto."], "nota": "Fonte: Lei 9.605/1998, art. 32, e Agência Câmara"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se o Senado aprovar e virar lei", "sim": ["Morte de cão ou gato por maus-tratos vira crime hediondo", "Sem fiança, anistia, graça ou indulto", "Pena cumprida de forma mais rígida; as faixas de pena não mudam"], "nao_rotulo": "Se o Senado não aprovar", "nao": ["Continua valendo a regra atual: 2 a 5 anos, com aumento se o animal morre", "O crime segue sem a classificação de hediondo"]},
+  {"tipo": "visoes", "titulo": "O debate", "itens": [
+    {"lado": "Quem defende", "quem": "Autor do projeto", "cargo": "Câmara dos Deputados", "texto": "Argumenta que cerca de metade dos crimes contra animais termina sem punição e que a classificação como hediondo reforça a responsabilização.", "onde": "Agência Câmara, 11/11/2026"},
+    {"lado": "Quem critica", "quem": "Igor A. S. Estefano e Ygor R. Arruda", "cargo": "Advogados (OAB/SP)", "texto": "Em artigo sobre a Lei Sansão, dizem que não há evidências de que penas maiores reduzam a crueldade e defendem prevenção, fiscalização e políticas públicas.", "onde": "Âmbito Jurídico, 21/10/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio; links na legenda."},
+  {"tipo": "final", "pergunta": "Para você, punir com mais rigor reduz os maus-tratos? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados (PL 2.475/2025), Agência Câmara, Lei 9.605/1998, Âmbito Jurídico."}
+ ]
+}
