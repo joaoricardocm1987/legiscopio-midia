@@ -6,9 +6,28 @@ As regras editoriais da rotina (factual, apartidário, dois lados, números de f
 
 ---
 
+## Regra comum aos dois padrões — "O que está em jogo" (a partir de 13/11/2026)
+
+Decisão do João: todo Short, Short avulso e Resumo dos Reels/TikTok mostra **o impacto de o tema do dia ser aprovado ou não**.
+
+1. **Uma cena própria**, com o visual:
+   `{"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se aprovar: <efeito concreto>", "Se não aprovar: <o que continua ou acontece>"]}`
+   Cada item com até ~45 caracteres. Fala de 25 a 45 palavras.
+2. **Onde entra:** logo depois do dado principal (2ª ou 3ª cena no Short; entre a 3ª e a 5ª no Resumo). Nunca na última cena.
+3. **Adapte os rótulos à fase da proposta:**
+   - em tramitação: "Se aprovar:" / "Se não aprovar:" (o que continua valendo hoje: a regra atual, o valor atual, o prazo atual);
+   - medida provisória: "Se o Congresso aprovar:" (vira lei de vez) / "Se não votar até DD/MM:" (perde a validade e o que volta a valer);
+   - já aprovada ou sancionada: "O que muda agora:" / "Como era antes:";
+   - rejeitada ou arquivada: "O que fica como está:" / "O que mudaria se passasse:".
+4. **Concreto e para o cidadão:** bolso, trabalho, serviço público, prazo, quem é afetado. Ex.: "Se aprovar: teto do MEI sobe para R$ 110 mil" / "Se não aprovar: o teto segue em R$ 81 mil".
+5. **Só com base no texto da proposta, em dados oficiais ou em estimativas citadas.** Projeções de terceiros vêm atribuídas na fala ("segundo o governo", "pela estimativa da IFI"). Sem adivinhação, sem adjetivo de juízo e sem dizer se aprovar é bom ou ruim: os dois lados têm o mesmo peso e o mesmo tom.
+6. **Legendas:** a legenda do Reel (`legenda` do post.json) e a descrição do Short no YouTube ganham uma linha logo depois do resumo do fato: `O que está em jogo: se aprovar, <efeito>; se não, <o que continua>.`
+
+---
+
 ## Padrão 1 — Resumo de notícia
 
-O formato usado até 08/11/2026. Segue exatamente os PASSOS 4b, 4d e 4e da rotina diária:
+O formato usado até 08/11/2026. Segue exatamente os PASSOS 4b, 4d e 4e da rotina diária (mais a regra comum acima):
 
 - Abre no fato: "<Tema> em um minuto!" com visual `numero` ou `comparacao`.
 - Selo padrão ("RESUMO EM 1 MINUTO" / "RESUMO EM 2 MINUTOS").
@@ -46,6 +65,7 @@ O tema continua sendo o do dia (PASSO 2 da rotina). Muda a forma de contar.
 - Selo: `MP DAS BETS`
 - Cena 1 (`capa`): "Sabe quando o jornal diz que uma medida provisória trancou a pauta? Parece que o Congresso parou. Não parou. A partir desta segunda, é isso que acontece com a MP das bets."
 - Cena 2 (`numero`, "Dia 46"): "A MP vale desde vinte e cinco de setembro. No quadragésimo sexto dia sem votação, ela entra em regime de urgência…"
+- Cena 3 (`lista`, "O que está em jogo"): "Se o Congresso aprovar até 23/11: a proibição vira lei" / "Se não votar a tempo: a MP perde a validade".
 
 ---
 
@@ -53,4 +73,4 @@ O tema continua sendo o do dia (PASSO 2 da rotina). Muda a forma de contar.
 
 | Semana | Padrão | Observações |
 | --- | --- | --- |
-| 09/11/2026 | 2 | Primeira semana do Padrão 2. |
+| 09/11/2026 | 2 | Primeira semana do Padrão 2. A partir de 13/11, cena "O que está em jogo" nos dois padrões. |
