@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Votação no Senado", "titulo": "Ajuste fiscal: Senado aprova texto principal por 45 a 31", "destaque": "PLP 299/2026", "subtitulo": "Destaques na terça (17). Depois, o texto vai à Câmara."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Corte linear nos incentivos fiscais de empresas sobe de 10% para 20%, com exceções.", "Em anos com bloqueio de gastos, a despesa só cresce até 2% acima da inflação (hoje, 2,5%).", "Lei Kandir: repasse a estados e municípios cai de R$ 4 bi para R$ 1 bi por ano até 2030.", "Até R$ 10,5 bi para subsidiar o diesel em 2026 ficam fora da meta fiscal."], "nota": "Fonte: Agência Senado e InfoMoney"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se aprovar", "sim": ["Corte nos incentivos fiscais dobra, de 10% para 20%", "Governo estima contas de 2027 melhores em R$ 45,1 a 56,1 bi", "Lei Kandir paga R$ 3 bi a menos por ano, compensados até 2037"], "nao_rotulo": "Se não aprovar", "nao": ["Corte nos incentivos segue em 10%", "Despesa pode crescer até 2,5% acima da inflação", "Lei Kandir mantém R$ 4 bi por ano"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Arnaldo Lima", "cargo": "Polo Capital", "texto": "Diz que as medidas vão na direção correta para fortalecer o arcabouço fiscal, mas ainda não bastam para dar previsibilidade à dívida.", "onde": "InfoMoney, 12/11/2026"},
+    {"lado": "Quem critica", "quem": "Gesner Oliveira", "cargo": "GO Associados e professor da FGV", "texto": "Avalia que o pacote é pequeno diante do problema: \"combater um incêndio fiscal com doses homeopáticas\".", "onde": "InfoMoney, 12/11/2026"},
+    {"lado": "Quem critica", "quem": "Ricardo Alban", "cargo": "Presidente da CNI", "texto": "Reconhece o limite de 2% para a despesa, mas diz que a maior parte da conta fica com o setor produtivo.", "onde": "O Povo (Agência Estado), 12/11/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio; links na legenda."},
+  {"tipo": "final", "pergunta": "Você acompanha as contas do governo? Comenta SIM ou NÃO.", "fonte": "Fontes: Agência Senado, InfoMoney, O Povo (Agência Estado), Metrópoles."}
+ ]
+}
