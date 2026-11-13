@@ -1,0 +1,18 @@
+{
+ "selo": "AJUSTE FISCAL",
+ "cenas": [
+  {"fala": "As três mudanças do ajuste fiscal que o Senado aprovou ontem, por quarenta e cinco votos a trinta e um.", "visual": {"tipo": "capa", "titulo": "3 mudanças do ajuste fiscal", "subtitulo": "Senado aprovou o texto principal por 45 a 31"}},
+  {"fala": "Primeira: o corte linear nos incentivos fiscais de empresas dobra, de dez para vinte por cento. Desoneração da folha, tecnologia e carros para pessoas com deficiência ficam de fora.", "visual": {"tipo": "numero", "titulo": "1ª · Incentivos fiscais", "valor": "20%", "rotulo": "de corte linear nos incentivos. Hoje, 10%."}},
+  {"fala": "O que está em jogo: se aprovar, o corte vai a vinte por cento, e o governo estima melhorar as contas de dois mil e vinte e sete em até cinquenta e seis bilhões. Se não aprovar, o corte segue em dez por cento.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se aprovar: corte de incentivos vai a 20%", "Se não aprovar: o corte segue em 10%"]}},
+  {"fala": "Segunda: em anos com bloqueio de gastos, a despesa só poderá crescer dois por cento acima da inflação. Hoje, o limite é de dois vírgula cinco por cento.", "visual": {"tipo": "comparacao", "titulo": "2ª · Limite de gastos", "antes": {"valor": "2,5%", "rotulo": "acima da inflação (hoje)"}, "depois": {"valor": "2%", "rotulo": "em anos com bloqueio"}}},
+  {"fala": "Terceira: o repasse da Lei Kandir a estados e municípios cai de quatro bilhões para um bilhão de reais por ano, até dois mil e trinta.", "visual": {"tipo": "comparacao", "titulo": "3ª · Lei Kandir", "antes": {"valor": "R$ 4 bi", "rotulo": "por ano (hoje)"}, "depois": {"valor": "R$ 1 bi", "rotulo": "por ano, de 2027 a 2030"}}},
+  {"fala": "Quem defende diz que o projeto dá um colchão para o Orçamento de dois mil e vinte e sete. Críticos reclamam da pressa, e a indústria diz que a conta fica com as empresas.", "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: colchão para o Orçamento de 2027. Contra: votação rápida e conta maior para a indústria."}},
+  {"fala": "Agora, o Senado vota os destaques na terça-feira, dia dezessete. Depois, o texto vai para a Câmara.", "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Destaques no Senado (17/11)", "Câmara", "Sanção ou veto"], "atual": 0}},
+  {"fala": "Você sabia que ajuste fiscal também mexe em incentivos a empresas? Comenta EU SABIA ou APRENDI. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Você sabia? Comenta EU SABIA ou APRENDI. Acompanhe no app: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Ajuste fiscal aprovado no Senado: as 3 mudanças que importam #Shorts",
+  "descricao": "O Senado aprovou por 45 a 31 o texto principal do PLP 299/2026, o ajuste fiscal: corte maior nos incentivos fiscais, limite de gastos em anos de bloqueio e menos repasses da Lei Kandir até 2030. Faltam os destaques; depois, o texto vai à Câmara.\nO que está em jogo: se aprovar, o corte nos incentivos sobe de 10% para 20% e o governo estima melhorar as contas de 2027 em até R$ 56,1 bi; se não, o corte segue em 10% e o limite de gastos continua em 2,5% acima da inflação.\nMais explicações no canal Legiscópio.\n\nFonte: Agência Senado — https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Economia",
+  "tags": ["ajuste fiscal", "PLP 299/2026", "ajuste fiscal Senado", "incentivos fiscais", "Lei Kandir", "shorts"]
+ }
+}
