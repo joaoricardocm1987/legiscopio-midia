@@ -1,0 +1,18 @@
+{
+ "selo": "SEMANA NO CONGRESSO",
+ "cenas": [
+  {"fala": "Quatro decisões do Congresso nesta semana, e uma delas tem um prazo que vence na quarta-feira.", "visual": {"tipo": "numero", "titulo": "4 decisões da semana", "valor": "4", "rotulo": "Câmara e Senado · 10 a 12/11/2026"}},
+  {"fala": "Em quarto, o tarifaço. A Câmara aprovou vinte e dois vírgula seis bilhões de reais em crédito para exportadores atingidos pelas tarifas dos Estados Unidos.", "visual": {"tipo": "numero", "titulo": "4º · Tarifaço", "valor": "R$ 22,6 bi", "rotulo": "MP 1.379/2026 · vale até 18/11"}},
+  {"fala": "O que está em jogo: se o Congresso aprovar, o crédito extra vira lei. Se o Senado não votar até quarta, dia dezoito, a medida perde a validade.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se o Congresso aprovar: crédito vira lei", "Se não votar até 18/11: a MP cai"]}},
+  {"fala": "Em terceiro, cães e gatos. A Câmara aprovou tornar crime hediondo os maus-tratos que matam esses animais: sem fiança, anistia ou indulto. O texto agora vai ao Senado.", "visual": {"tipo": "numero", "titulo": "3º · Cães e gatos", "valor": "Hediondo", "rotulo": "sem fiança, anistia ou indulto · vai ao Senado"}},
+  {"fala": "Em segundo, o campo. Foi à sanção a renegociação de dívidas de produtores que perderam safras pelo clima, com até dez anos para pagar, mas sem os trechos sobre vapes.", "visual": {"tipo": "numero", "titulo": "2º · Dívidas rurais", "valor": "10 anos", "rotulo": "prazo máximo · vai à sanção sem os trechos sobre vapes"}},
+  {"fala": "E em primeiro, o ajuste fiscal. O Senado aprovou o texto principal por quarenta e cinco a trinta e um. O corte nos incentivos a empresas dobra, de dez para vinte por cento. Os destaques ficam para terça.", "visual": {"tipo": "comparacao", "titulo": "1º · Ajuste fiscal", "antes": {"valor": "10%", "rotulo": "corte nos incentivos hoje"}, "depois": {"valor": "20%", "rotulo": "no texto aprovado · 45 a 31"}}},
+  {"fala": "Quem defende diz que isso dá folga ao Orçamento de dois mil e vinte e sete. Críticos reclamam da pressa, e a indústria diz que a conta fica com as empresas.", "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: folga no Orçamento de 2027. Contra: votação rápida e conta para a indústria."}},
+  {"fala": "Qual mais te afeta? Comenta com uma palavra: TARIFAÇO, PETS, RURAL ou AJUSTE. E pra acompanhar, baixe o Legiscópio. O link está na legenda. O vídeo completo está no canal do Legiscópio no YouTube.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Qual mais te afeta? TARIFAÇO, PETS, RURAL ou AJUSTE. Acompanhe no app: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Semana no Congresso: as 4 decisões que mexem com você #Shorts",
+  "descricao": "As 4 decisões do Congresso de 10 a 12/11/2026: ajuste fiscal aprovado no Senado por 45 a 31, dívidas rurais à sanção sem os trechos sobre vapes, maus-tratos a cães e gatos como crime hediondo e a MP do Brasil Soberano 3, que vence em 18/11.\nO que está em jogo: se o Congresso aprovar, o reforço de R$ 22,6 bi em crédito para exportadores vira lei; se não votar até 18/11, a MP perde a validade.\nVídeo completo no canal Legiscópio.\n\nFonte: Agência Senado e Agência Câmara — https://www12.senado.leg.br/noticias/materias/2026/11/12/texto-principal-do-ajuste-fiscal-e-aprovado-pelo-senado\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #CongressoNacional",
+  "tags": ["semana no Congresso", "ajuste fiscal", "MP Brasil Soberano 3", "dívidas rurais", "maus-tratos crime hediondo", "shorts"]
+ }
+}

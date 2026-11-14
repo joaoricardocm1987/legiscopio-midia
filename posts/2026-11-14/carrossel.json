@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Prazo de medida provisória", "titulo": "MP do tarifaço: Senado tem até 18/11 para votar R$ 22,6 bi", "destaque": "MP 1.379/2026", "subtitulo": "Aprovada na Câmara em 10/11, aguarda o Senado. Sem voto, perde a validade."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Amplia o crédito com juros subsidiados a exportadores afetados pelo tarifaço dos EUA.", "São R$ 13,5 bi do Tesouro e R$ 9,1 bi do BNDES: R$ 22,6 bi no total.", "R$ 8,8 bi para afetados pelas tarifas dos EUA e R$ 6,8 bi para vendas ao Golfo Pérsico.", "Juros de 3% a 9,8% ao ano, conforme a finalidade, segundo o governo (jul/2026)."], "nota": "Fonte: Congresso Nacional, BP Money e Agência Brasil"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se o Congresso aprovar", "sim": ["A ampliação do crédito vira lei de vez", "Exportadores mantêm acesso ao reforço de R$ 22,6 bi"], "nao_rotulo": "Se não votar até 18/11", "nao": ["A MP perde a validade e o reforço deixa de valer", "Operações já feitas seguem a MP, salvo decreto do Congresso"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "José Velloso", "cargo": "Presidente executivo da Abimaq", "texto": "Diz que os recursos \"parecem bastante suficientes\" para o setor de máquinas e equipamentos.", "onde": "Agora RN, 24/07/2026"},
+    {"lado": "Quem critica", "quem": "Katherine Hennings", "cargo": "Pesquisadora do FGV Ibre", "texto": "Atende o imediato, mas não reduz a dependência do mercado americano e pressiona as contas públicas.", "onde": "Agora RN, 24/07/2026"},
+    {"lado": "Ponto de atenção", "quem": "Sergio Vale", "cargo": "Economista-chefe da MB Associados", "texto": "Defende ajuda temporária e focalizada e vê o acordo Mercosul-UE como saída para redirecionar exportações.", "onde": "Agora RN, 24/07/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio; links na legenda."},
+  {"tipo": "final", "pergunta": "Você trabalha em empresa que exporta ou vende para exportadores? Comenta SIM ou NÃO.", "fonte": "Fontes: Congresso Nacional, Agência Câmara, Senado Federal, BP Money, Agência Brasil, Agora RN."}
+ ]
+}
