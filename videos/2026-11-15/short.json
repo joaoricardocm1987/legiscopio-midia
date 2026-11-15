@@ -1,0 +1,18 @@
+{
+ "selo": "PL 215: MEMES E IA",
+ "cenas": [
+  {"fala": "Você deve ter lido que a Câmara quer dar até dez anos de prisão por meme. A palavra meme não está no texto. Mas ele pode alcançar montagens.", "visual": {"tipo": "capa", "titulo": "Prisão por meme?", "subtitulo": "O que diz o texto do PL 215/2015"}},
+  {"fala": "O parecer do relator, de três de novembro, cria um crime novo: manipular, produzir ou divulgar conteúdo que ofenda a honra de alguém, feito com inteligência artificial.", "visual": {"tipo": "numero", "titulo": "O crime novo", "valor": "4 a 10", "rotulo": "anos de reclusão e multa. Em dobro se houver lucro."}},
+  {"fala": "Se o texto virar lei, nasce esse crime, com quatro a dez anos de prisão. Se não for aprovado, valem só os crimes contra a honra que já existem.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se aprovar: crime novo, de 4 a 10 anos", "Se não aprovar: valem só as regras de hoje"]}},
+  {"fala": "Hoje, a difamação tem pena básica de três meses a um ano de detenção. A calúnia, de seis meses a dois anos. Há aumentos em alguns casos.", "visual": {"tipo": "comparacao", "titulo": "Hoje x proposta", "antes": {"valor": "3 meses a 1 ano", "rotulo": "Difamação hoje (pena básica)"}, "depois": {"valor": "4 a 10 anos", "rotulo": "Crime novo proposto (com IA)"}}},
+  {"fala": "O ponto que mais gerou debate: o texto não traz exceção expressa para humor, sátira ou paródia. E não define o que é conteúdo desabonador.", "visual": {"tipo": "texto", "titulo": "Sem exceção para humor", "texto": "O texto não cita memes, mas também não exclui humor, sátira ou paródia."}},
+  {"fala": "Quem defende punir deepfakes diz que a lei atual não alcança bem essas montagens. Quem critica o texto aponta pena alta e risco para a sátira e a crítica política.", "visual": {"tipo": "comparacao", "titulo": "Os dois lados", "antes": {"valor": "A favor", "rotulo": "Punir deepfakes que a lei não alcança"}, "depois": {"valor": "Contra", "rotulo": "Pena alta e risco para a sátira"}}},
+  {"fala": "O projeto tem urgência desde dois mil e vinte e cinco. Esteve na pauta em dez e onze de novembro, mas não foi votado. Se a Câmara aprovar, vai ao Senado.", "visual": {"tipo": "etapas", "titulo": "Próximo passo", "itens": ["Plenário da Câmara", "Senado", "Sanção ou veto"], "atual": 0}},
+  {"fala": "Você já viu um vídeo feito com inteligência artificial que parecia real? Comenta SIM ou NÃO. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Já viu um vídeo de IA que parecia real? SIM ou NÃO. Acompanhe: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Prisão por meme? O que diz o projeto da Câmara sobre IA e honra #Shorts",
+  "descricao": "O parecer ao PL 215/2015 cria um crime para quem manipula, produz ou divulga conteúdo ofensivo à honra feito com inteligência artificial: 4 a 10 anos de reclusão e multa. O texto não cita memes nem traz exceção expressa para humor.\nO que está em jogo: se aprovar, nasce um crime novo, com 4 a 10 anos de reclusão para conteúdo ofensivo à honra feito com IA; se não, continuam valendo só os crimes contra a honra de hoje (difamação: 3 meses a 1 ano de detenção, na pena básica).\nMais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=946034\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #InteligênciaArtificial",
+  "tags": ["shorts", "PL 215/2015", "prisão por meme", "inteligência artificial", "crimes contra a honra", "deepfake"]
+ }
+}
