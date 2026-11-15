@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Projeto na Câmara", "titulo": "Prisão por meme? O que diz o projeto de 4 a 10 anos", "destaque": "PL 215/2015", "subtitulo": "Parecer de 03/11 cria crime para conteúdo com IA. Tem urgência, mas não tem data para votar."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Crime novo: manipular, produzir ou divulgar conteúdo ofensivo à honra feito com IA ou outro recurso.", "Pena: 4 a 10 anos de reclusão e multa; em dobro se o autor busca ou obtém lucro.", "A palavra meme não aparece, e não há exceção expressa para humor, sátira ou paródia.", "Hoje, a pena básica da difamação é de 3 meses a 1 ano; a da calúnia, de 6 meses a 2 anos."], "nota": "Fonte: Câmara dos Deputados (PRLE 1 PLEN) e Código Penal"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se aprovar", "sim": ["Nasce o crime do art. 139-A, com 4 a 10 anos", "Polícia pode acessar o app usado no crime", "Juiz fixa valor mínimo de indenização à vítima"], "nao_rotulo": "Se não aprovar", "nao": ["Seguem só calúnia, difamação e injúria de hoje", "Difamação mantém pena básica de 3 meses a 1 ano", "Não há crime específico para conteúdo feito com IA"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Juliana Saraiva", "cargo": "Criminalista e professora de Direito Penal", "texto": "Diz que a lei atual não cobre bem montagens feitas com IA, o que gera insegurança; defende punir, com prevenção e educação digital.", "onde": "ConJur, 12/08/2026"},
+    {"lado": "Quem critica", "quem": "Esmael Morais", "cargo": "Jornalista e advogado", "texto": "Critica a falta de definição de \"conteúdo desabonador\" e de exceção para fatos verdadeiros; vê risco de autocensura.", "onde": "Blog do Esmael, 14/11/2026"},
+    {"lado": "Ponto de atenção", "quem": "Alexander Coelho", "cargo": "Advogado, Comissão de IA da OAB-SP", "texto": "Vê lacuna para deepfakes, mas diz que um crime novo deve exigir intenção, falta de consentimento e ressalva para sátira e jornalismo.", "onde": "ConJur, 12/08/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio; as da ConJur tratam de deepfakes em geral. Links na legenda."},
+  {"tipo": "final", "pergunta": "Você já viu um vídeo feito com IA que parecia real? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados, Metrópoles, A Tarde, ConJur, Blog do Esmael."}
+ ]
+}
