@@ -1,0 +1,107 @@
+{
+ "data": "2026-11-16",
+ "camara_plen": [],
+ "camara_com": [],
+ "senado_plen": [],
+ "senado_com": [
+  {
+   "hora": "10:00",
+   "sigla": "CDHYANOM",
+   "nome": "Subcomissão Permanente dos povos  indígenas Yanomami",
+   "tipo": "Audiência pública"
+  }
+ ],
+ "semana": [
+  {
+   "data": "2026-11-16",
+   "camara_plen": [],
+   "n_camara_com": 0,
+   "senado_plen": [],
+   "n_senado_com": 1
+  },
+  {
+   "data": "2026-11-17",
+   "camara_plen": [],
+   "n_camara_com": 14,
+   "senado_plen": [
+    {
+     "hora": "14:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PLP 299/2026",
+       "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
+      },
+      {
+       "id": "PL 6683/2025",
+       "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
+      },
+      {
+       "id": "PL 4035/2023",
+       "ementa": "Institui o mês de agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 12
+  },
+  {
+   "data": "2026-11-18",
+   "camara_plen": [],
+   "n_camara_com": 30,
+   "senado_plen": [
+    {
+     "hora": "14:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PL 6461/2019",
+       "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+      },
+      {
+       "id": "PL 5756/2026",
+       "ementa": "Altera o §3º do art. 2º da Lei nº 14.172, de 10 de junho de 2021, para ampliar o prazo para aplicação e eventual restituição dos recursos entregue pela União aos Estados e ao Distrito Federal voltados para a garantia do acesso à internet, com fins educacionais, aos estabelecimentos de ensino, aos alunos e aos professores da rede pública de ensino dos Estados, do Distrito Federal e dos Municípios, em virtude da calamidade pública decorrente da Covid-19."
+      },
+      {
+       "id": "PL 4186/2021",
+       "ementa": "Altera o art. 206 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para fixar em 20 (vinte) anos o prazo prescricional da pretensão de reparação civil das vítimas de crimes contra a dignidade sexual de crianças e adolescentes."
+      },
+      {
+       "id": "PL 6222/2025",
+       "ementa": "Institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 17
+  },
+  {
+   "data": "2026-11-19",
+   "camara_plen": [],
+   "n_camara_com": 2,
+   "senado_plen": [],
+   "n_senado_com": 0
+  },
+  {
+   "data": "2026-11-20",
+   "camara_plen": [],
+   "n_camara_com": 0,
+   "senado_plen": [],
+   "n_senado_com": 0
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png"
+ ],
+ "semana_arquivos": [
+  "semana_1.png",
+  "semana_2.png",
+  "semana_3.png",
+  "semana_4.png",
+  "semana_5.png",
+  "semana_6.png"
+ ]
+}
