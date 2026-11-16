@@ -1,0 +1,19 @@
+{
+ "selo": "CNH AOS 16 ANOS",
+ "cenas": [
+  {"fala": "Quase todo mundo leu que jovem de dezesseis anos vai poder tirar carteira. Não é bem assim. A Câmara pode votar nesta terça uma permissão, cheia de regras.", "visual": {"tipo": "capa", "titulo": "CNH aos 16?", "subtitulo": "O que a Câmara pode votar na terça"}},
+  {"fala": "O parecer da reforma do Código de Trânsito cria uma permissão para dirigir aos dezesseis. Hoje, a lei exige dezoito, a idade em que se responde penalmente.", "visual": {"tipo": "comparacao", "titulo": "Permissão, não CNH", "antes": {"valor": "18", "rotulo": "idade mínima hoje"}, "depois": {"valor": "16", "rotulo": "com a permissão proposta"}}},
+  {"fala": "Agora, o que está em jogo. Se virar lei, jovens de dezesseis e dezessete anos poderão dirigir carro com supervisão. Se não virar, a habilitação continua só a partir dos dezoito.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se aprovar: aos 16, carro com adulto ao lado", "Se não aprovar: volante só a partir dos 18"]}},
+  {"fala": "Regra um: só com um adulto ao lado, habilitado há pelo menos dois anos. E esse adulto pode ser parado no bafômetro, como se fosse o motorista.", "visual": {"tipo": "numero", "titulo": "Regra 1 · Adulto ao lado", "valor": "2 anos", "rotulo": "de habilitação, no mínimo, para o acompanhante"}},
+  {"fala": "Regra dois: só dentro da cidade, entre cinco da manhã e onze e cinquenta e nove da noite. E só carro: para moto, continua dezoito.", "visual": {"tipo": "comparacao", "titulo": "Regra 2 · Onde e quando", "antes": {"valor": "5h", "rotulo": "pode começar"}, "depois": {"valor": "23h59", "rotulo": "tem de parar"}}},
+  {"fala": "Regra três: quem chegar aos dezoito sem infração grave ou gravíssima recebe a carteira definitiva automaticamente e de graça.", "visual": {"tipo": "numero", "titulo": "Regra 3 · Aos 18", "valor": "Grátis", "rotulo": "CNH definitiva para quem não tiver infração grave"}},
+  {"fala": "Uma associação de trânsito ouvida pela Câmara defende aprender com supervisão. Um consultor de segurança viária teme mais riscos e lembra que menor não responde penalmente como adulto.", "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: aprender com supervisão. Contra: risco de acidentes e regra penal diferente para menores."}},
+  {"fala": "E ainda não é lei. Depois da comissão, o texto vai ao Plenário da Câmara e, se passar, ao Senado. O governo também pede mudanças.", "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Comissão especial", "Plenário da Câmara", "Senado"], "atual": 0}},
+  {"fala": "Com dezesseis anos, você já queria dirigir? Comenta SIM ou NÃO. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Com 16 anos, você já queria dirigir? Comenta SIM ou NÃO. Acompanhe no app: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "CNH aos 16: as 3 regras da permissão que a Câmara pode votar #Shorts",
+  "descricao": "A comissão especial da Câmara que revisa o Código de Trânsito prevê votar nesta terça (17) o parecer que cria uma permissão para dirigir carro a partir dos 16 anos, com adulto ao lado, só na cidade e das 5h às 23h59.\nO que está em jogo: se aprovar, jovens de 16 e 17 anos poderão dirigir carro com um adulto habilitado ao lado; se não, a habilitação continua só a partir dos 18 anos.\nMais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=749470\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Trânsito",
+  "tags": ["CNH aos 16", "CNH aos 16 anos", "Código de Trânsito", "PL 8085/2014", "permissão para dirigir", "shorts"]
+ }
+}
