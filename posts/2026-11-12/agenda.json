@@ -1,20 +1,7 @@
 {
  "data": "2026-11-12",
  "camara_plen": [],
- "camara_com": [
-  {
-   "hora": "10:03",
-   "sigla": "CN",
-   "nome": "CONGRESSO NACIONAL",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "15:00",
-   "sigla": "CMO",
-   "nome": "Comissão Mista de Orçamento",
-   "tipo": "Reunião Técnica"
-  }
- ],
+ "camara_com": [],
  "senado_plen": [
   {
    "hora": "9:00",
@@ -162,8 +149,7 @@
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
-  "agenda_3.png",
-  "agenda_4.png"
+  "agenda_3.png"
  ],
  "semana_arquivos": []
 }

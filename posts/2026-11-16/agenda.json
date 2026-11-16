@@ -22,7 +22,7 @@
   {
    "data": "2026-11-17",
    "camara_plen": [],
-   "n_camara_com": 14,
+   "n_camara_com": 0,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -49,7 +49,7 @@
   {
    "data": "2026-11-18",
    "camara_plen": [],
-   "n_camara_com": 30,
+   "n_camara_com": 0,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -80,7 +80,7 @@
   {
    "data": "2026-11-19",
    "camara_plen": [],
-   "n_camara_com": 2,
+   "n_camara_com": 0,
    "senado_plen": [],
    "n_senado_com": 0
   },
@@ -101,7 +101,6 @@
   "semana_2.png",
   "semana_3.png",
   "semana_4.png",
-  "semana_5.png",
-  "semana_6.png"
+  "semana_5.png"
  ]
 }
