@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Pauta da Câmara", "titulo": "CNH aos 16? O que diz o parecer da reforma do trânsito", "destaque": "PL 8.085/2014", "subtitulo": "Comissão especial prevê votar na terça (17); depois vêm o Plenário e o Senado."},
+  {"tipo": "texto", "titulo": "Como é hoje e o que muda", "itens": ["Hoje: o Código de Trânsito exige 18 anos, idade em que a pessoa responde penalmente.", "Proposta: permissão para dirigir carro a partir dos 16; para moto, segue 18.", "Só no perímetro urbano, das 5h às 23h59, com adulto habilitado há 2 anos ou mais.", "Sem infração grave ou gravíssima, a CNH definitiva sai automática e grátis aos 18."], "nota": "Fonte: Câmara dos Deputados (parecer de 11/11/2026) e Portal do Trânsito"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se aprovar", "sim": ["Jovens de 16 e 17 anos dirigem carro com supervisão", "Acompanhante pode passar pelo bafômetro", "CNH definitiva grátis aos 18, sem infração grave"], "nao_rotulo": "Se não aprovar", "nao": ["Habilitação continua só a partir dos 18 anos", "Dirigir antes dos 18 continua proibido", "Formação e exames seguem as regras atuais"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Yomara Ribeiro", "cargo": "Associação de Trânsito de Santa Catarina (Atraesc)", "texto": "Defende permissão temporária com supervisão de pais ou responsáveis, carga teórica ampliada, prática registrada e avaliação psicológica.", "onde": "Agência Câmara, 15/04/2026"},
+    {"lado": "Quem critica", "quem": "Anthony Moraes Costa", "cargo": "Consultor em segurança viária", "texto": "Vê a proposta com preocupação: diz que ela exige outras mudanças, inclusive penais, e questiona se a sociedade está pronta.", "onde": "Tribuna Online, 15/06/2026"},
+    {"lado": "Ponto de atenção", "quem": "Josimar Amaral", "cargo": "Especialista em trânsito", "texto": "Lembra que o CTB exige imputabilidade penal (18 anos) e diz que \"seria necessária uma adequação da legislação\", inclusive no ECA.", "onde": "Tribuna Online, 15/06/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio, sobre versões anteriores do texto. Links na legenda."},
+  {"tipo": "final", "pergunta": "Com 16 anos, você já queria dirigir? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados, Portal do Trânsito, O Tempo, Agência Câmara, Tribuna Online."}
+ ]
+}
