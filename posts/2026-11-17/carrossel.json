@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Pauta da Câmara", "titulo": "Big techs: o que muda se a Câmara aprovar o PL dos mercados digitais", "destaque": "PL 4.675/2025", "subtitulo": "Pode ir ao Plenário nesta terça (17), se houver acordo entre os líderes. Depois, Senado."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["O Cade poderá designar plataformas de \"relevância sistêmica\" em mercados digitais.", "Piso: faturar R$ 5 bi no Brasil ou R$ 50 bi no mundo, mais critérios como efeito de rede.", "As designadas podem ter de expor critérios de ranqueamento, taxas e mudanças nos termos.", "Cria uma superintendência no Cade. O texto trata de concorrência, não de conteúdo."], "nota": "Fonte: Câmara dos Deputados (PL 4.675/2025), CNN Brasil e Brasil Inovador"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se aprovar", "sim": ["Texto vai ao Senado; só vale depois de virar lei", "Cade pode fixar obrigações antes de haver dano", "Designadas não poderão favorecer os próprios produtos"], "nao_rotulo": "Se não aprovar", "nao": ["Cade segue só com a lei de concorrência de 2011", "Condutas continuam analisadas caso a caso", "Sem superintendência própria para mercados digitais"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Vinicius Marques de Carvalho e Ana Frazão", "cargo": "Ex-presidente e ex-conselheira do Cade", "texto": "Assinam manifesto que diz que o PL não cria tributos nem impõe obrigações automáticas e reforça a limitação do poder econômico.", "onde": "Jornal do Comércio, 16/11/2026"},
+    {"lado": "Quem critica", "quem": "José Marcelo Martins Proença", "cargo": "Advogado e professor (USP e FGV Law)", "texto": "Vê méritos, mas considera o PL desnecessário: diz que as ferramentas atuais do Cade bastam e aponta risco de discricionariedade.", "onde": "ConJur, 17/06/2026"},
+    {"lado": "Ponto de atenção", "quem": "Jamil Assis", "cargo": "Instituto Sivis", "texto": "Alerta que obrigações às grandes plataformas podem ser repassadas a pequenos negócios e pede análise desse custo antes.", "onde": "Instituto Sivis/JOTA, 03/07/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio; algumas tratam de versões anteriores do texto. Links na legenda."},
+  {"tipo": "final", "pergunta": "Você vende ou trabalha por meio de alguma plataforma digital? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados, CNN Brasil, Brasil Inovador, Jornal do Comércio, ConJur, Instituto Sivis."}
+ ]
+}
