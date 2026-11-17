@@ -1,7 +1,14 @@
 {
  "data": "2026-11-16",
  "camara_plen": [],
- "camara_com": [],
+ "camara_com": [
+  {
+   "hora": "15:56",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Votações"
+  }
+ ],
  "senado_plen": [],
  "senado_com": [
   {
@@ -15,14 +22,21 @@
   {
    "data": "2026-11-16",
    "camara_plen": [],
-   "n_camara_com": 0,
+   "n_camara_com": 1,
    "senado_plen": [],
    "n_senado_com": 1
   },
   {
    "data": "2026-11-17",
-   "camara_plen": [],
-   "n_camara_com": 0,
+   "camara_plen": [
+    {
+     "id_evento": 83363,
+     "hora": "13:55",
+     "tipo": "Sessão Deliberativa",
+     "itens": []
+    }
+   ],
+   "n_camara_com": 18,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -44,12 +58,12 @@
      ]
     }
    ],
-   "n_senado_com": 12
+   "n_senado_com": 14
   },
   {
    "data": "2026-11-18",
    "camara_plen": [],
-   "n_camara_com": 0,
+   "n_camara_com": 45,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -71,16 +85,20 @@
       {
        "id": "PL 6222/2025",
        "ementa": "Institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres."
+      },
+      {
+       "id": "PL 3220/2019 (Substitutivo-CD)",
+       "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações; e altera as Leis nºs 9.427, de 26 de dezembro de 1996, 9.472, de 16 de julho de 1997, e 14.947, de 2 de agosto de 2024."
       }
      ]
     }
    ],
-   "n_senado_com": 17
+   "n_senado_com": 19
   },
   {
    "data": "2026-11-19",
    "camara_plen": [],
-   "n_camara_com": 0,
+   "n_camara_com": 3,
    "senado_plen": [],
    "n_senado_com": 0
   },
@@ -94,13 +112,15 @@
  ],
  "arquivos": [
   "agenda_1.png",
-  "agenda_2.png"
+  "agenda_2.png",
+  "agenda_3.png"
  ],
  "semana_arquivos": [
   "semana_1.png",
   "semana_2.png",
   "semana_3.png",
   "semana_4.png",
-  "semana_5.png"
+  "semana_5.png",
+  "semana_6.png"
  ]
 }
