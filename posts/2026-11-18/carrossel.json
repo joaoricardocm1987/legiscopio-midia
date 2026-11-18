@@ -1,0 +1,12 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Aprovado no Senado", "titulo": "Implantes cirúrgicos: o que muda com as novas regras de qualidade", "destaque": "PL 6.683/2025", "subtitulo": "Aprovado pelo Senado em 17/11, sem mudanças. Agora vai à sanção presidencial."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Proíbe materiais de elevada toxicidade, alergênicos ou sem biocompatibilidade comprovada.", "Fabricar, importar e vender implantes depende de autorização prévia da Anvisa.", "Profissionais e serviços de saúde, públicos e privados, devem notificar toda falha detectada.", "Descumprir vira infração sanitária: de advertência e multa até interdição."], "nota": "Fonte: Senado Federal (PL 6.683/2025) e Agência Senado"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se virar lei", "sim": ["Toda falha em implante tem de ser notificada", "Material tóxico ou alergênico fica proibido por lei", "Infração sanitária, com multa e até interdição"], "nao_rotulo": "Se for vetado", "nao": ["Regras seguem em resoluções da Anvisa e do CFM", "Empresas com registro seguem obrigadas a notificar", "Sem lei própria para implantes cirúrgicos"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Ponto de atenção", "quem": "Katia Shimabukuro Donath", "cargo": "Materiais Implantáveis em Ortopedia, Anvisa", "texto": "Apontou falhas de projeto, validação insuficiente e documentação incompleta entre os motivos de registros de implantes negados.", "onde": "ABIMO, 25/05/2026"},
+    {"lado": "Ponto de atenção", "quem": "Patricia Francisco Branco", "cargo": "Tecnologia de Materiais de Uso em Saúde, Anvisa", "texto": "Disse que falta de dados clínicos e de prova de segurança e eficácia estão entre as principais causas de registros negados.", "onde": "ABIMO, 25/05/2026"}
+  ], "nota": "Falas sobre o registro de implantes na Anvisa, não sobre o projeto. Não achamos posição publicada de especialistas contra ou a favor do texto."},
+  {"tipo": "final", "pergunta": "Você ou alguém da sua família já fez cirurgia com prótese, pino ou placa? Comenta SIM ou NÃO.", "fonte": "Fontes: Senado Federal, Agência Senado, Anvisa e ABIMO."}
+ ]
+}
