@@ -3,46 +3,83 @@
  "camara_plen": [
   {
    "id_evento": 83363,
-   "hora": "13:55",
+   "hora": "14:32",
    "tipo": "Sessão Deliberativa",
-   "itens": []
+   "itens": [
+    {
+     "id": "PAR 20/2026",
+     "ementa": "PARECER (CN) Nº 20, DE 2026 Da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre Medida Provisória n° 1383, de 2026, de Presidência da República, que Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 360.000.000,00, para o fim que especifica."
+    },
+    {
+     "id": "PAR 21/2026",
+     "ementa": "PARECER (CN) Nº 21, DE 2026, da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre Medida Provisória n° 1384, de 2026, de Presidência da República, que Abre crédito extraordinário, em favor dos Ministérios do Desenvolvimento Agrário e Agricultura Familiar e do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 924.985.960,00, para os fins que especifica."
+    },
+    {
+     "id": "PAR 22/2026",
+     "ementa": "PARECER (CN) Nº 22, DE 2026 da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre Medida Provisória n° 1389, de 2026, de Presidência da República, que Abre crédito extraordinário, em favor do Ministério de Minas e Energia, no valor de R$ 6.605.000.000,00, para os fins que especifica."
+    },
+    {
+     "id": "PAR 23/2026",
+     "ementa": "PARECER (CN) Nº 23, DE 2026 da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre Medida Provisória n° 1397, de 2026, de Presidência da República, que Abre crédito extraordinário, em favor de Encargos Financeiros da União, no valor de R$6.494.296.446,00, para o fim que especifica."
+    },
+    {
+     "id": "PAR 24/2026",
+     "ementa": "PARECER (CN) Nº 24, DE 2026 da COMISSÃO MISTA DE PLANOS, ORÇAMENTOS PÚBLICOS E FISCALIZAÇÃO, sobre Medida Provisória n° 1398, de 2026, de Presidência da República, que Abre crédito extraordinário, em favor do Ministério da Integração e do Desenvolvimento Regional, no valor de R$ 300.000.000,00, para o fim que especifica."
+    },
+    {
+     "id": "PL 724/2003",
+     "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
+    },
+    {
+     "id": "PL 479/2015",
+     "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação - LDB), para dispor sobre educação em tempo integral."
+    },
+    {
+     "id": "PL 3965/2024",
+     "ementa": "Institui o feriado escolar e o dia nacional dos professores, professoras e profissionais de educação"
+    },
+    {
+     "id": "PPP 1/0",
+     "ementa": "Parecer proferido em Plenário pelo Relator Dep. Luiz Gastão (PSD/CE) pela: • Comissão de Cultura, que conclui pela aprovação do Projeto de Lei nº 5.127, de 2026. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 5.127, de 2026."
+    },
+    {
+     "id": "PL 5542/2026",
+     "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima."
+    },
+    {
+     "id": "PRC 25/2026",
+     "ementa": "Institui, no âmbito da Câmara dos Deputados o “Selo Câmara de Respeito à Voz do Cidadão”."
+    },
+    {
+     "id": "PDL 756/2025",
+     "ementa": "Aprova o texto do Tratado de Assistência Jurídica Mútua em Matéria Penal entre a República Federativa do Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de 2024."
+    }
+   ]
   }
  ],
  "camara_com": [
   {
-   "hora": "09:30",
+   "hora": "09:51",
    "sigla": "CCTI",
    "nome": "Ciência, Tecnologia e Inovação",
    "tipo": "Audiência Pública: Comemoração dos 35 anos da Lei nº 8.248, de 23 de outubro de 1991 (Lei de TICs) PALESTRANTES: LUCIANA SANTOS Ministra de Estado de Ciência, Tecnologia e Inovação (Presença confirmada) RODRIGO ZERBONE LOUREIRO Secretário Executivo do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (Mdic) (Presença confirmada) ROSILDA PRATES Presidente Executiva e Diretora Executiva da Associação de Empresas de Desenvolvimento Tecnológico Nacional e Inovação (P&D Brasil) (Presença confirmada) HUMBERTO BARBATO Presidente Executivo da Associação Brasileira da Indústria Elétrica e Eletrônica (Abinee) (Presença confirmada) ROGÉRIO NUNES Presidente da Associação Brasileira da Indústria de Semicondutores (Abisemi) (Presença confirmada) JAMIR DAGIR JR. Presidente da Associação Brasileira das Instituições de Dispositivos Médicos (Abimo) (Não comparecerá - ausência justificada) Representante: MÁRCIO BOSIO Diretor Institucional da Associação Brasileira das Instituições de Dispositivos Médicos (Abimo) (Presença confirmada) DIEGO SILVA MENEZES Presidente da Associação Brasileira das Instituições de Pesquisa Tecnológica e Inovação (Abipti) (Presença confirmada) MARCOS MARQUES Presidente da Associação Brasileira de Consultorias de Fomento à Inovação (AC Inova) (Presença confirmada) Requerimento n° 46/2026, do Deputado Vitor Lippi)"
   },
   {
-   "hora": "10:00",
+   "hora": "10:24",
    "sigla": "CSAUDE",
    "nome": "Saúde",
-   "tipo": "Audiência Pública: Setembro Vermelho e as doenças cardiovasculares Requerimento nº 94/2026, do dep. Giovani Cherini, posteriormente aditado pelos Requerimentos nº 103, 123, 190 e 200/2026 CSAUDE. Convidados confirmados: - Fernando Antônio Lucchese (participação presencial) Médico cardiologista e cirurgião cardiovascular; - Cristiano Faria Pisani (participação presencial) Presidente da Sociedade Brasileira de Arritmias Cardíacas - SOBRAC; - Fernanda Mangione (participação remota) Médica Especialista em Hemodinâmica e Cardiologia Intervencionista; - Álvaro Avezum (participação remota) Membro do Conselho Administrativo da Sociedade Brasileira de Cardiologia - SBC; - Maria Sanali (partipação remota) Diretora de Qualidade Profissional da Sociedade Brasileira de Hemodinâmica e Cardiologia Intervencionista - SBHCI; - Felipe Dias de Carvalho (participação remota) Diretor de Relações Institucionais e Governamentais de Brasília da Associação Brasileira da Indústria de Tecnologia para Saúde - ABIMED; - Felipe Augusto Reque Coordenador-Geral de Urgência do Ministério da Saúde. Convidados a confirmar: - Eduardo Keller Saadi Presidente da Sociedade Brasileira de Cirurgia Cardiovascular - SBCCV; Não poderá participar: - Maurício Prudente Médico Cardiologista Intervencionista."
+   "tipo": "Audiência Pública: Setembro Vermelho e as doenças cardiovasculares Requerimento nº 94/2026, do dep. Giovani Cherini, posteriormente aditado pelos Requerimentos nº 103, 123, 190 e 200/2026 CSAUDE. Convidados confirmados: - Fernando Antônio Lucchese (participação presencial) Médico cardiologista e cirurgião cardiovascular; - Cristiano Faria Pisani (participação presencial) Presidente da Sociedade Brasileira de Arritmias Cardíacas - SOBRAC; - Fernanda Mangione (participação remota) Médica Especialista em Hemodinâmica e Cardiologia Intervencionista; - Álvaro Avezum (participação remota) Membro do Conselho Administrativo da Sociedade Brasileira de Cardiologia - SBC; - Maria Sanali (participação remota) Diretora de Qualidade Profissional da Sociedade Brasileira de Hemodinâmica e Cardiologia Intervencionista - SBHCI; - Felipe Dias de Carvalho (participação remota) Diretor de Relações Institucionais e Governamentais de Brasília da Associação Brasileira da Indústria de Tecnologia para Saúde - ABIMED; - Felipe Augusto Reque (participação remota) Coordenador-Geral de Urgência do Ministério da Saúde. - Bruno Sepulveda Representante da Sociedade Brasileira de Cirurgia Cardiovascular - SBCCV; Convidados não confirmados: - Maurício Prudente Médico Cardiologista Intervencionista."
   },
   {
-   "hora": "13:00",
+   "hora": "13:16",
    "sigla": "CPD",
    "nome": "Defesa dos Direitos das Pessoas com Deficiência",
    "tipo": "Votações"
   },
   {
-   "hora": "13:20",
+   "hora": "13:39",
    "sigla": "CPD",
    "nome": "Defesa dos Direitos das Pessoas com Deficiência",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CASP",
-   "nome": "Administração e Serviço Público",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CPOVOS",
-   "nome": "Amazônia e dos Povos Originários e Tradicionais",
    "tipo": "Votações"
   },
   {
@@ -52,67 +89,91 @@
    "tipo": "Votações"
   },
   {
-   "hora": "14:00",
+   "hora": "14:18",
+   "sigla": "CPOVOS",
+   "nome": "Amazônia e dos Povos Originários e Tradicionais",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:32",
    "sigla": "CSPCCO",
    "nome": "Segurança Pública e Combate ao Crime Organizado",
    "tipo": "Votações"
   },
   {
-   "hora": "14:15",
-   "sigla": "CSPCCO",
-   "nome": "Segurança Pública e Combate ao Crime Organizado",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:30",
-   "sigla": "CASP",
-   "nome": "Administração e Serviço Público",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:30",
+   "hora": "14:47",
    "sigla": "PEC03215",
    "nome": "Maioridade Penal",
-   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal Audiência Pública Tema: Redução da maioridade penal Convidados: RODOLFO QUEIROZ LATERZA, Presidente da Associação Brasileira dos Delegados de Polícia do Brasil - ADEPOL (REQ 58 e 59) - (Confirmado); JOÃO HENRIQUE MARTINS, Cientista político, mestre em Ciência Política e especialista em economia ilícita e políticas de controle do crime (REQ 48 e 56/2026) - (Confirmado); RODRIGO RIBEIRO DE SOUSA, professor e pesquisador da Unicamp (REQ 13/2026) - (Confirmado); ROBERTA PONTES, Presidente da União Brasileira dos Estudantes Secundaristas - UBES (REQ 25/2026) (Confirmada). (REQ 13/2026, da Deputada Talíria Petrone) (REQ 25/2026, do Deputado Orlando Silva) (REQ 48/2026, do Deputado Paulo Bilynskyj) (REQ 56 e 59/2026, do Deputado Mendonça Filho) (REQ 58/2026, do Deputado Marcel van Hatten)"
+   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal Audiência Pública Tema: Redução da maioridade penal Convidados: RODOLFO QUEIROZ LATERZA, Presidente da Associação dos Delegados de Polícia do Brasil - ADEPOL (REQ 58 e 59) - (Confirmado); JOÃO HENRIQUE MARTINS, Cientista político, mestre em Ciência Política e especialista em economia ilícita e políticas de controle do crime (REQ 48 e 56/2026) - (Confirmado); RODRIGO RIBEIRO DE SOUSA, professor e pesquisador da Unicamp (REQ 13/2026) - (Confirmado); ROBERTA PONTES, Presidente da União Brasileira dos Estudantes Secundaristas - UBES (REQ 25/2026) (Confirmada). (REQ 13/2026, da Deputada Talíria Petrone) (REQ 25/2026, do Deputado Orlando Silva) (REQ 48/2026, do Deputado Paulo Bilynskyj) (REQ 56 e 59/2026, do Deputado Mendonça Filho) (REQ 58/2026, do Deputado Marcel van Hatten)"
   },
   {
-   "hora": "14:30",
-   "sigla": "CCJC",
-   "nome": "Constituição e Justiça e de Cidadania",
+   "hora": "15:02",
+   "sigla": "CSPCCO",
+   "nome": "Segurança Pública e Combate ao Crime Organizado",
    "tipo": "Votações"
   },
   {
-   "hora": "15:00",
-   "sigla": "CEXBRLEG",
-   "nome": "Atos de pirataria e agenda do \"Brasil Legal\"",
-   "tipo": "Audiência Pública: Impactos econômicos e mecanismos de combate à pirataria e falsificação nos mercados de bebidas e cigarros • EDUARDO CIDADE, Presidente da Associação Brasileira de Bebidas Destiladas (ABBD) - REQ. 1/2026 (presença confirmada); • SAMUEL RIVERO, Especialista em Segurança Pública da Federação das Indústrias do Estado do Rio de Janeiro - Firjan - REQ. 1/2026 (presença confirmada); • CRISTIANE FOJA, Presidente-Executiva da Associação Brasileira de Bebidas - ABRABE - REQ. 16/2026 (presença confirmada); • VICENTE BASTOS, Presidente Executivo do Instituto Brasileiro da Cachaça - IBRAC - REQ. 24/2026 (presença confirmada); • EDIMILSON ALVES, Diretor-Executivo da Associação Brasileira da Indústria do Fumo - ABIFUMO - REQ 21/2026 (presença confirmada); • JORGE PONTES, delegado da PF aposentado, pesquisador e consultor em segurança pública - REQ 22/2026 (presença confirmada); • ANDRÉIA KOHOUT, diretora da Associação Brasileira de Combate à Falsificação (ABCF) - REQ 22/2026 (presença confirmada); • JOSÉ SAVOIA, doutor em Administração e professor da Universidade de São Paulo - USP - REQ 22/2026 (presença confirmada) e • LUCIANO FIGUEIREDO, Vice-Presidente do Conselho Regional de Química - 12ª Região (presença confirmada). REQ. 1/2026 - Dep. Julio Lopes REQ. 16/2026 - Dep. Julio Lopes REQ. 21/2026 - Dep. Julio Lopes REQ. 22/2026 - Dep. Julio Lopes"
-  },
-  {
-   "hora": "15:00",
-   "sigla": "CICS",
-   "nome": "Indústria, Comércio e Serviços",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "15:00",
+   "hora": "15:12",
    "sigla": "CDHMIR",
    "nome": "Direitos Humanos, Minorias e Igualdade Racial",
    "tipo": "Votações"
   },
   {
-   "hora": "15:30",
-   "sigla": "SUBPL657",
-   "nome": "Dispensa de Diagnóstico Clínico na Educação Especial",
-   "tipo": "Audiência Pública: Sistema de Educação Inclusiva 1) LUCELMO LACERDA (Paticipação confirmada) - Professor, escritor, doutor em Educação, pós-doutor em Psicologia, especialista em TEA; 2) NATALIA RAQUEL RIBEIRO ARAÚJO (Participação confirmada) - Secretária Municipal de Educação de Belo Horizonte/MG, professora, mestre em Direito e especialista em Gestão Pública; 3) OLZENI RIBEIRO (Participação confirmada) - Neuropsicopedagoga, neuropsicólogoa e especialista em Superdotação e Dupla Excepcionalidade. (REQ 68/2026 CE, da deputada Soraya Santos; REQ 72/2026 CE, da deputada Soraya Santos)"
+   "hora": "15:17",
+   "sigla": "CCJC",
+   "nome": "Constituição e Justiça e de Cidadania",
+   "tipo": "Votações"
   },
   {
    "hora": "15:30",
+   "sigla": "CPOVOS",
+   "nome": "Amazônia e dos Povos Originários e Tradicionais",
+   "tipo": "Reunião Técnica"
+  },
+  {
+   "hora": "15:33",
    "sigla": "CICS",
    "nome": "Indústria, Comércio e Serviços",
    "tipo": "Votações"
   },
   {
-   "hora": "17:30",
+   "hora": "15:39",
+   "sigla": "CEXBRLEG",
+   "nome": "Atos de pirataria e agenda do \"Brasil Legal\"",
+   "tipo": "Audiência Pública: Impactos econômicos e mecanismos de combate à pirataria e falsificação nos mercados de bebidas e cigarros • LUCIANO FIGUEIREDO, Vice-Presidente do Conselho Regional de Química - 12ª Região (presença confirmada); • VICENTE BASTOS, Presidente Executivo do Instituto Brasileiro da Cachaça - IBRAC - REQ. 24/2026 (presença confirmada); • EDUARDO CIDADE, Presidente da Associação Brasileira de Bebidas Destiladas (ABBD) - REQ. 1/2026 (presença confirmada); • EDIMILSON ALVES, Diretor-Executivo da Associação Brasileira da Indústria do Fumo - ABIFUMO - REQ 21/2026 (presença confirmada); • JORGE PONTES, delegado da PF aposentado, pesquisador e consultor em segurança pública - REQ 22/2026 (presença confirmada); • SAMUEL RIVERO, Especialista em Segurança Pública da Federação das Indústrias do Estado do Rio de Janeiro - Firjan - REQ. 1/2026 (presença confirmada); • ANDRÉIA KOHOUT, diretora da Associação Brasileira de Combate à Falsificação (ABCF) - REQ 22/2026 (presença confirmada); • JOSÉ SAVOIA, doutor em Administração e professor da Universidade de São Paulo - USP - REQ 22/2026 (presença confirmada) e • CRISTIANE FOJA, Presidente-Executiva da Associação Brasileira de Bebidas - ABRABE - REQ. 16/2026 (presença confirmada). REQ. 1/2026 - Dep. Julio Lopes REQ. 16/2026 - Dep. Julio Lopes REQ. 21/2026 - Dep. Julio Lopes REQ. 22/2026 - Dep. Julio Lopes"
+  },
+  {
+   "hora": "15:40",
+   "sigla": "CASP",
+   "nome": "Administração e Serviço Público",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:45",
+   "sigla": "CICS",
+   "nome": "Indústria, Comércio e Serviços",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:49",
+   "sigla": "CASP",
+   "nome": "Administração e Serviço Público",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:58",
+   "sigla": "SUBPL657",
+   "nome": "Dispensa de Diagnóstico Clínico na Educação Especial",
+   "tipo": "Audiência Pública: Sistema de Educação Inclusiva 1) LUCELMO LACERDA (Paticipação confirmada) - Professor, escritor, doutor em Educação, pós-doutor em Psicologia, especialista em TEA; 2) NATALIA RAQUEL RIBEIRO ARAÚJO (Participação confirmada) - Secretária Municipal de Educação de Belo Horizonte/MG, professora, mestre em Direito e especialista em Gestão Pública; 3) OLZENI RIBEIRO (Participação confirmada) - Neuropsicopedagoga, neuropsicólogoa e especialista em Superdotação e Dupla Excepcionalidade. (REQ 68/2026 CE, da deputada Soraya Santos; REQ 72/2026 CE, da deputada Soraya Santos)"
+  },
+  {
+   "hora": "18:13",
+   "sigla": "TESTECOM",
+   "nome": "TESTE COMISSÃO",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "18:15",
    "sigla": "CEXMABRU",
    "nome": "Rompimentos de Barragens",
    "tipo": "Visita Técnica"
@@ -127,6 +188,10 @@
     {
      "id": "PLP 299/2026",
      "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
+    },
+    {
+     "id": "MPV 1379/2026",
+     "ementa": "Altera a Lei nº 15.473, de 2026, para ampliar o limite de recursos destinados às linhas de financiamento e estabelecer regras para a sua aplicação (proveniente da Medida Provisória nº 1.379, de 2026)."
     },
     {
      "id": "PL 6683/2025",
@@ -150,7 +215,7 @@
    "hora": "09:20",
    "sigla": "CRE",
    "nome": "Relações Exteriores e Defesa Nacional",
-   "tipo": "Extraordinária"
+   "tipo": "Votações (3 itens)"
   },
   {
    "hora": "09:30",

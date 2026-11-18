@@ -1,0 +1,735 @@
+1
+00:00:00,102 --> 00:00:02,865
+Quem já colocou uma prótese, um pino ou uma placa
+
+2
+00:00:02,865 --> 00:00:05,315
+confia que aquele material é seguro.
+
+3
+00:00:05,315 --> 00:00:08,592
+Nesta terça, o Senado aprovou um projeto que põe
+
+4
+00:00:08,592 --> 00:00:11,631
+em lei regras de qualidade para os implantes cirúrgicos
+
+5
+00:00:11,631 --> 00:00:14,815
+e obriga hospitais e profissionais de saúde a avisar
+
+6
+00:00:14,815 --> 00:00:16,973
+as autoridades sobre toda falha.
+
+7
+00:00:16,973 --> 00:00:18,828
+Agora, ele vai à sanção.
+
+8
+00:00:18,828 --> 00:00:21,578
+Fica até o final que eu explico o que já existia
+
+9
+00:00:21,578 --> 00:00:23,879
+e o que muda de verdade.
+
+10
+00:00:24,432 --> 00:00:25,656
+Antes de começar:
+
+11
+00:00:25,656 --> 00:00:28,485
+se esse assunto te interessa, deixa o seu like,
+
+12
+00:00:28,485 --> 00:00:31,564
+se inscreve no canal e ativa o sininho pra não perder
+
+13
+00:00:31,564 --> 00:00:32,711
+os próximos.
+
+14
+00:00:32,711 --> 00:00:34,745
+Agora, vamos lá!
+
+15
+00:00:35,298 --> 00:00:38,443
+Eu sou a Lupa, do Legiscópio, e neste vídeo você
+
+16
+00:00:38,443 --> 00:00:41,498
+vai entender quais regras o projeto cria, quem passa
+
+17
+00:00:41,498 --> 00:00:44,182
+a ter obrigação de notificar falhas e o que ainda
+
+18
+00:00:44,182 --> 00:00:47,891
+depende da Anvisa e da Presidência da República.
+
+19
+00:00:48,444 --> 00:00:51,378
+A proposta é o projeto de lei seis mil seiscentos
+
+20
+00:00:51,378 --> 00:00:55,065
+e oitenta e três, de 2025, no Senado.
+
+21
+00:00:55,065 --> 00:00:57,960
+Ele foi aprovado pelo Plenário nesta terça-feira,
+
+22
+00:00:57,960 --> 00:01:01,434
+dezessete de novembro, em discussão em turno único.
+
+23
+00:01:01,434 --> 00:01:04,591
+Nos dados abertos do Senado, não há votação nominal
+
+24
+00:01:04,591 --> 00:01:08,091
+registrada nesse dia, ou seja, não existe placar
+
+25
+00:01:08,091 --> 00:01:09,934
+com o voto de cada senador.
+
+26
+00:01:09,934 --> 00:01:12,973
+Ninguém apresentou emendas, e por isso o texto não
+
+27
+00:01:12,973 --> 00:01:14,302
+volta para a Câmara:
+
+28
+00:01:14,302 --> 00:01:16,781
+segue direto para a sanção.
+
+29
+00:01:17,334 --> 00:01:18,797
+O caminho foi longo.
+
+30
+00:01:18,797 --> 00:01:22,521
+O texto nasceu na Câmara dos Deputados em 2015,
+
+31
+00:01:22,521 --> 00:01:25,784
+como projeto três mil quatrocentos e oitenta e três,
+
+32
+00:01:25,784 --> 00:01:29,100
+e chegou ao Senado em dezembro de 2025.
+
+33
+00:01:29,100 --> 00:01:32,126
+Lá, passou pela Comissão de Constituição e Justiça
+
+34
+00:01:32,126 --> 00:01:34,837
+em junho e pela Comissão de Assuntos Sociais em
+
+35
+00:01:34,837 --> 00:01:38,166
+agosto, que aprovou também um pedido de urgência.
+
+36
+00:01:38,166 --> 00:01:42,192
+A votação final no Plenário veio agora, em novembro.
+
+37
+00:01:42,744 --> 00:01:45,760
+Mas, afinal, o que é um implante cirúrgico?
+
+38
+00:01:45,760 --> 00:01:49,378
+O projeto não traz uma definição nem uma lista fechada.
+
+39
+00:01:49,378 --> 00:01:52,431
+Segundo a Agência Senado, entram nessa categoria
+
+40
+00:01:52,431 --> 00:01:56,655
+próteses, pinos, parafusos, placas ósseas e marcapassos.
+
+41
+00:01:56,655 --> 00:02:00,023
+Na comissão, também foram citados os implantes mamários
+
+42
+00:02:00,023 --> 00:02:03,497
+e as placas e parafusos usados no crânio.
+
+43
+00:02:04,050 --> 00:02:05,645
+Agora, as regras.
+
+44
+00:02:05,645 --> 00:02:07,645
+A primeira trata do material.
+
+45
+00:02:07,645 --> 00:02:10,803
+O texto proíbe usar, na fabricação de implantes,
+
+46
+00:02:10,803 --> 00:02:14,369
+materiais de elevada toxicidade, materiais que causam
+
+47
+00:02:14,369 --> 00:02:17,461
+alergia e materiais que não tenham biocompatibilidade
+
+48
+00:02:17,461 --> 00:02:18,487
+comprovada.
+
+49
+00:02:18,487 --> 00:02:21,487
+Biocompatibilidade é a capacidade de um material
+
+50
+00:02:21,487 --> 00:02:24,303
+conviver com o corpo humano sem provocar reação
+
+51
+00:02:24,303 --> 00:02:26,075
+prejudicial.
+
+52
+00:02:26,628 --> 00:02:29,365
+A segunda regra trata de quem fabrica e de quem
+
+53
+00:02:29,365 --> 00:02:30,118
+vende.
+
+54
+00:02:30,118 --> 00:02:33,539
+Produzir, importar e comercializar implantes cirúrgicos
+
+55
+00:02:33,539 --> 00:02:36,381
+passa a depender de autorização prévia do órgão
+
+56
+00:02:36,381 --> 00:02:39,828
+sanitário federal, que é a Anvisa, a Agência Nacional
+
+57
+00:02:39,828 --> 00:02:41,604
+de Vigilância Sanitária.
+
+58
+00:02:41,604 --> 00:02:44,486
+Essa autorização só sai depois de verificado que
+
+59
+00:02:44,486 --> 00:02:47,868
+o produto segue as normas técnicas e as boas práticas
+
+60
+00:02:47,868 --> 00:02:49,685
+de fabricação.
+
+61
+00:02:50,238 --> 00:02:52,896
+A terceira regra dá uma tarefa à Anvisa:
+
+62
+00:02:52,896 --> 00:02:55,725
+definir as especificações técnicas que garantem
+
+63
+00:02:55,725 --> 00:02:57,820
+quatro coisas nos implantes.
+
+64
+00:02:57,820 --> 00:03:02,175
+Segurança, qualidade, biocompatibilidade e biofuncionalidade,
+
+65
+00:03:02,175 --> 00:03:04,964
+que é a capacidade de o implante cumprir a função
+
+66
+00:03:04,964 --> 00:03:06,359
+para a qual foi feito.
+
+67
+00:03:06,359 --> 00:03:10,295
+O texto não fixa prazo para essa regulamentação.
+
+68
+00:03:10,848 --> 00:03:13,548
+A quarta regra é a que mais chama atenção.
+
+69
+00:03:13,548 --> 00:03:17,206
+Profissionais e serviços de saúde, públicos ou privados,
+
+70
+00:03:17,206 --> 00:03:20,443
+passam a ser obrigados por lei a notificar as autoridades
+
+71
+00:03:20,443 --> 00:03:23,653
+sanitárias sobre todos os casos de falha detectada
+
+72
+00:03:23,653 --> 00:03:25,311
+em implantes cirúrgicos.
+
+73
+00:03:25,311 --> 00:03:28,482
+Isso inclui hospitais, clínicas, médicos e outros
+
+74
+00:03:28,482 --> 00:03:29,640
+profissionais.
+
+75
+00:03:29,640 --> 00:03:32,548
+E todas essas regras valem também para os implantes
+
+76
+00:03:32,548 --> 00:03:34,385
+importados.
+
+77
+00:03:34,938 --> 00:03:38,359
+Para quem descumprir, o texto diz que a desobediência
+
+78
+00:03:38,359 --> 00:03:41,767
+é infração sanitária, punida pela lei de mil novecentos
+
+79
+00:03:41,767 --> 00:03:44,072
+e setenta e sete que trata do tema.
+
+80
+00:03:44,072 --> 00:03:46,928
+Segundo a Agência Senado, as penalidades vão de
+
+81
+00:03:46,928 --> 00:03:50,717
+advertência e multa até apreensão de produtos, suspensão
+
+82
+00:03:50,717 --> 00:03:54,309
+de vendas ou da fabricação, interdição do estabelecimento
+
+83
+00:03:54,309 --> 00:03:57,625
+e cancelamento de licenças, sem prejuízo de punições
+
+84
+00:03:57,625 --> 00:03:59,675
+civis e penais.
+
+85
+00:04:00,228 --> 00:04:03,402
+Uma pergunta importante é o que já existia antes.
+
+86
+00:04:03,402 --> 00:04:06,494
+Segundo a Agência Senado, a maioria dessas regras
+
+87
+00:04:06,494 --> 00:04:09,612
+já está espalhada em resoluções da Anvisa e do Conselho
+
+88
+00:04:09,612 --> 00:04:11,244
+Federal de Medicina.
+
+89
+00:04:11,244 --> 00:04:14,718
+Desde 2009, por exemplo, uma resolução da Anvisa
+
+90
+00:04:14,718 --> 00:04:17,678
+obriga as empresas que têm registro de dispositivos
+
+91
+00:04:17,678 --> 00:04:19,941
+médicos a notificar problemas.
+
+92
+00:04:19,941 --> 00:04:22,836
+A diferença é que, com o projeto, as regras ganham
+
+93
+00:04:22,836 --> 00:04:24,605
+força de lei.
+
+94
+00:04:25,158 --> 00:04:28,013
+Para ter uma ideia do tamanho do assunto, a Anvisa
+
+95
+00:04:28,013 --> 00:04:32,319
+publicou em 2024 um boletim sobre implantes mamários.
+
+96
+00:04:32,319 --> 00:04:36,700
+Entre 2007 e 2023, foram setecentas e oitenta e
+
+97
+00:04:36,700 --> 00:04:39,871
+cinco notificações de eventos adversos e de queixas
+
+98
+00:04:39,871 --> 00:04:42,134
+técnicas sobre esses implantes.
+
+99
+00:04:42,134 --> 00:04:44,332
+Em 2007, foram quatro.
+
+100
+00:04:44,332 --> 00:04:47,384
+Em 2023, cento e dezesseis.
+
+101
+00:04:47,384 --> 00:04:50,411
+Pelo cálculo do Legiscópio, é vinte e nove vezes
+
+102
+00:04:50,411 --> 00:04:52,871
+mais em dezesseis anos.
+
+103
+00:04:53,424 --> 00:04:54,516
+Mas atenção:
+
+104
+00:04:54,516 --> 00:04:57,503
+mais notificações não quer dizer, necessariamente,
+
+105
+00:04:57,503 --> 00:04:58,835
+mais problemas.
+
+106
+00:04:58,835 --> 00:05:01,993
+Pode significar que mais gente passou a notificar.
+
+107
+00:05:01,993 --> 00:05:04,914
+O próprio boletim diz que as quedas em alguns anos
+
+108
+00:05:04,914 --> 00:05:07,887
+precisam ser acompanhadas para saber se refletem
+
+109
+00:05:07,887 --> 00:05:10,466
+melhora real ou subnotificação.
+
+110
+00:05:10,466 --> 00:05:14,137
+Hoje, quem notifica são usuários, fabricantes, profissionais
+
+111
+00:05:14,137 --> 00:05:17,586
+de saúde e outras partes interessadas.
+
+112
+00:05:18,138 --> 00:05:20,549
+Então, veja o que está em jogo agora.
+
+113
+00:05:20,549 --> 00:05:23,667
+Se o projeto virar lei, toda falha detectada em
+
+114
+00:05:23,667 --> 00:05:26,338
+implante terá de ser notificada por profissionais
+
+115
+00:05:26,338 --> 00:05:29,680
+e serviços de saúde, e descumprir as regras vira
+
+116
+00:05:29,680 --> 00:05:31,180
+infração sanitária.
+
+117
+00:05:31,180 --> 00:05:34,351
+Se for vetado, as regras seguem só nas resoluções
+
+118
+00:05:34,351 --> 00:05:37,417
+da Anvisa e do Conselho Federal de Medicina, e as
+
+119
+00:05:37,417 --> 00:05:41,675
+empresas com registro continuam obrigadas a notificar.
+
+120
+00:05:42,228 --> 00:05:45,281
+Quem defende o projeto, como a relatora no Senado,
+
+121
+00:05:45,281 --> 00:05:48,662
+diz que ele reforça a proteção dos pacientes e fortalece
+
+122
+00:05:48,662 --> 00:05:51,915
+a vigilância sanitária de produtos de maior risco,
+
+123
+00:05:51,915 --> 00:05:54,862
+dando estatura de lei a normas que já existem.
+
+124
+00:05:54,862 --> 00:05:58,191
+Segundo a Rádio Senado, outro objetivo é reduzir
+
+125
+00:05:58,191 --> 00:06:01,389
+a necessidade de cirurgias reparadoras e, com isso,
+
+126
+00:06:01,389 --> 00:06:03,629
+as despesas do SUS.
+
+127
+00:06:04,182 --> 00:06:06,264
+Agora, o que fica em aberto.
+
+128
+00:06:06,264 --> 00:06:09,329
+O texto não define o que é implante cirúrgico, não
+
+129
+00:06:09,329 --> 00:06:12,356
+fixa prazo de adaptação para empresas e hospitais
+
+130
+00:06:12,356 --> 00:06:15,172
+e deixa os detalhes técnicos para a Anvisa.
+
+131
+00:06:15,172 --> 00:06:17,856
+Ele entra em vigor na data da publicação.
+
+132
+00:06:17,856 --> 00:06:21,014
+Nas fontes que o Legiscópio consultou, não encontramos
+
+133
+00:06:21,014 --> 00:06:24,251
+manifestação publicada de especialistas ou entidades
+
+134
+00:06:24,251 --> 00:06:26,183
+contra o projeto.
+
+135
+00:06:26,736 --> 00:06:29,631
+Na própria Anvisa, técnicas da área de materiais
+
+136
+00:06:29,631 --> 00:06:32,683
+de saúde já apontaram, num painel da indústria em
+
+137
+00:06:32,683 --> 00:06:35,920
+maio, problemas que aparecem nos pedidos de registro
+
+138
+00:06:35,920 --> 00:06:37,002
+de implantes.
+
+139
+00:06:37,002 --> 00:06:40,923
+Entre eles, falta de dados clínicos, falhas de projeto,
+
+140
+00:06:40,923 --> 00:06:44,278
+validação insuficiente e documentação incompleta.
+
+141
+00:06:44,278 --> 00:06:47,502
+São falas sobre o registro, e não sobre o projeto,
+
+142
+00:06:47,502 --> 00:06:50,249
+mas mostram onde está o desafio.
+
+143
+00:06:50,802 --> 00:06:52,778
+O próximo passo é a sanção.
+
+144
+00:06:52,778 --> 00:06:55,686
+O presidente da República tem quinze dias úteis,
+
+145
+00:06:55,686 --> 00:06:58,423
+a partir do recebimento, para sancionar ou vetar
+
+146
+00:06:58,423 --> 00:07:00,594
+o texto, no todo ou em parte.
+
+147
+00:07:00,594 --> 00:07:03,673
+Se houver veto, o Congresso pode derrubá-lo em sessão
+
+148
+00:07:03,673 --> 00:07:04,621
+conjunta.
+
+149
+00:07:04,621 --> 00:07:07,739
+Se for sancionado, o texto vira lei e passa a valer
+
+150
+00:07:07,739 --> 00:07:10,067
+na data da publicação.
+
+151
+00:07:10,620 --> 00:07:12,899
+Vamos a três confusões comuns.
+
+152
+00:07:12,899 --> 00:07:13,636
+Primeira:
+
+153
+00:07:13,636 --> 00:07:16,557
+a regra não vale ainda, só depois da sanção e da
+
+154
+00:07:16,557 --> 00:07:17,596
+publicação.
+
+155
+00:07:17,596 --> 00:07:18,583
+Segunda:
+
+156
+00:07:18,583 --> 00:07:21,373
+não é só para prótese de silicone, vale para os
+
+157
+00:07:21,373 --> 00:07:25,044
+implantes cirúrgicos em geral, inclusive importados.
+
+158
+00:07:25,044 --> 00:07:25,794
+Terceira:
+
+159
+00:07:25,794 --> 00:07:28,728
+o projeto não cria a Anvisa nem a vigilância desses
+
+160
+00:07:28,728 --> 00:07:31,675
+produtos; ele dá força de lei a regras que hoje
+
+161
+00:07:31,675 --> 00:07:33,893
+estão em resoluções.
+
+162
+00:07:34,446 --> 00:07:36,370
+Resumindo em três pontos.
+
+163
+00:07:36,370 --> 00:07:36,896
+Um:
+
+164
+00:07:36,896 --> 00:07:39,804
+o Senado aprovou regras de qualidade para implantes
+
+165
+00:07:39,804 --> 00:07:42,396
+cirúrgicos, e o texto vai à sanção.
+
+166
+00:07:42,396 --> 00:07:43,120
+Dois:
+
+167
+00:07:43,120 --> 00:07:46,265
+profissionais e serviços de saúde terão de notificar
+
+168
+00:07:46,265 --> 00:07:47,265
+toda falha.
+
+169
+00:07:47,265 --> 00:07:47,857
+Três:
+
+170
+00:07:47,857 --> 00:07:51,143
+os detalhes técnicos ficam com a Anvisa.
+
+171
+00:07:51,696 --> 00:07:55,317
+Antes de ir, siga o Legiscópio nas redes sociais.
+
+172
+00:07:55,317 --> 00:07:59,093
+No Instagram e no TikTok, a gente é @legiscopio.
+
+173
+00:07:59,093 --> 00:08:02,028
+E o aplicativo do Legiscópio já está disponível
+
+174
+00:08:02,028 --> 00:08:04,370
+para Android e iPhone, de graça:
+
+175
+00:08:04,370 --> 00:08:09,137
+é só acessar www.legiscopio.com.br/baixar.
+
+176
+00:08:09,690 --> 00:08:12,651
+As informações deste vídeo vêm do Senado Federal,
+
+177
+00:08:12,651 --> 00:08:15,769
+da Agência Senado, da Rádio Senado e da Anvisa,
+
+178
+00:08:15,769 --> 00:08:17,877
+e os links estão na descrição.
+
+179
+00:08:17,877 --> 00:08:20,548
+Se este vídeo te ajudou, se inscreva no canal e
+
+180
+00:08:20,548 --> 00:08:23,114
+compartilhe com quem já passou por uma cirurgia
+
+181
+00:08:23,114 --> 00:08:24,193
+com implante.
+
+182
+00:08:24,193 --> 00:08:27,509
+O Legiscópio é independente e gratuito, e você pode
+
+183
+00:08:27,509 --> 00:08:30,522
+apoiar em apoia.se/legiscopio.
+
+184
+00:08:30,522 --> 00:08:32,387
+Até a próxima!

@@ -1,0 +1,541 @@
+{
+ "data": "2026-11-18",
+ "camara_plen": [
+  {
+   "id_evento": 83382,
+   "hora": "13:55",
+   "tipo": "Sessão Deliberativa",
+   "itens": [
+    {
+     "id": "PL 724/2003",
+     "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
+    },
+    {
+     "id": "PL 479/2015",
+     "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação - LDB), para dispor sobre educação em tempo integral."
+    },
+    {
+     "id": "PL 3965/2024",
+     "ementa": "Institui o feriado escolar e o dia nacional dos professores, professoras e profissionais de educação"
+    },
+    {
+     "id": "PL 5542/2026",
+     "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima."
+    },
+    {
+     "id": "PRC 25/2026",
+     "ementa": "Institui, no âmbito da Câmara dos Deputados o “Selo Câmara de Respeito à Voz do Cidadão”."
+    },
+    {
+     "id": "PDL 756/2025",
+     "ementa": "Aprova o texto do Tratado de Assistência Jurídica Mútua em Matéria Penal entre a República Federativa do Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de 2024."
+    }
+   ]
+  }
+ ],
+ "camara_com": [
+  {
+   "hora": "08:00",
+   "sigla": "CTRAB",
+   "nome": "Trabalho",
+   "tipo": "Mesa Redonda"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "CSAUDE",
+   "nome": "Saúde",
+   "tipo": "Reunião Técnica"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "CREDN",
+   "nome": "Relações Exteriores e de Defesa Nacional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Mesa Redonda"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Mesa Redonda: Reunião de articulação política, discussão da pauta e assuntos de interesse da Comissão"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Mesa Redonda: Café da manhã com membros da Comissão"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CME",
+   "nome": "Minas e Energia",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CTRAB",
+   "nome": "Trabalho",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CREDN",
+   "nome": "Relações Exteriores e de Defesa Nacional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "09:59",
+   "sigla": "CVT",
+   "nome": "Viação e Transportes",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CME",
+   "nome": "Minas e Energia",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Audiência Pública: Req. 1 e 2/2026 - propostas de fortalecimento das políticas públicas voltadas ao setor agropecuário brasileiro no âmbito da elaboração e apreciação do PLDO e do PLOA para 2027"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CFT",
+   "nome": "Finanças e Tributação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CINDRE",
+   "nome": "Integração Nacional e Desenvolvimento Regional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CTRAB",
+   "nome": "Trabalho",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CCTI",
+   "nome": "Ciência, Tecnologia e Inovação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CCJC",
+   "nome": "Constituição e Justiça e de Cidadania",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CDC",
+   "nome": "Defesa do Consumidor",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CDU",
+   "nome": "Desenvolvimento Urbano",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CFFC",
+   "nome": "Fiscalização Financeira e Controle",
+   "tipo": "Audiência Pública: Plano Anual de Fiscalização e Controle. ANTT, DNIT, CGU e TCU debatem a fiscalização de contratos de concessão de rodovias federais Convidados: 1) Fernando de Freitas Bezerra, Superintendente de Infraestrutura Rodoviária, da Agência Nacional de Transportes Terrestres (ANTT); 2) Representante do Departamento Nacional de Infraestrutura de Transportes (DNIT); (não confirmado) 3) Marcelo Montalvão Reis, Coordenador-Geral de Auditoria das Áreas de Transportes, Portos e Aviação Civil da Secretaria Federal de Controle Interno (SFC), da Controladoria-Geral da União (CGU), e 4) Laura Ávila Berlink, Auditora-Chefe da Unidade de Auditoria Especializada em Infraestrutura Rodoviária e de Aviação Civil, do Tribunal de Contas da União (TCU). (Em atendimento ao Requerimento nº 133/2026, de iniciativa do Dep. Jorge Solla (PT/BA), relator do Plano Anual de Fiscalização e Controle - PAFC 2026)"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CVT",
+   "nome": "Viação e Transportes",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CSAUDE",
+   "nome": "Saúde",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:15",
+   "sigla": "CDU",
+   "nome": "Desenvolvimento Urbano",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:22",
+   "sigla": "CN",
+   "nome": "CONGRESSO NACIONAL",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CCTI",
+   "nome": "Ciência, Tecnologia e Inovação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CAPADR",
+   "nome": "Agropecuária",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CDE",
+   "nome": "Desenvolvimento Econômico",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CDC",
+   "nome": "Defesa do Consumidor",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CINDRE",
+   "nome": "Integração Nacional e Desenvolvimento Regional",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "11:30",
+   "sigla": "CFFC",
+   "nome": "Fiscalização Financeira e Controle",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "12:30",
+   "sigla": "CESPO",
+   "nome": "Esporte",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "13:00",
+   "sigla": "CIDOSO",
+   "nome": "Defesa dos Direitos da Pessoa Idosa",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "13:30",
+   "sigla": "CIDOSO",
+   "nome": "Defesa dos Direitos da Pessoa Idosa",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "13:30",
+   "sigla": "CCULT",
+   "nome": "Cultura",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CCOM",
+   "nome": "Comunicação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CLP",
+   "nome": "Legislação Participativa",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CTUR",
+   "nome": "Turismo",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CMULHER",
+   "nome": "Defesa dos Direitos da Mulher",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CEXMABRU",
+   "nome": "Rompimentos de Barragens",
+   "tipo": "Reunião"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CPASF",
+   "nome": "Previdência e Assistência",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CCOM",
+   "nome": "Comunicação",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:15",
+   "sigla": "CPASF",
+   "nome": "Previdência e Assistência",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:15",
+   "sigla": "CTUR",
+   "nome": "Turismo",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CE",
+   "nome": "Educação",
+   "tipo": "Homenagem"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMADS",
+   "nome": "Meio Ambiente e Desenvolvimento Sustentável",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "PEC03215",
+   "nome": "Maioridade Penal",
+   "tipo": "Audiência Pública e Deliberação: Redução da maioridade penal Convidados: EMANUEL SILVA NUNES DE OLIVEIRA JÚNIOR, Professor e pesquisador do IBMEC (REQ 53/2026 ) - (Confirmado); LEONARDO AUGUSTO DE ANDRADE CEZAR DOS SANTOS, Promotor de Justiça do MPES (REQ 53/2026) - (Confirmado); LUIS AUGUSTO BITTENCOURT MINCHOLA, Oficial de Proteção de Crianças e Adolescentes da UNICEF no Brasil (REQ 10/2026) - (Confirmado); MARIA TEREZA FONSECA DA COSTA, Secretária Geral da Sociedade Brasileira de Pediatria (REQ 12/2026) - (Confirmada). (REQ 10 e 12/2026, da Deputada Talíria Petrone) (REQ 53/2026, do Deputado Mendonça Filho)"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Reunião Técnica"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMULHER",
+   "nome": "Defesa dos Direitos da Mulher",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:00",
+   "sigla": "CIDOSO",
+   "nome": "Defesa dos Direitos da Pessoa Idosa",
+   "tipo": "Audiência Pública: Convenção Interamericana sobre a Proteção dos Direitos Humanos das Pessoas Idosas (REQ 37/2026 CIDOSO, do deputado Weliton Prado) 1) SILVIA PEREL LEVIN (Confirmada - participação virtual) Presidente Comitê das Organizações Não Governamentais em Genebra 2) ROSITA KORNFELD (Confirmada - participação virtual) Especialista Independente dos Direitos Humanos das Pessoas Idosas Organização das Nações Unidas 3) INA VOELCKER (Confirmada - participação virtual) Gerente da Secretaria de Política Internacional de Envelhecimento Associação Alemã de Organizações de Pessoas Idosas - BAGSO 4) JOANA AROSO (Confirmada - participação virtual) Jurista e especialista no campo dos Direitos Humanos e Envelhecimento 5) ALEXANDRE DA SILVA (Confirmado - participação virtual) Secretário Nacional dos Direitos da Pessoa Idosa Ministério dos Direitos Humanos e da Cidadania (MDHC) 6) EPITÁCIO LUIZ EPAMINONDAS (Confirmado) Vice-Presidente Conselho Nacional dos Direitos da Pessoa Idosa 7) BIBIANA GRAEFF (Confirmada - participação virtual) Professora de Direitos Humanos da EACH-USP Universidade de São Paulo 8) JOÃO IOTTI (Confirmado - participação virtual) Pesquisador e Especialista na área de Políticas Públicas para a Pessoa Idosa 9) OTÁVIO DE TOLEDO NÓBREGA (Confirmado) Professor Sociedade Brasileira de Geriatria e Gerontologia (SBGG) 10) CARLOS MÁRCIO BICALHO COZENDEY (Confirmado - participação virtual) Embaixador Secretário de Assuntos Multilaterais Políticos. Ministério da Relações Exteriores 11) LENNY BLUE (Confirmada - participação virtual) Advogada e Ativista Movimento Unificado Negro (MNU) 12) CASTRO NETO (Confirmado) Deputado Federal | Relator do PDC 863/2017 Câmara dos Deputados 13) LUÍSA HELENA TRAJANO (a Confirmar) Presidente do Conselho Grupo Mulheres do Brasil 14) ALEXANDRE KALACHE (Confirmado) Presidente Centro Internacional de Longevidade BRASIL (ILC-BR)"
+  },
+  {
+   "hora": "15:30",
+   "sigla": "CMULHER",
+   "nome": "Defesa dos Direitos da Mulher",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "17:00",
+   "sigla": "CEXMABRU",
+   "nome": "Rompimentos de Barragens",
+   "tipo": "Visita Técnica"
+  }
+ ],
+ "senado_plen": [
+  {
+   "hora": "14:00",
+   "tipo": "Sessão deliberativa ordinária",
+   "casa": "SF",
+   "itens": [
+    {
+     "id": "PLP 299/2026",
+     "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
+    },
+    {
+     "id": "PL 6461/2019",
+     "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+    },
+    {
+     "id": "PL 5756/2026",
+     "ementa": "Altera o §3º do art. 2º da Lei nº 14.172, de 10 de junho de 2021, para ampliar o prazo para aplicação e eventual restituição dos recursos entregue pela União aos Estados e ao Distrito Federal voltados para a garantia do acesso à internet, com fins educacionais, aos estabelecimentos de ensino, aos alunos e aos professores da rede pública de ensino dos Estados, do Distrito Federal e dos Municípios, em virtude da calamidade pública decorrente da Covid-19."
+    },
+    {
+     "id": "PL 4186/2021",
+     "ementa": "Altera o art. 206 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para fixar em 20 (vinte) anos o prazo prescricional da pretensão de reparação civil das vítimas de crimes contra a dignidade sexual de crianças e adolescentes."
+    },
+    {
+     "id": "PL 6222/2025",
+     "ementa": "Institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres."
+    },
+    {
+     "id": "PL 3220/2019 (Substitutivo-CD)",
+     "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações; e altera as Leis nºs 9.427, de 26 de dezembro de 1996, 9.472, de 16 de julho de 1997, e 14.947, de 2 de agosto de 2024."
+    }
+   ]
+  }
+ ],
+ "senado_com": [
+  {
+   "hora": "09:00",
+   "sigla": "CAS",
+   "nome": "Assuntos Sociais",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "CI",
+   "nome": "Serviços de Infraestrutura",
+   "tipo": "Votações (7 itens)"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "CCJ",
+   "nome": "Constituição, Justiça e Cidadania",
+   "tipo": "Votações (5 itens)"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CAS",
+   "nome": "Assuntos Sociais",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CEsp",
+   "nome": "Esporte",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CCT",
+   "nome": "Ciência, Tecnologia, Inovação e Informática",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "10:15",
+   "sigla": "CCT",
+   "nome": "Ciência, Tecnologia, Inovação e Informática",
+   "tipo": "Votações (40 itens)"
+  },
+  {
+   "hora": "10:30",
+   "sigla": "CAS",
+   "nome": "Assuntos Sociais",
+   "tipo": "Votações (6 itens)"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CE",
+   "nome": "Educação e Cultura",
+   "tipo": "Votações (5 itens)"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CCJ",
+   "nome": "Constituição, Justiça e Cidadania",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CDH",
+   "nome": "Direitos Humanos e Legislação Participativa",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CTFC",
+   "nome": "Transparência, Governança, Fiscalização e Controle e Defesa do Consumidor",
+   "tipo": "Votações (5 itens)"
+  },
+  {
+   "hora": "11:15",
+   "sigla": "CDH",
+   "nome": "Direitos Humanos e Legislação Participativa",
+   "tipo": "Votações (12 itens)"
+  },
+  {
+   "hora": "12:00",
+   "sigla": "CAE",
+   "nome": "Assuntos Econômicos",
+   "tipo": "Audiência pública"
+  },
+  {
+   "hora": "13:45",
+   "sigla": "CSP",
+   "nome": "Segurança Pública",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CRA",
+   "nome": "Agricultura e Reforma Agrária",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CCJ",
+   "nome": "Constituição, Justiça e Cidadania",
+   "tipo": "Audiência pública"
+  },
+  {
+   "hora": "14:15",
+   "sigla": "CRA",
+   "nome": "Agricultura e Reforma Agrária",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CMCVM",
+   "nome": "Mista de Combate à Violência contra a Mulher",
+   "tipo": "Audiência pública"
+  },
+  {
+   "hora": "14:30",
+   "sigla": "CTCIVIL",
+   "nome": "Temporária para examinar o Projeto de Lei n° 4, de 2025 (Art. 374 RISF)",
+   "tipo": "Reunião"
+  }
+ ],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png",
+  "agenda_3.png",
+  "agenda_4.png",
+  "agenda_5.png",
+  "agenda_6.png",
+  "agenda_7.png",
+  "agenda_8.png",
+  "agenda_9.png"
+ ],
+ "semana_arquivos": []
+}
