@@ -1,0 +1,37 @@
+{
+ "data": "2026-11-19",
+ "camara_plen": [],
+ "camara_com": [
+  {
+   "hora": "09:00",
+   "sigla": "CDHMIR",
+   "nome": "Direitos Humanos, Minorias e Igualdade Racial",
+   "tipo": "Diligência"
+  },
+  {
+   "hora": "09:00",
+   "sigla": "EVENTOS",
+   "nome": "Outros Eventos",
+   "tipo": "Seminário: Efeitos da Redução da Jornada de Trabalho"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Audiência Pública: Req 32 - Financiamento do Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos (ProPatinhas) e o fortalecimento do SinPatinhas no Orçamento da União de 2027."
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CN",
+   "nome": "CONGRESSO NACIONAL",
+   "tipo": "Votações"
+  }
+ ],
+ "senado_plen": [],
+ "senado_com": [],
+ "arquivos": [
+  "agenda_1.png",
+  "agenda_2.png"
+ ],
+ "semana_arquivos": []
+}

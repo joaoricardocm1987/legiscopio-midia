@@ -167,16 +167,16 @@
    "tipo": "Audiência Pública: Sistema de Educação Inclusiva 1) LUCELMO LACERDA (Paticipação confirmada) - Professor, escritor, doutor em Educação, pós-doutor em Psicologia, especialista em TEA; 2) NATALIA RAQUEL RIBEIRO ARAÚJO (Participação confirmada) - Secretária Municipal de Educação de Belo Horizonte/MG, professora, mestre em Direito e especialista em Gestão Pública; 3) OLZENI RIBEIRO (Participação confirmada) - Neuropsicopedagoga, neuropsicólogoa e especialista em Superdotação e Dupla Excepcionalidade. (REQ 68/2026 CE, da deputada Soraya Santos; REQ 72/2026 CE, da deputada Soraya Santos)"
   },
   {
-   "hora": "18:13",
-   "sigla": "TESTECOM",
-   "nome": "TESTE COMISSÃO",
-   "tipo": "Votações"
-  },
-  {
    "hora": "18:15",
    "sigla": "CEXMABRU",
    "nome": "Rompimentos de Barragens",
    "tipo": "Visita Técnica"
+  },
+  {
+   "hora": "18:15",
+   "sigla": "TESTECOM",
+   "nome": "TESTE COMISSÃO",
+   "tipo": "Votações"
   }
  ],
  "senado_plen": [

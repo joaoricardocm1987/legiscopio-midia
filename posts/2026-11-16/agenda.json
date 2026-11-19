@@ -118,9 +118,21 @@
    "camara_plen": [
     {
      "id_evento": 83382,
-     "hora": "13:55",
+     "hora": "14:22",
      "tipo": "Sessão Deliberativa",
      "itens": [
+      {
+       "id": "PL 396/2007",
+       "ementa": "Dispõe sobre a responsabilidade na transição administrativa, após a proclamação dos resultados eleitorais, e dá outras providências."
+      },
+      {
+       "id": "PL 956/2015",
+       "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 4ª Região e dá outras providências."
+      },
+      {
+       "id": "PL 8332/2015",
+       "ementa": "Dispõe sobre a criação de cargos de Juiz do Trabalho Substituto e de cargos de provimento efetivo no Tribunal Regional do Trabalho da 7ª Região e dá outras providências."
+      },
       {
        "id": "PL 724/2003",
        "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
@@ -138,23 +150,23 @@
        "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima."
       },
       {
-       "id": "PRC 25/2026",
-       "ementa": "Institui, no âmbito da Câmara dos Deputados o “Selo Câmara de Respeito à Voz do Cidadão”."
-      },
-      {
-       "id": "PDL 756/2025",
-       "ementa": "Aprova o texto do Tratado de Assistência Jurídica Mútua em Matéria Penal entre a República Federativa do Brasil e o Japão, assinado em Tóquio, em 25 de janeiro de 2024."
+       "id": "PPP 1/0",
+       "ementa": "Parecer proferido em Plenário pela Relatora Dep. Geovania de Sá (REPUBLIC/SC) pela: • Mesa Diretora da Câmara dos Deputados, que conclui pela pela aprovação do Projeto de Resolução nº 25, de 2026. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Resolução nº 25, de 2026."
       }
      ]
     }
    ],
-   "n_camara_com": 56,
+   "n_camara_com": 54,
    "senado_plen": [
     {
      "hora": "14:00",
      "tipo": "Sessão deliberativa ordinária",
      "casa": "SF",
      "itens": [
+      {
+       "id": "PL 3481/2026",
+       "ementa": "Altera o art. 67 da Lei nº 15.421, de 2026, para dispor sobre o ajuste dos calendários escolares em razão da realização da Copa do Mundo Feminina da FIFA 2027, observadas as normas gerais de organização da educação básica."
+      },
       {
        "id": "PLP 299/2026",
        "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
@@ -187,7 +199,7 @@
   {
    "data": "2026-11-19",
    "camara_plen": [],
-   "n_camara_com": 3,
+   "n_camara_com": 4,
    "senado_plen": [],
    "n_senado_com": 0
   },
