@@ -1,0 +1,18 @@
+{
+ "selo": "TRANSIÇÃO DE GOVERNO",
+ "cenas": [
+  {"fala": "Sabe aquele período entre a eleição e a posse, quando o governo que sai passa as informações para o que entra? A Câmara aprovou regras e multa para essa passagem.", "visual": {"tipo": "capa", "titulo": "Transição de governo", "subtitulo": "Como funcionaria com o novo projeto"}},
+  {"fala": "Passo um: o prazo. Em até setenta e duas horas depois da proclamação do resultado, forma-se uma equipe de transição, com um coordenador de cada lado.", "visual": {"tipo": "numero", "titulo": "Passo 1 · Prazo", "valor": "72 h", "rotulo": "para formar a equipe, após o resultado"}},
+  {"fala": "Agora, o que está em jogo. Se o Senado aprovar, a transição federal ganha prazo de setenta e duas horas e multa para quem atrapalhar. Se não, segue a lei de dois mil e dois, sem essas multas.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se o Senado aprovar: 72 h e multa", "Se não aprovar: segue a lei de 2002"]}},
+  {"fala": "Passo dois: o acesso. O governo que sai deve abrir as instalações e todas as informações administrativas, digitais ou em papel.", "visual": {"tipo": "texto", "titulo": "Passo 2 · Acesso", "texto": "Instalações e todas as informações administrativas, digitais ou não."}},
+  {"fala": "Passo três: a punição. Quem dificultar fica sujeito a sanções, multa e reparação de danos. A pena sobe um terço para quem sonegar dados de propósito ou inutilizar bancos de dados.", "visual": {"tipo": "numero", "titulo": "Passo 3 · Punição", "valor": "+1/3", "rotulo": "na pena para quem sonegar ou destruir dados"}},
+  {"fala": "Quem defende diz que a regra garante transições com dados e equipes confiáveis. Uma ressalva técnica: a lei atual já trata o acesso a informações como direito do eleito.", "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: dados e equipes confiáveis. Ressalva: a lei de 2002 já garante o acesso."}},
+  {"fala": "E ainda não é lei. A Câmara concluiu a votação em dezoito de novembro. Agora o texto vai ao Senado e, se passar, à sanção.", "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Câmara", "Senado", "Sanção"], "atual": 1}},
+  {"fala": "Regras claras para a transição: você acha importante? Comenta SIM ou NÃO. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Regras claras para a transição: você acha importante? Comenta SIM ou NÃO. Acompanhe no app: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Transição de governo: o que muda com o projeto aprovado na Câmara #Shorts",
+  "descricao": "A Câmara concluiu em 18/11 a votação do PL 396/2007, que prevê equipe de transição em até 72 horas após o resultado da eleição e multa para quem dificultar o acesso a informações do governo federal.\nO que está em jogo: se o Senado aprovar, a transição passa a ter prazo de 72 horas e multa para quem atrapalhar; se não, continua valendo a lei de 2002, sem as multas deste projeto.\nMais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=344542\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Democracia",
+  "tags": ["transição de governo", "PL 396/2007", "lei de transição", "equipe de transição", "Câmara dos Deputados", "shorts"]
+ }
+}
