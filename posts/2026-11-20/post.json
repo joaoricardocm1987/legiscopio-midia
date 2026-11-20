@@ -1,0 +1,33 @@
+{
+ "rotulo": "Aprovado na Câmara",
+ "titulo": "Transição de governo: Câmara aprova prazo de 72 h e multa a quem atrapalhar",
+ "destaque": "72 horas",
+ "detalhe": "Texto cria equipe de transição paritária em até 72 h após o resultado da eleição e prevê multa para quem dificultar o acesso a dados. Vai ao Senado.",
+ "fonte": "Fonte: Câmara dos Deputados · PL 396/2007 · 18/11/2026",
+ "legenda": "Transição de governo: a Câmara concluiu na quarta-feira (18) a votação do PL 396/2007, que cria regras para a passagem de comando no governo federal entre a eleição e a posse. O texto prevê equipe de transição paritária, com um coordenador do governo que sai e outro do eleito, formada em até 72 horas após a proclamação do resultado. Quem dificultar o acesso a instalações e informações fica sujeito a sanções, multa e reparação de danos, com pena aumentada em um terço em casos como sonegar dados de propósito ou inutilizar bancos de dados.\nO que está em jogo: se o Senado aprovar, a transição passa a ter prazo de 72 horas e multa para quem atrapalhar; se não, continua valendo a lei de 2002, sem as multas deste projeto.\nQuem defende diz que a regra garante transições com dados e equipes confiáveis; uma ressalva técnica lembra que a lei atual já trata o acesso a informações como direito do eleito. O valor da multa não foi fixado no texto. Agora a proposta vai ao Senado.\n\nRegras claras para a transição: você acha importante? Comenta SIM ou NÃO. 👇\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=344542\n\n📲 Baixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #Democracia",
+ "legenda_carrossel": "Transição de governo: o que muda com o projeto aprovado pela Câmara\n\nA Câmara concluiu em 18/11 a votação do PL 396/2007, que cria regras para a passagem de comando no governo federal entre a eleição e a posse. O texto prevê equipe paritária formada em até 72 horas após o resultado e multa para quem dificultar o acesso a dados e instalações. A proposta agora vai ao Senado.\nO que está em jogo: se o Senado aprovar, a transição passa a ter prazo de 72 horas e multa para quem atrapalhar; se não, continua valendo a lei de 2002, sem as multas deste projeto.\n\nEspecialistas citados:\n• Paulo Modesto (UFBA / Instituto Brasileiro de Direito Público) — Consultor Jurídico: https://conjur.com.br/2024-nov-07/a-administracao-direta-e-a-transicao-governamental/\n• Rafael Mafei (Faculdade de Direito da USP) — Bloomberg Línea: https://www.bloomberglinea.com.br/2022/11/01/como-fica-a-transicao-de-governo-sem-o-apoio-de-bolsonaro-o-que-diz-a-lei/\n\nRegras claras para a transição: você acha importante? Comenta SIM ou NÃO. 👇\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=344542\n\n📲 Baixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\n\nApoie o Legiscópio: https://apoia.se/legiscopio\n\n#Legiscópio #Política #PolíticaBrasileira #CongressoNacional #Cidadania #Transparência #CâmaraDosDeputados #Democracia",
+ "legenda_tiktok": "Transição de governo: Câmara aprova equipe em até 72 h após a eleição e multa a quem dificultar o acesso a dados. Texto vai ao Senado. Mais no YouTube: Legiscópio. App: www.legiscopio.com.br/baixar Apoie: apoia.se/legiscopio #Legiscópio #Política #Brasil #Democracia",
+ "fontes": [
+  "https://dadosabertos.camara.leg.br/api/v2/proposicoes/344542",
+  "https://dadosabertos.camara.leg.br/api/v2/proposicoes/344542/votacoes",
+  "https://dadosabertos.camara.leg.br/api/v2/proposicoes/344542/tramitacoes",
+  "https://www.camara.leg.br/noticias/1260929-camara-aprova-regras-para-a-transicao-de-governos-entre-a-eleicao-e-a-posse/",
+  "https://www.gazetadopovo.com.br/republica/camara-aprova-regras-para-transicao-presidencial-e-preve-multa-para-quem-dificultar-processo/",
+  "https://acritica.net/noticias/camara-aprova-regras-e-multas-para-transicao-presidencial-texto-vai-ao-senado/",
+  "https://conjur.com.br/2024-nov-07/a-administracao-direta-e-a-transicao-governamental/",
+  "https://www.bloomberglinea.com.br/2022/11/01/como-fica-a-transicao-de-governo-sem-o-apoio-de-bolsonaro-o-que-diz-a-lei/"
+ ],
+ "pesquisa": {
+  "assuntos_imprensa": [
+   {"assunto": "Câmara aprova regras e multa para transição de governo", "veiculos": ["Gazeta do Povo", "O Liberal", "Folha de Londrina", "Correio do Estado", "A Crítica", "TV Sim", "Tribuna da Internet"], "proposicao": "PL 396/2007 — redação final aprovada no Plenário da Câmara em 18/11/2026; vai ao Senado", "nota": 5},
+   {"assunto": "Ajuste fiscal: Câmara vota PLP na segunda (23/11)", "veiculos": ["Correio Braziliense", "Metrópoles", "ND+", "Tribuna PR", "A Crítica", "Jornal do Comércio"], "proposicao": "PLP 299/2026 — votação na Câmara prevista para 23/11/2026", "nota": 4},
+   {"assunto": "Câmara aprova mais R$ 6,5 bi para empresas afetadas pelo tarifaço e subsídios a combustíveis", "veiculos": ["Jornal do Comércio", "Gazeta do Povo"], "proposicao": "Crédito/MP do tarifaço (tema já tratado em 06/11 e 14/11)", "nota": 3}
+  ],
+  "escolhido": "PL 396/2007 — transição de governo: redação final aprovada pelo Plenário da Câmara em 18/11/2026; segue ao Senado",
+  "motivo": "Maior nota no cruzamento: repercussão em vários veículos, decisão do Plenário nesta semana, tema institucional de interesse geral e sem repetição nos últimos 14 dias (ajuste fiscal e tarifaço já tratados). Dia 20/11 é feriado nacional (Consciência Negra), sem sessões.",
+  "especialistas": [
+   {"lado": "Quem defende", "quem": "Paulo Modesto", "cargo": "Professor da Faculdade de Direito da UFBA e presidente do Instituto Brasileiro de Direito Público", "veiculo": "Consultor Jurídico", "data": "07/11/2024", "link": "https://conjur.com.br/2024-nov-07/a-administracao-direta-e-a-transicao-governamental/", "resumo": "Defende regras nacionais permanentes para a transição, em vez de arranjos caso a caso; diz que a lei de 2002 é ambígua e de alcance limitado."},
+   {"lado": "Ponto de atenção", "quem": "Rafael Mafei", "cargo": "Professor da Faculdade de Direito da USP", "veiculo": "Bloomberg Línea", "data": "01/11/2022", "link": "https://www.bloomberglinea.com.br/2022/11/01/como-fica-a-transicao-de-governo-sem-o-apoio-de-bolsonaro-o-que-diz-a-lei/", "resumo": "Lembra que a lei atual já trata o acesso a informações como \"um direito de quem for eleito\", exigível na Justiça, e que servidor que recusar pode responder a processo disciplinar."}
+  ]
+ }
+}
