@@ -15,23 +15,31 @@
    "tipo": "Seminário: Efeitos da Redução da Jornada de Trabalho"
   },
   {
-   "hora": "10:00",
-   "sigla": "CMO",
-   "nome": "Comissão Mista de Orçamento",
-   "tipo": "Audiência Pública: Req 32 - Financiamento do Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos (ProPatinhas) e o fortalecimento do SinPatinhas no Orçamento da União de 2027."
-  },
-  {
-   "hora": "10:00",
+   "hora": "10:20",
    "sigla": "CN",
    "nome": "CONGRESSO NACIONAL",
    "tipo": "Votações"
+  },
+  {
+   "hora": "10:22",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Audiência Pública: Req 32 - Financiamento do Programa Nacional de Proteção e Manejo Populacional Ético de Cães e Gatos (ProPatinhas) e o fortalecimento do SinPatinhas no Orçamento da União de 2027."
   }
  ],
  "senado_plen": [],
- "senado_com": [],
+ "senado_com": [
+  {
+   "hora": "10:00",
+   "sigla": "CDH",
+   "nome": "Direitos Humanos e Legislação Participativa",
+   "tipo": "Outros eventos"
+  }
+ ],
  "arquivos": [
   "agenda_1.png",
-  "agenda_2.png"
+  "agenda_2.png",
+  "agenda_3.png"
  ],
  "semana_arquivos": []
 }

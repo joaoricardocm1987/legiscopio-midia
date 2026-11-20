@@ -125,12 +125,6 @@
    "tipo": "Votações"
   },
   {
-   "hora": "15:30",
-   "sigla": "CPOVOS",
-   "nome": "Amazônia e dos Povos Originários e Tradicionais",
-   "tipo": "Reunião Técnica"
-  },
-  {
    "hora": "15:33",
    "sigla": "CICS",
    "nome": "Indústria, Comércio e Serviços",
@@ -153,6 +147,12 @@
    "sigla": "CICS",
    "nome": "Indústria, Comércio e Serviços",
    "tipo": "Votações"
+  },
+  {
+   "hora": "15:46",
+   "sigla": "CPOVOS",
+   "nome": "Amazônia e dos Povos Originários e Tradicionais",
+   "tipo": "Reunião Técnica"
   },
   {
    "hora": "15:49",

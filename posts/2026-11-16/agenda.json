@@ -156,7 +156,7 @@
      ]
     }
    ],
-   "n_camara_com": 54,
+   "n_camara_com": 53,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -201,7 +201,7 @@
    "camara_plen": [],
    "n_camara_com": 4,
    "senado_plen": [],
-   "n_senado_com": 0
+   "n_senado_com": 1
   },
   {
    "data": "2026-11-20",

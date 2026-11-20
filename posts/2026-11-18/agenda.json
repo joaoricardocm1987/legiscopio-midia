@@ -343,12 +343,6 @@
    "tipo": "Votações"
   },
   {
-   "hora": "15:30",
-   "sigla": "CMULHER",
-   "nome": "Defesa dos Direitos da Mulher",
-   "tipo": "Votações"
-  },
-  {
    "hora": "15:31",
    "sigla": "CMULHER",
    "nome": "Defesa dos Direitos da Mulher",
@@ -499,7 +493,7 @@
    "hora": "14:00",
    "sigla": "CRA",
    "nome": "Agricultura e Reforma Agrária",
-   "tipo": "Votações"
+   "tipo": "Votações (1 itens)"
   },
   {
    "hora": "14:00",
