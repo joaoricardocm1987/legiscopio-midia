@@ -1,0 +1,12 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Aprovado na Câmara", "titulo": "Transição de governo: prazo de 72 h e multa a quem atrapalhar", "destaque": "PL 396/2007", "subtitulo": "Câmara concluiu a votação em 18/11; agora o texto vai ao Senado."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Vale para o governo federal, entre a proclamação do resultado da eleição e a posse.", "Equipe paritária em até 72 h: um coordenador do governo que sai e outro do eleito.", "Acesso a instalações e a todas as informações administrativas, digitais ou não.", "Quem dificultar: sanções, multa e reparação de danos; pena maior em 1/3 em casos graves."], "nota": "Fonte: Câmara dos Deputados (PL 396/2007) e Gazeta do Povo"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se o Senado aprovar", "sim": ["Equipe de transição formada em até 72 h após o resultado", "Multa e reparação de danos para quem dificultar o acesso", "Pena maior para quem sonegar dados ou inutilizar sistemas"], "nao_rotulo": "Se não aprovar", "nao": ["Continua valendo a Lei 10.609, de 2002", "Sem as multas e o prazo de 72 h deste projeto", "Acesso a dados segue as regras atuais"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Paulo Modesto", "cargo": "Professor de Direito da UFBA, Instituto Brasileiro de Direito Público", "texto": "Defende regras nacionais permanentes para a transição, em vez de arranjos caso a caso, e diz que a lei de 2002 é ambígua e limitada.", "onde": "Consultor Jurídico, 07/11/2024"},
+    {"lado": "Ponto de atenção", "quem": "Rafael Mafei", "cargo": "Professor da Faculdade de Direito da USP", "texto": "Lembra que a lei atual já trata o acesso a dados como direito do eleito, exigível na Justiça, e que servidor que recusar pode responder a processo.", "onde": "Bloomberg Línea, 01/11/2022"}
+  ], "nota": "Posições resumidas pelo Legiscópio, sobre o tema da transição (não sobre este texto). Links na legenda."},
+  {"tipo": "final", "pergunta": "Regras claras para a transição: você acha importante? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados, Gazeta do Povo, A Crítica, Consultor Jurídico e Bloomberg Línea."}
+ ]
+}
