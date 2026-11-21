@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Vai à sanção", "titulo": "Férias na Copa Feminina: cada rede de ensino poderá decidir", "destaque": "PL 3.481/2026", "subtitulo": "Aprovado no Senado em 18/11; sanção ou veto até 10/12."},
+  {"tipo": "texto", "titulo": "Como é hoje", "itens": ["A Lei Geral da Copa Feminina (Lei 15.421/2026) obriga ajustar as férias de 2027 ao torneio.", "A Copa será de 24 de junho a 25 de julho de 2027, com jogos em 8 cidades-sede.", "A regra vale para escolas públicas e particulares da educação básica.", "O projeto torna o ajuste facultativo e mantém os 200 dias letivos da LDB."], "nota": "Fonte: Senado Federal (PL 3.481/2026) e imprensa"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se virar lei", "sim": ["Cada sistema de ensino decide se muda as férias", "Redes podem manter o calendário que já tinham", "Seguem valendo 200 dias letivos e 800 horas"], "nao_rotulo": "Se for vetado", "nao": ["Férias devem cobrir de 24/6 a 25/7 de 2027", "Vale para escolas públicas e particulares", "Calendários de 2027 seguem a regra da Copa"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Amábile Pacios", "cargo": "Presidente da Federação Nacional das Escolas Particulares (Fenep)", "texto": "Diz que uma pausa longa no meio do ano inviabiliza os 200 dias letivos e defende que o ajuste seja facultativo, decidido por cada escola.", "onde": "Gazeta do Povo, 07/07/2026"},
+    {"lado": "Quem defende", "quem": "João Batista Oliveira", "cargo": "Colunista do Congresso em Foco", "texto": "Avalia que a obrigação ignora a autonomia das redes e a LDB e passa custos a escolas e famílias; lembra o precedente da Copa de 2014.", "onde": "Congresso em Foco, 04/08/2026"},
+    {"lado": "Ponto de atenção", "quem": "Fernanda Misevicius", "cargo": "Advogada especialista em Direito Escolar", "texto": "Aponta conflito entre a regra da Copa e a exigência da LDB de 800 horas em 200 dias letivos; uma disputa judicial dependeria de qual lei prevalece.", "onde": "Gazeta do Povo, 07/07/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio, sobre a regra das férias na Copa. Links na legenda."},
+  {"tipo": "final", "pergunta": "Na sua cidade, as férias de julho devem acompanhar a Copa? Comenta SIM ou NÃO.", "fonte": "Fontes: Senado Federal, Bahia Notícias, Gazeta do Povo, Money Times e Congresso em Foco."}
+ ]
+}
