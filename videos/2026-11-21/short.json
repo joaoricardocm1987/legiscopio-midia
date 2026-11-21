@@ -1,0 +1,17 @@
+{
+ "selo": "SEMANA NO CONGRESSO",
+ "cenas": [
+  {"fala": "Três decisões desta semana mexem com a escola, com as contas públicas e com a Justiça. A primeira mexe com as férias de julho de 2027.", "visual": {"tipo": "numero", "titulo": "3 decisões da semana", "valor": "3", "rotulo": "Câmara e Senado · 17 a 19/11/2026"}},
+  {"fala": "Em primeiro, a Copa Feminina. O Senado aprovou deixar cada rede de ensino decidir se ajusta as férias ao torneio, de vinte e quatro de junho a vinte e cinco de julho.", "visual": {"tipo": "comparacao", "titulo": "1º · Férias na Copa", "antes": {"valor": "Obrigatório", "rotulo": "regra atual"}, "depois": {"valor": "Facultativo", "rotulo": "PL 3.481/2026 · à sanção"}}},
+  {"fala": "O que está em jogo: se o projeto virar lei, cada rede decide se muda as férias de 2027. Se for vetado, continua a obrigação de férias cobrindo toda a Copa. A decisão sai até dez de dezembro.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se virar lei: cada rede decide as férias", "Se for vetado: férias cobrem toda a Copa"]}},
+  {"fala": "Quem defende a mudança diz que os jogos serão em só oito cidades. Segundo o governo, a regra atual ajuda na mobilidade durante o torneio.", "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: jogos em 8 cidades e dias letivos. Regra atual: mobilidade, segundo o governo."}},
+  {"fala": "Em segundo, o ajuste fiscal. O Senado concluiu a votação por sessenta e nove a dois, com repasse mínimo de dois bilhões por ano da Lei Kandir. Agora a Câmara começa a discutir na segunda.", "visual": {"tipo": "numero", "titulo": "2º · Ajuste fiscal", "valor": "69 a 2", "rotulo": "PLP 299/2026 · Câmara discute em 23/11"}},
+  {"fala": "Em terceiro, a Justiça. Vítimas de crimes sexuais na infância vão ter vinte anos para pedir indenização, contados a partir dos dezoito anos, se o projeto for sancionado. Hoje, a regra geral é de três anos.", "visual": {"tipo": "comparacao", "titulo": "3º · Prazo para vítimas", "antes": {"valor": "3 anos", "rotulo": "regra geral do Código Civil"}, "depois": {"valor": "20 anos", "rotulo": "a partir dos 18 · à sanção"}}},
+  {"fala": "Na sua cidade, as férias de julho devem acompanhar a Copa? Comenta SIM ou NÃO. E pra acompanhar essas propostas, baixe o Legiscópio. O link está na legenda. O vídeo completo está no canal do Legiscópio no YouTube.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "As férias de julho devem acompanhar a Copa? Comenta SIM ou NÃO. Acompanhe no app: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Semana no Congresso: férias na Copa, ajuste fiscal e prazo de 20 anos #Shorts",
+  "descricao": "Resumo da semana de 17 a 19/11/2026: o Senado aprova férias escolares flexíveis na Copa Feminina de 2027 (PL 3.481/2026), conclui o ajuste fiscal por 69 a 2 e aprova prazo de 20 anos para vítimas de crimes sexuais na infância pedirem indenização.\nO que está em jogo: se virar lei, cada rede de ensino decide se muda as férias de 2027; se for vetado, segue a obrigação de férias cobrindo toda a Copa.\nVídeo completo no canal Legiscópio.\n\nFonte: Senado Federal — https://www25.senado.leg.br/web/atividade/materias/-/materia/175679\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Educação",
+  "tags": ["semana no Congresso", "férias Copa Feminina 2027", "ajuste fiscal", "PL 3.481/2026", "calendário escolar 2027", "shorts"]
+ }
+}
