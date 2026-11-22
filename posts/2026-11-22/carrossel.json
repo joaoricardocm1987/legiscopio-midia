@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Pauta do Senado", "titulo": "Estatuto do Aprendiz volta à pauta do Senado nesta terça", "destaque": "PL 6.461/2019", "subtitulo": "Item 1 do Plenário em 24/11; antes, o Senado vota a urgência."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Aprendiz de até 24 anos, com preferência de 14 a 18; sem limite de idade para pessoa com deficiência.", "Cota de 5% a 15% dos empregados; facultativa abaixo de 7 empregados e em micro e pequenas empresas.", "Contrato de até 2 anos (3 no curso técnico) e jornada de 8 h só para quem concluiu a educação básica.", "Multa de R$ 3 mil por aprendiz não contratado, por mês, por até 5 meses."], "nota": "Fonte: Agência Senado e Agência Câmara"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se o Senado aprovar", "sim": ["Sem mudanças, vai à sanção e vale 120 dias depois", "Salário do aprendiz fora da renda para programas sociais", "Multa de R$ 3 mil por vaga não preenchida, por mês"], "nao_rotulo": "Se não aprovar", "nao": ["Seguem as regras atuais da CLT (Lei 10.097/2000)", "Cota de 5% a 15% continua, sem as novas multas", "O projeto pode voltar à pauta em outra sessão"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Bob Machado", "cargo": "Presidente do SINAIT (Sindicato Nacional dos Auditores Fiscais do Trabalho)", "texto": "Pede que o Senado mantenha o texto da Câmara e rejeite emendas que, segundo ele, reduzem a base da cota e criam o \"aprendiz fictício\".", "onde": "SINAIT, 12/08/2026"},
+    {"lado": "Quem critica", "quem": "Brunno Contarato", "cargo": "Assessor de Relações Trabalhistas da CNT (Confederação Nacional do Transporte)", "texto": "Pede ajustes: tirar da base da cota funções que exigem CNH profissional, exame toxicológico ou licenças, que são 45% dos empregos do transporte, segundo ele.", "onde": "Fetransul, 17/07/2026"},
+    {"lado": "Ponto de atenção", "quem": "Helio Dias", "cargo": "Presidente do IVEPESP", "texto": "Propõe acordo: atividades incompatíveis não saem da base da cota; a empresa cumpre por outras vias, como ambientes simulados ou parcerias com entidades formadoras.", "onde": "IVEPESP, 16/08/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio. Links na legenda."},
+  {"tipo": "final", "pergunta": "Você já foi jovem aprendiz ou conhece alguém que foi? Comenta SIM ou NÃO.", "fonte": "Fontes: Senado Federal, Agência Senado, Agência Câmara, SINAIT, Fetransul e IVEPESP."}
+ ]
+}

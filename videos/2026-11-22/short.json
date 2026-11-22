@@ -1,0 +1,18 @@
+{
+ "selo": "ESTATUTO DO APRENDIZ",
+ "cenas": [
+  {"fala": "Sabe quando o jornal diz que um projeto saiu da pauta de novo? O Estatuto do Aprendiz é assim. Desde agosto, ele entrou cinco vezes na pauta do Senado e não foi votado.", "visual": {"tipo": "capa", "titulo": "Pautado 5 vezes", "subtitulo": "E volta ao Senado nesta terça"}},
+  {"fala": "Nesta terça, vinte e quatro, ele é o primeiro item da pauta. O projeto já passou na Câmara em abril e reúne as regras de quem trabalha e estuda como aprendiz.", "visual": {"tipo": "numero", "titulo": "Item 1 da pauta", "valor": "24/11", "rotulo": "Plenário do Senado vota o Estatuto do Aprendiz"}},
+  {"fala": "Se o Senado aprovar sem mudanças, vai à sanção, e a empresa que não contratar aprendiz paga três mil reais por vaga, por mês. Se não aprovar, seguem as regras atuais da CLT.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se o Senado aprovar: multa de R$ 3 mil/vaga", "Se não aprovar: seguem as regras da CLT"]}},
+  {"fala": "A cota continua de cinco a quinze por cento dos empregados. Mas negócios com menos de sete empregados, e micro e pequenas empresas, ficam livres para contratar ou não.", "visual": {"tipo": "numero", "titulo": "A cota", "valor": "5% a 15%", "rotulo": "dos empregados. Facultativa para negócios pequenos."}},
+  {"fala": "Outra mudança: o salário do aprendiz deixa de contar na renda da família para programas de transferência de renda.", "visual": {"tipo": "texto", "titulo": "Renda da família", "texto": "Salário do aprendiz fora do cálculo de renda dos programas sociais"}},
+  {"fala": "Os auditores fiscais do trabalho pedem o texto da Câmara, sem mudanças. Já o setor de transporte quer tirar da cota funções que exigem carteira profissional, como a de motorista.", "visual": {"tipo": "comparacao", "titulo": "Os dois lados", "antes": {"valor": "Sem mudanças", "rotulo": "Auditores fiscais do trabalho"}, "depois": {"valor": "Com ajustes", "rotulo": "Transporte: tirar funções da cota"}}},
+  {"fala": "Primeiro, o Senado vota o pedido de urgência. Se aprovar o texto como veio, ele vai à sanção. Se mudar, volta para a Câmara.", "visual": {"tipo": "etapas", "titulo": "Próximo passo", "itens": ["Urgência no Senado", "Votação do texto", "Sanção ou Câmara"], "atual": 0}},
+  {"fala": "Você já foi jovem aprendiz, ou conhece alguém que foi? Comenta SIM ou NÃO. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Já foi jovem aprendiz? SIM ou NÃO. Acompanhe: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Estatuto do Aprendiz: o que muda se o Senado aprovar nesta terça #Shorts",
+  "descricao": "O Estatuto do Aprendiz (PL 6.461/2019), já aprovado pela Câmara, é o item 1 da pauta do Senado em 24/11. Desde agosto, entrou cinco vezes na pauta sem ser votado.\nO que está em jogo: se o Senado aprovar sem mudanças, o texto vai à sanção, com multa de R$ 3 mil por aprendiz não contratado e salário do aprendiz fora do cálculo de renda para programas sociais; se não, seguem as regras atuais da CLT (Lei 10.097/2000).\nMais explicações no canal Legiscópio.\n\nFonte: Senado Federal — https://www25.senado.leg.br/web/atividade/materias/-/materia/174061\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Trabalho",
+  "tags": ["shorts", "Estatuto do Aprendiz", "jovem aprendiz", "PL 6.461/2019", "lei da aprendizagem", "Senado"]
+ }
+}
