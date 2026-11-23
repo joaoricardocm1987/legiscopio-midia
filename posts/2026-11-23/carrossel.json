@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Pauta da Câmara", "titulo": "Teto do MEI de R$ 81 mil para R$ 130 mil: comissão vota nesta terça", "destaque": "PLP 108/2021", "subtitulo": "Parecer na comissão especial em 24/11; depois, Plenário da Câmara."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Hoje, o MEI pode faturar até R$ 81 mil por ano e ter 1 empregado.", "O texto do Senado sobe o limite para R$ 130 mil por ano e permite até 2 empregados.", "Cada empregado recebe um salário mínimo ou o piso da categoria.", "A Câmara aprovou urgência em março; o relator também quer mudar as faixas do Simples."], "nota": "Fonte: Câmara dos Deputados e Receita Federal"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se aprovar", "sim": ["Teto do MEI sobe para R$ 130 mil por ano", "MEI pode contratar até 2 empregados", "Perda de R$ 2,1 bi/ano à União (nota preliminar da Receita)"], "nao_rotulo": "Se não aprovar", "nao": ["Teto segue em R$ 81 mil por ano (R$ 6.750 por mês)", "Continua o limite de 1 empregado", "Continua a regra atual da Lei Complementar 123/2006"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Rodrigo Soares", "cargo": "Presidente do Sebrae", "texto": "Pediu que o novo teto seja votado o quanto antes, com responsabilidade fiscal. \"Apoiados, os pequenos negócios só têm a contribuir\".", "onde": "Agência Sebrae, 01/07/2026"},
+    {"lado": "Quem critica", "quem": "Samuel Pessôa", "cargo": "Pesquisador do FGV Ibre", "texto": "Diz que a contribuição do MEI, de 5% do salário mínimo, não paga os benefícios; o debate deveria ser aumentar a contribuição ao INSS.", "onde": "Gazeta do Povo, 02/05/2026"},
+    {"lado": "Ponto de atenção", "quem": "Ricardo Volpe", "cargo": "Consultor de Orçamento da Câmara", "texto": "Estimou impacto de R$ 5,3 bi em 2026 com o novo teto do MEI e alertou para risco de pejotização. O estudo não expressa posição da Câmara.", "onde": "Estudo 27/2025, out/2025"}
+  ], "nota": "Posições resumidas pelo Legiscópio. Links na legenda."},
+  {"tipo": "final", "pergunta": "Você é MEI ou pensa em abrir um? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados, Receita Federal, Agência Sebrae, Gazeta do Povo e Consultoria de Orçamento da Câmara."}
+ ]
+}
