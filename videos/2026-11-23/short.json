@@ -1,0 +1,17 @@
+{
+ "selo": "TETO DO MEI",
+ "cenas": [
+  {"fala": "Sabe o limite do MEI? Hoje, quem é microempreendedor individual pode faturar no máximo oitenta e um mil reais por ano. Nesta terça, uma comissão da Câmara vota a proposta que muda esse número.", "visual": {"tipo": "capa", "titulo": "O teto do MEI pode mudar", "subtitulo": "Comissão da Câmara vota nesta terça (24)"}},
+  {"fala": "Pelo texto que já passou no Senado, o teto sobe para cento e trinta mil reais por ano. Por mês, sai de seis mil setecentos e cinquenta para cerca de dez mil e oitocentos reais.", "visual": {"tipo": "comparacao", "titulo": "Limite por ano", "antes": {"valor": "R$ 81 mil", "rotulo": "hoje (R$ 6.750/mês)"}, "depois": {"valor": "R$ 130 mil", "rotulo": "proposta (≈ R$ 10,8 mil/mês)"}}},
+  {"fala": "Se aprovar, o teto vai a cento e trinta mil reais e o MEI pode contratar até dois empregados. Se não aprovar, o teto segue em oitenta e um mil, com o limite de um empregado.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se aprovar: teto de R$ 130 mil e 2 empregados", "Se não aprovar: R$ 81 mil e 1 empregado"]}},
+  {"fala": "E tem um custo. Em nota preliminar, a Receita Federal estimou perda de cerca de dois bilhões e cem milhões de reais por ano para a União.", "visual": {"tipo": "numero", "titulo": "Custo estimado", "valor": "R$ 2,1 bi", "rotulo": "por ano para a União (Receita, nota preliminar)"}},
+  {"fala": "O Sebrae pede que o novo teto seja votado logo, para ajudar os pequenos negócios. Já um pesquisador do FGV Ibre diz que o MEI contribui pouco para o INSS, e que esse deveria ser o debate.", "visual": {"tipo": "comparacao", "titulo": "Os dois lados", "antes": {"valor": "Votar logo", "rotulo": "Sebrae"}, "depois": {"valor": "Rever a contribuição", "rotulo": "Pesquisador do FGV Ibre"}}},
+  {"fala": "O caminho é assim: primeiro a comissão especial vota o parecer do relator. Depois, o texto vai ao Plenário da Câmara. Se for alterado, volta ao Senado.", "visual": {"tipo": "etapas", "titulo": "Próximos passos", "itens": ["Comissão especial", "Plenário da Câmara", "Senado ou sanção"], "atual": 0}},
+  {"fala": "Você é MEI, ou pensa em abrir um? Comenta SIM ou NÃO. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "É MEI ou pensa em abrir um? SIM ou NÃO. Acompanhe: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Teto do MEI de R$ 81 mil para R$ 130 mil: o que muda se aprovar #Shorts",
+  "descricao": "O PLP 108/2021, já aprovado pelo Senado, eleva o limite de faturamento do MEI de R$ 81 mil para R$ 130 mil por ano. A comissão especial da Câmara vota o parecer nesta terça (24/11).\nO que está em jogo: se aprovar, o teto do MEI sobe para R$ 130 mil por ano e o MEI pode ter até 2 empregados; se não, o teto segue em R$ 81 mil e o limite de 1 empregado.\nMais explicações no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2295251\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #MEI",
+  "tags": ["shorts", "teto do MEI", "MEI 130 mil", "PLP 108/2021", "microempreendedor individual", "limite do MEI"]
+ }
+}
