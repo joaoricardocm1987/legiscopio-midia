@@ -1,0 +1,13 @@
+{
+ "slides": [
+  {"tipo": "capa", "rotulo": "Vai à sanção", "titulo": "Ajuste fiscal: Câmara aprova por 353 a 128 e texto vai à sanção", "destaque": "PLP 299/2026", "subtitulo": "Texto do Senado mantido; agora depende de sanção ou veto do presidente."},
+  {"tipo": "texto", "titulo": "O que diz o texto", "itens": ["Hoje, a despesa pode crescer até 2,5% por ano acima da inflação (arcabouço de 2023).", "A partir de 2027, em anos com bloqueio no Orçamento, esse teto cai para 2%.", "Reduz benefícios tributários e limita compensações de créditos de impostos.", "Permite tirar da meta de 2026 até R$ 10,5 bi gastos com a subvenção ao diesel."], "nota": "Fonte: Câmara dos Deputados"},
+  {"tipo": "jogo", "titulo": "O que está em jogo", "sim_rotulo": "Se virar lei", "sim": ["Despesa cresce até 2% acima da inflação em anos de bloqueio", "Melhora de R$ 45,1 bi a R$ 56,1 bi em 2027 (estimativa do governo)", "Até R$ 10,5 bi do diesel fora da meta de 2026"], "nao_rotulo": "Se for vetado", "nao": ["Segue a regra de 2023, com teto de 2,5% acima da inflação", "Benefícios tributários e compensações seguem as regras atuais", "Gasto com diesel continua contando na meta de 2026"]},
+  {"tipo": "visoes", "titulo": "O que dizem especialistas", "itens": [
+    {"lado": "Quem defende", "quem": "Benito Salomão", "cargo": "Professor de Economia da UFU", "texto": "Vê como positivo um ajuste moderado e dividido entre setores, com menor risco de recessão; duvida que baste para estabilizar a dívida.", "onde": "Correio Braziliense, 22/11/2026"},
+    {"lado": "Quem critica", "quem": "David Deccache e Fabiano Dalto", "cargo": "Economistas do IFFD", "texto": "Dizem que o texto amplia o poder de cortar gastos durante o ano e reduz recursos de políticas sociais, de estados e municípios e de pesquisa.", "onde": "Policy Note do IFFD, 18/11/2026"},
+    {"lado": "Ponto de atenção", "quem": "Assessoria Econômica da CDL POA", "cargo": "Câmara de Dirigentes Lojistas de Porto Alegre", "texto": "Avalia que o pacote entrega o que o arcabouço já previa e que o superávit previsto não estabiliza a dívida.", "onde": "CDL POA, 14/11/2026"}
+  ], "nota": "Posições resumidas pelo Legiscópio. Links na legenda."},
+  {"tipo": "final", "pergunta": "Você acompanha como o governo gasta o dinheiro público? Comenta SIM ou NÃO.", "fonte": "Fontes: Câmara dos Deputados, DIAP (parecer de Plenário), Correio Braziliense, IFFD e CDL POA."}
+ ]
+}
