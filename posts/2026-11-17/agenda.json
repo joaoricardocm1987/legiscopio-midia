@@ -179,127 +179,14 @@
    "tipo": "Votações"
   }
  ],
- "senado_plen": [
-  {
-   "hora": "14:00",
-   "tipo": "Sessão deliberativa ordinária",
-   "casa": "SF",
-   "itens": [
-    {
-     "id": "PLP 299/2026",
-     "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
-    },
-    {
-     "id": "MPV 1379/2026",
-     "ementa": "Altera a Lei nº 15.473, de 2026, para ampliar o limite de recursos destinados às linhas de financiamento e estabelecer regras para a sua aplicação (proveniente da Medida Provisória nº 1.379, de 2026)."
-    },
-    {
-     "id": "PL 6683/2025",
-     "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
-    },
-    {
-     "id": "PL 4035/2023",
-     "ementa": "Institui o mês de agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza."
-    }
-   ]
-  }
- ],
- "senado_com": [
-  {
-   "hora": "09:00",
-   "sigla": "CMA",
-   "nome": "Meio Ambiente",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "09:20",
-   "sigla": "CRE",
-   "nome": "Relações Exteriores e Defesa Nacional",
-   "tipo": "Votações (3 itens)"
-  },
-  {
-   "hora": "09:30",
-   "sigla": "CDR",
-   "nome": "Desenvolvimento Regional e Turismo",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "09:45",
-   "sigla": "CAE",
-   "nome": "Assuntos Econômicos",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CDR",
-   "nome": "Desenvolvimento Regional e Turismo",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CAE",
-   "nome": "Assuntos Econômicos",
-   "tipo": "Audiência pública"
-  },
-  {
-   "hora": "10:30",
-   "sigla": "CCAI",
-   "nome": "Mista de Controle das Atividades de Inteligência",
-   "tipo": "Reunião"
-  },
-  {
-   "hora": "10:30",
-   "sigla": "CDR",
-   "nome": "Desenvolvimento Regional e Turismo",
-   "tipo": "Votações (9 itens)"
-  },
-  {
-   "hora": "11:00",
-   "sigla": "CI",
-   "nome": "Serviços de Infraestrutura",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "11:00",
-   "sigla": "CSP",
-   "nome": "Segurança Pública",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "11:01",
-   "sigla": "CI",
-   "nome": "Serviços de Infraestrutura",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CE",
-   "nome": "Educação e Cultura",
-   "tipo": "Audiência pública"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CDH",
-   "nome": "Direitos Humanos e Legislação Participativa",
-   "tipo": "Audiência pública"
-  },
-  {
-   "hora": "14:30",
-   "sigla": "CMMPV 1393/2026",
-   "nome": "Mista da Medida Provisória n° 1393, de 2026",
-   "tipo": "Reunião"
-  }
- ],
+ "senado_plen": [],
+ "senado_com": [],
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
   "agenda_3.png",
   "agenda_4.png",
-  "agenda_5.png",
-  "agenda_6.png",
-  "agenda_7.png",
-  "agenda_8.png",
-  "agenda_9.png"
+  "agenda_5.png"
  ],
  "semana_arquivos": []
 }

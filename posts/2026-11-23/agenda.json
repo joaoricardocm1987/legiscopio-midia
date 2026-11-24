@@ -92,14 +92,7 @@
   }
  ],
  "senado_plen": [],
- "senado_com": [
-  {
-   "hora": "10:00",
-   "sigla": "CAS",
-   "nome": "Assuntos Sociais",
-   "tipo": "Audiência pública"
-  }
- ],
+ "senado_com": [],
  "semana": [
   {
    "data": "2026-11-23",
@@ -170,7 +163,7 @@
    ],
    "n_camara_com": 4,
    "senado_plen": [],
-   "n_senado_com": 1
+   "n_senado_com": 0
   },
   {
    "data": "2026-11-24",
@@ -236,66 +229,22 @@
     }
    ],
    "n_camara_com": 20,
-   "senado_plen": [
-    {
-     "hora": "14:00",
-     "tipo": "Sessão deliberativa ordinária",
-     "casa": "SF",
-     "itens": [
-      {
-       "id": "PL 6461/2019",
-       "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
-      },
-      {
-       "id": "PL 5894/2025",
-       "ementa": "Institui o Plano Nacional de Cultura (PNC) para o decênio 2026-2036; e altera a Lei nº 14.399, de 8 de julho de 2022."
-      },
-      {
-       "id": "PL 1134/2025",
-       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre os padrões de segurança e de saúde dos motoristas profissionais em relação aos veículos por eles conduzidos."
-      },
-      {
-       "id": "PL 4921/2026",
-       "ementa": "Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 18ª Região, sem aumento de despesas."
-      }
-     ]
-    }
-   ],
-   "n_senado_com": 5
+   "senado_plen": [],
+   "n_senado_com": 0
   },
   {
    "data": "2026-11-25",
    "camara_plen": [],
-   "n_camara_com": 28,
-   "senado_plen": [
-    {
-     "hora": "14:00",
-     "tipo": "Sessão deliberativa ordinária",
-     "casa": "SF",
-     "itens": [
-      {
-       "id": "PL 351/2019",
-       "ementa": "Institui a Força Nacional do Sistema Único de Saúde (FN-SUS)."
-      },
-      {
-       "id": "PL 5807/2025",
-       "ementa": "Altera o Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), para tipificar o crime de posse de artefatos e embalagens para falsificação de produtos alimentícios, bebidas ou suplementos alimentares, incluir bebidas e suplementos alimentares no tipo penal previsto no art. 272 e estabelecer qualificadora para o resultado morte ou lesão corporal grave ou gravíssima nesse crime; altera a Lei nº 8.072, de 25 de julho de 1990 (Lei dos Crimes Hediondos), para incluir entre os crimes hediondos o crime de falsificação, corrupção, adulteração ou alteração de substâncias, produtos alimentícios, bebidas ou suplementos alimentares na sua forma qualificada; e altera as Leis nºs 8.176, de 8 de fevereiro de 1991, 12.305, de 2 de agosto de 2010, e 9.478, de 6 de agosto de 1997."
-      },
-      {
-       "id": "PL 1257/2021",
-       "ementa": "Altera a Lei nº 10.741, de 1º de outubro de 2003 (Estatuto da Pessoa Idosa), para assegurar o acesso a tecnologias direcionadas à preservação da saúde mental e cognitiva da pessoa idosa."
-      }
-     ]
-    }
-   ],
-   "n_senado_com": 8
+   "n_camara_com": 30,
+   "senado_plen": [],
+   "n_senado_com": 0
   },
   {
    "data": "2026-11-26",
    "camara_plen": [],
    "n_camara_com": 8,
    "senado_plen": [],
-   "n_senado_com": 2
+   "n_senado_com": 0
   },
   {
    "data": "2026-11-27",
@@ -308,8 +257,7 @@
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
-  "agenda_3.png",
-  "agenda_4.png"
+  "agenda_3.png"
  ],
  "semana_arquivos": [
   "semana_1.png",

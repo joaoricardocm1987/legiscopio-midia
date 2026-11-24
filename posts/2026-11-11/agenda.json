@@ -285,109 +285,14 @@
    "tipo": "Audiência Pública: Cartão de identificação do usuário SUS (PL 5875/13) - Parte 2 REQ nº 196/2026 CSAUDE, da Dep. Adriana Ventura (NOVO/SP). Convidados confirmados: - Raquel Rachid (participação remota) Representante da Estratégia Latino-Americana de Inteligência Artificial (ELA-IA); - Luiz Vianna (participação remota) Representante do Centro Brasileiro de Estudos de Saúde (CEBES); - Felipe Ferré (participação presencial) Representante do Conselho Nacional de Secretários de Saúde (CONASS); - Michael Luiz Diana (participação remota) Representante do Conselho Nacional de Secretarias Municipais de Saúde (CONASEMS); - Francisco Balestrin (participação remota) Presidente do Sindicato dos Hospitais, Clínicas, Laboratórios e Estabelecimentos de Saúde do Estado de São Paulo (SINDHOSP); - Carlos Pedrotti (participação remota) Representante da Saúde Digital Brasil; - Maria Aparecida Cina da Silva (participação presencial) Secretária de Informação e Saúde Digital do Ministério da Saúde - Ana Estela Haddad (participação presencial) Secretária de Informação e Saúde Digital do Ministério da Saúde de 2023 a agosto de 2026"
   }
  ],
- "senado_plen": [
-  {
-   "hora": "14:00",
-   "tipo": "Sessão deliberativa ordinária",
-   "casa": "SF",
-   "itens": [
-    {
-     "id": "PLP 230/2025",
-     "ementa": "Altera a Lei Complementar nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal), para vedar a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust), e a Lei nº 9.998, de 17 de agosto de 2000, para os fins que especifica."
-    },
-    {
-     "id": "MPV 1376/2026",
-     "ementa": "Autoriza a criação de linhas de crédito para composição de dívidas para liquidação ou amortização de operações de crédito rural e de Cédulas de Produto Rural e autoriza a participação da União em fundo garantidor destinado à cobertura de operações de crédito rural contratadas por produtores rurais afetados por eventos climáticos adversos (proveniente da Medida Provisória nº 1.376, de 2026)."
-    },
-    {
-     "id": "PL 6461/2019",
-     "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
-    },
-    {
-     "id": "PL 6683/2025",
-     "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
-    }
-   ]
-  }
- ],
- "senado_com": [
-  {
-   "hora": "09:00",
-   "sigla": "CCJ",
-   "nome": "Constituição, Justiça e Cidadania",
-   "tipo": "Votações (18 itens)"
-  },
-  {
-   "hora": "09:00",
-   "sigla": "CAS",
-   "nome": "Assuntos Sociais",
-   "tipo": "Votações (13 itens)"
-  },
-  {
-   "hora": "10:00",
-   "sigla": "CCT",
-   "nome": "Ciência, Tecnologia, Inovação e Informática",
-   "tipo": "Votações (61 itens)"
-  },
-  {
-   "hora": "11:00",
-   "sigla": "CSP",
-   "nome": "Segurança Pública",
-   "tipo": "Votações (3 itens)"
-  },
-  {
-   "hora": "11:00",
-   "sigla": "CE",
-   "nome": "Educação e Cultura",
-   "tipo": "Votações (11 itens)"
-  },
-  {
-   "hora": "11:00",
-   "sigla": "CDH",
-   "nome": "Direitos Humanos e Legislação Participativa",
-   "tipo": "Votações (17 itens)"
-  },
-  {
-   "hora": "11:30",
-   "sigla": "CESPNE",
-   "nome": "Subcomissão Permanente do Plano Nacional de Educação",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "11:30",
-   "sigla": "CAS",
-   "nome": "Assuntos Sociais",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CE",
-   "nome": "Educação e Cultura",
-   "tipo": "Audiência pública"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CRA",
-   "nome": "Agricultura e Reforma Agrária",
-   "tipo": "Votações (8 itens)"
-  },
-  {
-   "hora": "14:30",
-   "sigla": "CMCVM",
-   "nome": "Mista de Combate à Violência contra a Mulher",
-   "tipo": "Votações (2 itens)"
-  }
- ],
+ "senado_plen": [],
+ "senado_com": [],
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
   "agenda_3.png",
   "agenda_4.png",
-  "agenda_5.png",
-  "agenda_6.png",
-  "agenda_7.png",
-  "agenda_8.png",
-  "agenda_9.png"
+  "agenda_5.png"
  ],
  "semana_arquivos": []
 }

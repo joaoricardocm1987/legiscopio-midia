@@ -137,73 +137,13 @@
    "tipo": "Votações"
   }
  ],
- "senado_plen": [
-  {
-   "hora": "14:00",
-   "tipo": "Sessão deliberativa ordinária",
-   "casa": "SF",
-   "itens": [
-    {
-     "id": "PLP 109/2025",
-     "ementa": "Dispõe sobre o acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor, nos termos do § 1º do art. 145 da Constituição Federal."
-    },
-    {
-     "id": "PL 5608/2023",
-     "ementa": "Dispõe sobre as condições de trabalho de mulheres com diagnóstico, em tratamento ou em período de espera de remissão de câncer de mama e institui o Programa Empresa Rosa e o Selo Rosa."
-    },
-    {
-     "id": "PDL 934/2025",
-     "ementa": "Aprova o texto do Acordo Regional sobre Acesso à Informação, Participação Pública e Acesso à Justiça em Assuntos Ambientais na América Latina e no Caribe (Acordo de Escazú), assinado em Nova York, em 27 de setembro de 2018."
-    }
-   ]
-  }
- ],
- "senado_com": [
-  {
-   "hora": "09:00",
-   "sigla": "CI",
-   "nome": "Serviços de Infraestrutura",
-   "tipo": "Votações (20 itens)"
-  },
-  {
-   "hora": "11:00",
-   "sigla": "CE",
-   "nome": "Educação e Cultura",
-   "tipo": "Votações (11 itens)"
-  },
-  {
-   "hora": "11:30",
-   "sigla": "CESPNE",
-   "nome": "Subcomissão Permanente do Plano Nacional de Educação",
-   "tipo": "Extraordinária"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CCJ",
-   "nome": "Constituição, Justiça e Cidadania",
-   "tipo": "Audiência pública"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CMMPV 1376/2026",
-   "nome": "Mista da Medida Provisória n° 1376, de 2026",
-   "tipo": "Votações (1 itens)"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CCT",
-   "nome": "Ciência, Tecnologia, Inovação e Informática",
-   "tipo": "Audiência pública"
-  }
- ],
+ "senado_plen": [],
+ "senado_com": [],
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
   "agenda_3.png",
-  "agenda_4.png",
-  "agenda_5.png",
-  "agenda_6.png",
-  "agenda_7.png"
+  "agenda_4.png"
  ],
  "semana_arquivos": []
 }
