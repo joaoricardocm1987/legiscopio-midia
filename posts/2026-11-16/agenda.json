@@ -10,14 +10,21 @@
   }
  ],
  "senado_plen": [],
- "senado_com": [],
+ "senado_com": [
+  {
+   "hora": "10:00",
+   "sigla": "CDHYANOM",
+   "nome": "Subcomissão Permanente dos povos  indígenas Yanomami",
+   "tipo": "Audiência pública"
+  }
+ ],
  "semana": [
   {
    "data": "2026-11-16",
    "camara_plen": [],
    "n_camara_com": 1,
    "senado_plen": [],
-   "n_senado_com": 0
+   "n_senado_com": 1
   },
   {
    "data": "2026-11-17",
@@ -79,8 +86,32 @@
     }
    ],
    "n_camara_com": 20,
-   "senado_plen": [],
-   "n_senado_com": 0
+   "senado_plen": [
+    {
+     "hora": "14:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PLP 299/2026",
+       "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
+      },
+      {
+       "id": "MPV 1379/2026",
+       "ementa": "Altera a Lei nº 15.473, de 2026, para ampliar o limite de recursos destinados às linhas de financiamento e estabelecer regras para a sua aplicação (proveniente da Medida Provisória nº 1.379, de 2026)."
+      },
+      {
+       "id": "PL 6683/2025",
+       "ementa": "Dispõe sobre os requisitos essenciais relativos aos implantes cirúrgicos; e estabelece a notificação compulsória das falhas detectadas em implantes."
+      },
+      {
+       "id": "PL 4035/2023",
+       "ementa": "Institui o mês de agosto como o Mês Nacional de Combate à Desigualdade Social e de Enfrentamento à Pobreza."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 14
   },
   {
    "data": "2026-11-18",
@@ -126,15 +157,51 @@
     }
    ],
    "n_camara_com": 53,
-   "senado_plen": [],
-   "n_senado_com": 0
+   "senado_plen": [
+    {
+     "hora": "14:00",
+     "tipo": "Sessão deliberativa ordinária",
+     "casa": "SF",
+     "itens": [
+      {
+       "id": "PL 3481/2026",
+       "ementa": "Altera o art. 67 da Lei nº 15.421, de 2026, para dispor sobre o ajuste dos calendários escolares em razão da realização da Copa do Mundo Feminina da FIFA 2027, observadas as normas gerais de organização da educação básica."
+      },
+      {
+       "id": "PLP 299/2026",
+       "ementa": "Altera a Lei Complementar nº 200, de 30 de agosto de 2023, para conferir ao Poder Executivo federal novos instrumentos de gestão com vistas a garantir a estabilidade macroeconômica do País e criar as condições adequadas ao crescimento socioeconômico; e dá outras providências."
+      },
+      {
+       "id": "PL 6461/2019",
+       "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+      },
+      {
+       "id": "PL 5756/2026",
+       "ementa": "Altera o §3º do art. 2º da Lei nº 14.172, de 10 de junho de 2021, para ampliar o prazo para aplicação e eventual restituição dos recursos entregue pela União aos Estados e ao Distrito Federal voltados para a garantia do acesso à internet, com fins educacionais, aos estabelecimentos de ensino, aos alunos e aos professores da rede pública de ensino dos Estados, do Distrito Federal e dos Municípios, em virtude da calamidade pública decorrente da Covid-19."
+      },
+      {
+       "id": "PL 4186/2021",
+       "ementa": "Altera o art. 206 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), para fixar em 20 (vinte) anos o prazo prescricional da pretensão de reparação civil das vítimas de crimes contra a dignidade sexual de crianças e adolescentes."
+      },
+      {
+       "id": "PL 6222/2025",
+       "ementa": "Institui a Mobilização Nacional dos 21 Dias de Ativismo pelo Fim da Violência e do Racismo contra as Mulheres."
+      },
+      {
+       "id": "PL 3220/2019 (Substitutivo-CD)",
+       "ementa": "Dispõe sobre o compartilhamento de infraestrutura física aérea de titularidade de prestadoras de serviços de distribuição de energia elétrica com prestadoras de serviços de telecomunicações; e altera as Leis nºs 9.427, de 26 de dezembro de 1996, 9.472, de 16 de julho de 1997, e 14.947, de 2 de agosto de 2024."
+      }
+     ]
+    }
+   ],
+   "n_senado_com": 20
   },
   {
    "data": "2026-11-19",
    "camara_plen": [],
    "n_camara_com": 4,
    "senado_plen": [],
-   "n_senado_com": 0
+   "n_senado_com": 1
   },
   {
    "data": "2026-11-20",
@@ -146,7 +213,8 @@
  ],
  "arquivos": [
   "agenda_1.png",
-  "agenda_2.png"
+  "agenda_2.png",
+  "agenda_3.png"
  ],
  "semana_arquivos": [
   "semana_1.png",

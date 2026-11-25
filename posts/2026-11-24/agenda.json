@@ -3,7 +3,7 @@
  "camara_plen": [
   {
    "id_evento": 85464,
-   "hora": "13:55",
+   "hora": "14:16",
    "tipo": "Sessão Deliberativa",
    "itens": [
     {
@@ -11,8 +11,8 @@
      "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
     },
     {
-     "id": "PL 7103/2014",
-     "ementa": "Modifica a Lei nº 12.288,de 20 de julho de 2010 (Estatuto da Igualdade Racial), para incluir o quesito cor ou raça nos prontuários, registros e cadastramentos do Sistema de Informação em Saúde do Sistema Único de Saúde (SUS)."
+     "id": "PPP 1/0",
+     "ementa": "Parecer proferido em Plenário pela Relatora Dep. Talíria Petrone (PSOL/RJ) pela: • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei n.º 7.103, de 2014, e do Substitutivo da Comissão de Seguridade Social e Família."
     },
     {
      "id": "PL 294/2015",
@@ -21,14 +21,6 @@
     {
      "id": "PL 479/2015",
      "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação - LDB), para dispor sobre educação em tempo integral."
-    },
-    {
-     "id": "PL 2819/2020",
-     "ementa": "Dispõe sobre medidas de garantia da equidade na atenção integral à saúde da população negra em casos de epidemias ou pandemias, surtos provocados por doenças contagiosas ou durante a decretação de Estado de Calamidade Pública."
-    },
-    {
-     "id": "PL 1969/2022",
-     "ementa": "Reconhece a responsabilidade do Estado pelo desaparecimento forçado das 11 vítimas de Acari e estabelece Medidas de Reparação e Não-Repetição para vítimas e familiares da Chacina de Acari."
     },
     {
      "id": "PL 2559/2022",
@@ -69,75 +61,57 @@
    "tipo": "Reunião Técnica"
   },
   {
-   "hora": "09:00",
+   "hora": "09:23",
    "sigla": "CSAUDE",
    "nome": "Saúde",
    "tipo": "Audiência Pública: Roubos e furtos de \"canetas emagrecedoras\" REQ 78/2026 CSAUDE e REQ 104/2026, ambos do dep. Giovani Cherini (PL/RS), para debater as consequências dos furtos e roubos de medicamentos injetáveis à base de GLP-1, conhecidos como \"canetas emagrecedoras\". Convidados confirmados: - Cíntia Paula Carneiro Gomes (participação presencial) Médica Endocrinologista e Metabologista; - Marcela Pitaluga (participação remota) Diretora do Advocacy da Associação Brasileira para o Estudo Da Síndrome Metabólica (ABESO); - Adriana Nunes Gomes (participação presencial) Diretora de Relações Institucionais da Associação Brasileira das Redes de Farmácias e Drogarias (ABRAFARMA); - Rafael Oliveira Espinhel (participação presencial) Presidente Executivo da Associação Brasileira do Comércio Farmacêutico (ABCFARMA); - Renato Porto (participação presencial) Presidente-Executivo da Associação da Industria Farmacêutica de Pesquisa (INTERFARMA); - Renato Benine (participação presencial) Diretor de Relaçõe Institucionais do Sindicato da Indústria de Produtos Farmacêuticos (SINDUSFARMA); - Nara Pereira Carvalho Coordenadora Geral de Estudos e Monitoramento de Mercado da Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública - Rodrigo Martins Bretas (participação remota) Assessor da Gerência-Geral da Agência Nacional de Vigilância Sanitária (ANVISA); - Eidy de Brito Farias (participação remota) Coordenadora no Departamento de Assistência Farmacêutica e Insumos Estratégicos do Ministério da Saúde. Não poderá participar: - Rubens Harry Born Presidente do Presidente do Instituto Brasileiro da Defesa do Consumidor (IDEC);"
   },
   {
-   "hora": "10:00",
+   "hora": "10:02",
    "sigla": "CESPO",
    "nome": "Esporte",
    "tipo": "Homenagem"
   },
   {
-   "hora": "10:00",
+   "hora": "10:26",
    "sigla": "CDHMIR",
    "nome": "Direitos Humanos, Minorias e Igualdade Racial",
    "tipo": "Audiência Pública: Participação das mulheres na previdência complementar Requerimento n. 90/2026 Autora: Dep. Erika Kokay Convidados: - ABRAPP - Devanir Silva - Diretor-Presidente - Ministério da Previdência- Paulo Roberto dos Santos - Secretário de Regime Próprio e Complementar - Ministério da Previdência- Márcia Paim - coordenadora-geral de Normatização e Políticas de Previdência Complementar - Ministério da Previdência- Edilmara Barbosa - Coordenadora -geral de Estudos Técnicos e Análise Conjuntura - Previc - Ricardo Pena - CENTRUS - Carolina de Assis - Diretora-Presidente - PRVINDUS - Sistema Firjan - Luciana Sá - FUNCEF - Rosagela de Souza e Silva Wanzeller, Gerente de tecnologia da informação- GETEC - Marlene de Fátima Ribeiro da Silva, Coordenadora Jurídica da Funcef"
   },
   {
-   "hora": "10:00",
-   "sigla": "CMO",
-   "nome": "Comissão Mista de Orçamento",
-   "tipo": "Audiência Pública: Orçamento público na perspectiva de gênero e raça"
-  },
-  {
-   "hora": "10:00",
+   "hora": "10:31",
    "sigla": "CME",
    "nome": "Minas e Energia",
    "tipo": "Audiência Pública: Formulação de combustíveis no Brasil: adequação das normas industriais, garantia da segurança do consumidor e preservação do ambiente concorrencial. (REQ 35/2026 CME, do deputado General Pazuello) Participantes: 1. Marcus Vinicius Quintanilha Werner, Superintendente de Produção de Combustíveis da Agência Nacional de Petróleo (ANP); (CONFIRMADO) 2. Alexandre Vaz Castro, Presidente do Conselho Regional de Química (CRQ) da 21ª Região: Espírito Santo; (CONFIRMADO) 3. Márcio André Martins, Presidente da Associação Brasileira de Engenharia Química (ABEQ); 4. Vinícius Marchese Marinelli, Presidente do Conselho Federal de Engenharia e Agronomia (CONFEA); 5. Gabriele Olivi Gonzaga Lins de Araújo, Assessora Institucional da Federação Nacional das Distribuidoras de Combustíveis, Gás Natural e Biocombustíveis (BRASILCOM); (CONFIRMADA) 6. Mauricio Delbons Oliveira, Presidente da Vertex Formuladora de Combustíveis; 7. Carlos Faccio, Diretor Executivo do Instituto do Combustível Legal (ICL); (CONFIRMADO) 8. Ticiana Álvares, Diretora Técnica do Instituto de Estudos Estratégicos de Petróleo, Gás e Biocombustíveis (INEEP); (CONFIRMADA) 9. Cibele Vieira, coordenadora-geral da Federação Única dos Petroleiros (FUP). (CONFIRMADA)"
   },
   {
+   "hora": "10:35",
+   "sigla": "CMO",
+   "nome": "Comissão Mista de Orçamento",
+   "tipo": "Audiência Pública: Orçamento público na perspectiva de gênero e raça"
+  },
+  {
    "hora": "11:00",
+   "sigla": "EVENTOS",
+   "nome": "Outros Eventos",
+   "tipo": "Reunião Técnica"
+  },
+  {
+   "hora": "11:19",
    "sigla": "CMADS",
    "nome": "Meio Ambiente e Desenvolvimento Sustentável",
    "tipo": "Outro Evento"
   },
   {
-   "hora": "14:00",
-   "sigla": "PL308020",
-   "nome": "Autismo",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
+   "hora": "14:03",
    "sigla": "CFT",
    "nome": "Finanças e Tributação",
    "tipo": "Audiência Pública: Alíquota-base da Contribuição sobre Bens e Serviços (CBS) Convidados: 1) Ministério da Fazenda - MF 2) Bruno Martinello Lima, Secretário de Controle Externo da SecexContas do Tribunal de Contas da União - TCU (Confirmado) 3) Mario Sergio Carraro Telles, Diretor de Desenvolvimento Industrial da Confederação Nacional da Indústria - CNI (Confirmado) 4) Renato Conchon, Coordenador do Núcleo Econômico da Confederação da Agricultura e Pecuária do Brasil - CNA (Confirmado) 5) Gilberto Alvarenga, Consultor Tributário da Confederação Nacional do Comércio de Bens, Serviços e Turismo - CNC (Confirmado) (REQ 58/2026 CFT, do deputado Hildo Rocha)"
   },
   {
-   "hora": "14:00",
-   "sigla": "CEXEXPLO",
-   "nome": "Violência Sexual Infantojuvenil",
-   "tipo": "Audiência Pública: o diagnóstico nacional das denúncias do disque 100 e da notificação de violência sexual contra crianças e adolescentes do sinan Audiência Pública Tema: Debater o panorama nacional das denúncias de violência sexual contra crianças e adolescentes registradas pelo Disque 100 e das notificações realizadas no Sistema de Informação de Agravos de Notificação (Sinan). Convidados: Janine Mello dos Santos - Ministra de Estado dos Direitos Humanos e da Cidadania (a confirmar) Fabio Meirelles Hardman de Castro - Secretário Nacional dos Direitos da Criança e do Adolescente do Ministério dos Direitos Humanos e da Cidadania (a confirmar) Franciely Loyze Cunha Ribeiro de Almeida - Coordenadora-Geral do Disque Direitos Humanos do Ministério dos Direitos Humanos e da Cidadania (Disque 100) (a confirmar) Fabiano Geraldo Pimenta Junior - Secretaria de Vigilância em Saúde e Ambiente (SVSA) do Ministério da Saúde (a confirmar) Camila Monteiro Flores - Advogada do Instituto Isabela (confirmada) Luciana Mendes Santos Servo - Presidente do Instituto de Pesquisa Econômica Aplicada - IPEA (a confirmar) Camila Alves Bahia - Pesquisadora e Especialista em Saúde Coletiva - ENSP/FIOCRUZ (confirmada) (Requerimento nº 27/2026, do Dep. Fernando Rodolfo)"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CPOVOS",
-   "nome": "Amazônia e dos Povos Originários e Tradicionais",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
+   "hora": "14:23",
    "sigla": "CSPCCO",
    "nome": "Segurança Pública e Combate ao Crime Organizado",
-   "tipo": "Votações"
-  },
-  {
-   "hora": "14:00",
-   "sigla": "CEXMABRU",
-   "nome": "Rompimentos de Barragens",
    "tipo": "Votações"
   },
   {
@@ -147,50 +121,135 @@
    "tipo": "Mesa Redonda: 4º Fórum Legislativo do Esporte - Mesa-Redonda: Futuro do Esporte O esporte está entrando em uma nova era? Pergunta central: Como a inteligência artificial e as novas tecnologias estão transformando o mundo - e o que essa transformação significa para o esporte no Brasil? Convidados: - Sr. Marco La Porta, presidente do Comitê Olímpico do Brasil (COB); - Sr. Yohansson Nascimento, vice-presidente do Comitê Paralímpico Brasileiro (CPB); - Sr. Rafael Silva (Baby), vice-presidente da Comissão de Atletas do Comitê Olímpico do Brasil (COB) e medalhista olímpico do judô; - Sr. João Gustavo Claudino, professor da UNICAMP; - Sr. Roberto Xavier Lopes, especialista em Inovação pela Singularity University; - Sr. Daniel Cajueiro, professor da Universidade de Brasília."
   },
   {
-   "hora": "14:30",
+   "hora": "14:36",
+   "sigla": "CPOVOS",
+   "nome": "Amazônia e dos Povos Originários e Tradicionais",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "14:44",
+   "sigla": "PEC03215",
+   "nome": "Maioridade Penal",
+   "tipo": "Audiência Pública: Redução da maioridade penal Convidados: FELIPE CURI, Delegado de Polícia Civil do RJ, eleito Deputado Federal em 2026 (REQ 48/2026) - (Confirmado); CAMILA DORIA FERREIRA, Defensora Pública do ES, membro suplente da Comissão de Promoção dos Direitos da Criança e do Adolescente do Conselho Nacional das Defensoras e Defensores Públicos-Gerais - CONDEGE (REQ 57/2026) (Confirmada). (REQ 48/2026, do Deputado Paulo Bilynskyj) (REQ 57/2026, da Deputada Juliana Cardoso)"
+  },
+  {
+   "hora": "14:46",
    "sigla": "CREDN",
    "nome": "Relações Exteriores e de Defesa Nacional",
    "tipo": "Audiência Pública: Regulamentação do recebimento de recursos estrangeiros pelas organizações da sociedade civil (OSCs), objeto do PL 1659/24 Em atendimento ao Requerimento nº 84/2026 - CREDN, de autoria do Deputado Alencar Santana (PT/SP). Convidados: - Aldo Rebelo, ex-presidente da Câmara dos Deputados e ex-ministro de Estado (*); - Representante do Conselho Nacional de Fomento e Colaboração - CONFOCO; - Representante da Rede Comuá; - Representante do Grupo de Institutos, Fundações e Empresas - GIFE; - Comandante Carlos Antonio Raposo de Vasconcellos, Chefe da Divisão de Assuntos Políticos e Professor da Escola Superior de Guerra - ESG (*); e - Representante do Instituto Pensar Agropecuária - IPA. (*) participação confirmada"
   },
   {
-   "hora": "14:30",
+   "hora": "14:51",
+   "sigla": "CEXEXPLO",
+   "nome": "Violência Sexual Infantojuvenil",
+   "tipo": "Audiência Pública: o diagnóstico nacional das denúncias do disque 100 e da notificação de violência sexual contra crianças e adolescentes do sinan Audiência Pública Tema: Debater o panorama nacional das denúncias de violência sexual contra crianças e adolescentes registradas pelo Disque 100 e das notificações realizadas no Sistema de Informação de Agravos de Notificação (Sinan). Convidados: Célia Carvalho Nahas, Coordenadora-Geral de Enfrentamento às Violências do Ministério dos Direitos Humanos e da Cidadania (confirmada) Franciely Loyze Cunha Ribeiro de Almeida - Coordenadora-Geral do Disque Direitos Humanos do Ministério dos Direitos Humanos e da Cidadania (Disque 100) (confirmada) Naíza Nayla Bandeira de Sá - Coordenadora-Geral de Vigilância e Prevenção de Violências e Acidentes e Promoção da Cultura de Paz do Ministério da Saúde (confirmada) Camila Monteiro Flores - Advogada do Instituto Isabel (confirmada) Camila Alves Bahia - Pesquisadora e Especialista em Saúde Coletiva - ENSP/FIOCRUZ (confirmada) (Requerimento nº 27/2026, do Dep. Fernando Rodolfo)"
+  },
+  {
+   "hora": "15:10",
+   "sigla": "CEXMABRU",
+   "nome": "Rompimentos de Barragens",
+   "tipo": "Votações"
+  },
+  {
+   "hora": "15:17",
    "sigla": "CCJC",
    "nome": "Constituição e Justiça e de Cidadania",
    "tipo": "Votações"
   },
   {
-   "hora": "14:30",
-   "sigla": "PEC03215",
-   "nome": "Maioridade Penal",
-   "tipo": "Audiência Pública: Redução da maioridade penal Convidados: FELIPE CURI, Delegado Polícia Civil do RJ, eleito Deputado Federal em 2026 (REQ 48/2026) - (Confirmado); SARA SACRAMENTO, Assistente de Advocacy do Iniciativa Negra (REQ 57/2026) - (Confirmada); CAMILA DORIA FERREIRA, Defensora Pública do ES, membro suplente da Comissão de Promoção dos Direitos da Criança e do Adolescente do Conselho Nacional das Defensoras e Defensores Públicos-Gerais - CONDEGE (REQ 57/2026) (Confirmada). (REQ 48/2026, do Deputado Paulo Bilynskyj) (REQ 57/2026, da Deputada Juliana Cardoso)"
+   "hora": "15:33",
+   "sigla": "PL308020",
+   "nome": "Autismo",
+   "tipo": "Votações"
   },
   {
-   "hora": "15:30",
+   "hora": "15:43",
    "sigla": "SUBPL657",
    "nome": "Dispensa de Diagnóstico Clínico na Educação Especial",
-   "tipo": "Audiência Pública: Mediador, professor de apoio escolar e contraturno 1) (a Confirmar) - Representante do Ministério da Educação (MEC); 2) MARIANA AGNESE COSTA E ROSA (Participação confirmada) - Vice-Presidente da Câmara de Educação Básica do Conselho Nacional de Educação (CNE); 3) LEIDIMAR CRUZ (Participação confirmada) - Neurocientista educacional, analista do comportamento, neuropsicopedagoga, autista e mãe atípica, com atuação em inclusão escolar; 4) LUIZ FERNANDO ZUIN (Participação confirmada) - Coordenador Nacional de Educação e Ação Pedagógica da Associação de Pais e Amigos dos Excepcionais (Apae Brasil). (REQ n° 69/2026 CE, da deputada Soraya Santos)"
+   "tipo": "Audiência Pública: Mediador, professor de apoio escolar e contraturno 1) OLGA CRISTINA ROCHA DE FREITAS (Participação confirmada) - Coordenadora-Geral de Estruturação do Sistema Educacional Inclusivo do Ministério da Educação (MEC); 2) MARIANA AGNESE COSTA E ROSA (Participação confirmada) - Vice-Presidente da Câmara de Educação Básica do Conselho Nacional de Educação (CNE); 3) LEIDIMAR CRUZ (Participação confirmada) - Neurocientista educacional, analista do comportamento, neuropsicopedagoga, autista e mãe atípica, com atuação em inclusão escolar; 4) LUIZ FERNANDO ZUIN (Participação confirmada) - Coordenador Nacional de Educação e Ação Pedagógica da Associação de Pais e Amigos dos Excepcionais (Apae Brasil). (REQ n° 69/2026 CE, da deputada Soraya Santos)"
   },
   {
-   "hora": "15:30",
+   "hora": "15:57",
    "sigla": "CPOVOS",
    "nome": "Amazônia e dos Povos Originários e Tradicionais",
-   "tipo": "Audiência Pública: Criação da Comissão Nacional Indígena da Verdade e as políticas de memória, verdade, reparação integral, justiça e não repetição para os Povos Indígenas REQ nº 86/2026, de autoria da Deputada Sonia Guajajara Convidados: Secretaria-Geral da Presidência da República HAMILTON PEREIRA DA SILVA - presença confirmada Chefe da Assessoria Especial de defesa da democracia, memória e verdade do Ministério dos Direitos Humanos e da Cidadania (MDH) Ministério dos Povos Indígenas (MPI) LÚCIA ALBERTA ANDRADE BARÉ - presença confirmada Presidenta da Fundação Nacional dos Povos Indígenas (FUNAI) DINAMAN TUXÁ Articulação dos Povos Indígenas do Brasil (APIB) EDMUNDO ANTONIO DIAS - presença confirmada Procurador da República em Minas Gerais - Ministério Público Federal (MPF) RUBENS VALENTE Fórum Memória, Verdade, Reparação Integral, Não Repetição e Justiça para os Povos Indígenas (Fórum JTPI) Conselho Nacional de Direitos Humanos VINÍCIUS DE LARA RIBAS Comissão de Anistia - MDH ELAINE MOREIRA - presença confirmada Observatório dos Direitos Indígenas da Universidade de Brasília (OBIND-UnB) DANIELA NOGUEIRA GREEB - presença confirmada Diretora-Geral do Instituto de Políticas Relacionais (IPR) DEBORAH DUPRAT - presença confirmada Advogada e Jurista ELA WIECKO - presença confirmada Professora da Universidade de Brasília (UnB)"
+   "tipo": "Audiência Pública: Criação da Comissão Nacional Indígena da Verdade e as políticas de memória, verdade, reparação integral, justiça e não repetição para os Povos Indígenas REQ nº 86/2026, de autoria da Deputada Sonia Guajajara Convidados: MARIA AUGUSTA TORRES - presença confirmada Coordenadora-Geral das Mesas de Diálogo da Secretaria-Geral da Presidência da República HAMILTON PEREIRA DA SILVA - presença confirmada Chefe da Assessoria Especial de defesa da democracia, memória e verdade do Ministério dos Direitos Humanos e da Cidadania (MDHC) EDSON YAGO DA SILVA BRITO - presença confirmada Coordenador de Promoção à Memória Ancestral e Justiça de Transição Indígena do Ministério dos Povos Indígenas (MPI) RAFAEL DE LIMA OLIVEIRA - presença confirmada Analista Técnico de Políticas Sociais do Ministério dos Povos Indígenas (MPI) LÚCIA ALBERTA ANDRADE BARÉ - presença confirmada Presidenta da Fundação Nacional dos Povos Indígenas (FUNAI) DINAMAN TUXÁ Articulação dos Povos Indígenas do Brasil (APIB) EDMUNDO ANTONIO DIAS - presença confirmada Procurador da República em Minas Gerais - Ministério Público Federal (MPF) RUBENS VALENTE Fórum Memória, Verdade, Reparação Integral, Não Repetição e Justiça para os Povos Indígenas (Fórum JTPI) VINÍCIUS DE LARA RIBAS Comissão de Anistia do Ministério dos Direitos Humanos e Cidadania (MDHC) ELAINE MOREIRA - presença confirmada Observatório dos Direitos Indígenas da Universidade de Brasília (OBIND-UnB) DANIELA NOGUEIRA GREEB - presença confirmada Diretora-Geral do Instituto de Políticas Relacionais (IPR) DEBORAH DUPRAT - presença confirmada Advogada e Jurista ELA WIECKO - presença confirmada Professora da Universidade de Brasília (UnB) Conselho Nacional de Direitos Humanos (CNDH)"
   },
   {
-   "hora": "15:30",
-   "sigla": "PLP10821",
-   "nome": "Novo Enquadramento MEI",
+   "hora": "18:54",
+   "sigla": "TESTECOM",
+   "nome": "TESTE COMISSÃO",
    "tipo": "Votações"
   }
  ],
- "senado_plen": [],
- "senado_com": [],
+ "senado_plen": [
+  {
+   "hora": "14:00",
+   "tipo": "Sessão deliberativa ordinária",
+   "casa": "SF",
+   "itens": [
+    {
+     "id": "PL 6461/2019",
+     "ementa": "Institui o Estatuto do Aprendiz; e altera a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943 (CLT), e as Leis nºs 6.019, de 3 de janeiro de 1974, e 14.601, de 19 de junho de 2023."
+    },
+    {
+     "id": "PL 5809/2025",
+     "ementa": "Altera a Lei nº 9.605, de 12 de fevereiro de 1998 (Lei dos Crimes Ambientais), para tipificar o crime de tráfico de animais silvestres e aumentar penas de crimes nela previstos."
+    },
+    {
+     "id": "PL 5894/2025",
+     "ementa": "Institui o Plano Nacional de Cultura (PNC) para o decênio 2026-2036; e altera a Lei nº 14.399, de 8 de julho de 2022."
+    },
+    {
+     "id": "PL 1134/2025",
+     "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), para dispor sobre os padrões de segurança e de saúde dos motoristas profissionais em relação aos veículos por eles conduzidos."
+    },
+    {
+     "id": "PL 4921/2026",
+     "ementa": "Dispõe sobre a transformação de cargos vagos no quadro permanente do Tribunal Regional do Trabalho da 18ª Região, sem aumento de despesas."
+    }
+   ]
+  }
+ ],
+ "senado_com": [
+  {
+   "hora": "09:00",
+   "sigla": "CMA",
+   "nome": "Meio Ambiente",
+   "tipo": "Votações (15 itens)"
+  },
+  {
+   "hora": "09:30",
+   "sigla": "CDR",
+   "nome": "Desenvolvimento Regional e Turismo",
+   "tipo": "Votações (8 itens)"
+  },
+  {
+   "hora": "10:00",
+   "sigla": "CAE",
+   "nome": "Assuntos Econômicos",
+   "tipo": "Votações (7 itens)"
+  },
+  {
+   "hora": "11:00",
+   "sigla": "CSP",
+   "nome": "Segurança Pública",
+   "tipo": "Extraordinária"
+  },
+  {
+   "hora": "14:00",
+   "sigla": "CE",
+   "nome": "Educação e Cultura",
+   "tipo": "Audiência pública"
+  }
+ ],
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
   "agenda_3.png",
   "agenda_4.png",
-  "agenda_5.png"
+  "agenda_5.png",
+  "agenda_6.png",
+  "agenda_7.png"
  ],
  "semana_arquivos": []
 }

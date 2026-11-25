@@ -70,11 +70,19 @@
   }
  ],
  "senado_plen": [],
- "senado_com": [],
+ "senado_com": [
+  {
+   "hora": "14:00",
+   "sigla": "CMMPV 1379/2026",
+   "nome": "Mista da Medida Provisória n° 1379, de 2026",
+   "tipo": "Votações (1 itens)"
+  }
+ ],
  "arquivos": [
   "agenda_1.png",
   "agenda_2.png",
-  "agenda_3.png"
+  "agenda_3.png",
+  "agenda_4.png"
  ],
  "semana_arquivos": []
 }

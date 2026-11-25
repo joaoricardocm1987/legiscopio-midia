@@ -28,10 +28,18 @@
   }
  ],
  "senado_plen": [],
- "senado_com": [],
+ "senado_com": [
+  {
+   "hora": "10:00",
+   "sigla": "CDH",
+   "nome": "Direitos Humanos e Legislação Participativa",
+   "tipo": "Outros eventos"
+  }
+ ],
  "arquivos": [
   "agenda_1.png",
-  "agenda_2.png"
+  "agenda_2.png",
+  "agenda_3.png"
  ],
  "semana_arquivos": []
 }
