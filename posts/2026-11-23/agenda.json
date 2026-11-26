@@ -264,7 +264,7 @@
    "camara_plen": [
     {
      "id_evento": 85492,
-     "hora": "13:55",
+     "hora": "14:21",
      "tipo": "Sessão Deliberativa",
      "itens": [
       {
@@ -276,28 +276,16 @@
        "ementa": "Altera as Leis nos 8.212 e 8.213, ambas de 24 de julho de 1991, que dispõem sobre os Planos de Custeio e de Benefícios da Previdência Social, para incluir o ministro de confissão religiosa de matriz africana como segurado individual."
       },
       {
-       "id": "PL 479/2015",
-       "ementa": "Altera a Lei nº 9.394, de 20 de dezembro de 1996 (Lei de Diretrizes e Bases da Educação - LDB), para dispor sobre educação em tempo integral."
-      },
-      {
-       "id": "PL 2559/2022",
-       "ementa": "Altera dispositivos do Decreto-Lei nº 3.689, de 3 de outubro de 1941 – Código de Processo Penal e da Lei nº 9.099, de 26 de setembro de 1995 – Lei dos Juizados Especiais, relativos ao cabimento de instrumentos despenalizantes."
+       "id": "PPP 1/0",
+       "ementa": "Parecer proferido em Plenário pelo Relator Dep. Thiago de Joaldo (REPUBLIC/SE) pela: • Comissão de Finanças e Tributação, que conclui pela compatibilidade e adequação financeira e orçamentária; e, no mérito, pela aprovação do Projeto de Lei nº 479, de 2015, e dos projetos a ele apensados, bem como do Substitutivo da Comissão de Educação, na forma do Substitutivo adotado. • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa do Projeto de Lei nº 479, de 2015, e dos projetos a ele apensados, bem como do Substitutivo da Comissão de Educação e do Substitutivo adotado pelo relator da Comissão de Finanças e Tributação."
       },
       {
        "id": "PL 3944/2023",
        "ementa": "Altera a Lei nº 12.288, de 20 de julho de 2010, para reconhecer os impactos desproporcionais da crise climática na saúde da população negra, especialmente sobre mulheres e outras pessoas em áreas mais afetadas."
       },
       {
-       "id": "PL 4887/2023",
-       "ementa": "Cria o Protocolo de Acolhimento  e Atendimento às vítimas de discriminação racial e condutas análogas nos estabelecimentos de ensino do país, altera as Leis nº 13.431, de 4 de abril de 2017, e nº 8.069, de 13 de julho de 1990, e dá outras providências."
-      },
-      {
        "id": "PL 3965/2024",
        "ementa": "Institui o feriado escolar e o dia nacional dos professores, professoras e profissionais de educação"
-      },
-      {
-       "id": "PL 5542/2026",
-       "ementa": "Altera a Lei nº 11.340, de 7 de agosto de 2006 – Lei Maria da Penha, a fim de estabelecer garantias mínimas para a execução da monitoração eletrônica como medida protetiva de urgência, inclusive quanto à emissão de alertas sonoros e luminosos, à utilização excepcional de mecanismo de contenção física remota e à proteção da vítima."
       },
       {
        "id": "PDL 235/2025",
@@ -310,7 +298,7 @@
      ]
     }
    ],
-   "n_camara_com": 41,
+   "n_camara_com": 42,
    "senado_plen": [
     {
      "hora": "14:00",
@@ -336,10 +324,42 @@
   },
   {
    "data": "2026-11-26",
-   "camara_plen": [],
+   "camara_plen": [
+    {
+     "id_evento": 85534,
+     "hora": "10:00",
+     "tipo": "Sessão Deliberativa",
+     "itens": [
+      {
+       "id": "PL 724/2003",
+       "ementa": "Altera a Lei nº 9.503, de 23 de setembro de 1997, que \"Institui o Código de Trânsito Brasileiro\", para dispor sobre circulação de veículos de tração e crimes de trânsito."
+      },
+      {
+       "id": "PL 294/2015",
+       "ementa": "Altera as Leis nos 8.212 e 8.213, ambas de 24 de julho de 1991, que dispõem sobre os Planos de Custeio e de Benefícios da Previdência Social, para incluir o ministro de confissão religiosa de matriz africana como segurado individual."
+      },
+      {
+       "id": "PL 3944/2023",
+       "ementa": "Altera a Lei nº 12.288, de 20 de julho de 2010, para reconhecer os impactos desproporcionais da crise climática na saúde da população negra, especialmente sobre mulheres e outras pessoas em áreas mais afetadas."
+      },
+      {
+       "id": "PL 3965/2024",
+       "ementa": "Institui o feriado escolar e o dia nacional dos professores, professoras e profissionais de educação"
+      },
+      {
+       "id": "PDL 235/2025",
+       "ementa": "Aprova o texto do Tratado entre a República Federativa do Brasil e a República Cooperativa da Guiana sobre Cooperação Jurídica Internacional em Matéria Civil, assinado em Georgetown, em 6 de maio de 2022."
+      },
+      {
+       "id": "PDL 366/2025",
+       "ementa": "Aprova o texto do Tratado entre a República Federativa do Brasil e a República Cooperativa da Guiana sobre Auxílio Jurídico Mútuo em Matéria Penal, assinado em Georgetown, em 6 de maio de 2022."
+      }
+     ]
+    }
+   ],
    "n_camara_com": 9,
    "senado_plen": [],
-   "n_senado_com": 3
+   "n_senado_com": 5
   },
   {
    "data": "2026-11-27",
