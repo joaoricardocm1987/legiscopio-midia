@@ -327,7 +327,7 @@
    "camara_plen": [
     {
      "id_evento": 85534,
-     "hora": "10:00",
+     "hora": "11:08",
      "tipo": "Sessão Deliberativa",
      "itens": [
       {
@@ -351,13 +351,13 @@
        "ementa": "Aprova o texto do Tratado entre a República Federativa do Brasil e a República Cooperativa da Guiana sobre Cooperação Jurídica Internacional em Matéria Civil, assinado em Georgetown, em 6 de maio de 2022."
       },
       {
-       "id": "PDL 366/2025",
-       "ementa": "Aprova o texto do Tratado entre a República Federativa do Brasil e a República Cooperativa da Guiana sobre Auxílio Jurídico Mútuo em Matéria Penal, assinado em Georgetown, em 6 de maio de 2022."
+       "id": "PEP 1/0",
+       "ementa": "Leitura realizada em Plenário pelo Dep. Dr. Francisco (PT/PI) do parecer do Relator pela: • Comissão de Constituição e Justiça e de Cidadania, que conclui pela constitucionalidade, juridicidade e boa técnica legislativa da Emenda de Plenário nº 1; e, no mérito, pela sua aprovação, na forma da Subemenda Substitutiva adotada."
       }
      ]
     }
    ],
-   "n_camara_com": 9,
+   "n_camara_com": 8,
    "senado_plen": [],
    "n_senado_com": 5
   },
