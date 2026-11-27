@@ -1,0 +1,18 @@
+{
+ "selo": "LEI SECA MAIS DURA",
+ "cenas": [
+  {"fala": "Muita gente acha que o motorista bêbado que mata no trânsito sempre sai preso na hora. Não é bem assim. E o Senado deu um passo para mudar isso.", "visual": {"tipo": "capa", "titulo": "Bebeu, matou: vai preso?", "subtitulo": "O que a CCJ do Senado aprovou"}},
+  {"fala": "Hoje, o Código de Trânsito diz: quem presta socorro à vítima não é preso em flagrante nem paga fiança. A pena por matar sob efeito de álcool é de cinco a oito anos.", "visual": {"tipo": "numero", "titulo": "Como é hoje", "valor": "5 a 8 anos", "rotulo": "de reclusão. Quem socorre não é preso em flagrante."}},
+  {"fala": "O que está em jogo é isto. Se a Câmara aprovar, quem causar acidente fará teste de álcool e drogas, e quem matar sob efeito vai preso sem fiança. Se não, fica a regra atual.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se a Câmara aprovar: teste e prisão sem fiança", "Se não aprovar: socorro evita o flagrante"]}},
+  {"fala": "Recusar o bafômetro já dá multa e suspensão da carteira por doze meses. O projeto torna obrigatórios os testes de álcool e o toxicológico, para drogas.", "visual": {"tipo": "comparacao", "titulo": "O teste", "antes": {"valor": "Recusa", "rotulo": "multa e 12 meses sem dirigir"}, "depois": {"valor": "Obrigatório", "rotulo": "álcool e drogas"}}},
+  {"fala": "Segundo o governo federal, o Brasil teve trinta e sete mil, cento e cinquenta mortes no trânsito em dois mil e vinte e quatro.", "visual": {"tipo": "numero", "titulo": "Mortes em 2024", "valor": "37.150", "rotulo": "no trânsito, segundo o governo federal"}},
+  {"fala": "Quem defende diz que o projeto fecha uma brecha após acidentes graves. Críticos na comissão dizem que o teste vale até em blitz, sem acidente. E advogados citam o direito de não produzir prova contra si.", "visual": {"tipo": "lista", "titulo": "Os dois lados", "itens": ["A favor: fecha brecha após mortes", "Contra: vale até em blitz sem acidente", "Advogados: direito de não se incriminar"]}},
+  {"fala": "A decisão da comissão é terminativa. Se não houver recurso ao Plenário do Senado até dois de dezembro, o texto vai direto para a Câmara dos Deputados.", "visual": {"tipo": "etapas", "titulo": "Próximo passo", "itens": ["CCJ do Senado", "Recurso até 02/12", "Câmara"], "atual": 1}},
+  {"fala": "Você já passou por uma blitz da Lei Seca? Comenta SIM ou NÃO. E pra acompanhar essa proposta, baixe o Legiscópio. O link está na legenda.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "Já passou por uma blitz da Lei Seca? Comenta SIM ou NÃO. App: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Lei Seca mais dura: CCJ do Senado aprova teste obrigatório #Shorts",
+  "descricao": "A CCJ do Senado aprovou em 25/11 o PL 1.229/2024: motorista que causar acidente terá de fazer teste de álcool e drogas, e quem matar sob efeito será preso em flagrante, sem fiança.\nO que está em jogo: se a Câmara aprovar, os testes viram obrigação e acaba a fiança nesses casos; se não, continua a regra atual, em que quem presta socorro à vítima não é preso em flagrante.\nMais explicações no canal Legiscópio.\n\nFonte: Senado Federal — https://www12.senado.leg.br/noticias/materias/2026/11/25/motorista-que-causar-acidente-tera-de-fazer-teste-de-embriaguez-aprova-ccj\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Trânsito",
+  "tags": ["shorts", "lei seca", "bafômetro obrigatório", "PL 1229/2024", "motorista embriagado", "fiança"]
+ }
+}
