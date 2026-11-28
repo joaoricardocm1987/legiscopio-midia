@@ -1,0 +1,18 @@
+{
+ "selo": "SEMANA NO CONGRESSO",
+ "cenas": [
+  {"fala": "Três decisões desta semana mexem com a escola, com as contas públicas e com a saúde.", "visual": {"tipo": "numero", "titulo": "3 decisões da semana", "valor": "3", "rotulo": "Câmara e Senado · 23 a 27/11/2026"}},
+  {"fala": "Em primeiro, a escola em tempo integral. A Câmara aprovou que ela precisa ter pelo menos sete horas por dia, ou trinta e cinco por semana.", "visual": {"tipo": "numero", "titulo": "1º · Escola integral", "valor": "7 h/dia", "rotulo": "ou 35 h/semana · PL 479/2015 · vai ao Senado"}},
+  {"fala": "O que está em jogo: se o Senado aprovar, as sete horas viram regra nacional, com proteção ao ensino noturno e às escolas do campo. Se não aprovar, o critério segue só no programa federal de 2023.", "visual": {"tipo": "lista", "titulo": "O que está em jogo", "itens": ["Se o Senado aprovar: 7 h viram regra nacional", "Se não aprovar: 7 h só no programa federal"]}},
+  {"fala": "Institutos de educação citam notas maiores no Enem no integral. Uma avaliação no Senado alerta que mais horas não bastam sem qualidade e verba.", "visual": {"tipo": "texto", "titulo": "Os dois lados", "texto": "A favor: notas maiores no Enem, dizem institutos. Alerta: sem qualidade e verba, mais horas não bastam."}},
+  {"fala": "Em segundo, o ajuste fiscal. A Câmara aprovou por trezentos e cinquenta e três a cento e vinte e oito, sem mudar o texto do Senado. Agora vai à sanção.", "visual": {"tipo": "numero", "titulo": "2º · Ajuste fiscal", "valor": "353 a 128", "rotulo": "PLP 299/2026 · vai à sanção"}},
+  {"fala": "A partir de 2027, nos anos de bloqueio no Orçamento, a despesa só poderá crescer até dois por cento acima da inflação. Hoje, o limite é de dois e meio.", "visual": {"tipo": "comparacao", "titulo": "Limite da despesa", "antes": {"valor": "2,5%", "rotulo": "regra atual"}, "depois": {"valor": "2%", "rotulo": "anos de bloqueio · 2027"}}},
+  {"fala": "Em terceiro, a saúde. O Senado aprovou lei própria para a Força Nacional do SUS, que hoje funciona por decreto. Foram mais de cento e setenta missões.", "visual": {"tipo": "numero", "titulo": "3º · Força Nacional do SUS", "valor": "170 missões", "rotulo": "desde 2011 · PL 351/2019 · à sanção"}},
+  {"fala": "A escola perto de você já é em tempo integral? Comenta SIM ou NÃO. E pra acompanhar essas propostas, baixe o Legiscópio. O link está na legenda. O vídeo completo está no canal do Legiscópio no YouTube.", "visual": {"tipo": "texto", "titulo": "Comenta aí", "texto": "A escola perto de você já é integral? Comenta SIM ou NÃO. Acompanhe no app: www.legiscopio.com.br/baixar"}}
+ ],
+ "youtube": {
+  "titulo": "Semana no Congresso: escola integral, ajuste fiscal e SUS #Shorts",
+  "descricao": "Resumo da semana de 23 a 27/11/2026: a Câmara aprova o marco da educação em tempo integral (PL 479/2015), com mínimo de 7 horas por dia, e o ajuste fiscal por 353 a 128, que vai à sanção. O Senado aprova lei própria para a Força Nacional do SUS.\nO que está em jogo: se o Senado aprovar, as 7 horas viram regra nacional para a escola integral; se não, o critério segue só no programa federal de 2023.\nVídeo completo no canal Legiscópio.\n\nFonte: Câmara dos Deputados — https://www.camara.leg.br/noticias/1322878-camara-aprova-marco-regulatorio-da-educacao-em-tempo-integral\nBaixe o app do Legiscópio (Android e iOS): www.legiscopio.com.br/baixar\nApoie o Legiscópio: https://apoia.se/legiscopio\n#Legiscópio #Política #Brasil #Educação",
+  "tags": ["semana no Congresso", "escola em tempo integral", "ajuste fiscal", "PL 479/2015", "Força Nacional do SUS", "shorts"]
+ }
+}
